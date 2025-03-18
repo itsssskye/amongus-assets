@@ -1,0 +1,49 @@
+{
+	"m_BuildGUID": {
+		"m_Data_0_": 4238182773,
+		"m_Data_1_": 927602265,
+		"m_Data_2_": 2853737656,
+		"m_Data_3_": 2865012690
+	},
+	"m_BuildTags": [
+		
+	],
+	"m_EnabledVRDevices": [
+		
+	],
+	"m_EnableDynamicBatching": true,
+	"m_GraphicsAPIs": [
+		16
+	],
+	"m_HasAdvancedVersion": true,
+	"m_HasClusterRendering": false,
+	"m_HasLocalLightShadows": true,
+	"m_HasPROVersion": true,
+	"m_HasPublishingRights": false,
+	"m_HasShadows": true,
+	"m_HasSoftShadows": true,
+	"m_HideFlags": 0,
+	"m_IsDebugBuild": false,
+	"m_IsEducationalBuild": false,
+	"m_IsEmbedded": false,
+	"m_IsNoWatermarkBuild": true,
+	"m_IsPrototypingBuild": false,
+	"m_IsTrial": false,
+	"m_PreloadedPlugins": [
+		
+	],
+	"m_Scenes": [
+		"Assets/PlayEveryWare/EarlyInitialization.unity",
+		"Assets/PlayEveryWare/SplashIntro.unity",
+		"Assets/MainMenu.unity",
+		"Assets/MatchMaking.unity",
+		"Assets/OnlineGame.unity",
+		"Assets/Tutorial.unity",
+		"Assets/EndGame/EndGame.unity",
+		"Assets/HowToPlay.unity",
+		"Assets/MMOnline.unity",
+		"Assets/FindAGame.unity"
+	],
+	"m_UsesOnMouseEvents": false,
+	"m_Version": "2020.3.45f1"
+}

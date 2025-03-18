@@ -1,0 +1,2706 @@
+KEY ID	Filipino
+LocalButton	Lokal
+OnlineButton	Online
+HowToPlayButton	Unsaon Pagdula
+FreePlayButton	Praktis
+PublicHeader	Pampubliko
+PrivateHeader	Pribado
+HostHeader	Host
+ExitButton	Mobiya
+BackButton	Balik
+AvailableGamesLabel	Mga Available nga Dula
+CreateGameButton	Paghimo og Dula
+FindGameButton	Pangita og Dula
+EnterCode	Ibutang ang Code
+GhostIgnoreTasks	Patay na ka. I-enjoy ang kagubot.
+GhostDoTasks	Patay na ka. Humna ang imong mga task aron modaog.
+TotalTasksCompleted	Kinatibuk-ang mga task nga nakumpleto
+GhostImpostor	Patay na ka. Mahimo gihapon kang magsabotahe.
+ImpostorTask	Pagsabotahe ug patya ang tanan.
+FakeTasks	Mga Peke nga Task:
+TaskComplete	Nakumpleto na ang Task!
+ExileTextSP	Si {0} ang Impostor.
+ExileTextSN	Dili si {0} ang Impostor.
+ExileTextPP	Impostor si {0}.
+ExileTextPN	Dili Impostor si {0}.
+NoExileSkip	Walay na-eject. (Milaktaw)
+NoExileTie	Walay na-eject. (Tie)
+ExileTextNonConfirm	Na-eject si {0}.
+ImpostorsRemainS	{0} ka Impostor na lamang ang nahibilin.
+ImpostorsRemainP	{0} ka Impostor na lamang ang nahibilin.
+Hallway	Hallway
+Engines	Mga Engine
+UpperEngine	Ibabaw nga Engine
+Cafeteria	Cafeteria
+Weapons	Mga Armas
+Reactor	Reactor
+Security	Seguridad
+MedBay	MedBay
+LifeSupp	O2
+Nav	Nabigasyon
+LowerEngine	Ubos nga Engine
+Electrical	Elektrikal
+Admin	Admin
+Storage	Storage
+Shields	Mga Shield
+Comms	Komunikasyon
+Decontamination	Decontamination
+Launchpad	Launchpad
+LockerRoom	Locker Room
+Laboratory	Laboratoryo
+Balcony	Balkonahe
+Office	Opisina
+Greenhouse	Greenhouse
+DivertPowerTo	I-divert ang Power sa {0}
+DivertPower	I-divert ang Power
+AcceptDivertedPower	Dawata ang Na-divert nga Power
+SubmitScan	Isumite ang Pag-scan
+PrimeShields	I-prime ang Mga Shield
+FuelEngines	Butangi og Fuel ang Mga Engine
+ChartCourse	I-chart ang Course
+StartReactor	Paganaha ang Reactor
+SwipeCard	I-swipe ang Kard
+ClearAsteroids	I-clear ang Mga Asteroid
+DownloadData	I-download ang Data
+UploadData	I-upload ang Data
+InspectSample	Susiha ang Sampol
+EmptyChute	Tangtanga ang Sulod sa Chute
+EmptyGarbage	Tangtanga ang Sulod sa Basurahan
+AlignEngineOutput	I-align ang Engine Output
+FixWiring	Ayoha ang Wiring
+FixWiringName	Wiring
+DoorsName	Mga Pultahan
+CalibrateDistributor	I-calibrate ang Distributor
+UnlockManifolds	I-unlock ang Mga Manifold
+ResetReactor	Molanay ang Reactor sa
+ResetReactorName	Paglanay sa Reactor
+FixLights	Ayoha ang Mga Suga
+FixLightsName	Mga Suga
+CleanO2Filter	Limpiyohi ang O2 Filter
+FixComms	Gisabotahe nga Comms
+RestoreOxy	Mahurot na ang Oxygen sa
+RestoreOxyName	Nahurot nga Oxygen
+StabilizeSteering	I-stabilize ang Steering
+AssembleArtifact	I-assemble ang Artifact
+SortSamples	Ihan-ay ang Mga Sampol
+MeasureWeather	Sukda ang Panahon
+EnterIdCode	Ibutang ang Id Code
+BuyBeverage	Pagpalit og Mainom
+ProcessData	Iproseso ang Data
+NumImpostorsS	Adunay <color=#FF1919FF>1 ka Impostor</color> kanato
+NumImpostorsP	Adunay <color=#FF1919FF>{0} ka Impostor</color> kanato
+Crewmate	Crewmate
+Impostor	Impostor
+Victory	Kadaogan
+Defeat	Kapildihan
+CrewmatesDisconnected	Nadiskonekta ang\nKadaghanan sa Mga Crewmate
+ImpostorDisconnected	Nadiskonekta ang Impostor
+PickAnomaly	Pagpili og Anomalya
+WaterPlantsGetCan	Pagkuha og Watering Can!
+AuthOfficeOkay	OK ang Opisina
+AuthCommsOkay	OK ang Comms
+AuthOfficeActive	AKTIBO ang Opisina
+AuthCommsActive	AKTIBO ang Comms
+AuthOfficeNotActive	DILI AKTIBO ang Opisina
+AuthCommsNotActive	DILI AKTIBO ang Comms
+SecLogEntry	Miagi si {0} sa sensor sa {1}
+SecLogEntryColorblind	{0} ({1}) miagi sa {2} sensor
+LogNorth	North
+LogSouthEast	Southeast
+LogSouthWest	Southwest
+EnterName	Ibutang ang Ngalan
+SwipeCardPleaseInsert	Palihug ibutang ang kard
+SwipeCardPleaseSwipe	Palihug i-swipe ang kard
+SwipeCardBadRead	Wala nabasa. Sulayi pag-usab.
+SwipeCardTooFast	Paspas kaayo. Sulayi pag-usab.
+SwipeCardTooSlow	Hinay kaayo. Sulayi pag-usab.
+SwipeCardAccepted	Nadawat na. Salamat.
+ReactorHoldToStop	I-hold ipaundang meltdown
+ReactorWaiting	Naghulat sa ikaduhang user
+ReactorNominal	Nominal ang Reactor
+MeetingWhoIsTitle	Kinsa ang Impostor?
+MeetingVotingBegins	Magsugod ang Pagboto sa: {0}s
+MeetingVotingEnds	Matapos ang Pagboto sa: {0}s
+MeetingVotingResults	Mga Resulta sa Pagboto
+MeetingProceeds	Magpadayon sa: {0}s
+MeetingHasVoted	Miboto na si {0}. {1} na lamang ang nahibilin.
+HowToPlayText1	Ang Among Us usa ka dula sa pagtinabangay ug pagtraydor.\n\nAng mga player kay Mga Crewmate o Impostor.
+HowToPlayText2	Pakigdula sa 4 hangtud sa 15 ka player online o pinaagi sa lokal nga WiFi!
+HowToPlayText41	Kung mag-host og dula, aduna kay kontrol sa paagi sa pagdula.
+HowToPlayText42	Una, pilia kung kinsa ang gusto nimong makadula!\n\nKung gusto nimong makigdula sa mga higala online, itakda sa "pribado" ug i-share ang room code.\n\nKung gusto kang makigdula sa uban pang gikan sa tibuok kalibutan, itakda sa "pampubliko".
+HowToPlayText43	Gustong magdula nga daghan ang task? Gusto og mas paspas nga paglakaw? Dugang pang Impostor? Isip host, mabag-o nimo kini nga setting. Siguroha nga kumpirmahon ang kabag-ohan sa mga kauban nga player.
+HowToPlayText44	Kung adunay bastos ug/o nag-spam, mahimong temporaryong magtangtang ang host og mga player isip pasidaan o i-ban ang mga player sa partikular nga online room.
+HowToPlayTextMap	Adunay akses ang mga player sa personal nga mapa aron matabangan sila sa pag-navigate sa barko.
+HowToPlayTextCrew1	Katuyoan: Mapuno ang Task Bar sa Grupo o Madiskubre ang Impostor.
+HowToPlayTextCrew2	Kumpletoha ang task aron mapuno ang gauge.
+HowToPlayTextCrew3	Pag-react sa Sabotahe sa Impostor.
+HowToPlayTextCrew4	Pagtawag og emergency meeting kung makit-an na ang Impostor.
+HowToPlayTextCrew5	I-report ang mga patay nga lawas.
+HowToPlayTextCrew6	Susiha ang Mapa ug Seguridad sa Admin kung adunay kadudahang aktibidad.
+HowToPlayTextImp1	Katuyoan: Patyon ang Crew.
+HowToPlayTextImp2	Pakig-uban-uban sa Crew.
+HowToPlayTextImp3	Tago pinaagi sa mga vent.
+HowToPlayTextImp4	Pagpasumangil nga magbuhat og mga task.
+HowToPlayTextImp5	Isabotahe ang barko ug liboga ang Crew.
+HowToPlayTextImp6	Isirado ang pultahan ug ipriso ang biktima.
+HowToPlayTextImp7	Patya ang Crew sa panahon sa cooldown.
+HowToPlayText5	Samtang personal nga nagdula, wala gitugutan ang pag-istoryahay aron mapabiling patas ang dula taliwala sa Crew ug sa Impostor.\n\nKung mapatay sa Impostor ang usa ka player, dili sila mahimong mag-istoryahay hangtud nga matapos ang dula.\n\nBuhaton gihapon sa mga kalag ang ilang mga nakatakdang task aron posibleng modaog ang Mga Crewmate.
+HowToPlayText6	Kung adunay mag-report og patay nga lawas o motawag og emergency meeting, magtapok ang Crew aron hisgutan ang ilang nahibaluan mahitungod sa Impostor.\n\nMahimo na karong mag-istoryahay ang mga player mahitungod sa kung kinsa ang Impostor ug kung unsang impormasyon ang aduna sila. Kung personal nga magdula, dili mahimong moistorya ang Mga Kalag tungod kay nakahibalo na sila kung kinsa ang Impostor.\n\nMagsulay ang Mga Impostor sa pagpamatuod sa ilang pagkainosente o mag-akusa og laing miyembro sa crew.
+HowToPlayText7	Pagkahuman sa pakighisgot, muboto ka kung kinsa ang Impostor.\n\nI-eject sa barko ang makakuha sa pinakadaghang boto, mao nga taronga ang pagboto!\n\nKung wala kay igong impormasyon ug nagdesisyon ka isip Crew, mahimo nimong laktawan ang pagboto aron malikayan ang pag-eject og inosenteng tawo ug mangita og dugang impormasyon.
+HowToPlayText81	Pagbansay sa Praktis nga mode!
+HowToPlayText82	Pagtakda og imong mga kaugalingong task isip miyembro sa Crew o praktisa ang imong mga istratehiya sa pagpatay isip Impostor!
+SettingsGeneral	Kinatibuk-an
+SettingsControls	Mga Kontrol
+SettingsSound	Tingog
+SettingsGraphics	Graphics
+SettingsData	Data
+SettingsCensorChat	I-censor ang Chat
+SettingsMusic	Musika
+SettingsSFX	SFX
+SettingsOn	Naka-on
+SettingsOff	Naka-off
+SettingsSendTelemetry	Ipadala ang Telemetry
+SettingsControlMode	Mode sa Pagkontrol
+SettingsTouchMode	Pagpindot
+SettingsJoystickMode	Joystick
+SettingsKeyboardMode	Mouse+Keyboard
+SettingsFullscreen	Fullscreen
+SettingsVSync	VSync
+SettingsResolution	Resolution
+SettingsApply	I-apply
+SettingsPersonalizeAds	I-personalize ang Mga Ad
+SettingsLanguage	Lengguwahe
+SettingsJoystickSize	Gidak-on
+SettingsMouseMode	Mouse
+SettingsStreamerMode	Streamer Mode
+MatchMapName	Mapa
+MatchLanguage	Lengguwahe sa Chat
+MatchImpostors	Mga Impostor
+MatchMaxPlayers	Max. nga Mga Player
+Cancel	Ikansela
+Confirm	Kumpirmaha
+PlayerColor	Kolor
+PlayerHat	Kalo
+PlayerSkin	Panit
+PlayerPet	Binuhing Mananap
+GameSettings	Dula
+GameRecommendedSettings	Mga Girekomendang Setting
+GameCustomSettings	Mga Custom nga Setting
+GameMapName	Mapa
+GameNumImpostors	# sa Mga Impostor
+GameNumMeetings	# sa Mga Emergency Meeting
+GameDiscussTime	Oras sa Pakighisgot
+GameVotingTime	Oras sa Pagboto
+GamePlayerSpeed	Kapaspas sa Player
+GameCrewLight	Vision sa Crewmate
+GameImpostorLight	Nadiskonekta ang Impostor
+GameKillCooldown	Cooldown sa Pagpatay
+GameKillDistance	Distansya sa Pagpatay
+GameCommonTasks	# sa Mga Kasagarang Task
+GameLongTasks	# sa Mga Taas nga Task
+GameShortTasks	# sa Mga Mubo nga Task
+GameEmergencyCooldown	Emergency Cooldown
+GameSecondsAbbrev	{0}s
+GameConfirmImpostor	Kumpirmaha ang Mga Pag-eject
+GameVisualTasks	Mga Visual nga Task
+GameAnonymousVotes	Mga Wala Mailhi nga Boto
+GameTaskBarMode	Mga Update sa Task Bar
+SettingNormalTaskMode	Kanunay
+SettingMeetingTaskMode	Mga Meeting
+SettingInvisibleTaskMode	Dili Gayud
+Limit	Limitasyon
+RoomCode	Code
+RoomCodeInfo	I-click aron kopyahon
+LeaveGame	Mobiya sa Dula
+ReturnToGame	Balik sa Dula
+LocalHelp	Problema sa koneksyon?\n\n● Siguroha nga nakakonekta ang tanan sa parehong ngalan sa WiFi\n● Siguroha nga ang tanan adunay parehong bersyon (sa tuo nga bahin sa ubos)\n● Siguroha nga kusog ang signal sa imong WiFi\n● Usahay makatabang kung laing tawo ang mag-host\n● Usahay makatabang ang pag-restart sa app...\n● Usahay makatabang ang pag-restart sa imong telepono...\n● Aduna gihapoy mga problema? Pahibaloa mi pinaagi sa pagkontak sa support@innersloth.com!
+OnlineHelp	Unsaon paggana niini?\n\n● Ang pag-host og dula maghatag kanimo og code sa dula sa lobby panel.\n● I-share ang code sa dula sa mga higala aron makahimo og pribadong room.\n● O pindota ang "Pribado" aron himuong pampubliko ang room para sa "Pangita og Dula".\n● Mahimong mag-ban o magtangtang og player ang host kung available ang chat.\n● Aduna gihapoy problema? Pahibaloa mi pinaagi sa pagkontak sa support@iinersloth.com!
+EmergencyCount	ANG MIYEMBRO SA CREW NGA SI {0} ADUNA PAY NAHIBILIN NGA\n\n\n\nKA EMERGENCY MEETING
+EmergencyNotReady	KINAHANGLANG MAGHULAT ANG MGA CREWMATE\n\n\n\nSA DILI PA ANG SUNOD NGA EMERGENCY
+EmergencyDuringCrisis	DILI MAHIMONG MAGTAWAG OG MGA EMERGENCY MEETING\nKUNG ADUNAY MGA KRISIS
+EmergencyRequested	NAGHANGYO OG EMERGENCY MEETING\nNAGHULAT SA HOST
+AdPolicyTitle	Palisiya sa Advertisement
+AdPolicyText	Pwede ba namong gamiton ang imong personal nga data aron ipahiuyon ang mga ad para nimo? Kung imong i-click ang oo, ang among mga partner sa pag-advertise sama sa Google AdMob ug Unity Ads awtomatikong magkolekta og data ug mogamit og mga device identifier ug mga ccokie para sa personalisasyon sa ad. Kung imong i-click ang dili, pwede gihapon kang makakita og mga ad mga wala gi-personalize. Aron tangtangon ang tanang mga ad, pagpalit og no-ad nga upgrade [httpstore]dinhi[], ug ikaw ug ang imong mga higala dili makakita og mga ad kung ikaw ang host! Aron makahibalo og dugang mahitungod sa mga practice sa pagkapribado namo ug sa among mga parter sa pag-advertise, palihug tan-awa ang among [https://www.innersloth.com/tl/privacy-policy-fil/]Palisiya sa Pagkapribado[]. Pwede nimong mausab ang imong desisyon bisan kanus-a sa menu sa mga setting ilalom sa "Data".
+Accept	Dawata
+RemoveAds	Tangtanga ang Mga Ad
+PlainYes	Oo
+PlainNo	Dili
+PrivacyPolicyTitle	Palisiya sa Pagkapribado
+PrivacyPolicyText	Magproseso ang Innersloth og personal nga datos para sa Among Us. Palihug basaha ang among <link="https://www.innersloth.com/tl/privacy-policy-fil/">Privacy Policy</link> aron makahibalo og dugang mahitungod sa among mga gawi sa pagkapribado. Mahimo nimong dumalahon ang imong mga setting sa personal nga datos para sa Among Us sa ilawom sa "Datos".\n\nPalihug basaha among <link="https://www.innersloth.com/tl/terms-of-use-for-the-games-fil/">Terms of Use</link> sa dili pa magdula sa Among Us.
+ManageDataButton	Dumalaha ang Pagkolekta og Datos
+UnderstandButton	Nasabtan Nako
+WaterPlants	Bisbisi ang Mga Tanom
+WeatherEta	ETA: {0}s
+WeatherComplete	Kumpleto
+RunDiagnostics	Paganaha ang Diagnostics
+SettingShort	Mubo
+SettingMedium	Igo-igo
+SettingLong	Taas
+SamplesPress	Pindota Aron Magsugod
+SamplesAdding	Pagdugang og Reagent
+SamplesSelect	Pagpili og Anomalya
+SamplesThanks	Salamat!
+SamplesComplete	Kumpleto na ang Task
+AstDestroyed	Naguba: {0}
+TaskTestTitle	Task Tester 2000
+BeginDiagnostics	Sugdi ang Diagnostics
+UserLeftGame	Mibiya na si {0} sa dula.
+GameStarting	Magsugod sa {0}
+ChatRateLimit	Paspas kaayo. Paghulat og {0} ka segundo
+Tasks	Mga Task
+MedscanRequested	Mihangyo og Pag-scan
+MedscanWaitingFor	Naghulat kang {0}
+MedscanCompleted	Kumpleto na ang Pag-scan!
+MedscanCompleteIn	Makumpleto ang Pag-scan sa {0}
+StatsTitle	Mga Istatistika
+StatsBodiesReported	Mga Lawas nga Gi-report:\t
+StatsEmergenciesCalled	Mga Emergency nga Gitawag:\t
+StatsTasksCompleted	Mga Task nga Nakumpleto:\t
+StatsAllTasksCompleted	Tanang Mga Task nga Nakumpleto:\t
+StatsSabotagesFixed	Mga Sabotahe nga Nasulbad:\t
+StatsImpostorKills	Mga Gipatay sa Impostor:\t\t
+StatsTimesMurdered	Mga Higayon nga Gipatay:\t
+StatsTimesEjected	Mga Higayon nga Gi-eject:\t\t
+StatsCrewmateStreak	Streak sa Crewmate:\t
+StatsGamesImpostor	Mga Higayon nga Impostor:\t
+StatsGamesCrewmate	Mga Higayon nga Crewmate:\t
+StatsGamesStarted	Mga Dula nga Gisugdan:\t
+StatsGamesFinished	Mga Dula nga Nahuman:\t
+StatsImpostorVoteWins	Mga Daog sa Pagboto sa Impostor:\t
+StatsImpostorKillsWins	Mga Daog sa Pagpatay sa Impostor:\t
+StatsImpostorSabotageWins	Mga Daog sa Pagsabotahe sa Impostor:\t
+StatsCrewmateVoteWins	Mga Daog sa Pagboto sa Crewmate:\t
+StatsCrewmateTaskWins	Mga Daog sa Task sa Crewmate:\t
+MonitorOxygen	I-monitor ang Kahoy
+StoreArtifacts	Itago ang Mga Artifact
+FillCanisters	Pun-a ang Mga Canister
+InsertKeys	Ibutang ang Mga Key
+ResetSeismic	I-reset ang Mga Seismic Stabilizer
+SeismicHoldToStop	I-hold aron I-aktibo ang Seismic Stabilizer
+SeismicNominal	Nominal ang Seismic nga Aktibidad
+ScanBoardingPass	I-scan ang Boarding Pass
+FixWeatherNode	Ayoha ang Weather Node
+OpenWaterways	Ablihi ang Mga Agianan sa Tubig
+ReplaceWaterJug	Alisdi ang Water Jug
+RepairDrill	Ayoha ang Drill
+AlignTelescope	I-align ang Telescope
+RecordTemperature	Irekord ang Temperatura
+RebootWifi	I-reboot ang Wifi
+WifiRebootRequired	Gikinahanglan ang Pag-reboot
+WifiPleaseWait	Palihug Paghulat
+WifiPleaseReturnIn	Palihug Balik sa {0}
+WifiPleasePowerOn	Palihug I-on
+WifiRebootComplete	Kumpleto na ang Pag-reboot
+Outside	Gawas
+Dropship	Dropship
+Decontamination2	Ibabaw nga Decontamination
+Specimens	Specimen Room
+BoilerRoom	Boiler Room
+GameOverImpostorDead	Kasagaran, modaog ang Crew tungod kay patay na ang Impostor. Para sa Praktis, buhion namo ang tanan.
+GameOverImpostorKills	Kasagaran, modaog ang Impostor tungod kay dili na makadaog ang Crew. Para sa Praktis, buhion namo ang tanan.
+GameOverTaskWin	Kasagaran, modaog ang Crew tungod kay puno na ang task bar. Para sa Praktis, maghatag kami og mga bag-ong task.
+GameOverSabotage	Kasagaran, modaog ang Impostor tungod sa kritikal nga sabotahe. I-off namo kini.
+HowToPlayText2Switch	Pakigdula sa 4 hangtud sa 15 ka player online gamit ang imong Nintendo Switch Online membership!
+VentDirection	Direksyon sa Vent
+VentMove	Agi sa Vent
+MenuNavigate	Pag-navigate
+NsoError	Dili makakonektar sa network.
+ErrorServerOverload	Overloaded na ang mga server sa Among Us.\r\n\r\nGikasubo namo! Palihug pagsulay pag-usab sa laing panahon!
+ErrorIntentionalLeaving	Dili ka mahimong moapil sa laing dula sulod sa laing {0} ka minuto pagkahuman sa tinuyo nga pagdiskonekta.
+ErrorFocusLost	Nadiskonekta ka tungod kay gisuspinde ang Among Us sa laing app.
+ErrorBanned	Gi-ban ka gikan sa {0}.\r\n\r\nDili ka mahimong moapil pag-usab niadto nga room.
+ErrorKicked	Gitangtang ka gikan sa {0}.\r\n\r\nMahimo kang moapil pag-usab kung wala pa nagsugod ang room.
+ErrorBannedNoCode	Gi-ban ka gikan sa room.\r\n\r\nDili ka mahimong moapil pag-usab niadto nga room.
+ErrorKickedNoCode	Gitangtang ka gikan sa room.\r\n\r\nMahimo kang moapil pag-usab kung wala pa nagsugod ang room.
+ErrorHacking	Gi-ban ka tungod sa pag-hack.\r\n\r\nPalihug undang na.
+ErrorFullGame	Puno na ang dula nga gisulayan nimo sa pag-apil.\r\n\r\nPakig-istorya sa host aron mahibaluan kung mahimo kang moapil sa sunod nga round.
+ErrorStartedGame	Nagsugod na ang dula nga gisulayan nimo sa pag-apil.\r\n\r\nPakig-istorya sa host aron mahibaluan kung mahimo kang moapil sa sunod nga round.
+ErrorNotFoundGame	Wala nakita ang dula nga imong gipangita.
+ErrorInactivity	Gipaundang sa server kini nga dula. Posibleng tungod sa walay aktibidad.
+ErrorGenericOnlineDisconnect	Nadiskonekta ka gikan sa server.\r\nKung kanunay kining mahitabo, susiha ang kakusgon sa imong network.\r\nLagmit sab nga isyu kini sa server.
+ErrorGenericLocalDisconnect	Nadiskonekta ka gikan sa host.\r\n\r\nKung kanunay kining mahitabo, susiha ang kakusgon sa imong WiFi.
+ErrorInvalidName	Gibalibaran sa server ang username: {0}
+ErrorUnknown	Nadiskonekta ka gikan sa server tungod sa wala nahibaluang error.
+ErrorIncorrectVersion	Migamit ka og mas daan nga bersyon sa dula.\r\n\r\nPalihug pag-update aron makadula ang uban.
+	
+ServerNA	North America
+ServerEU	Europe
+ServerAS	Asya
+ServerSA	South America
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	Player
+MyTablet	Akong tablet
+Headquarters	Mga Headquarter
+DownloadTestEstTimeS	Gibana-bana nga oras: {0}s
+DownloadTestEstTimeMS	Gibana-bana nga oras: {0}m {1}s
+DownloadTestEstTimeHMS	Gibana-bana nga oras: {0}hr {1}m {2}s
+DownloadTestEstTimeDHMS	Gibana-bana nga oras: {0}d {1}hr {2}m {3}s
+DownloadComplete	Kumpleto
+GrabCoffee	PAGKAPE UNA
+TakeBreak	PAG-BREAK UNA
+DontNeedWait	DILI NA KA KINAHANGLANG MAGHULAT
+DoSomethingElse	PAGBUHAT OG LAING BUTANG
+NodeTB	Node_TB
+NodeIRO	Node_IRO
+NodeGI	Node_GI
+NodePD	Node_PD
+NodeCA	Node_CA
+NodeMLG	Node_MLG
+Vending	VENDING
+OtherLanguage	Uban pa
+ImposterAmtAny	1-3
+	
+VitalsORGN	ORNG
+VitalsBLUE	BLUE
+VitalsRED	RED
+VitalsBRWN	BRWN
+VitalsGRN	GRN
+VitalsPINK	PINK
+VitalsWHTE	WHTE
+VitalsYLOW	YLOW
+VitalsBLAK	BLAK
+VitalsPURP	PURP
+VitalsCYAN	CYAN
+VitalsLIME	LIME
+ColorOrange	ORANGE
+ColorBlue	BLUE
+ColorRed	RED
+ColorBrown	BROWN
+ColorGreen	GREEN
+ColorPink	PINK
+ColorWhite	WHITE
+ColorYellow	YELLOW
+ColorBlack	BLACK
+ColorPurple	PURPLE
+ColorCyan	CYAN
+ColorLime	LIME
+ColorMaroon	MAROON
+ColorRose	ROSAS
+ColorBanana	SAGING
+ColorGray	GRAY
+ColorTan	TAN
+ColorCoral	CORAL
+MedID	ID:
+MedC	C:
+MedHT	HT:
+MedBT	BT:
+MedWT	WT:
+MedETA	ETA {0}
+MedHello	KUMUSTA!
+LobbySizeWarning	Madula ang Among Us sa 4 ka player, pero girekomenda ang 5 o labaw pang mga player.\n\nPaspas kaayong mahuman ang mga dula nga adunay 4 ka player ug kasagarang modaog ang impostor.
+Okay	Okay
+OkayDontShow	Ok, ayaw na kini ipakita
+Nevermind	Ayaw na lamang
+CamEast	Sidlakan
+CamCentral	Sentro
+CamNortheast	Amihanang Sidlakan
+CamSouth	Habagatan
+CamSouthwest	Southwest
+CamNorthwest	Amihanang Kasadpan
+LoadingFailed	Napakyas ang Pag-load:
+PetFailFetchData	Dili makuha ang datos sa binuhing mananap
+BadResult	DILI MAAYONG RESULTA
+More	{0} UBAN PA
+Processing	Giproseso
+ExitGame	Mobiya sa Dula
+WaitingForHost	Naghulat sa Host
+LeftGameError	Mibiya na si {0} sa dula tungod sa error.
+PlayerWasBannedBy	Gi-ban si {0} ni {1}
+PlayerWasKickedBy	Gitangtang si {0} ni {1}
+Dummy	Dummy
+Bad	DILI MAAYO
+Status	Status:
+Fine	MAAYO
+OK	OK
+SecondsAbbv	{0}s
+PetTryOn	Pagsulay og usa ka!
+DataPolicyWhat	Unsa ang Kolektahon?
+	
+VaultRoom	Vault
+Cockpit	Cockpit
+Armory	Armory
+Kitchen	Kusina
+ViewingDeck	Viewing Deck
+HallOfPortraits	Hall sa Mga Portrait
+Medical	Medikal
+CargoBay	Cargo Bay
+Ventilation	Bentilasyon
+Showers	Mga Shower
+Engine	Engine Room
+Brig	Brig
+MeetingRoom	Meeting Room
+Records	Mga Rekord
+Lounge	Lounge
+GapRoom	Gap Room
+MainHall	Pangunang Hall
+	
+PolishRuby	I-polish ang Ruby
+ResetBreakers	I-reset ang Mga Breaker
+Decontaminate	I-decontaminate
+MakeBurger	Paghimo og Burger
+UnlockSafe	I-unlock ang Safe
+SortRecords	Ihan-ay ang Mga Rekord
+PutAwayPistols	Itago ang Mga Pistola
+PutAwayRifles	Itago ang Mga Rifle
+FixShower	Ayoha ang Shower
+CleanToilet	Limpiyohi ang Kasilyas
+DressMannequin	Butangan og sinina ang Mannequin
+PickUpTowels	Punita ang Mga Tualya
+RewindTapes	I-rewind ang Mga Tape
+StartFans	Paganaha ang Mga Bentilador
+DevelopPhotos	I-develop ang Mga Hulagway
+GetBiggolSword	Kuhaa ang Biggol Sword
+StopCharles	Avert Crash Course
+	
+RevealCode	Ibutyag ang Code
+DirtyHeader	HUGAW
+AuthLeftOkay	Wala nga Bahin OK
+AuthRightOkay	Tuo nga Bahin OK
+AuthLeftActive	Wala nga Bahin AKTIBO
+AuthRightActive	Tuo nga Bahin AKTIBO
+AuthLeftNotActive	Wala nga Bahin DILI AKTIBO
+AuthRightNotActive	Tuo nga Bahin DILI AKTIBO
+PSXBEngagementScreen	Pagpindot og bisan unsang pindutanan aron magsugod.
+DeleteButton	Tangtanga
+QuickChat	Paspas nga Chat
+QCBuilderHeader	Builder sa Paspas nga Chat
+QCLocationLaptop	Laptop
+MapNameSkeld	Skeld
+MapNameMira	Mira
+MapNamePolus	Polus
+MapNameAirship	Airship
+MapNameFungle	Fungle
+QCSystemsStart	Pagsugod
+QCSystemsKick	Tangtanga
+QCCrewI	Ako
+QCCrewMe	Ako
+QCBuildingPlaceholder	Naghimo og phrase...
+QCCrewDead	Patay na
+QCTagSelf	Akong Kaugalingon
+QCInputSelf	Kaugalingon
+QCTagFavorites	Mga Paborito
+QCInputFavorite	Paborito
+QCTagRoles	Mga Role
+QCInputRole	Role
+QCTagTasks	Mga Task
+QCInputTask	Task
+QCTagSabotages	Mga Sistema
+QCInputSabotages	Sabotahe
+QCTagQuickRemarks	Mga Quick Remark
+QCTagRemarks	Mga Remark
+QCInputRemark	Remark
+QCTagAccuse	Akusahan!
+QCInputAccusation	Akusasyon
+QCTagDefend	Depensahan!
+QCInputDefense	Depensa
+QCTagQuestionSingular	Pangutana
+QCTagQuestion	Pangutana?
+QCTagLobby	Lobby
+QCTagImpostor	Impostor
+QCTagMeeting	Meeting
+QCTagHiding	Nagtago
+QCTagFlashlight	Flashlight
+QCSelfVoted	Giboto nako si {0}
+QCSelfReportedBody	Akong gi-report ang lawas
+QCSelfCams	Naa ko sa mga Cam
+QCCrewCams	Naa sa mga Cam si {0}
+QCSelfWasProtected	Gipanalipdan ko
+QCCrewWasProtected	Gipanalipdan si {0}
+QCSelfWasntMe	Dili ako
+QCWhoWasAt	Kinsa ang naa sa {0}?
+QCSelfDoingTask	Akong {0}
+QCWhoIsRole	Kinsa ang {0}?
+QCSelfFixedSystem	Giayo nako ang {0}
+QCCrewFixedSystem	Giayo ni {0} ang {1}
+QCSelfAccAtLocation	Nakita nako nga gipatay ni {0} si {1} sa {2}
+QCSelfDidTaskAtLocation	Akong {0} sa {1}
+QCCrewDidTaskAtLocation	{0} ni {1} sa {2}
+QCSelfSawCrewVentAtLocation	Nakita nako si {0} nga nigamit og vent sa {1}
+QCSelfDidntVent	Wala ko nigamit og vent
+QCFollowMe	Sunda ko
+QCItsNotMe	Dili na ako
+QCSelfDoneWithTasks	Nahuman na ko sa mga task
+QCGhostsDoYourTasks	Gibuhat sa mga kalag ang imong task
+QCSelfNotTheImpostor	Dili ako ang Impostor
+QCHello	Kumusta
+QCThanks	Salamat
+QCSorry	Pasaylo
+QCGG	GG
+QCBye	Bye
+QCWhereWasTheBody	Asa ang lawas?
+QCSelfReady	Andam na ko
+QCSelfWasRole	Ako ang {0}
+QCWhoWasRole	Kinsa ang {0}?
+QCCoolOutfitCrew	Cool nga outfit, {0}!
+QCCrewReportedBody	Gi-report ni {0} ang lawas
+QCCrewNoOne	Wala
+QCResYes	Oo
+QCResNo	Dili
+QCResDontKnow	Wala ako nakahibalo
+QCResDontKnowNeg	Tingali
+QCResVote	Pagboto
+QCResVoteNeg	Laktawi ang pagboto
+QCResRip	rip
+QCResRipNeg	yeet
+QCResLies	mga bakak
+QCResLiesNeg	okay
+QCQstWhere	asa?
+QCQstWho	kinsa?
+QCQstWhoDidTask	kinsa ang {0}?
+QCQstBodyOrMeeting	Patay nga lawas ba kini o emergency meeting?
+QCStaDoubleKill	Double kill kadto
+QCStaWasSelfReport	Self-report kadto
+QCStaPleaseDoTasks	Palihug buhata ang imong mga buhaton
+QCStaBodyWasInA	Anaa ang lawas sa {0}
+QCLocation	Lokasyon
+QCSystems	Mga Sistema
+QCCrew	Crew
+QCAccusation	Akusasyon
+QCResponse	Tubag
+QCQuestion	Pangutana
+QCStatements	Mga Saysay
+QCSelfWasUsingBinoculars	Gigamit nako ang binocular
+QCSelfSawThroughBinoculars	Nakita nako pinaagi sa binocular
+QCInTheSporeCloud	Sa Spore Cloud
+QCHiddenBySporeCloud	Nitago sa Spore Cloud
+CQCrewKilledDeadInSporeCloud	{0} gipatay {1} a Spore Cloud
+QCSelfUsingZipline	Gigamit nako ang Zipline
+QCSelfSawWhileUsingZipline	Nakita nako samtang naggamit sa Zipline
+QCCrewWasUsingZipline	Gigamit ni {0} ang Zipline
+QCDuringMushroomMixup	Atol sa Mushroom Mixup
+	
+ChatType	Matang sa Chat
+QuickChatOnly	Paspas nga Chat Lamang
+FreeChatOnly	Libreng Chat Lamang
+FreeOrQuickChat	Libre nga Chat
+DateOfBirth	Petsa nga Natawhan
+DateOfBirthEnter	Palihug ibutang ang imong petsa nga natawhan:
+Month	Buwan
+Day	Adlaw
+Year	Tuig
+January	Enero
+February	Pebrero
+March	Marso
+April	Abril
+May	Mayo
+June	Hunyo
+July	Hulyo
+August	Agosto
+September	Setyembre
+October	Oktubre
+November	Nobyembre
+December	Disyembre
+Submit	Isumite
+	
+QCAccAKilledB_QCCrewMe_ANY	Gipatay nako si {1}
+QCAccAKilledB_QCCrewMe_QCCrewNoOne	Wala akoy gipatay
+QCAccAKilledB_QCCrewMe_QCCrewMe	
+QCAccAKilledB_ANY_QCCrewMe	Gipatay ako ni {0}
+QCAccAKilledB	Gipatay ni {0} si {1}
+QCAccAKilledB_ANY_QCCrewNoOne	Walay gipatay si {0}
+QCAccAKilledB_QCCrewNoOne_QCCrewMe	Walay mipatay nako
+QCAccAKilledB_QCCrewNoOne_ANY	Walay mipatay kang {1}
+QCAccAKilledB_QCCrewNoOne_QCCrewNoOne	Walay mipatay kang bisan kinsa
+QCAccAKilledBNeg_QCCrewMe_ANY	Wala nako gipatay si {0}
+QCAccAKilledBNeg_QCCrewMe_QCCrewNoOne	Wala akoy gipatay
+QCAccAKilledBNeg_QCCrewMe_QCCrewMe	Wala nako gipatay ang akong kaugalingon
+QCAccAKilledBNeg_ANY_QCCrewMe	Wala ako gipatay ni {0}
+QCAccAKilledBNeg	Wala gipatay ni {0} si {1}
+QCAccAKilledBNeg_ANY_QCCrewNoOne	Walay gipatay si {0}
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAKilledBNeg_QCCrewNoOne_ANY	
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsSuspicious_QCCrewMe	Kaduda-duda ako
+QCAccAIsSuspicious	Kaduda-duda si {0}
+QCAccAIsSuspicious_QCCrewNoOne	Walay kaduda-duda
+QCAccAIsSuspiciousNeg_QCCrewMe	Maayo ako
+QCAccAIsSuspiciousNeg	Maayo si {0}
+QCAccAIsSuspiciousNeg_QCCrewNoOne	Dili maayo ang tanan
+QCAccASawBVent_QCCrewMe_ANY	Nakita nako si {0} nga migamit og vent
+QCAccASawBVent_QCCrewMe_QCCrewNoOne	Wala akoy nakita nga migamit og vent
+QCAccASawBVent_QCCrewMe_QCCrewMe	
+QCAccASawBVent_ANY_QCCrewMe	Nakita ako ni {0} nga migamit og vent
+QCAccASawBVent	Nakita ni {0} si {1} nga migamit og vent
+QCAccASawBVent_ANY_QCCrewNoOne	Walay nakita si {0} nga migamit og vent
+QCAccASawBVent_QCCrewNoOne_QCCrewMe	Walay nakakita kanako nga migamit og vent
+QCAccASawBVent_QCCrewNoOne_ANY	Walay nakakita kang {1} nga migamit og vent
+QCAccASawBVent_QCCrewNoOne_QCCrewNoOne	Walay nakakita og migamit og vent
+QCAccASawBVentNeg_QCCrewMe_ANY	Wala gayud nako nakita si {0} nga migamit og vent
+QCAccASawBVentNeg_QCCrewMe_QCCrewNoOne	Wala gayud akoy nakita nga migamit og vent
+QCAccASawBVentNeg_QCCrewMe_QCCrewMe	
+QCAccASawBVentNeg_ANY_QCCrewMe	Wala gayud ako nakita ni {0} nga migamit og vent
+QCAccASawBVentNeg	Wala gayud nakita ni {0} si {1} nga migamit og vent
+QCAccASawBVentNeg_ANY_QCCrewNoOne	Wala gayuy nakita si {0} nga migamit og vent
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewMe	Walay nakakita kanako sukad nga migamit og vent
+QCAccASawBVentNeg_QCCrewNoOne_ANY	Walay nakakita kang {1} sukad nga migamit og vent
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewNoOne	Walay nakakita sukad og migamit og vent
+QCAccAWasChasingB_QCCrewMe_ANY	Gigukod nako si {0}
+QCAccAWasChasingB_QCCrewMe_QCCrewNoOne	Wala akoy gigukod
+QCAccAWasChasingB_QCCrewMe_QCCrewMe	
+QCAccAWasChasingB_ANY_QCCrewMe	Gigukod ako ni {0}
+QCAccAWasChasingB	Gigukod ni {0} si {1}
+QCAccAWasChasingB_ANY_QCCrewNoOne	Walay gigukod si {0}
+QCAccAWasChasingB_QCCrewNoOne_QCCrewMe	Walay naggukod nako
+QCAccAWasChasingB_QCCrewNoOne_ANY	Walay naggukod kang {1}
+QCAccAWasChasingB_QCCrewNoOne_QCCrewNoOne	Walay naggukod kang bisan kinsa
+QCAccAWasChasingBNeg_QCCrewMe_ANY	Wala nako gigukod si {0}
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewNoOne	Wala akoy gigukod
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewMe	
+QCAccAWasChasingBNeg_ANY_QCCrewMe	Wala ako gigukod ni {0}
+QCAccAWasChasingBNeg	Wala gigukod ni {0} si {1}
+QCAccAWasChasingBNeg_ANY_QCCrewNoOne	Walay gigukod si {0}
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAWasChasingBNeg_QCCrewNoOne_ANY	
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsLying_QCCrewMe	Namakak ako
+QCAccAIsLying	Namakak si {0}
+QCAccAIsLying_QCCrewNoOne	Walay namakak
+QCAccAIsLyingNeg_QCCrewMe	Nagsulti ako sa tinuod
+QCAccAIsLyingNeg	Nagsulti sa tinuod si {0}
+QCAccAIsLyingNeg_QCCrewNoOne	Walay nagsulti sa tinuod
+QCAccVoteA_QCCrewMe	iboto ako
+QCAccVoteA	iboto si {0}
+QCAccVoteA_QCCrewNoOne	ayaw iboto si bisan kinsa
+QCAccVoteANeg_QCCrewMe	ayaw ako iboto
+QCAccVoteANeg	ayaw iboto si {0}
+QCAccVoteANeg_QCCrewNoOne	
+QCAccADidntReport_QCCrewMe	Wala nako gi-report ang lawas
+QCAccADidntReport	Wala gi-report ni {0} ang lawas
+QCAccADidntReport_QCCrewNoOne	
+QCResAWas_QCCrewMe	Ako
+QCResAWas	Si {0}
+QCResAWas_QCCrewNoOne	Wala
+QCResAWasNeg_QCCrewMe	Dili ako
+QCResAWasNeg	Dili si {0}
+QCResAWasNeg_QCCrewNoOne	
+QCResADid_QCCrewMe	Ako ang nagbuhat
+QCResADid	Si {0} ang nagbuhat
+QCResADid_QCCrewNoOne	Walay nagbuhat
+QCResADidNeg_QCCrewMe	Dili ako ang nagbuhat
+QCResADidNeg	Dili si {0} ang nagbuhat
+QCResADidNeg_QCCrewNoOne	
+QCResAWasAtB_QCCrewMe_ANY	Anaa ako sa {0}
+QCResAWasAtB	Anaa si {0} sa {1}
+QCResAWasAtB_QCCrewNoOne_ANY	Walay anaa sa {0}
+QCResAWasAtBNeg_QCCrewMe_ANY	Wala ako sa {0}
+QCResAWasAtBNeg	Wala si {0} sa {1}
+QCResAWasAtBNeg_QCCrewNoOne_ANY	
+QCQstWhoWasWith_QCCrewMe	kinsa ang kauban nako?
+QCQstWhoWasWith	kinsa ang kauban ni {0}?
+QCQstWhoWasWith_QCCrewNoOne	kinsa ang nag-inusara?
+QCQstWhatWasADoing_QCCrewMe	
+QCQstWhatWasADoing	unsa ang gibuhat ni {0}?
+QCQstWhatWasADoing_QCCrewNoOne	
+QCQstWhereWasA_QCCrewMe	
+QCQstWhereWasA	asa gikan si {0}
+QCQstWhereWasA_QCCrewNoOne	
+QCStaASawB_QCCrewMe_ANY	Nakita nako si {0}
+QCStaASawB_QCCrewMe_QCCrewNoOne	Wala akoy nakitang bisan kinsa
+QCStaASawB_QCCrewMe_QCCrewMe	
+QCStaASawB_ANY_QCCrewMe	Nakita ako ni {0}
+QCStaASawB	Nakita ni {0} si {1}
+QCStaASawB_ANY_QCCrewNoOne	Walay nakita si {0} nga bisan kinsa
+QCStaASawB_QCCrewNoOne_QCCrewMe	Walay nakakita kanako
+QCStaASawB_QCCrewNoOne_ANY	Walay nakakita kang {0}
+QCStaASawB_QCCrewNoOne_QCCrewNoOne	Walay nakakita kang bisan kinsa
+QCStaAWasWithB_QCCrewMe_ANY	Kauban nako si {0}
+QCStaAWasWithB_QCCrewMe_QCCrewNoOne	Wala akoy kauban
+QCStaAWasWithB_QCCrewMe_QCCrewMe	
+QCStaAWasWithB_ANY_QCCrewMe	Kauban nako si {0}
+QCStaAWasWithB	Kauban ni {0} si {1}
+QCStaAWasWithB_ANY_QCCrewNoOne	Walay kauban si {0}
+QCStaAWasWithB_QCCrewNoOne_QCCrewMe	Wala akoy kauban
+QCStaAWasWithB_QCCrewNoOne_ANY	Walay kauban si {1}
+QCStaAWasWithB_QCCrewNoOne_QCCrewNoOne	Walay kauban si bisan kinsa
+QCStaADidB_QCCrewMe_ANY	Ako ang nagbuhat sa {0}
+QCStaADidB	Si {0} ang nagbuhat sa {1}
+QCStaADidB_QCCrewNoOne_ANY	Walay nagbuhat sa {1}
+QCStaASelfReported_QCCrewMe	Nag-self report ako
+QCStaASelfReported	Nag-self report si {0}
+QCStaASelfReported_QCCrewNoOne	Walay nag-self report
+QCStaACalledMeeting_QCCrewMe	Nagtawag ako og meeting
+QCStaACalledMeeting	Nagtawag og meeting si {0}
+QCStaACalledMeeting_QCCrewNoOne	Walay nagtawag og meeting
+QCMore	DAGDAG PA
+QCQstWhy	ngano?
+QCCrewSomeone	Usa ka tawo
+QCResUrWelcome	way sapayan
+QCResNp	np
+QCResYikes	yikes
+QCResRipCrew	rip {0}
+QCResYeetCrew	i-yeet si {0}
+QCSelfWasOnVitals	Naa ko sa mga Vital
+QCSawDeadCrewOnVitals	Nakita nako nga patay na si {0} sa mga Vital
+QCSelfSawTwoCrew	Nakita nako ang duha nga {0}
+QCCrewShapeshifted	Nag-shapeshift si {0}
+QCSelfSawCrewDoVisualTask	Nakita nako si {0} nga nagbuhat og visual nga task
+QCSelfWasOnDoorlogs	Naa ko sa mga Doorlog
+QCSelfWasOnAdmin	Naa ko sa Admin
+QCSelfAmVotingCrew	Nagboto ko ni {0}
+QCCrewWasPretendingTasks	Nagpasumangil si {0} nga nagbuhat og mga task
+QCCrewWasPretendingSabotage	Nagpasumangil si {0} nga nag-ayo sa {1}
+QCLobbyMoreImpostors	Dugang nga mga Impostor?
+QCLobbyLessImpostors	Menos nga mga Impostor?
+QCLobbyConfirmEjects	Ikumpirma ang mga Eject?
+QCLobbyMoreEmergencyMeetings	Dugang nga mga Emergency Meeting?
+QCLobbyLessEmergencyMeetings	Menos nga mga Emergency Meeting?
+QCLobbyAnonymousVotes	Mga Wala Mailhi nga Boto?
+QCLobbyMoreEmergencyCooldownTime	Dugang nga Oras sa Emergency Cooldown?
+QCLobbyLessEmergencyCooldownTime	Menos nga Oras sa Emergency Cooldown?
+QCLobbyMoreDiscussionTime	Dugang nga Oras sa Pakighisgot?
+QCLobbyLessDiscussionTime	Menos nga Oras sa Pakighisgot?
+QCLobbyMoreVotingTime	Dugang nga Oras sa Pagboto?
+QCLobbyLessVotingTime	Menos nga Oras sa Pagboto?
+QCLobbyFasterPlayerSpeed	Mas Paspas nga Gipaspason sa Player?
+QCLobbySlowerPlayerSpeed	Mas Hinay nga Gipaspason sa Player?
+QCLobbyTaskBarUpdates	Mga Update sa Task Bar?
+QCLobbyVisualTasks	Mga Visual nga Task?
+QCLobbyMoreCrewmateVision	Dugang nga Vision sa Crewmate?
+QCLobbyLessCrewmateVision	Menos nga Vision sa Crewmate?
+QCLobbyMoreImpostorVision	Dugang nga Vision sa Impostor?
+QCLobbyLessImpostorVision	Menos nga Vision sa Impostor?
+QCLobbyMoreKillCooldownTime	Dugang nga Oras sa Cooldown sa Pagpatay?
+QCLobbyLessKillCooldownTime	Menos nga Oras sa Cooldown sa Pagpatay?
+QCLobbyLongerKillDistance	Mas Taas nga Distansya sa Pagpatay?
+QCLobbyShorderKillDistance	Mas Mubo nga Distansya sa Pagpatay?
+QCLobbyMoreCommonTasks	Dugang nga mga Kasagarang Task?
+QCLobbyLessCommonTasks	Menos nga mga Kasagarang Task?
+QCLobbyMoreLongTasks	Dugang nga mga Taas nga Task?
+QCLobbyLessLongTasks	Menos nga mga Taas nga Task?
+QCLobbyMoreShortTasks	Dugang nga mga Mubo nga Task?
+QCLobbyLessShortTasks	Menos nga mga Mubo nga Task?
+QCLobbyRoleScientists	Mga Scientist?
+QCLobbyRoleGuardianAngels	Mga Guardian Angel?
+QCLobbyRoleEngineers	Mga Engineer?
+QCLobbyRoleShapeshifters	Mga Shapeshifter?
+QCLobbyRoleNone	Walay role
+QCResLess	Gamay
+QCResMore	Dugang
+QCResNone	Wala
+QCLobbyHNSMoreHideTime	Dugang nga Oras sa Pagtago?
+QCLobbyHNSLessHideTime	Menos nga Oras sa Pagtago?
+QCLobbyHNSMoreFinalHideTime	Dugang nga Oras sa Final nga Pagtago?
+QCLobbyHNSLessFinalHideTime	Menos nga Oras sa Final nga Pagtago?
+QCLobbyHNSFlashlightMode	Flashlight Mode?
+QCLobbyHNSMoreCrewmateFlashlightSize	Dugang nga Gidak-on sa Flashlight sa Crewmate?
+QCLobbyHNSLessCrewmateFlashlightSize	Menos nga Gidak-on sa Flashlight sa Crewmate?
+QCLobbyHNSMoreImpostorFlashlightSize	Dugang nga Gidak-on sa Flashlight sa Impostor?
+QCLobbyHNSLessImpostorFlashlightSize	Menos nga Gidak-on sa Flashlight sa Impostor?
+QCLobbyHNSShowNames	Ipakita ang mga Ngalan?
+QCLobbyHNSMoreVents	Dugang nga mga Vent?
+QCLobbyHNSLessVents	Menos nga mga Vent?
+QCLobbyHNSMoreTimeInVent	Dugang nga Oras sa Vent?
+QCLobbyHNSLessTimeInVent	Menos nga Oras sa Vent?
+QCLobbyHNSMoreFinalHideImpostorSpeed	Dugang nga Gipaspason sa Final nga Pagtago sa Impostor?
+QCLobbyHNSLessFinalHideImpostorSpeed	Menos nga Gipaspason sa Final nga Pagtago sa Impostor?
+QCLobbyHNSFinalHideSeekMap	Ulahing Pagtago sa Pagpangita og Mapa?
+QCLobbyHNSFinalHidePings	Ulahing Pagtago sa Mga Ping?
+QCLobbyHNSMorePingInterval	Dugang nga Interval sa Ping?
+QCLobbyHNSLessPingInterval	Menos nga Interval sa Ping?
+QCResAgree	Miuyon
+QCResDisagree	Dili uyon
+QCResNice	Nindot
+QCResUhOh	Uh oh
+QCResOops	Oops
+QCResExclamationMarks	!!!
+QCResQuestionMarks	???
+SecurityLogsSystem	Mga Pangseguridad nga Log
+SecurityCamsSystem	Mga Pangseguridad nga Cam
+AdminMapSystem	Mapa sa Admin
+VitalsSystem	Monitor sa Mga Vital
+EngagementScreenSignIn	Nag-sign in...
+EngagementScreen	Pagpindot og bisan unsang pindutanan aron magsugod.
+SaveGameOutOfSpaceMessage	Gusto ba nimong magpadayon nga dili mag-save?
+SaveGameOutOfSpaceConfirm	Padayon
+SaveGameOutOfSpaceCancel	Sulayi pag-usab
+Success	Malamposon!
+Failed	Napakyas!
+ErrorCreate	Adunay nahitabo nga problema sa paghimo sa imong account. Palihug sulayi pag-usab sa laing panahon.
+SuccessCreate	Malamposon kang nakahimo og account!
+Close	Isirado
+ErrorLogIn	Dili makakonekta sa imong Account sa Among Us.
+SuccessLogIn	Malamposon kang naka-sign in sa imong account!
+AccountInfo	IMPORMASYON SA ACCOUNT
+Account	ACCOUNT
+UserName	USERNAME
+Height	Gitas-on
+Weight	Timbang
+SignIn	Pag-sign In
+CreateAccount	Paghimo og Account
+RequestPermission	Paghangyo og Pagtugot
+RandomizeName	I-randomize ang Ngalan
+AccountLinking	Paglink og Account
+ChangeName	Alisdi ang Ngalan
+LogOut	Pag-log Out
+GuardianWait	Kinahanglan kang maghulat nga maghatag ang imong Guardian og pagtugot aron magamit nimo ang Libreng Chat ug maalisdan ang imong username.
+EmailEdit	I-edit ang E-mail
+EmailResend	Ipadala Pag-usab ang E-mail
+GuestContinue	Padayon Isip Bisita
+GuardianEmailSent	Napadala na ang E-mail sa Guardian
+GuardianCheckEmail	Ayaw kalimti nga ipasusi sa imong Guardian ang ilang e-mail aron i-unlock ang tanang mga feature sa dula
+EditName	I-edit ang Ngalan
+Name	Ngalan
+CreateAccountQuestion	Maghimo og Account?
+DoYouWantCreate	Gusto ba nimong maghimo og account?
+PermissionRequired	Gikinahanglan ang Pagtugot
+NeedPermissionText	Kinahanglan namong mohangyo sa imong guardian (pinaagi sa e-mail) og pagtugot nga magpadayon. Kung moingon sila nga oo, magamit nimo ang libreng chat online ug maalisdan ang imong username. Hangyoa ang usa ka hamtong nga tabangan ka niini!
+GuardianEmailTitle	E-mail sa Guardian
+Send	Ipadala
+Undo	I-undo
+Clear	I-clear
+NewEmail	Bag-ong E-mail
+ConfirmEmail	Kumpirmaha ang E-mail
+EditEmail	I-edit ang E-mail
+Loading	Nag-load
+Welcome	WELCOME
+GuardianEmail	[e-mail sa imong magbalantay]
+	
+BanButton	I-BAN
+KickButton	TANGTANGA
+ReportButton	I-REPORT
+ReportConfirmation	Malamposon nimong na-report ang mosunod nga user.
+ReportBadName	Dili Angay nga Ngalan
+ReportBadChat	Dili Angay nga Chat
+ReportHacking	Pag-hack/Pagpanglimbong
+ReportHarassment	Pagsamok/Sayop nga binuhatan
+ReportWhy	Nganong imong gi-report kini nga user?
+DLLNotFoundAccountError	Adunay nahitabong problema sa imong abilidad nga mokonekta sa mga online nga serbisyo. Hangtud nga maayo kini, mahimo lamang kang magdula og Lokal o mga Freeplay nga mode. Palihug sulayi pag-usab sa laing panahon.
+ContinueOffline	Pagduwa Offline
+WantToLogIn	Kasamtangan kang wala naka-log in sa usa ka account.
+GoOffline	Pag-offline
+PlayAsGuest	Pagduwa isip Bisita
+LogInTitle	Pag-sign In sa Usa ka Account
+LogInInfoText	Pag-sign in o paghimo og account sa Among Us aron maka-access sa mga feature sa duwa sama sa:\n\n- Pag-save sa imong pag-uswag sa tanang napiling mga device\n- Pag-access sa Libreng Chat\n- Pag-link og cosmetics\n- Ug daghan pa!\n\nAng pipila ka mga feature basin magkinahanglan og pag-apruba sa ginikanan o tigbantay depende sa klase sa account.
+LogInInfoTextSwitch	Kung mag-sign in ka sa usa ka kumpletong account, mahimo kang mag-log in pag-usab sa bisan unsang oras. Kung wala kay account, awtomatikong magbuhat og account para kanimo.
+ControllerDisconnectedMessage	Nadiskonekta ang Controller
+FollowUs	I-follow kami!
+	
+QuickChatInstructionsStart	Gitakda sa Paspas nga Chat Lamang ang imong mga setting sa in-game chat.
+QuickChatInstructionsChild	Kinahanglan kang mangayo og pagtugot sa imong ginikanan o magbalanay aron maakses ang Kumpletong Chat.
+QuickChatInstructionsGuest	Kinahanglang naka-sign in ka aron mabag-o kini.
+QuickChatInstructionsFull	Magamit lamang nimo ang Paspas nga Chat samtang nagdula, ug mahimo lamang makigdula sa uban pang mga tiggamit sa Paspas nga Chat.
+	
+SwitchEShopBrowseAll	I-browse ang tanang mga item sa Nintendo eShop
+	
+Download	I-download
+Upload	I-upload
+pk05_davehat	Kalo ni Dave
+pk05_Ellie	Ellie
+pk05_Svenhat	Kalo ni Sven
+pk05_Burthat	Kalo ni Burt
+pk05_Ellryhat	Mohawk ni Ellry
+pk05_monocles	Dobleng Mga Monocle
+pk05_cheesetoppat	Keso nga top hot
+pk05_Macbethhat	Top hat ni Mr. Macbeth
+pk05_HenryToppat	Top hat ni Henry
+pk05_EllieToppat	Top hat ni Ellie
+pk05_GeoffreyToppat	Top hat ni Geoffrey
+	
+InsufficientStorageError	Dili paigo ang espasyo sa storage aron ma-download ang asset pack. Palihug pagbakante og espasyo sa imong device ug sulayi pag-usab.
+NetworkError	Adunay nahitabo nga error sa network. Palihug susiha ang imong mga setting sa koneksyon ug sulayi pag-usab.
+OtherDownloadError	Adunay nahitabong error: {0}
+DownloadingLabel	Gi-download ang {0}
+DownloadSizeLabel	Gidak-on sa Download: {0}MB
+	
+TimeRemaining	Nahibiling oras: {0}
+DeadLabel	PATAY NA
+	
+InviteFriends	Imbitaha ang Mga Higala
+	
+NutriLabel	NUTRI
+CO2Label	CO2
+RADLabel	RAD
+WaterLabel	TUBIG
+	
+DoorlogLabel	DOORLOG
+VitalsLabel	MGA VITAL
+OptionsLabel	I-CUSTOMIZE
+ProceedLabel	PADAYON
+StartLabel	PAGSUGOD
+UseLabel	GAMITA
+PlayAgain	PAGDULA PAG-USAB
+QuitLabel	MOBIYA
+ReportLabel	I-REPORT
+SabotageLabel	ISABOTAHE
+VentLabel	VENT
+KillLabel	PATYA
+DiscussLabel	PAGHISGOT!
+SkippedVoting	GILAKTAWAN ANG PAGBOTO
+SkipVoteLabel	LAKTAWI ANG PAGBOTO
+EmergencyMeeting	EMERGENCY MEETING
+BodyReported	ADUNAY GI-REPORT NGA PATAY NGA LAWAS
+SkinLabel	MGA PANIT
+HatLabel	MGA KALO
+PetLabel	MGA BINUHING MANANAP
+AnnouncementLabel	MGA ANUNSYO
+	
+UploadingLabel	NAG-UPLOAD
+ConnectionLabel	Koneksyon:
+NoneLabel	WALA
+PoorLabel	DILI MAAYO
+GoodLabel	MAAYO
+LogLabel	LOG
+ReadingLabel	READING
+WeatherDataDownload	PAG-DOWNLOAD SA DATOS SA PANAHON
+MiraBundle	MIRA HQ Bundle
+MiraSkinBundle	MIRA HQ Skin Bundle
+PolusBundle	Polus Bundle
+PolusSkinBundle	Polus Map Skin Bundle
+AirshipBundle	Airship Bundle
+PetAlien1	Bundle sa Brainslug
+PetCrewmate	Bundle sa Gamay nga Crewmate
+PetAnimal	Bundle sa Binuhing Hamster
+PetAlien2	Bundle sa Binuhing Bedcrab
+PetStickmin	Bundle sa Binuhing Stickmin
+PrisonerSkin	Piniriso
+Cyborg_RHM	Cyborg RHM
+CCC_Officer	CCC
+BeginLabel	SUGDI
+QuietLabel	SHHHHHHH!
+VentCleaning	I-clear ang Vent
+CleanUp	Limpyuhi
+ProgressLabel	Progreso:
+TermsOfUseTitle	Mga Termino sa Paggamit
+PPAndToUTitle	Palisiya sa Pagkapribado ug Mga Termino sa Paggamit
+	
+ErrorNotAuthenticated	Dili ka mapamatud-an sa mga server sa Among Us.\r\n\nKinahanglan nga aduna kay Among Us account aron makadula online.
+ComePlayDiscord	Ali pakigduwa og Among Us uban nako!
+
+ShowAccountSupportID5	Ipakita ang ID sa Suporta sa Account
+ShowAccountSupportID4	Pindota sa 4 pa ka higayon aron ipakita
+ShowAccountSupportID3	Ayaw ipaambit kini nga ID
+ShowAccountSupportID2	Ayaw ipakita samtang nag-stream (2)
+ShowAccountSupportID1	Ipakita gayud kanako kini nga ID
+SupportIDLabel	ID sa Suporta: {0}
+YouAreNotOnline	Dili ka online.
+NoDeadBodiesFound	Walay Nakita nga Mga Patay nga Lawas
+SupportEmail	Palihug kontaka ang support@innersloth.com mahitungod sa bisan unsang mga pangutana sa suporta.
+PerfectLabel	PERPEKTO
+PSNErrorSessionFailed	Dunay nahitabong problema sa kasamtangang sesyon sa game
+PSNErrorSessionJoinFailed	Napakyas pag-apil sa sesyon sa game
+PSNErrorSessionGetInfoFailed	Napakyas pagkuha og impormasyon sa sesyon sa game
+PSNErrorPSNConnectionLost	Nawala ang koneksyon sa PlayStation™Network
+PSNErrorUserSignedOut	Ni-sign out na ang user
+	
+CrossPlayTitle	Crossplay
+CrossPlayAllPlatforms	Tanang Mga Platform
+CrossPlaySamePlatform	Parehong Platform
+CrossPlayEnabledWarning	Gipagana ang Crossplay: Lagmit nga makakita ka og mga cross-network player.
+	
+TimeOutText	Dugay nag-sign in ang Sure. Gustong magpadayon sa offline mode?
+RetryText	Paghulat og mas dugay
+Continue	Padayon
+GameComplete	Kumpleto na ang Dula
+LevelShorthand	Lvl {0}
+MaxLevel	Max Lvl
+Cosmetic.hat_AbominalHat	Abominal Head
+Cosmetic.hat_Antenna_Black	Dili Maayong Reception - Itom
+Cosmetic.hat_Astronaut-Blue	Spacewalk - Asul
+Cosmetic.hat_Astronaut-Cyan	Spacewalk - Light Blue
+Cosmetic.hat_Astronaut-Orange	Spacewalk - Orange
+Cosmetic.hat_Bandana_Blue	Greh - Asul
+Cosmetic.hat_Bandana_Green	Greh - Green
+Cosmetic.hat_Bandana_Pink	Greh - Pink
+Cosmetic.hat_Bandana_Red	Greh - Pula
+Cosmetic.hat_Bandana_White	Greh - Puti
+Cosmetic.hat_Bandana_Yellow	Greh - Yellow
+Cosmetic.hat_baseball_Black	The Ol' Ball Game - Itom
+Cosmetic.hat_baseball_Green	The Ol' Ball Game - Green
+Cosmetic.hat_baseball_Lightblue	The Ol' Ball Game - Light Blue
+Cosmetic.hat_baseball_LightGreen	The Ol' Ball Game - Light Green
+Cosmetic.hat_baseball_Lilac	The Ol' Ball Game - Lilac
+Cosmetic.hat_baseball_Orange	The Ol' Ball Game - Orange
+Cosmetic.hat_baseball_Pink	The Ol' Ball Game - Pink
+Cosmetic.hat_baseball_Purple	The Ol' Ball Game - Purple
+Cosmetic.hat_baseball_Red	The Ol' Ball Game - Pula
+Cosmetic.hat_baseball_White	The Ol' Ball Game - Puti
+Cosmetic.hat_baseball_Yellow	The Ol' Ball Game - Yellow
+Cosmetic.hat_Basketball	Hole in One
+Cosmetic.hat_Beanie_Black	Beanie - Itom
+Cosmetic.hat_Beanie_Blue	Beanie - Asul
+Cosmetic.hat_Beanie_Green	Beanie - Green
+Cosmetic.hat_Beanie_Lightblue	Beanie - Baby Blue
+Cosmetic.hat_Beanie_LightGreen	Beanie - Baby Green
+Cosmetic.hat_Beanie_LightPurple	Beanie - Baby Pink
+Cosmetic.hat_Beanie_Pink	Beanie - Pink
+Cosmetic.hat_Beanie_Purple	Beanie - Purple
+Cosmetic.hat_Beanie_White	Beanie - Puti
+Cosmetic.hat_Beanie_Yellow	Beanie - Yellow
+Cosmetic.hat_Bowlingball	Strike
+Cosmetic.hat_Chocolate	Scoop sa Tsokolate
+Cosmetic.hat_CuppaJoe	Surveillance Joe
+Cosmetic.hat_Deitied	Shrine to the Deities
+Cosmetic.hat_Doc_black	Unsa, Dok? - Itom
+Cosmetic.hat_Doc_Orange	Unsa, Dok? - Orange
+Cosmetic.hat_Doc_Purple	Unsa, Dok? - Purple
+Cosmetic.hat_Doc_Red	Unsa, Dok? - Pula
+Cosmetic.hat_Doc_White	Unsa, Dok? - Puti
+Cosmetic.hat_Dodgeball	Out na Ka!
+Cosmetic.hat_Dorag_Black	Swarshburgalor - Coal
+Cosmetic.hat_Dorag_Desert	Swarshburgalor - Disyerto
+Cosmetic.hat_Dorag_Jungle	Swarshburgalor - Woodland
+Cosmetic.hat_Dorag_Purple	Swarshburgalor - Purple
+Cosmetic.hat_Dorag_Sky	Swarshburgalor - Sky
+Cosmetic.hat_Dorag_Snow	Swarshburgalor - Niyebe
+Cosmetic.hat_Dorag_Yellow	Swarshburgalor - Citrus
+Cosmetic.hat_DrillMetal	Drill
+Cosmetic.hat_DrillStone	Drill - Bato
+Cosmetic.hat_DrillWood	Drill - Kahoy
+Cosmetic.hat_EarmuffGreen	Muffs para sa Dunggan - Green
+Cosmetic.hat_EarmuffsPink	Muffs para sa Dunggan - Pink
+Cosmetic.hat_EarmuffsYellow	Muffs para sa Dunggan - Yellow
+Cosmetic.hat_EarnmuffBlue	Muffs para sa Dunggan
+Cosmetic.hat_Goggles_Black	Goggles Up - Itom
+Cosmetic.hat_Goggles_Chrome	Goggles Up - Chrome
+Cosmetic.hat_GovtDesert	Militante - Disyerto
+Cosmetic.hat_GovtHeadset	Greatest Headset
+Cosmetic.hat_Hardhat_black	Misunod sa OHSA - Itom
+Cosmetic.hat_Hardhat_Blue	Misunod sa OHSA - Asul
+Cosmetic.hat_Hardhat_Green	Misunod sa OHSA - Green
+Cosmetic.hat_Hardhat_Orange	Misunod sa OHSA - Orange
+Cosmetic.hat_Hardhat_Pink	Misunod sa OHSA - Pink
+Cosmetic.hat_Hardhat_Purple	Misunod sa OHSA - Purple
+Cosmetic.hat_Hardhat_Red	Misunod sa OHSA - Pula
+Cosmetic.hat_Hardhat_White	Misunod sa OHSA - Puti
+Cosmetic.hat_HardtopHat	Crane Operator
+Cosmetic.hat_headslug_Purple	Headslug - Purple
+Cosmetic.hat_headslug_Red	Headslug - Pula
+Cosmetic.hat_headslug_White	Headslug - Puti
+Cosmetic.hat_headslug_Yellow	Headslug - Yellow
+Cosmetic.hat_Heart	I heart u
+Cosmetic.hat_Helmet	Knighted
+Cosmetic.hat_Herohood_Black	Manggugubat sa Woodland - Itom
+Cosmetic.hat_Herohood_Blue	Manggugubat sa Woodland - Asul
+Cosmetic.hat_Herohood_Pink	Manggugubat sa Woodland - Pink
+Cosmetic.hat_Herohood_Purple	Manggugubat sa Woodland - Purple
+Cosmetic.hat_Herohood_Red	Manggugubat sa Woodland - Pula
+Cosmetic.hat_Herohood_White	Manggugubat sa Woodland - Puti
+Cosmetic.hat_Herohood_Yellow	Manggugubat sa Woodland - Yellow
+Cosmetic.hat_Janitor	Haunted Hotel
+Cosmetic.hat_MilitaryWinter	Militante - Tingtugnaw
+Cosmetic.hat_MinerBlack	Miner Setback - Itom
+Cosmetic.hat_MinerYellow	Miner Setback - Yellow
+Cosmetic.hat_mira_bush	Usa nga anaa sa Kamot
+Cosmetic.hat_mira_case	Mga Importanteng Dokumento
+Cosmetic.hat_mira_cloud	Ulo nga anaa sa Mga Panganod
+Cosmetic.hat_mira_flower	Talagsaong Buwak
+Cosmetic.hat_mira_flower_red	Humot nga Buwak
+Cosmetic.hat_mira_gem	Yunik nga Specimin
+Cosmetic.hat_mira_headset_blue	Greatest Headset - Asul
+Cosmetic.hat_mira_headset_pink	Greatest Headset - Pink
+Cosmetic.hat_mira_headset_yellow	Greatest Headset - Yellow
+Cosmetic.hat_mira_leaf	Vine Lamang
+Cosmetic.hat_mira_milk	Peach Drink
+Cosmetic.hat_mira_sign_blue	Dangog Kung Basa - Asul
+Cosmetic.hat_NewYears2018	Bag-ong Tuig 2019
+Cosmetic.hat_NoHat	Wala
+Cosmetic.hat_Paperhat_Black	Gipilo - Itom
+Cosmetic.hat_Paperhat_Blue	Gipilo - Asul
+Cosmetic.hat_Paperhat_Cyan	Gipilo - Seafoam
+Cosmetic.hat_Paperhat_Lightblue	Gipilo - Sky
+Cosmetic.hat_Paperhat_Pink	Gipilo - Pink
+Cosmetic.hat_Paperhat_Yellow	Gipilo - Yellow
+Cosmetic.hat_astronaut	Spacewalk
+Cosmetic.hat_pk01_BaseballCap	The Ol' Ball Game
+Cosmetic.hat_brainslug	Headslug
+Cosmetic.hat_bushhat	Done D
+Cosmetic.hat_captain	Cap-tain
+Cosmetic.hat_doubletophat	Toppat Chief
+Cosmetic.hat_flowerpot	Gitanom
+Cosmetic.hat_goggles	Goggles Up
+Cosmetic.hat_hardhat	Misunod sa OHSA
+Cosmetic.hat_military	Militante
+Cosmetic.hat_paperhat	Gipilo
+Cosmetic.hat_partyhat	P Hat
+Cosmetic.hat_police	Pulis-Opiser
+Cosmetic.hat_stethescope	Unsa, Dok?
+Cosmetic.hat_tophat	Toppat Grunt
+Cosmetic.hat_towelwizard	Bag-ong Nag-shower
+Cosmetic.hat_russian	Wall Ushanka
+Cosmetic.hat_viking	Vi King
+Cosmetic.hat_wallcap	The Wall Cap
+Cosmetic.hat_whitetophat	Toppat White Edition
+Cosmetic.hat_pk02_Crown	Gikoronahan
+Cosmetic.hat_pk02_Eyebrows	Stickmin Brows
+Cosmetic.hat_pk02_HaloHat	Pagkainosente
+Cosmetic.hat_pk02_HeroCap	Manggugubat sa Woodland
+Cosmetic.hat_pk02_PipCap	Tiny Jim
+Cosmetic.hat_pk02_PlungerHat	Barado
+Cosmetic.hat_pk02_ScubaHat	Aquatic Apparatus
+Cosmetic.hat_pk02_StickminHat	Stickmin Rider
+Cosmetic.hat_pk02_StrawHat	Serengetti Outta Here
+Cosmetic.hat_pk02_TenGallonHat	Ten Gallons
+Cosmetic.hat_pk02_ThirdEyeHat	Third Eye
+Cosmetic.hat_pk02_ToiletPaperHat	Ang Katapusang Wipe
+Cosmetic.hat_pk02_Toppat	Ang Bag-ong Chief
+Cosmetic.hat_pk03_Fedora	Fedorable
+Cosmetic.hat_pk03_Goggles	Pangseguridad nga Segundo
+Cosmetic.hat_pk03_Headphones	Greatest Headset
+Cosmetic.hat_pk03_Security1	Gihigpitang Seguridad
+Cosmetic.hat_pk03_StrapHat	Gartner
+Cosmetic.hat_pk03_Traffic	Traffic Jam
+Cosmetic.hat_traffic_purple	Traffic Jam - Purple
+Cosmetic.hat_pk04_Antenna	Dili Maayong Reception
+Cosmetic.hat_pk04_Archae	Siberia James
+Cosmetic.hat_pk04_Balloon	Molutaw Kitang Tanan Dinhi
+Cosmetic.hat_pk04_Banana	Gipakpakan
+Cosmetic.hat_pk04_Bandana	Greh
+Cosmetic.hat_pk04_Beanie	Beanie
+Cosmetic.hat_pk04_Bear	Unbearable
+Cosmetic.hat_pk04_BirdNest	Duha ka Itlog sa Salag
+Cosmetic.hat_pk04_CCC	Na-contain ang Kagubot
+Cosmetic.hat_pk04_Chef	My Name Chef
+Cosmetic.hat_pk04_DoRag	Swarshburgalor
+Cosmetic.hat_pk04_Fez	Fez up
+Cosmetic.hat_pk04_GeneralHat	Sa Kinatibuk-an
+Cosmetic.hat_pk04_HunterCap	Nimrod
+Cosmetic.hat_pk04_JungleHat	Pagtago
+Cosmetic.hat_pk04_MinerCap	Miner Setback
+Cosmetic.hat_pk04_MiniCrewmate	Gamay nga Crewmate
+Cosmetic.hat_pk04_Pompadour	Pompous Pompadour
+Cosmetic.hat_pk04_RamHorns	Rammed
+Cosmetic.hat_pk04_Slippery	Dangog Kung Basa
+Cosmetic.hat_pk04_Snowman	Snowmate
+Cosmetic.hat_pk04_Vagabond	Misteryosong Vagabond
+Cosmetic.hat_pk04_WinterHat	Cold One
+Cosmetic.hat_pk05_Burthat	Ako si Burt
+Cosmetic.hat_pk05_Cheese	Bein Cheesy
+Cosmetic.hat_pk05_cheesetoppat	Muenster
+Cosmetic.hat_pk05_Cherry	Cherry on Top
+Cosmetic.hat_pk05_davehat	Seguridad sa Museo
+Cosmetic.hat_pk05_Egg	Eggscellent
+Cosmetic.hat_pk05_Ellie	Red-headed Outlaw
+Cosmetic.hat_pk05_EllieToppat	Recruited Ellie
+Cosmetic.hat_pk05_Ellryhat	Funky Fusion
+Cosmetic.hat_pk05_Fedora	Noire Evening
+Cosmetic.hat_pk05_Flamingo	Floaty Flamingo
+Cosmetic.hat_pk05_FlowerPin	Daisy Me Rollin'
+Cosmetic.hat_pk05_GeoffreyToppat	Bighead
+Cosmetic.hat_pk05_Helmet	Knighted
+Cosmetic.hat_pk05_HenryToppat	Recruited Henry
+Cosmetic.hat_pk05_Macbethhat	Mr. Macbeth
+Cosmetic.hat_pk05_Plant	Young Sprout
+Cosmetic.hat_pk05_Svenhat	Sven Svensson
+Cosmetic.hat_pk05_Wizardhat	Tinuod nga Wiz
+Cosmetic.hat_pk06_Candycanes	Can'tdy Cane
+Cosmetic.hat_pk06_ElfHat	Toy Dude
+Cosmetic.hat_pk06_Lights	Lit Up
+Cosmetic.hats_newyears2018	Bag-ong Tuig 2019
+Cosmetic.hat_pk06_Present	Gift Wrapped
+Cosmetic.hat_pk06_Reindeer	Oh Dear, Rain
+Cosmetic.hat_pk06_Santa	Presents Dude
+Cosmetic.hat_pk06_Snowman	Frosted
+Cosmetic.hat_pk06_tree	Evergreen
+Cosmetic.hat_pkHW01_BatWings	Batty
+Cosmetic.hat_pkHW01_CatEyes	Batbean
+Cosmetic.hat_pkHW01_Horns	Imp-ressive
+Cosmetic.hat_pkHW01_Machete	Chop-chop
+Cosmetic.hat_pkHW01_Mohawk	MoRawk
+Cosmetic.hat_pkHW01_Pirate	Walk the Plank
+Cosmetic.hat_pkHW01_Pumpkin	Punkin
+Cosmetic.hat_pkHW01_ScaryBag	Mask, ang Monster Mask
+Cosmetic.hat_pkHW01_Witch	Witch One
+Cosmetic.hat_pkHW01_Wolf	Wearwolf
+Cosmetic.hat_Plunger_Blue	Barado - Asul
+Cosmetic.hat_Plunger_Yellow	Barado - Itom ug Yellow
+Cosmetic.hat_Ponytail	Blondie
+Cosmetic.hat_Pot	Digging Helmet
+Cosmetic.hat_Prototype	Prototype Helmet
+Cosmetic.hat_Ramhorn_Black	Rammed - Itom
+Cosmetic.hat_Ramhorn_Red	Rammed - Pula
+Cosmetic.hat_Ramhorn_White	Rammed - Puti
+Cosmetic.hat_Records	Records Recorder
+Cosmetic.hat_RockIce	Rock Out - Ice Cap
+Cosmetic.hat_RockLava	Rock Out - Eruptive
+Cosmetic.hat_Rubberglove	You Glove to See it
+Cosmetic.hat_Rupert	Rupert
+Cosmetic.hat_SnowbeanieGreen	Miabot na ang Tingtugnaw - Green
+Cosmetic.hat_SnowbeanieOrange	Miabot na ang Tingtugnaw - Orange
+Cosmetic.hat_SnowBeaniePurple	Miabot na ang Tingtugnaw - Purple
+Cosmetic.hat_SnowbeanieRed	Miabot na ang Tingtugnaw
+Cosmetic.hat_Soccer	Header
+Cosmetic.hat_TenGallon_Black	Ten Gallons - Itom
+Cosmetic.hat_TenGallon_White	Ten Gallons - Puti
+Cosmetic.hat_ThomasC	Thomas Top
+Cosmetic.hat_ToppatHair	Cool Katie
+Cosmetic.hat_Traffic_Blue	Traffic Jam - Asul
+Cosmetic.hat_Traffic_Red	Traffic Jam - Pula
+Cosmetic.hat_Traffic_Yellow	Traffic Jam - Yellow
+Cosmetic.hat_Unicorn	Magical 'Corn
+Cosmetic.hat_Visor	Visor Hat
+Cosmetic.hat_Voleyball	Spiked
+Cosmetic.hat_WilfordIV	Sir Wilford IV
+Cosmetic.hat_Winston	Corrupted nga Opisyal
+Cosmetic.hat_WinterGreen	Cold One - Green
+Cosmetic.hat_WinterHelmet	Pagtago - Winter
+Cosmetic.hat_WinterRed	Cold One - Pula
+Cosmetic.hat_WinterYellow	Cold One - Yellow
+Cosmetic.hat_Zipper	Crewmate Suit
+Cosmetic.nameplate_airship_CCC	Sentro sa Pag-contain sa Kagubot
+Cosmetic.nameplate_airship_Diamond	Mga Diamond!
+Cosmetic.nameplate_airship_Emerald	Mga Emerald!
+Cosmetic.nameplate_airship_Gems	The Vault Above
+Cosmetic.nameplate_airship_government	Ang Pinakamaayong Nameplate
+Cosmetic.nameplate_Airship_Hull	Airship Hull
+Cosmetic.nameplate_airship_Ruby	Mga Rubie!
+Cosmetic.nameplate_airship_Sky	Sa Ibabaw sa Mga Panganod
+Cosmetic.nameplate_airship_Toppat	Ang Toppat Airship
+Cosmetic.nameplate_is_dig	Dig2China
+Cosmetic.nameplate_is_game	SPORTS
+Cosmetic.nameplate_is_ghost	Ghostly Tower
+Cosmetic.nameplate_is_green	Deity's Lawn
+Cosmetic.nameplate_is_sand	Panalangin gikan sa mga Ginoo
+Cosmetic.nameplate_is_trees	Mga Kahoy
+Cosmetic.nameplate_is_yard	Dig Site
+Cosmetic.nameplate_Mira_Cafeteria	Menu Karong Adlawa: Pizza Juice
+Cosmetic.nameplate_Mira_Glass	Ang Sky sa Ubos
+Cosmetic.nameplate_Mira_Tiles	Mag-andam ko sa Mga Armas
+Cosmetic.nameplate_Mira_Vines	Kang Kinsang Vine Kana?
+Cosmetic.nameplate_Mira_Wood	Motan-aw ba ka niana
+	
+Cosmetic.nameplate_NoPlate	Wala
+Cosmetic.nameplate_Polus_Colors	Polus Palette
+Cosmetic.nameplate_Polus_DVD	SimSong Stan
+Cosmetic.nameplate_Polus_Ground	Purple Planet
+Cosmetic.nameplate_Polus_Lava	Lavaly
+Cosmetic.nameplate_Polus_Planet	Planet Polus
+Cosmetic.nameplate_Polus_Snow	Mga Yuta nga Adunay Niyebe
+Cosmetic.nameplate_Polus_SpecimenBlue	Specimen - Asul
+Cosmetic.nameplate_Polus_SpecimenGreen	Specimen - Green
+Cosmetic.nameplate_Polus_SpecimenPurple	Specimen - Purple
+Cosmetic.nameplate_Polus-Skyline	Polus Horizon
+Cosmetic.nameplate_Polus-Snowmates	Mga Snowmate sa Polus
+Cosmetic.pet_Alien	Headslug
+Cosmetic.pet_Bedcrab	Bedcrab
+Cosmetic.pet_Bush	Bushfriend
+Cosmetic.pet_Charles	Charles Chopper
+Cosmetic.pet_Charles_Red	Toppat Chopper
+Cosmetic.pet_Crewmate	Gamay nga Crewmate
+Cosmetic.pet_Cube	Deitied Guy
+Cosmetic.pet_Doggy	Doggy
+Cosmetic.pet_Ellie	E. Rose
+Cosmetic.pet_EmptyPet	Wala
+Cosmetic.pet_test	Glitch
+Cosmetic.pet_Hamster	Hampton
+Cosmetic.pet_Lava	Magmate
+Cosmetic.pet_Robot	Ro-Bot
+Cosmetic.pet_Snow	Snowball
+Cosmetic.pet_Squig	Squig
+Cosmetic.pet_Stickmin	H. Stickmin
+Cosmetic.pet_UFO	UFO
+Cosmetic.skin_Abominalskin	Abominal Snowmate
+Cosmetic.skin_Archae	Unearthed Wonders
+Cosmetic.skin_Astro	Astronaught
+Cosmetic.skin_Astro_blue	Astronaught Asul
+Cosmetic.skin_Astro_cyan	Astronaught Cyan
+Cosmetic.skin_Astro_orange	Astronaught Orange
+Cosmetic.skin_Bling	Bling Bling
+Cosmetic.skin_Bushskin	Sneaky
+Cosmetic.skin_BusinessFem-Aquaskin	Business Skirt - Aqua
+Cosmetic.skin_BusinessFemskin	Business Skirt
+Cosmetic.skin_BusinessFem-Tanskin	Business Skirt - Tan
+Cosmetic.skin_Capt	Lisensya sa Piloto
+Cosmetic.skin_CCC	Chaos Containment Crewmate
+Cosmetic.skin_D2Cskin	Digging Kid
+Cosmetic.skin_General	General Galeforce
+Cosmetic.skin_Hazmat	Hazmate
+Cosmetic.skin_Hazmat-Blackskin	Hazmate - Itom
+Cosmetic.skin_Hazmat-Blueskin	Hazmate - Asul
+Cosmetic.skin_Hazmat-Greenskin	Hazmate - Green
+Cosmetic.skin_Hazmat-Pinkskin	Hazmate - Pink
+Cosmetic.skin_Hazmat-Redskin	Hazmate - Pula
+Cosmetic.skin_Hazmat-Whiteskin	Hazmate - Puti
+Cosmetic.skin_JacketGreenskin	Jacket Up - Green
+Cosmetic.skin_JacketPurpleskin	Jacket Up - Purple
+Cosmetic.skin_JacketYellowskin	Jacket Up - Yellow
+Cosmetic.skin_Janitorskin	Mga Buluhaton sa Janitor
+Cosmetic.skin_Mech	Ayohon Nako Kana
+Cosmetic.skin_MechanicRed	Mekaniko sa Airship
+Cosmetic.skin_Military	Outfit sa Opisyal
+Cosmetic.skin_MilitaryDesert	Opisyal - Disyerto
+Cosmetic.skin_MilitarySnowskin	Opisyal - Niyebe
+Cosmetic.skin_Miner	Underminer
+Cosmetic.skin_MinerBlackskin	Underminer - Itom
+Cosmetic.skin_None	Wala
+Cosmetic.skin_Police	Opisyal sa Pulisya
+Cosmetic.skin_prisoner	Inmate 2112
+Cosmetic.skin_PrisonerBlue	Inmate 2112 - Asul
+Cosmetic.skin_PrisonerTanskin	Inmate 2112 - Tan
+Cosmetic.skin_rhm	Right Hand Man: Reborn
+Cosmetic.skin_RockIceskin	Ice to Meet You
+Cosmetic.skin_RockLavaskin	Rock Solid
+Cosmetic.skin_Science	Siyentipikong Theory
+Cosmetic.skin_Scientist-Blueskin	Doktor
+Cosmetic.skin_Scientist-Darkskin	Dark Scientist
+Cosmetic.skin_Security	Gipabilin kini nga Luwas
+Cosmetic.skin_Skin_SuitRedskin	Toppat Uniform
+Cosmetic.skin_SportsBlueskin	Sports Team ASUL
+Cosmetic.skin_SportsRedskin	Sports Team PULA
+Cosmetic.skin_SuitB	Naka-suit Up
+Cosmetic.skin_SuitW	Flashy
+Cosmetic.skin_SweaterBlueskin	Cozy Sweater - Asul
+Cosmetic.skin_SweaterPinkskin	Cozy Sweater - Pink
+Cosmetic.skin_Sweaterskin	Cozy Sweater
+Cosmetic.skin_SweaterYellowskin	Cozy Sweater - Yellow
+Cosmetic.skin_Tarmac	Land Here
+Cosmetic.skin_ToppatSuitFem	Toppat Skirt
+Cosmetic.skin_ToppatVest	Vested Interest
+Cosmetic.skin_Wall	Guarding the Wall
+Cosmetic.skin_Winter	Jacket Up
+Cosmetic.visor_BillyG	Mr. G
+Cosmetic.visor_Blush	Oh You
+Cosmetic.visor_Bomba	Bombastic
+Cosmetic.visor_Carrot	Happeh
+Cosmetic.visor_Crack	Among Us Cracked 2021
+Cosmetic.visor_D2CGoggles	Dig Down
+Cosmetic.visor_Dirty	Wash Me
+Cosmetic.visor_Dotdot	dot dot dot
+Cosmetic.visor_EmptyVisor	Wala
+Cosmetic.visor_EyepatchL	Adunay Tabon ang Mata
+Cosmetic.visor_EyepatchR	Adunay Tabon ang Mata
+Cosmetic.visor_Galeforce	Galeforce Whiskers
+Cosmetic.visor_is_beard	A Beard
+Cosmetic.visor_JanitorStache	Ghostly Moustache
+Cosmetic.visor_Krieghaus	Krieghaus
+Cosmetic.visor_Lava	Helmelted
+Cosmetic.visor_LolliBlue	Lollipop - Asul
+Cosmetic.visor_LolliBrown	Lollipop - Brown
+Cosmetic.visor_LolliOrange	Lollipop - Orange
+Cosmetic.visor_LolliRed	Lollipop
+Cosmetic.visor_mira_card_blue	Passcard - Asul
+Cosmetic.visor_mira_card_red	Passcard - Pula
+Cosmetic.visor_mira_glasses	Spectacles
+Cosmetic.visor_mira_mask_black	Blocks Toxics - Itom
+Cosmetic.visor_mira_mask_blue	Blocks Toxics - Asul
+Cosmetic.visor_mira_mask_green	Blocks Toxics - Green
+Cosmetic.visor_mira_mask_purple	Blocks Toxics - Purple
+Cosmetic.visor_mira_mask_red	Blocks Toxics - Pula
+Cosmetic.visor_mira_mask_white	Blocks Toxics - Puti
+Cosmetic.visor_Mouth	Wurm
+Cosmetic.visor_PiercingL	Gitusukan
+Cosmetic.visor_PiercingR	Gitusukan
+Cosmetic.visor_pk01_AngeryVisor	a n g e r y
+Cosmetic.visor_pk01_DumStickerVisor	Note 2 Self
+Cosmetic.visor_pk01_FredVisor	Great Goalie
+Cosmetic.hat_geoff	My Name Geoff
+Cosmetic.visor_pk01_HazmatVisor	Blocks Toxics
+Cosmetic.visor_pk01_MonoclesVisor	Dobleng Mga Monocle
+Cosmetic.visor_pk01_PaperMaskVisor	Luwas Dili Sorry
+Cosmetic.visor_pk01_PlagueVisor	Plagued
+Cosmetic.visor_pk01_RHMVisor	Right Hand Stache
+Cosmetic.visor_pk01_Security1Visor	Shades
+Cosmetic.visor_polus_ice	Icicle Tears
+Cosmetic.visor_Reginald	Reginald Stache
+Cosmetic.visor_Scar	Scarred
+Cosmetic.visor_SciGoggles	Una ang Kaluwasan
+Cosmetic.visor_shopglasses	Shop Here
+Cosmetic.visor_SkiGoggleBlack	Hit the Slopes - Itom
+Cosmetic.visor_SKiGogglesOrange	Hit the Slopes - Orange
+Cosmetic.visor_SkiGogglesWhite	Hit the Slopes
+Cosmetic.visor_SmallGlasses	Tiny Specs
+Cosmetic.visor_SmallGlassesBlue	Tiny Specs - Asul
+Cosmetic.visor_SmallGlassesRed	Tiny Specs - Pula
+Cosmetic.visor_Stickynote_Cyan	Note 2 Self - Cyan
+Cosmetic.visor_Stickynote_Green	Note 2 Self - Green
+Cosmetic.visor_Stickynote_Orange	Note 2 Self - Orange
+Cosmetic.visor_Stickynote_Pink	Note 2 Self - Pink
+Cosmetic.visor_Stickynote_Purple	Note 2 Self - Purple
+Cosmetic.visor_Straw	Dadgum
+Cosmetic.visor_WinstonStache	Riding Shotgun
+Visor	Visor
+EquipLabel	Equip
+NamePlate	Nameplate
+Visors	Mga Visor
+NamePlates	Mga Nameplate
+Cosmicube	Cosmicube
+Cosmicubes	Cosmicubes
+Activate	I-activate
+Deactivate	I-deactivate
+Owned	Gipanag-iya
+Purchase	Palita
+CosmicubeProgression	{0}% ang Nakumpleto
+ViewCube	Tan-awa ang Cube
+ConfirmPurchaseHeader	Kumpirmaha ang Pagpalit
+ConfirmPurchaseText	Gusto ba nimong paliton ang mosunod nga branch sa {0}?
+DeactivateCube	I-deactivate
+ActivateCube	I-activate
+Bundles	Mga Bundle
+Stars	Mga Star
+Wardrobe	Wardrobe
+PlayerLevel	Lebel
+PlayerXp	XP
+PlayerLevelExtremeShorthand	Lv
+Max	Max
+Colors	Mga Kolor
+CopiedText	Gikopya ang teksto!
+LinkAccount	I-link ang Account
+CreateNewAccount	Paghimo og Bag-ong Account
+LinkExistingAccount	I-link ang Kasamtangang Account
+LinkAccountExplanation	Kung aduna na kay Among Us account sa laing platform, lagmit nga mahimo kang mag-link niadto nga account!\nIsip alternatibo, mahimo kang magbuhat og bag-ong account.
+LinkAccountCode	Ibutang ang mosunod nga code sa <link="{0}">{1}</link> \n<size=+2>{2}</size>
+ErrorLink	Adunay nahitabo nga problema sa pag-link sa imong account. Palihug sulayi pag-usab sa laing panahon.
+UnlinkAccount	I-unlink ang Account
+ConfirmUnlinkAccount	Kumpirmaha ang Pag-unlink sa Account
+UnlinkAccountExplain	Kung i-unlink ang imong {0} account , ma-wipe ang imong datos ug maghimo og bag-ong {0} account.\n- Mawala ang bisan unsang mga aytem nga imong nadawat o na-unlock sa imong {0} account.\n- Mag-restart ka sa lebel 1 ug 0 XP.
+UnlinkAccountExplainConfirm	Palihug i-save kini nga ID para sa reperensya:\n\n{0}\n\nKung i-unlink nimo ang imong account ug wala ka niini nga ID, dili namo ma-recover ang imong progreso ug dili ka matabangan kung adunay sayop.
+UnlinkError	Adunay nahitabo nga problema sa pag-unlink sa imong account. Palihug sulayi pag-usab sa laing panahon.
+UnlinkSuccess	Malamposon nimong na-unlink ang {0} gikan sa imong pangunang Among Us account!
+ConfirmLinkExistingAccount	Kumpirmaha ang Pag-link sa Kasamtangang Account
+LinkExistingAccountExplain	Kung mag-link sa laing account, ma-overwrite ang tanang datos niini nga platform. Nagpasabot kini nga pulihan sa laing account ang imong {0} Among Us account.\n- Ma-overwrite ang bisan unsang mga aytem nga imong na-unlock sa imong{0} account.\n- Ma-overwrite ang tanang XP nga nakuha sa imong{0} account.\n- Ma-overwrite ang tanang mga Bean, Pod, ug Star.
+LinkExistingAccountExplainConfirm	Sa labing daling panahon nga magkumpirma ka, i-reset namo ang imong {0} Among Us account aron mag-andam para sa pag-import sa datos gikan sa laing account.\n\n<color=#{1}>SIGUROHA NGA ADUNA KAY LAING KASAMTANGANG ACCOUNT DIIN GUSTO NIMONG I-LINK KINI NGA ACCOUNT SA DILI  PA IPROSESO.</color>\n\nKung i-reset ang imong {0} account, mapapas ang tanang XP, Bean, Pod, ug mga aytem ug mahimong 0. DILI namo ma-revert kini nga aksyon.
+ResetAccount	I-reset ang Account
+	
+PurchasingLabel	Pagpalit og Aytem
+	
+ErrorInternalServer	Internal nga Error sa Server (Code {0})
+ErrorPlatformLock	Gi-lock kini sa creator niini nga room sa ilang platform
+ErrorLobbyInactivity	Gisirado sa server ang room tungod sa walay aktibidad
+ErrorMatchmakerInactivity	Gidiskonekta ka sa server tungod sa walay aktibidad
+ErrorInvalidGameOptions	Dili balido ang mga opsyon sa dula nga nadawat. Lagmit nga kinahanglan nimong i-clear ang tanang gi-save nga datos ug i-restart ang dula.
+ErrorNoServersAvailable	Walay available nga mga server. Gikasubo namo! Sulayi pag-usab sa laing panahon.
+ErrorQuickmatchDisabled	Kasamtangang dili available ang QuickMatch. Palihug sulayi hinuon sa pag-apil sa usa ka dula.
+ErrorTooManyGames	Adunay daghan kaayong mga dula. Palihug sulayi hinuon sa pag-apil sa usa ka dula.
+Bundle.hat_holiday2018	Bundle sa Kalo sa Holiday 2018 
+Bundle.hats_bundle2	1M nga Download sa Bundle nga Kalo
+Bundle.hats_halloween2019	Bundle sa Kalo sa Holiday 2019
+Bundle.hats_newyears2018	Bundle sa Kalo sa Bag-ong Tuig 2018
+Bundle.map_airship	Airship Bundle
+Bundle.map_mira	MIRA Bundle
+Bundle.map_polus	Polus Bundle
+Bundle.pet_alien1	Bundle sa Binuhing Brainslug
+Bundle.pet_alien2	Bundle sa Binuhing Bedcrab
+Bundle.pet_animal	Bundle sa Binuhing Mananap
+Bundle.pet_crewmate	Bundle sa Binuhi sa Crewmate
+Bundle.pet_stickmin	Bundle sa Binuhing Stickmin
+StoreComingSoon	Hapit na moabot...
+	
+StartCosmicubeLabel	PAGSUGOD
+Bundle.star_bundle	Star bundle
+ErrorPlatformParentalControlsBlock	Ang imong parental controls, o ang parental controls sa mga manunuwa nga imong gisulayan og apil wala nagtugot kanimo nga kaubang makigduwa.
+ErrorPlatformParentalControlsBlockPS	Ang imong parental controls, o ang parental controls sa mga manunuwa nga imong gisulayan og apil wala nagtugot kanimo nga kaubang makigduwa.
+FailPurchase	Dunay nahitabong problema niini nga transaksyon. Palihug Sulayi pag-usab unya.
+FailPurchaseUnknown	Code sa Sayop {0}
+FailPurchaseAlreadyOwn	Gipanag-iya ni nimo kini nga item.
+FailPurchaseCurrency	Wala kay igong gikinahanglang kwarta aron paliton kini nga item.
+FailPurchaseCubeOwn	Dili imoha kining Cosmicube.
+Locked	NAKA-LOCK
+	
+Active	AKTIBO
+Crewmates	Mga Crewmate
+XpGainedValue	{0} XP
+	
+XboxShopBrowseAll	I-browse ang tanang mga item sa Microsoft Store
+PSShopBrowseAll	I-browse ang tanang mga item sa PlayStation™Store
+Equipped	Naka-equip
+	
+MouseMovement	Paglihok sa Mouse
+KeyboardOptions	Mga Opsyon sa Keyboard
+RemapBindings	Bag-oha ang Mga Key Binding...
+KeyboardBindingsHeader	Mga Keyboard Binding
+HowToPlayText_Consoles	Pakigdula sa 4 hangtud sa 15 ka player online!
+	
+StarDisclaimer	Palit og ka Stars sa Among Us aron i-unlock ang usa ka bag-ong galaksiya sa customization! Igasto ang mga Stars sa in-game store aron makakuha og eksklusibong mga kosmetiko ug talagsaong Cosmicubes. Ang tanang Stars nga gipalit dinhi dili ma-redeem o magamit sa PlayStation®, o Nintendo Switch™.
+	
+Commsdisabled	[GI-DISABLE ANG COMMS]
+ErrorQuickChatMode	Sayop nga chat mode: Gihimo kini nga room para sa {0}. Ang imong setting maoy {1}.
+
+	
+ErrorLobbyUsersBlocked	Dili makaapil: Ang lobby dunay user nga naa sa block list o user nga nag-block nimo. Palihug pagsulay og lain.
+SteamNotInitialized	Wala natarong og initialize ang Steam. Palihug i-restart ang duwa gikan sa Steam ug sulayi pag-usab.
+LoggedInErrorStarPurchase	Kinahanglan ka nga malog in sa imong account aron makapalit og Stars
+ErrorDisconnectPacket	Ni-disconnect sa gikan sa server.
+AndroidAssetBundleWarning	Aron makumpleto ang pag-install, ang Among Us kinahanglang mag-download og dugang content. Pindota ang “Dawata” aron mopadayon.
+ItchNoStars	Ikasubo, dili available ang pagpalit og Stars sa itch.io. Bisan pa, ang pag-link sa imong itch.io nga account ngadto sa laing plataporma (pananglit, ubang bersyon sa PC) magtugot nimo nga makapalit ug maka-access sa Stars gikan didto! Matikdi: Ang Stars nga gipalit sa Nintendo Switch™ dili crossplatform, mao nga dili ma-redeem sa bisan unsang laing plataporma.
+Roles	Mga Role
+RolesSettings	Mga Setting sa Role
+ScientistRole	Scientist
+EngineerRole	Engineer
+GuardianAngelRole	Guardian Angel
+ShapeshifterRole	Shapeshifter
+ScientistBlurb	Paggamit og mga vital bisan kanus-a
+EngineerBlurb	Makagamit sa mga vent
+GuardianAngelBlurb	Panalipdi ang nahibiling crew
+ShapeshifterBlurb	Pag-disguise sa imong kaugalingon
+CrewmateBlurb	Pagbuhat og mga task
+ImpostorBlurb	Patya ug isabotahe
+RolesHelp_CrewmateRole	Role sa Crewmate: {0}
+RolesHelp_ImpostorRole	Role sa Impostor: {0}
+RolesHelpIntro_01	Magdugang ang mga role og bag-ong lebel sa paglimbong ug estratehiya sa klasiko nga dula!
+RolesHelpIntro_02	Ang Mga Crewmate ug Impostor mahimong adunay mga role nga gi-assign kanila nga random, depende sa mga setting sa dula nga gipili sa host.
+RolesHelp_Scientist_01	Ang Scientist maka-access sa usa ka portable vitals panel bisan asa aron masusi ang kahimtang sa mga crew.
+RolesHelp_Scientist_02	Bisan pa man, kinahanglang ma-charge ang panel, maong kinahanglang makompleto sa Scientist ang mga task aron mapuno ang baterya.
+RolesHelp_Engineer_01	Ang Engineer mao ang Crewmate nga makagamit sa mga vent aron mas paspas nga makalihok, aron pud sa pagdakop sa mga Impostor nga nag-vent sa akto.
+RolesHelp_Engineer_02	Apan dili ka puwedeng magpabilin didto hangtod sa hangtod ug makaduda kini kaayo, busa pag-amping kung kinsa ang imong i-vent sa palibot...
+RolesHelp_GuardianAngel_01	Ang Guardian Angel mao ang kalag sa usa ka Crewmate. Mahimo nilang temporaryong panalipdan ug protektahan ang ubang buhi nga mga Crewmate.
+RolesHelp_GuardianAngel_02	Orasi kini og maayo ug mapugngan nimo ang mga Impostor sa pagpatay sa ilang mga biktima. Swerte!
+RolesHelp_Shapeshifter_01	Ang Shapeshifter maka-usab sa ilang panagway ug maka-disguise sa ilang kaugalingon ingong ubang mga Crewmate. Taronga kini og himo aron ma-frame ang ubang mga Crewmate ug makahimo og kalibog kung kinsa ang tinuod nga Impostor.
+RolesHelp_Shapeshifter_02	Pero pagbantay - ang disguise dili magdugay ug magbilin og ebidensya.
+RolesHelpOutro_01	Ma-customize ang mga role! Ang mga host sa dula mahimong makapili kung pila ka beses ang Engineer maka-vent, pag-cooldown sa Shapeshifter, ug uban pa. Mahimo usab nila pilion ang porsyento sa higayon sa usa niini nga mga papel nga mahitabo sa dula. Kanunay nimong makita kung ang usa ka papel gi-on sa mga setting sa lobby sa dula!
+RolesHelpOutro_02	Sulayi og maayo ang mga setting nga hilabihang gusto nimo aron mahimo ang imong katapusang lobby, o apil sa usa ug tan-awa kung unsa nga kagubot ang mahimo nimong ipahinabo didto. Mahimong magdugang mi og mga bag-ong mga role sa dula, busa balik dinhi kung kinahanglan nimo! Paglingaw!
+YourRoleIs	Ang imong role maoy
+ShapeshiftAbility	Shift
+VitalsAbility	Vitals
+ProtectAbility	Panalipdi
+VentAbility	Vent
+ShapeshiftAbilityUndo	Pag-unshift
+RoleChanceAndQuantity	{0} nga dunay {1}% nga Tsansa
+CheckingPurchasesLabel	Gisusi ang Mga Pagpalit...
+ProtectedRecently	Dunay gipanalipdan bag-o lang ang Guardian Angel...
+ScientistBlurbMed	I-access ang mga vital bisan kanus-a. Pagkumpleto\nog mga tahas aron i-recharge ang imong battery.
+ScientistBlurbLong	Ang Scientist maka-access og portable vitals panel bisan asa aron masusi ang status sa crew. Bisan pa, ang portable vitals panel kinahanglang i-charge, mao nga kinahanglang sa Scientist nga mukumpleto og mga tahas aron mapuno ang battery.
+EngineerBlurbMed	Makagamit sa mga vent.
+EngineerBlurbLong	Ang Engineer usa ka Crewmate nga makagamit sa mga vent aron mas paspas nga makalakaw, ingon man makadakop sa mga Impostor. Dili ka pwedeng magpuyo didto kanunay, mao nga pag-amping kung kinsa ang imong i-vent...
+GuardianAngelBlurbMed	Pag-cast og protection shield sa nahibiling crew.
+GuardianAngelBlurbLong	Ang Guardian Angel mao ang ghost sa unang namatay nga Crewmate. Sila temporaryong maka-shield ug makapanalipod sa ubang buhing mga Crewmate. Orasi kini og maayo ug mapugngan nimo ang mga Impostor sa pagpatay sa ilang mga biktima. Swerte!
+ShapeshifterBlurbMed	I-disguise imong kaugalingon pinaagi sa pag-morph\nngadto sa ubang mga Crewmate.
+ShapeshifterBlurbLong	Ang Shapeshifter maka-usab sa ilang panagway ug maka-disguise sa ilang kaugalingon ingong ubang mga Crewmate. Taronga kini og himo aron ma-frame ang ubang mga Crewmate ug makahimo og kalibog kung kinsa ang tinuod nga Impostor. Pero pagbantay - ang disguise dili magdugay ug magbilin og ebidensya.
+RoleHint	Hint
+ScientistBatteryCharge	Gidugayon sa Battery
+ScientistCooldown	Vitals Display Cooldown
+ShapeshifterCooldown	Shapeshift Cooldown
+ShapeshifterDuration	Gidugayon sa Shapeshift
+ShapeshifterLeaveSkin	Pagbilin og Ebidensya sa Shapeshifting
+EngineerCooldown	Vent Use Cooldown
+EngineerInVentCooldown	Max nga Oras sa mga Vent
+GuardianAngelCooldown	Protect Cooldown
+GuardianAngelDuration	Gidugayon sa Protection
+OracleRole	Oracle
+OracleBlurb	Nakaila sa usa ka Crewmate nga dili Impostor
+OracleBlurbMed	Nakaila sa usa ka Crewmate nga dili Impostor.
+OracleBlurbLong	Ang Oracle mao ang Crewmate nga nakahibalo nga dili Impostor ang usa ka Crewmate
+Cosmetic.hat_heim	Buhok ni Heimerdinger
+Cosmetic.hat_enforcer	Helmet sa Tigpatuman
+Cosmetic.hat_caitlin	Kalo ni Caitlyn
+Cosmetic.hat_clagger	Goggles ni Claggor
+Cosmetic.hat_vi	Buhok ni Vi
+Cosmetic.hat_jinx	Buhok ni Jinx
+Cosmetic.hat_jayce	Buhok ni Jayce
+Cosmetic.hat_comper	Chomper
+Cosmetic.visor_heim	Bungot ni Heimerdinger
+Cosmetic.visor_jinx	Goggles ni Jinx
+Cosmetic.skin_heim	Suit ni Heimerdinger
+Cosmetic.skin_jayce	Council Suit ni Jayce
+Cosmetic.skin_enforcer	Armadura sa Tigpatuman
+Cosmetic.skin_caitlin	Uniporme ni Caitlyn
+Cosmetic.skin_jinx	Sinina ni Jinx
+Cosmetic.skin_vi	Sinina ni Vi
+Cosmetic.pet_poro	Poro ni Heimerdinger
+RedeemPurchasedItemsTitle	I-redeem ang Napalit nga Mga Item
+RedeemPurcahsedItemsExplain	Dunay miy bag-ong inventory system aron ma-access nimo ang imong mga item sa tanang mga platporma! Ang bisan unsang mag item nga gipalit sa miagi niini nga plataporma mahimong mabalhin ngadto sa among bag-ong inventory system nga KUASA LANG. \nPalihug siguradoha nga kini mao ang Account sa Among Us nga gusto nimong i-import ngadto ang imong napalit nga mga item sa miagi sa dili pa mopadayon.\n\nAccount ID: {0}
+RedeemProceed	Padayon
+RedeemNotYet	Dili Sa Karon
+RedeemNever	Ayaw Pangutana Balik
+AccountIDDisplay	Account ID: {0}
+Cosmetic.hat_witch_white	Witch One – Puti
+Cosmetic.hat_witch_pink	Witch One – Pink
+Cosmetic.hat_witch_murky	Witch One – Murky
+Cosmetic.hat_witch_green	Witch One – Green
+Cosmetic.hat_papermask	Mask, ang Monster Mask – Light
+Cosmetic.hat_mohawk_rainbow	Morawk – Rainbow
+Cosmetic.hat_mohawk_purple_green	Morawk – Purplegreen
+Cosmetic.hat_mohawk_bumblebee	Morawk – Bumblebee
+Cosmetic.hat_devilhorns_yellow	Im-pressive - Bulawan
+Cosmetic.hat_devilhorns_white	imp-pressive - Puti
+Cosmetic.hat_devilhorns_murky	imp-ressive - Murky
+Cosmetic.hat_devilhorns_green	imp-ressive - Green
+Cosmetic.hat_devilhorns_crewcolor	imp-ressive - Crewcolor
+Cosmetic.hat_devilhorns_black	imp-ressive - Itom
+Cosmetic.hat_cat_grey	Batbean - Grey
+Cosmetic.hat_cat_snow	Batbean - Snow
+Cosmetic.hat_cat_pink	Batbean - Pink
+Cosmetic.hat_cat_orange	Batbean - Orange
+Cosmetic.hat_wolf_grey	Wearwolf - Grey
+Cosmetic.hat_wolf_murky	Wearwolf - Murky
+Cosmetic.hat_bat_ice	Batty - Ice
+Cosmetic.hat_bat_green	Batty - Green
+Cosmetic.hat_bat_crewcolor	Batty - Crewcolor
+Cosmetic.skin_mummy	Gusto Nako akong Mummy
+Cosmetic.visor_mummy	Nahuman Na
+Cosmetic.hat_mummy	Mummy Mood
+Cosmetic.hat_candycorn	Candycorny
+Cosmetic.hat_clown_purple	Clown Town
+Cosmetic.hat_fairywings	Fairy Flutters
+Cosmetic.hat_fishhed	Fish Hed
+Cosmetic.hat_frankenbolts	Frankenbolts
+Cosmetic.hat_frankenbride	Asawa ni Franken
+Cosmetic.visor_clownnose	Nagpabuang-buang
+Cosmetic.visor_masque_blue	Masque’d Up – Blue
+Cosmetic.visor_masque_green	Masque’d Up – Green
+Cosmetic.visor_masque_red	Masque’d Up – Red
+Cosmetic.visor_masque_white	Masque’d Up – Puti
+Cosmetic.nameplate_hw_pumpkin	Jack-o-Pumpkin
+Cosmetic.nameplate_hw_candy	Candy Time
+Cosmetic.nameplate_hw_woods	Spooky nga Kakahuyan
+Cosmetic.hat_axe	Grabeng Labad sa Ulo
+Cosmetic.visor_eyeball	Nagbantay Kanimo
+Cosmetic.hat_tombstone	RIP in Pieces
+Cosmetic.hat_bone	Gibukogan Ka
+Cosmetic.hat_arrowhead	Arrow’d
+Cosmetic.hat_glowstick	Tibuok Gabiing Nagyawyaw
+Cosmetic.skin_clown	Crewbo ang Clown
+Cosmetic.skin_fairy	Fairy Godcrewmate
+Cosmetic.skin_fishmonger	Ang Fishmonger
+Cosmetic.skin_pumpkin	Big Ol’ Pumpkin Pants
+Cosmetic.skin_vampire	I Vant to Keel
+Cosmetic.skin_witch	Whimsy Witch
+Cosmetic.pet_frankendog	Frankendog
+Cosmetic.hat_mohawk_bubblegum	Morawk - Bubblegum
+AvailableFor	Available sulod sa\n{0}d {1}h {2}m {3}s
+GuardianAngelImpostorSeeProtect	Makita ang Pagpanalipod ngadto sa Mga Impostor
+Cosmetic.hat_pkHW01_PlagueHat	Plagued
+	
+QCAccIsRole	{0} maoy {1}
+QCAccIsRole_QCCrewMe_ANY	Ako ang {0}
+QCAccIsRoleNeg	Dili si {0} ang {1}
+QCAccIsRoleNeg_QCCrewMe_ANY	Dili ako {0}
+QCAccIsRoleNeg_QCCrewNoOne_ANY	Walay usa nga {1}
+QCAccShapeshited	{0} ni-shapeshifted ngadto sa {1}
+QCAccShapeshited_QCCrewMe_ANY	Ni-shapeshift ngadto sa {1}
+QCStaShapeshifterSkin	Nakita ang panit sa shapeshifter sa {0}
+QCResIsBeingFramed	Si {0} gi-frame
+QCResIsBeingFramed_QCCrewMe	Gi-frame ko
+QCResCloseTo	{0} duol kang {1}
+QCResCloseTo_QCCrewMe_ANY	Duol ko kang {0}
+QCResCloseTo_ANY_QCCrewMe	{0} suod kanako
+QCResIsRoleMaybe	{0} lagmit nga {1}
+QCResIsRoleMaybe_QCCrewMe_ANY	Ako lagmit nga {1}
+QCResProtected	{0} gipanalipdan {1}
+QCResProtected_QCCrewMe_ANY	Gipanalipdan nako si {1}
+QCResProtected_ANY_QCCrewMe	Si {0} nagpanalipod nako
+QCRoles	Mga Role
+GuestProgressionWarning	Nakalog-in ka sa usa ka Guest nga Account. \n\nAng tanang XP, mga Pod, ug mga Beans nga kita maoy para lang niini nga Guest nga Account. Ang mga Guest nga Account naka-link lang sa imong personal nga device ug mawala kon magpuli ka ug mga device. \n\nAron maseguro ang access sa tanan nimong kita nga mga currency ug usab ang imong mga gipamalit, palihog i-open ang account tab sa pangunang menu ug sign-in sa imong Among Us nga Account.
+	
+ErrorFailedToCreateGame	Napakyas paghimo og bag-ong sesyon sa dula. Palihog sulayi og usab unya.
+ErrorFailedToJoinCreatedGame	Napakyas pag-apil sa sesyon sa dula human mahimo kini. Palihog sulayi og usab unya.
+ErrorDisconnectBeforeJoining	Naputol sa wala pa maapil sa sesyon sa dula.
+	
+PSEULA_SIEA	
+PSEULA_SIEE	
+ErrorCrossPlatformCommunication	Ang imong mga setting sa komunikasyon nagbabag kanimo sa pag-apil sa duwa. Aron moapil niini nga duwa, palihug i-enable ang komunikasyon sa crossplay.
+ErrorCrossPlat	Ang kwarto nga imong gisudlan kay crossplatform, apan gi-disable nimo ang crossplay sa imong lokal nga mga setting.
+ErrorDuplicateConnection	Dobleng pag-login nadetect.
+ErrorLobbyFailedGettingBlockedUsers	Dili makaapil: Dunay nahitabong error sa server pakuha og blocklist
+	
+MaxVentUses	Max Vent nga mga Gamit
+MaxTimeInVent	Max nga Oras sa Vent
+MinCrewmatesForVitals	Min Buhi nga Crewmates aron Pag-unlock sa Vitals
+ShowAccountID	Ipakita ang Account ID
+HideAccountID	Itago ang Account ID
+HiddenAccountID	[Gitagoan ang Account ID]
+AllTasksComplete	Kumpleto ang tanang mga task!
+EscapePrompt	Ni-eskapo ang mga crewmate sa:
+FlashlightFov	Flashlight Field of Vision
+SteamOverlayDisabled	Ang imong Steam overlay gikinahanglang ma-enable para makapalit og Star Bundles. Palihug i-enable imong In-Game Steam overlay ug dayon i-restart ang duwa.
+Cosmetic.hat_pk05_RHM	Tuong Kamot nga Kalo
+	
+Cosmetic.skin_w21_deer	Pinanggang Ulan
+Cosmetic.skin_w21_elf	Katabang ni Santa
+Cosmetic.skin_w21_msclaus	Claus, Si Mrs. Claus
+Cosmetic.skin_w21_nutcracker	Ang Nutcracker
+Cosmetic.skin_w21_santa	Aniaaaaa si Santa!
+Cosmetic.skin_w21_snowmate	Kauban sa niyebe
+Cosmetic.hat_w21_snowman	Kanang Karaang Kalo nga among Nakit-an
+Cosmetic.hat_w21_gingerbread	Tripolanteng Luy-a
+Cosmetic.hat_w21_holly	Deck sa mga Hall
+Cosmetic.hat_w21_krampus	Krampus
+Cosmetic.hat_w21_log	Si Yule nga kinahanglan mo-Log in
+Cosmetic.hat_w21_mistletoe	Haloki ko
+Cosmetic.hat_w21_mittens	Gihampak ug Gigwantes
+Cosmetic.hat_w21_nutcracker	Crack-og-kulang
+Cosmetic.hat_w21_pinecone	Naghinam kanimo
+Cosmetic.hat_w21_winterpuff	Kumportableng Pom
+Cosmetic.hat_w21_snowflake	Snowflake
+Cosmetic.visor_w21_carrot	Ilong sa Karot
+Cosmetic.visor_w21_nutstache	Crack-og-stache
+Cosmetic.visor_w21_santabeard	Bungot ni Santa
+Cosmetic.nameplate_w21_snow	Naggilak ang Niyebe
+Cosmetic.nameplate_w21_tree	Ang mga Bitoon Midan-ag sa Kahayag
+Cosmetic.nameplate_w21_fireplace	Pinaagi sa Chimineya nga adunay Sakyanan
+Cosmetic.visor_w21_nye	MALIPAYONG BAG-ONG TUIG - 2021
+Cosmetic.hat_w21_elf_pink	Kalo sa Katabang - Limba
+Cosmetic.hat_w21_elf_swe	Kalo sa Katabang – Asul
+Cosmetic.hat_w21_lights_white	Kahayag sa Holiday - Puti
+Cosmetic.hat_w21_lights_yellow	Kahayag sa Holiday - Dalag
+Cosmetic.hat_w21_present_evil	Giputos nga Regalo – Pula/Itom
+Cosmetic.hat_w21_present_redwhite	Giputos nga Regalo – Pula/Puti
+Cosmetic.hat_w21_present_whiteblue	Giputos nga Regalo – Puti/Asul
+Cosmetic.hat_w21_santa_evil	Presents Dude - Pilyo
+Cosmetic.hat_w21_santa_yellow	Presents Dude - Pinintalan
+Cosmetic.hat_w21_santa_green	Presents Dude - Lasang
+Cosmetic.hat_w21_santa_mint	Presents Dude - Mint
+Cosmetic.hat_w21_santa_pink	Presents Dude - Pink
+Cosmetic.hat_w21_santa_white	Presents Dude - Icy
+Cosmetic.hat_w21_snowman_swe	Frosted - Asul/Dalag
+Cosmetic.hat_w21_snowman_evil	Frosted - Pilyo
+Cosmetic.hat_w21_snowman_greenred	Frosted - Berde
+Cosmetic.hat_w21_snowman_redgreen	Frosted - Pula/Berde
+Cosmetic.hat_w21_present_greenyellow	Giputos nga Regalo – Berde/Dalag
+Cosmetic.hat_w21_candycane_blue	Can'tdy Cane - Blueberry
+Cosmetic.hat_w21_candycane_bubble	Can'tdy Cane - Bubblegum
+Cosmetic.hat_w21_candycane_chocolate	Can'tdy Cane - Mint nga Tsokolate
+Cosmetic.hat_w21_candycane_mint	Can'tdy Cane - Mint
+Cosmetic.skin_w21_tree	Imong mga Sanga Berde kaayo
+StatsRoleWins	{0} Role nga mga Daog:\t
+StatsEngineerVents	Mga Vent Engineer:\t
+StatsScientistChargesGained	Naginansyang mga Bayad sa Scientist:\t
+StatsGuardianAngelCrewmatesProtected	Anghel Magbalantay Nalampos Pagpanalipod sa Crew:\t
+StatsShapeshifterShiftedKills	Mipatay ang Shapeshifter Samtang Gibalhin:\t
+QCOnlyInfo	Mahimo lamang kang mugamit sa Quick Chat samtang nagdula, ug mahimo lamang kang mudula kauban sa ubang Quick Chat nga mga user.
+FreeChatInfo	Mahimo kang mugamit sa Free Chat ug Quick Chat samtang nagdula, ug mahimo kang mudula sa ubang Free Chat nga mga user.
+FreeChatWarning	Kinahanglan kang naka sign in aron magamit ang Free Chat. Kon mi-sign in gamit ang account sa bata, i-akses ang Account nga Tab ug dawata ang pagtugot gikan sa magbalantay aron matugotan ang Free Chat.
+FreeChatLinkWarning	Wala gitugot ang pagpadala og mga url! Wala napadala ang imong mensahe.
+ScreenShakeOption	Pag-uyog sa Screen
+StreamingTwitch	Pagsugod og stream sa Twitch
+AnnouncementFailFetchData	Dili makakuha sa pahibalo.
+AnnouncementFailFetchData_LastKnown	Dili makakuha og anunsyo. Ulahing Nahibal-an:
+	
+Cosmetic.pet_clank	Clank
+Cosmetic.pet_GuiltySpark	Guilty Spark
+Cosmetic.hat_halospartan	Helmet ng Spartan
+Cosmetic.hat_ratchet	Kalo sa Ratchet
+Cosmetic.skin_halospartan	Baluti ng Spartan
+Cosmetic.skin_ratchet	Jumpsuit sa Ratchet
+Cosmetic.skin_screamghostface	Mga Robe sa Scream
+Cosmetic.hat_screamghostface	Maskara sa Scream
+	
+AmongUsFriends	Mga Friend sa Among Us
+FriendsGuestWarning	Kinahanglan nga naka-log in ka aron makagamit niini nga feature.
+PlatformFriends	Mga Friend sa Plataporma
+BlockedPlayers	Gi-block nga Mga Player
+RecentPlayers	Bag-o Lang nga Nakadawa Uban Kang
+LobbyLabel	Lobby
+FriendCodeExplanation	Ang Among Usa duna nay mga Lista sa Mga Friend karon! Aron makapadala ug makadawat og mga friend o game request, pagpili og unique nga Friend Code sa ubos.\n\nKon makapili na ka, dili na kini mausab.
+FriendCodeSuccess	Ang imong Friend Code maoy {0}
+FriendRequestReceived	Nadawat ang Friend Request
+FriendRequestSent	Napadala ang Friend Request
+GameLobbyInviteSent	Napadala ang Imbitasyon sa Duwa
+GameLobbyInviteReceived	Nadawat ang Imbitasyon sa Duwa
+BlockPlayerConfirm	I-block ang Player?
+RemoveFriendConfirm	Tangtangon ang Friend?
+InviteToLobbyConfirm	Magpadala og Imbitasyon sa Duwa
+FriendCodeLabel	Friend Code
+FriendCodeCreationTitle	Pagpili og Friend Code
+FriendRequestSentFailed	Napakyas pagpadala ang Friend Code
+ErrorBadUsername	Dili balidong format sa Friend Code. Pagbutang og kumpletong Friend Code aron mosulay pag-usab (pananglitan SmallBeans#0001)
+ErrorUserNotFound	Wala naglungtad ang Friend Code
+ErrorPlatformFriends	Napakyas pagkuha sa imong mga friend sa plataporma
+ErrorThisIsYou	Dili maka-add sa imong kaugalingon ingong friend. Sorry.
+ErrorFriendRequestExists	Nakapadala na ka og friend request niini nga user
+ErrorAlreadyFriends	Friends namo niini nga user! Yehey!
+GameLobbyInviteSentFailed	Napakyas pagpadala og Game Invite
+BlockedPlayerFailed	Napakyas og block sa player
+BlockedPlayer	Go-block ang player
+AlreadyBlocked	Kini nga player na-block na
+FriendList	Lista sa Mga Friend
+NoNewRequests	Walay umaabot nga mga request
+AddFriendPrompt	Pag-add og friend pinaagi og code
+NewRequests	{0} ka bag-ong mga request!
+Requests	Mga Request
+AddFriend	Pag-add og Friend
+StreamWarning	Ayaw kini ipakita sa publiko gawas kon gusto nimong makahibalo ang tanan sa imong Friend Code!
+FriendsListPermissionsWarning	Kinahanglan nimo og pagtugot gikan sa imong tigbantay aron mogamit niini nga feature.
+AddFriendConfirm	Magpadala og friend request kang {0}?
+UnfriendConfirm	I-unfriend si {0}?
+UnblockConfirm	I-unblock si {0}?
+SettingsEnableFriendInvites	Friend & Mga Lobby Invite
+ErrorTooManyRequests	Daghan ra kaayong mga lobby request. Palihug paabot og pipila ka minuto sa dili pa mosulay pag-usab.
+TempDisabled	Temporaryong Gi-disable
+TempDisabledLinkExplain	Ang mga account gipailalom og mga kausaban. Temporaryo namong gi-restrict ang pag-link sa naglungtad nga mga account. Hapit na kini nga maayo sa usa ka update sa umaabot!
+RedeemPopup	Ania’y regalo gikan sa crew!\n{0}.
+RedeemButton	I-redeem
+ErrorMaxFriends	Puno na ang imong lista sa mga higala.
+ErrorPlayerBlockedYou	Error: Naa sa imong block list ang user o gi-block ka sa user.
+ErrorRecipientMaxFriendRequests	Error: Ang user dunay max nga mga friend request ug dili na makadawat og dugang pa.
+ErrorSenderMaxFriendRequests	Error: Daghan ra kaayo ka og wala dawata nga mga friend request.
+ErrorRecipientMaxFriends	Error: Puno na ang lista sa mga higala sa user.
+ViewRequests	Tan-awa ang mga Request
+ParentPortalButton	Permiso sa Request
+FriendsListEmailSent	Bag-o lang mi nagpadala og email sa imong ginikanan o tigbantay nga nag-request og dugang mga permiso sa Lista sa Mga Higala. Palihug ipasusi kanila ang ilang email.
+Decontamination3	Ubos nga Decontamination
+ErrorCommunications	Ang imong mga setting sa komunikasyon nagpugong kanimo sa pag-apil sa duwa. Aron moapil sa duwa, palihug i-enable ang mga komunikasyon sa uban.
+SettingsColorblind	Colorblind Text
+MergeGuestAccountText	Murag dunay <link="https://www.innersloth.com/merging-guest-accounts/">guest account</link> niini nga device! Wala na namo gisuportahan ang mga guest account ug mag-merge sa tanang mga item, currency, ug kasinatian gikan sa imong guest account ngadto niining {0} account.\n\nKung naggamit ka niini nga device (computer, phone, ubp.) uban ang laing mga tawo, palihug matikdi nga ang tanan nga mogamit niini nga device MAG-SHARE niini nga guest account. Walay laing mga user niini nga device ang maka-merge niining guest account kung mopadayon ka, ug KAUSA lang ka maka-merge niining guest account. DILI ka maka-reallocate pag-usab sa mga item, currency, ug kasinatian nga nalangkit niining guest acccount.\n\nPalihug ikumpirma nga gusto nimong i-merge ang imong guest account ngadto niining {0} account.
+MergeGuestAccountTitle	I-merge ang Guest Account
+ManageAccountTitle	Dumalahon ang Account
+ManageAccountText	Palihug bisitaha ang <link="https://accounts.innersloth.com/">https://accounts.innersloth.com</link> sa pagdumala sa imong account, pag-merge, o kung duna ka bisan unsan mga isyu.
+CurrencyBeans	Beans
+CurrencyPods	{MapName} Pods
+	
+Cosmetic.visor_BaconVisor	Nalipay nga Makita Ka
+Cosmetic.hat_Baguette	Walay Pan Kasakit Lamang
+Cosmetic.skin_Bananaskin	Peanut Butter Jelly Time
+Cosmetic.visor_BananaVisor	Caught Me Slippin'
+Cosmetic.nameplate_BlimeyPlate	Blimey!
+Cosmetic.skin_BlueApronskin	Kuhaon ang Imong Order - Convenience
+Cosmetic.skin_BlueSuspskin	Blemon Lad
+Cosmetic.hat_BreadLoaf	Kuhaa Tong Pan
+Cosmetic.nameplate_BreadPlate	Pinakamaayo ang Pan.
+Cosmetic.pet_BredPet	Breb
+Cosmetic.visor_BubbleBumVisor	Yummy Gummy
+Cosmetic.hat_Butter	Butter Me Up
+Cosmetic.skin_ChefBlackskin	Unsay Naa? - Itom
+Cosmetic.pet_ChewiePet	Chewie
+Cosmetic.visor_CucumberVisor	Beauty Sleep
+Cosmetic.nameplate_EggPlate	Eggciting!
+Cosmetic.pet_HamPet	Hammy
+Cosmetic.skin_Hotdogskin	1.5
+Cosmetic.visor_IceCreamChocolateVisor	Sad Scoop - Tsokolate
+Cosmetic.visor_IceCreamMintVisor	Sad Scoop - Mint
+Cosmetic.visor_IceCreamStrawberryVisor	Sad Scoop - Strawberry
+Cosmetic.visor_IceCreamUbeVisor	Sad Scoop - Ube
+Cosmetic.hat_OrangeHat	Hinumdoman Na Ni Clementine
+Cosmetic.skin_OrangeSuspskin	Tangerine Dream
+Cosmetic.hat_PancakeStack	Fat Snacks
+Cosmetic.hat_Pineapple	Lookin' Pine
+Cosmetic.skin_PinkApronskin	Kuhaon ang Imong Order - Cupcake
+Cosmetic.nameplate_PinkPlate	Think Pink
+Cosmetic.nameplate_PizzaPlate	Grabe a Slice
+Cosmetic.hat_PizzaSliceHat	Pizza Hat
+Cosmetic.visor_PizzaVisor	You wanna slice of me?
+Cosmetic.nameplate_PlatePlate	Name Plate
+Cosmetic.hat_StrawberryLeavesHat	Berry Bashful
+Cosmetic.hat_ToastButterHat	A Toast of Butter Days
+Cosmetic.visor_ToastVisor	Late sa Eskwelahan
+Cosmetic.skin_YellowApronskin	Kuhaon ang Imong Order - Bar
+Cosmetic.skin_YellowSuspskin	Lemon Lass
+Cosmetic.skin_PinkSuspskin	Grapefruit Suit
+	
+Cosmetic.hat_BananaGreen	Peeled - Unripe
+Cosmetic.hat_BananaPurple	Peeled - Fungushia
+Cosmetic.hat_cheeseBleu	Bein' Cheesy - Bleu
+Cosmetic.hat_cheeseMoldy	Bein' Cheesy - Stinky
+Cosmetic.hat_cheeseSwiss	Bein' Cheesy - Swiss
+Cosmetic.hat_ChefWhiteBlue	My Name Chef - Chef Whites
+Cosmetic.hat_cherryOrange	Cherry on top - Rainier
+Cosmetic.hat_cherryPink	Cherry on Top - Pink
+Cosmetic.hat_chocolateCandy	Scoop - Bubblegum
+Cosmetic.hat_chocolateMatcha	Scoop - Matcha
+Cosmetic.hat_chocolateVanillaStrawb	Scoop - Strawberry Vanilla
+Cosmetic.hat_croissant	Crispy Croissant
+Cosmetic.hat_eggGreen	Eggscellent - Green
+Cosmetic.hat_eggYellow	Eggscellent - Sunny Side Up
+Cosmetic.skin_ApronGreen	Kuhaon ang Imong Order - Latte
+Cosmetic.skin_ChefBlue	Unsay Naa? - Blue
+Cosmetic.skin_ChefRed	Unsay Naa?
+Cosmetic.hat_IceCreamMatcha	Duha ka Scoop - Matcha
+Cosmetic.hat_IceCreamMint	Duha ka Scoop - Minty
+Cosmetic.hat_IceCreamNeo	Duha ka Scoop - Neopolitan
+Cosmetic.hat_IceCreamStrawberry	Duha ka Scoop - Strawberry
+Cosmetic.hat_IceCreamUbe	Duha ka Scoop - Ube
+Cosmetic.hat_IceCreamVanilla	Duha ka Scoop - Vanilla
+Cosmetic.visor_lollipopCrew	Lollipop - Crewcolor
+Cosmetic.visor_lollipopLemon	Lollipop - Pinya
+Cosmetic.visor_lollipopLime	Lollipop - Sour Apple
+Cosmetic.nameplate_Croissant	Dropped My Croissant(s)
+Cosmetic.nameplate_Lemon	When Lemons Give You Life
+Cosmetic.nameplate_Orange	Orange you glad to see me?
+Cosmetic.hat_sausage	Tied Off
+SignInIssueTitle	{0} Error sa Account
+SignInIssueText	Gikasubo, dili puwedeng gamiton ang imong {0} sa paghimo og account tungod sa mga limitasyon sa account. Palihug sulayi pag-usab gamit ang lahi nga {1}.\n\nPuwede nimong ipadayon ang pagdula og Among Us niini nga device, apan malimitahan ang mga feature lakip ang: pag-link sa account, mga pagpalit og Star, ug pagbalhin og mga item sa bag-ong device. Kung naa kay mga pangutana, palihug i-email ang support@innersloth.com
+FriendListUnavailable	Dili available ang Listahan sa Mga Higala
+	
+ErrorSanction	Tungod sa {0}, gi-ban ang imong account {1}.
+SanctionDuration	hangtud {0}
+SanctionPermanent	permanente
+SanctionConduct	\r\nPalihug gamita kini nga panahon aron hunahunaon ug hinumduman ang among <link="https://www.innersloth.com/tl/code-of-conduct-filipino/">Code of Conduct</link>!
+SanctionSexualMisconduct	sekswal nga dili maayong pamatasan
+SanctionDoxing	pagpaambit o hulga sa pagpaambit sa personal nga impormasyon o doxing
+SanctionIllegalActivity	ang pag-promote o pag-apil sa ilegal nga aktibidad
+SanctionHarassment	pagpadala og madumtanon, mapihigon, o makapaubos nga mga mensahe sa chat
+SanctionSelfHarmPromotion	pag-promote og pagdaot sa kaugalingon o paghikog
+SanctionCheatingHacking	pagpanikas/pagpang-hack
+SanctionSpamming	pag-spam sa chat
+SanctionUnsportsmanlikeConduct	dili sportsman nga pamatasan
+SanctionInappropriateChatDating	dili angay nga chat
+SanctionBullying	pag-bully
+SanctionInappropriateChatPersonalInfo	dili angay nga chat
+SanctionImpersonationDevelopers	pag-impersonate og mga developer
+SanctionImpersonationCeleb	pag-impersonate sa mga artista
+SanctionWeaponizingRules	ang pag-abuso sa mga lagda
+SanctionInappropriateNameDerogatory	naay dili angay nga ngalan
+SanctionInappropriateNameNsfw	naay dili angay nga ngalan
+SanctionInappropriateNameUnsportsmanlike	naay dili angay nga ngalan
+SanctionRepeatOffender3	balik-balik nga mga sayop nga binuhatan
+SanctionRepeatOffender10	balik-balik nga mga sayop nga binuhatan
+SanctionUnknown	usa ka paglapas sa among Code of Conduct
+	
+FeaturedItems	Gi-feature nga Mga Aytem
+FeaturedBundles	Gi-feature nga Mga Bundle
+FeaturedCubes	Gi-feature nga Mga Cosmicube
+	
+AbbreviatedDay	{0} d
+AbbreviatedHour	{0} h
+AbbreviatedMinute	{0} m
+AbbreviatedSecond	{0} s
+	
+BugReportCategoryGeneral	Kinatibuk-ang Pangutana
+BugReportCategoryAccountManagement	Pagdumala sa Account
+BugReportCategoryGameplayIssue	Isyu/Bug sa Gameplay
+BugReportCategoryServerIssues	Mga Isyu sa Server
+BugReportCategoryBilling	Tabang sa Bayronon & Pagbayad
+BugReportPopUpSubmittedText	Salamat! Malampusong nasumite ang imong feedback.
+BugReportPopUpSubmissionFailedText	Nagsumite sab ka og feedback bag-ohay lang. Palihug sulayi pag-usab sa laing panahon.
+BugReportPopUpCategoryLabel	Kategorya
+BugReportPopUpDescriptionLabel	Detalyadong ihulagway kung unsa ang imong gibuhat nga miresulta sa isyu. Kung nagkinahanglan ka og dugang tabang, palihug i-email ang support@innersloth.com.
+BugReportPopUpTitle	Uh oh! Dunay nahitabong problema!
+BugReportIssueButton	Isumite ang Isyu
+BugReportPopUpAttachScreenshotLabel	Magkuha og Screenshot?
+BugReportPopUpAttachScreenshotDesc	Kuhaon ang screenshot sa imong kasamtangang screen sa in-game (minus ang Tabang nga window) og isukip kini uban sa imong feedback.
+Email	Email
+SettingsHelp	Tabang
+UserIdTokenError	Na-expire na ang Pagpamatuod sa User. Palihug i-restart ang dula kung magpadayon pa kini.
+	
+Cosmetic.hat_hl_korone	Sombrero ni Inugami Korone
+Cosmetic.hat_hl_okayu	Sombrero ni Nekomata Okayu
+Cosmetic.hat_hl_gura	Sombrero ni Gawr Gura
+Cosmetic.hat_hl_mio	Sombrero ni Ookami Mio
+Cosmetic.hat_hl_fubuki	Sombrero ni Shirakami Fubuki
+Cosmetic.hat_hl_risu	Sombrero ni Ayunda Risu
+Cosmetic.hat_hl_moona	Sombrero ni Moona Hoshinova
+Cosmetic.hat_hl_pekora	Sombrero ni Usada Pekora
+Cosmetic.hat_hl_marine	Sombrero ni Houshou Marine
+Cosmetic.hat_hl_watson	Sombrero ni Watson Amelia
+Cosmetic.skin_hl_korone	Damit ni Inugami Korone
+Cosmetic.skin_hl_okayu	Damit ni Nekomata Okayu
+Cosmetic.skin_hl_gura	Damit ni Gawr Gura
+Cosmetic.skin_hl_mio	Damit ni Ookami Mio
+Cosmetic.skin_hl_fubuki	Damit ni Shirakami Fubuki
+Cosmetic.skin_hl_risu	Damit ni Ayunda Risu
+Cosmetic.skin_hl_moona	Damit ni Moona Hoshinova
+Cosmetic.skin_hl_pekora	Damit ni Usada Pekora
+Cosmetic.skin_hl_marine	Damit ni Houshou Marine
+Cosmetic.skin_hl_watson	Damit ni Watson Amelia
+Cosmetic.visor_hl_nothoughts	Sabaw
+Cosmetic.visor_hl_sweepy	Antok Na
+Cosmetic.visor_hl_smug	Mayabang na Dating
+Cosmetic.visor_hl_ah	Ah.
+Cosmetic.visor_hl_hmph	Ano ba 'yan!
+Cosmetic.visor_hl_teehee	Hihihi!
+Cosmetic.visor_hl_bored	Naiinip Na
+Cosmetic.visor_hl_nudge	Kalabit-Kalabit
+Cosmetic.visor_hl_marine	Eyepatch ni Marine
+Cosmetic.visor_hl_wrong	Haha Ano Bang Pwedeng Mangyari?
+	
+AccountDeleteHelp	Pinaagi sa pagpindot sa KUMPIRMAHA, gihangyo nimo ang pagtangtang sa imong tanang datos sa Among us. Kini nga hangyo molungtad og 7-14 ka adlaw ug muresulta sa pagkawala sa tanang mga Star, XP, Beans, Pods, ug napalit nga mga Cosmetics. Sa dihang hingpit nang matangtang ang imong account, dili na namo mabalik kini nga aksyon. Mu-function nga normal ang imong account hangtod nga makumpleto ang proseso sa pagtangtang.\n\nKung makasinati ka og bisan unsang mga error, palihug kontaka ang support@innersloth.com.
+DeleteAccount	Tangtanga ang Account
+DoNotDeleteAccount	Ikansela ang Pagtangtang sa Account
+AccountUnDeleteHelp	Pinaagi sa pagpindot sa KUMPIRMAHA, mahunong nimo ang proseso sa pagtangtang sa imong account. Kung gusto nimong tangtangon ang imong account, kinahanglan nimong ihangyo kini pag-usab.\n\nKung makasinati ka og bisan unsang mga error, palihug kontaka ang support@innersloth.com.
+ConfirmDelete	Palihug i-type ang DELETE aron makumpirma
+ConfirmDeleteAccounts	I-tsek kini nga kahon aron makumpirma nga imong nasabtan nga matangtang niini kini account ug mga na-link niini ({0}).
+ConfirmDeleteAccountsEmpty	I-tsek kini nga kahon aron makumpirma nga imong nasabtan nga matangtang niini kini account ug mga na-link niini.
+AccountRequestDelete	Na-pending ang Pagtangtang sa Account
+	
+UserVersionError	Sayop nga Bersyon: Gihimo kini nga room uban ang Among Us {0}
+Cosmetic.visor_vr_Vr-Black	Virtual Reality - Itom
+Cosmetic.visor_vr_Vr-White	Virtual Reality - Puti
+	
+GameType	Matang sa Dula
+GameTypeError	Sayop!
+GameTypeClassic	Classic
+GameTypeHideAndSeek	Hide n Seek
+	
+ShowCrewmateNames	Ipakita ang Mga Ngalan
+	
+HideActionButton	Tago
+HasBeenKilled	Gipatay Na
+Random	Random
+Ghost	Kalag
+CurrentlyHaunting	Nangalag Pa:
+RoundRobin	Round-robin
+RuleOneCrewmates	Pagpabiling buhi hangtud nga mahurot ang oras.\nmakabawas sa timer ang pagkumpleto sa mga task.
+RuleTwoCrewmates	Gamita ang mga vent ug ang Danger Meter aron makatago!
+RuleThreeCrewmates	Pagkahurot sa oras, ma-track na ka sa Impostor!
+RuleOneImpostor	Patya ang tanang Crewmate sulod sa gitakdang oras!
+RuleTwoImpostor	Lihok dayon - duna kay limitadong panglantaw ug walay access sa mga vent.
+RuleThreeImpostor	Sa mga ulahing higayon, makakuha kag speed boost ug mga hint sa pag-track!
+RuleOneCrewmatesTitle	Pagbuhat og mga task
+RuleTwoCrewmatesTitle	Tago og maayo
+RuleThreeCrewmatesTitle	Ulahing Tago
+RuleOneImpostorTitle	Dalia ang pagpatay
+RuleTwoImpostorTitle	Pangitaa
+PetAction	Binuhing Mananap
+EscapeTime	Oras sa Pagtago
+FinalEscapeTime	Ulahing Oras sa Pagtago
+UseFlashlight	Flashlight Mode
+CrewmateFlashlightSize	Gidak-on sa Flashlight sa Crewmate
+ImpostorFlashlightSize	Gidak-on sa Flashlight sa Impostor
+SeekerFinalSpeed	Kapaspas sa Ulahing Pagtago sa Impostor
+SeekerFinalMap	Ulahing Pagtago sa Pagpangita og Mapa
+SeekerPings	Ulahing Pagtago sa Mga Ping
+MaxPingTime	Interval sa Ping
+TagsTitle	Mga Tag
+FiltersTitle	Mga Filter
+TagFiltersTitle	Mga Filter
+FiltersAppliedSingular	{0} Gi-apply ang Filter
+FiltersAppliedPlural	{0} Gi-apply ang Mga Filter
+TagsFilteredSingular	{0} Gikinahanglan ang Tag
+TagsFilteredPlural	{0} Gikinahanglan ang Mga Tag
+TagsAppliedSingular	{0} Gi-apply ang Tag
+TagsAppliedPlural	{0} Gi-apply ang Mga Tag
+DefaultFilterTag_FirstTime	Beginner
+DefaultFilterTag_Casual	Casual
+DefaultFilterTag_Serious	Seryoso
+DefaultFilterTag_Expert	Eksperto
+TagFiltersHelpFindGame	Ma-filter nimo ang mga pagpangita sa dula pinaagi sa pagpili sa mga tag gikan sa dropdown list. <i>Eksaktong</i> motukma ang mga resulta sa pagpangita sa mga filter nga imong gipili.\n\nPananglitan: Kung pilion nimo ang <b>Casual</b> ug <b>Eksperto</b> makit-an lamang nimo ang mga dula nga dunay tag sa parehas nga filter sa <b>Casual</b> ug <b>Eksperto</b>.
+TagFiltersHelpCreate	Ma-tag nimo ang imong dula gamit ang mga filter aron matabangan ang mga player nga makit-an ang imong dula. <i>Eksaktong</i> motukma ang mga resulta sa pagpangita sa mga filter nga imong gipili.\n\nKung pilion nimo ang <b>Casual</b> ug <b>Eksperto</b> ang mga tawo lamang nga nangita sa mga filter sa parehas nga <b>Casual</b> ug <b>Eksperto</b> ang makakita sa dula.
+MapFiltersSelected	{0} Mga Gipili nga Mapa
+FindGameNeedsRefresh	Nausab ang mga setting sa filter\n\nPalihug i-refresh
+CreateLabel	Paghimo
+NewGameMode	Bag-ong Mode sa Dula!
+NewModeInfo	Dako ang pusta niining makapahinam nga mode sa dula! \n<i>Pero - dili kini ang imong ordinaryong Hide n Seek...</i>
+HideSeekHowToPlayCaptionOne	Sayon ra!
+HideSeekHowToPlayCaptionTwo	Mga Crewmate!
+HideSeekHowToPlayCaptionThree	Mga Impostor!
+HideSeekHowToPlayPageOne	<color=#38F25D><b>Mga Crewmate:</b></color> Kumpletoha ang mga task aron mopaspas ang oras, likayi ang Impostor, ug pagpabiling buhi hangtud nga mahurot ang oras.\n\n<color=#FF3131><b>Ang Impostor:</b></color> Pangitaa ang Mga Crewmate ug padayon sa pagpamatay.
+HideSeekHowToPlaySubtextOne	Walay social deduction dinhi, mga pagsinggit sa kakuyaw ra.
+HideSeekHowToPlayCrewmateInfoOne	I-master ang imong mga kahanas sa pagtago ug pangpangokoy aron magpabiling buhi.
+HideSeekHowToPlayCrewmateInfoTwo	Niini nga mode, makagamit ka og mga vent ug makakuha og high-tech nga Danger Meter nga mo-alerto kanimo kung nagkaduol na ang Impostor. Dunay limitadong range sa panglantaw ang Impostor, mao nga gamita ang imong mga kaalam, vent ug visor aron malikayan sila!
+HideSeekHowToPlayImpostorInfoOne	Dili makaagi sa vent ang mga Impostor niini nga mode, mao nga kinahanglan nimong molihok dayon aron madakpan ang imong dakponon. Ngitngit dira! Swerte kay duna kay Flashlight nga makatabang aron makita nimo ang imong mga sunod nga biktima.
+HideSeekHowToPlayFinalHide	Mao kini ang finaaaal countdownnnn. Sa mga ulahing higayon sa dula, makakuha og power boost ang Impostor - mas paspas sila, makakuha og espesyal nga mapa sa Pagpangita, ug pang-direksyon nga ping kung asa ang bisan kinsang buhing Crewmate.\n\nPaghunahuna dayon ug planoha ang pag-ikyas aron makadaog!
+HideSeekHowToPlayFlashlightMobile	Gamita ang virtual joystick sa Flashlight sa tuong bahin sa imong screen aron matutok ang beam ug patya ang tanang Crewmate nga imong makit-an!
+HideSeekHowToPlayFlashlightDefault	Gamita ang imong mouse aron matutok ang beam sa Flashlight ug patya ang tanang Crewmate nga imong makit-an!
+HideSeekHowToPlayFlashlightConsoles	Gamita ang Tuong Stick aron matutok ang imong beam ug patya ang tanang Crewmate nga imong makit-an!
+HideSeekHowToPlayFlashlightPlayStation	Gamita ang Tuong Stick aron matutok ang imong beam ug patya ang tanang Crewmate nga imong makit-an!
+HideSeekHowToPlayFlashlightSwitch	Gamita ang Right Stick aron matutok ang imong beam ug patya ang tanang Crewmate nga imong makit-an!
+OptionUnavailablePublicLobby	Dili available sa mga pampublikong lobby
+Cosmetic.nameplate_ballPit	Dugang Oras Palihug
+Cosmetic.nameplate_cafeteria	Pwede ko mutapad nimo?
+Cosmetic.nameplate_deadbodyfound	Gi-report!
+Cosmetic.nameplate_ejected	Walay Makadungog sa Imong Singgit
+Cosmetic.nameplate_flagAce	Flag sa Ace Pride
+Cosmetic.nameplate_flagAgend	Flag sa Agender Pride
+Cosmetic.nameplate_flagBi	Flag sa Bi Pride
+Cosmetic.nameplate_flagGendF	Flag sa Genderfluid Pride
+Cosmetic.nameplate_flagGendQ	Flag sa GenderQ Pride
+Cosmetic.nameplate_flagNonbinary	Flag sa Nonbinary Pride
+Cosmetic.nameplate_flagPan	Flag sa Pan Pride
+Cosmetic.nameplate_flagPride	Flag sa Inclusive Pride
+Cosmetic.nameplate_flagLesbian	Flag sa Lesbian Pride
+Cosmetic.nameplate_flagRainbow	Flag sa Gay Pride
+Cosmetic.nameplate_flagTrans	Flag sa Trans Pride
+Cosmetic.nameplate_flashlight	Kinsay Naa Dira?
+Cosmetic.nameplate_impostor	Mga Umaabot nga Sabotahe
+Cosmetic.nameplate_ninjas	Nagtago sa Kangitngit
+Cosmetic.nameplate_polus	Nag-chill sa Polus
+Cosmetic.nameplate_reactor	Pag-react sa Crewmate
+Cosmetic.nameplate_ripple	Ripple Effect
+Cosmetic.nameplate_seeker	Pagduhauha
+Cosmetic.nameplate_shhh	Shhhhhhhhh
+Cosmetic.pet_nuggetPet	Ang Nug
+	
+Cosmetic.visor_Candycane	Candy Cane Slayin'
+Cosmetic.nameplate_candyCanePlate	Christmas Sweetie
+Cosmetic.pet_coaltonpet	Coalton
+Cosmetic.skin_greedygrampaskin	Greedy Gramps
+Cosmetic.visor_IceBeard	I'm an Ice Guy
+Cosmetic.hat_Igloo	Ice Cap
+Cosmetic.hat_Present	Box Top
+Cosmetic.skin_presentskin	Present Company
+Cosmetic.visor_Rudolph	Nose So Bright
+Cosmetic.skin_scarfskin	Snuggly Scarf
+Cosmetic.hat_Scrudge	You There, Boy!
+Cosmetic.hat_Snowman	Frosty Disguise
+Cosmetic.nameplate_SnowmiesPlate	Hangin' with my Snowmies
+Cosmetic.hat_StarTopper	Ako ang Star
+Cosmetic.skin_uglysweaterskin	Ugly Sloth Sweater
+Cosmetic.nameplate_winterForestPlate	Pine Scented
+Cosmetic.nameplate_WrappingPaperPlate	Nahuman Na
+Cosmetic.hat_crownBean	Bean Baron
+Cosmetic.hat_crownDouble	Dobleng Korona
+Cosmetic.hat_crownTall	Long Reign
+Cosmetic.hat_wigJudge	Pompous Person
+Cosmetic.hat_wigTall	Powdered Person
+Cosmetic.hat_cashHat	100 Big Ones
+Cosmetic.hat_tinFoil	Conspiracy kini, maaannn
+Cosmetic.hat_mareLwyd	Spooky Horse
+Cosmetic.hat_schnapp	Schnapp Out of It
+Cosmetic.hat_Sorry	Gikasubo
+Cosmetic.visor_wash	Durt
+Cosmetic.visor_anime	Anime Eye
+Cosmetic.visor_teary	Dili ako
+Cosmetic.visor_tvColorTest	Katapusan sa Broadcast
+Cosmetic.visor_beautyMark	Beauty Mark
+Cosmetic.visor_Stealthgoggles	Stealth Visor
+Cosmetic.visor_Plsno	ayaw pls
+	
+Cosmetic.hat_NewYear2023	Bag-ong Tuig 2023
+Cosmetic.pet_HolidayHamPet	Holiday Hammy
+Cosmetic.pet_YuleGoatPet	Bränt
+	
+Cosmetic.skin_Box1skin	Packed Up
+Cosmetic.skin_BubbleWrapskin	Dali Mabuak
+Cosmetic.skin_Burlapskin	Burlap Chic
+Cosmetic.skin_BushSign1skin	Just a Bush
+Cosmetic.skin_Horse1skin	Robe sa Spooky Horse
+Cosmetic.skin_Sack1skin	Sack o' Potatoes
+Cosmetic.skin_benoit	Benoit Blanc
+Cosmetic.hat_babybean	Bean BabyBean Baron
+Cosmetic.skin_Astronaut-Blueskin	Astronaught - Asul
+Cosmetic.skin_Astronaut-Cyanskin	Astronaught - Light Blue
+Cosmetic.skin_Astronaut-Orangeskin	Astronaught - Orange
+HauntAbilityName	Ungoon
+	
+RestorePurchases	Pagbalik sa Mga Gipalit
+StatsHidenSeekGamesCrewmateSurvived	Na-survive nga Mga Dula sa Hide n Seek:\t
+StatsHidenSeekTimesVented	Mga Nagamit nga Vent sa Hide n Seek:\t
+StatsTimesPettedPet	Mga Aksyon sa Pag-pet:\t
+StatsImpostorKills_HideAndSeek	Mga Napatay sa Impostor sa Hide n Seek:\t
+StatsFastestCrewmateWin_HideAndSeek	Daog ang Pinakapaspas nga Crewmate sa Hide n Seek:\t
+StatsFastestImpostorWin_HideAndSeek	Daog ang Pinakapaspas nga Impostor sa Hide n Seek:\t
+StatsHideAndSeekImpostorVictory	Daog ang Impostor sa Hide n Seek:\t
+StatsHideAndSeekCrewmateVictory	Daog ang Crewmate sa Hide n Seek:\t
+SeekButton	Pangitaa
+ScrollList	I-scroll ang Listahan
+ScrollNews	I-scroll ang Balita
+AmongUsAnnouncements	Mga Anunsyo sa Among Us
+Cosmetic.hat_osiris	Timon ni Osiris
+Cosmetic.hat_maraSov	Mara Sov
+Cosmetic.skin_D2Osiris	Armadura ni Osiris
+Cosmetic.hat_saint14	Timon ni Saint-14
+Cosmetic.skin_D2Saint14	Armadura ni Saint-14
+Cosmetic.hat_shaxx	Helmet ni Shaxx
+Cosmetic.skin_D2Shaxx	Armadura ni Shaxx
+Cosmetic.hat_titan	Helmet ni Titan
+Cosmetic.hat_warlock	Helmet ni Warlock
+Cosmetic.hat_hunter	Hood ni Hunter
+Cosmetic.skin_D2Titan	Armadura ni Titan
+Cosmetic.skin_D2Warlock	Armadura ni Warlock
+Cosmetic.skin_D2Hunter	Armadura ni Hunter
+Cosmetic.hat_starhorse	Starhorse
+Cosmetic.hat_savathun	Korona ni Savathûn
+Cosmetic.visor_savathun	Mga Mata ni Savathûn
+Cosmetic.hat_caiatl	Timon ni Caiatl
+Cosmetic.visor_eliksni	Faceplate ni Eliksni
+Cosmetic.hat_pyramid	Mga Piramid
+Cosmetic.visor_erisBandage	Bendahe ni Eris Morn
+Cosmetic.hat_erisMorn	Eris Morn
+Cosmetic.hat_chalice	Kopa ni Calus
+Cosmetic.pet_D2PoukaPet	Pouka
+Cosmetic.pet_D2WormPet	Worm
+Cosmetic.pet_D2GhostPet	Ghost
+Cosmetic.nameplate_titan	Pride ni Titan
+Cosmetic.nameplate_warlock	Pride ni Warlock
+Cosmetic.nameplate_hunter	Pride ni Hunter
+Cosmetic.nameplate_lightfall	Lightfall
+AnnouncementErrorSubtitle	Uh oh! Nasabotahe ang anunsyo!
+AnnouncementErrorText	Murag dunay nahitabong problema. Palihug siguroha nga online ug na-update sa pinakabag-ong bersyon ang imong dula aron makuha ang tanang pinakabag-ong impormasyon ug mga pag-ayo sa Among Us.\n\nKon padayon nga duna kay mga isyu, padal-i mi og ticket sa suporta sa support@innersloth.com.
+ReadMoreLabel	aron makita ang tanang anunsyo!
+ReturnToList	Balik sa Listahan
+NavigateLinks	I-navigate ang mga link
+HttpErrorContextNone	Dunay problema sa pagkonekta sa server
+HttpErrorContextAuthenticate	Dunay problema sa pagpamatuod
+HttpErrorContextRequestGameCode	Dunay problema sa pagpangita og code sa dula
+HttpErrorContextFindHostServer	Dunay problema sa pagpangita og server sa host
+HttpErrorContextRequestGamesList	Dunay problema sa paghangyo og listahan sa mga dula
+HttpErrorUnknown	Wala mahibal-i nga sayop
+HttpErrorBadRequest	Sayop nga hangyo. Code: 400
+HttpErrorUnauthorized	Dili awtorisado. Code: 401
+HttpErrorForbidden	Wala gitugotan. Code: 403
+HttpErrorNotFound	Wala makit-i. Code: 404
+HttpErrorMethodNotAllowed	Wala gitugot ang pamaagi. Code: 405
+HttpErrorRequestTimeout	Nag-timeout ang hangyo. Code: 408
+HttpErrorTooManyRequests	Daghan ra kaayong hangyo. Code: 429
+HttpErrorInternalServerError	Sayop sa internal server. Code: 500
+HttpErrorBadGateway	Sayop nga gateway. Code: 502
+HttpErrorServiceUnavailable	Dili available ang serbisyo. Code: 503
+HttpErrorGatewayTimeout	Nag-timeout ang gateway. Code: 504
+AgeVerificationTitle	Pagberipika sa Edad
+AgeVerificationInfoTitle	Unsa ang pagberipika sa edad?
+AgeVerificationInfo	Kinahanglan ang pagberipika sa edad sa dili pa nimo ma-access ang Among Us. Dili namo tipigan ang imong petsang natawhan.
+AgeVerificationMoreInfo	Para sa dugang impormasyon bahin sa among mga gawi sa pagkapribado, palihug bisitaha ang:\n <link="https://www.innersloth.com/tl/privacy-policy-fil/">https://www.innersloth.com/tl/privacy-policy-fil/</link>
+EditLabel	I-edit
+VerifyAgeText	Kini nga petsa ba ang sakto nga petsang natawhan nimo?
+Cosmetic.nameplate_flagMlm	Flag sa MLM Pride
+Cosmetic.nameplate_flagAro	Flag sa Aromantic Pride
+Cosmetic.visor_chimkin	Chimkin
+Cosmetic.hat_rabbitEars	Wabbit Season
+Cosmetic.hat_fishCap	Fish Fear Me
+Cosmetic.hat_bandanaWBY	Wrapping Things Up
+PlayLabel	Pagdula
+SettingsLabel	Mga Setting
+NewsLabel	Balita
+AccountLabel	Akong Account
+CreditsLabel	Mga Credit
+ShopLabel	Shop
+InventoryLabel	Imbentaryo
+StatsLabel	Stats
+FriendsLabel	Mga Higala
+Cosmetic.hat_starBalloon	Five out of Five
+Cosmetic.visor_shuttershadesWhite	Stunner Shades - Puti
+Cosmetic.visor_shuttershadesPink	Stunner Shades - Radman
+Cosmetic.visor_shuttershadesPurple	Stunner Shades - Purple
+Cosmetic.visor_shuttershadesBlue	Stunner Shades - Asul
+Cosmetic.visor_shuttershadesLime	Stunner Shades - Berde
+Cosmetic.visor_shuttershadesYellow	Stunner Shades - Yellow
+Cosmetic.hat_glowstickPink	Up All Night Raving - Pink
+Cosmetic.hat_glowstickYellow	Up All Night Raving - Yellow
+Cosmetic.hat_glowstickCyan	Up All Night Raving - Cyan
+Cosmetic.hat_glowstickOrange	Up All Night Raving - Orange
+Cosmetic.hat_glowstickPurple	Up All Night Raving - Purple
+Cosmetic.pet_Pip	Pip
+Cosmetic.pet_Pusheen	Pusheen
+Cosmetic.pet_Stormy	Stormy
+Cosmetic.nameplate_pusheen_01	Single Rainbow Unsay Pasabot Niini
+Cosmetic.nameplate_pusheen_02	Mga Strawberry Field
+Cosmetic.nameplate_pusheen_03	Donut Mess with Me
+Cosmetic.nameplate_pusheen_04	Unsay Naa Sa Imo Diha?
+Cosmetic.hat_pusheenGreyHat	Pusheen ang Kalo
+Cosmetic.hat_PusheenicornHat	Super Pusheenicorn
+Cosmetic.hat_pusheenMintHat	Mint Pastel Pusheen
+Cosmetic.hat_pusheenPurpleHat	Lilac Pastel Pusheen
+Cosmetic.hat_pusheenPinkHat	Pink Pastel Pusheen
+Cosmetic.hat_pusheenSitHat	If I Fits I Sits
+Cosmetic.hat_pusheenSleepHat	Tulog nga Iring
+Cosmetic.hat_SlothHat	Sloth
+Cosmetic.visor_pusheenGorgeousVisor	Nindot!
+Cosmetic.visor_pusheenKissyVisor	Kissy Kitty
+Cosmetic.visor_pusheenKoolKatVisor	Kool Kat
+Cosmetic.visor_pusheenOmNomNomVisor	Om Nom Nom
+Cosmetic.visor_pusheenSmileVisor	Pusheen nga Nagpahiyom
+Cosmetic.visor_pusheenYaaaaaayVisor	Yaaaaaay
+Cosmetic.skin_PusheenGreyskin	Pusheen
+Cosmetic.skin_Pusheenicornskin	Super Pusheenicorn
+Cosmetic.skin_PusheenMintskin	Mint Pastel Pusheen
+Cosmetic.skin_PusheenPinkskin	Pink Pastel Pusheen
+Cosmetic.skin_PusheenPurpleskin	Lilac Pastel Pusheen
+Cosmetic.skin_Slothskin	Sloth
+Cosmetic.hat_bearyCold	Brr-Bear-y
+	
+EosAccountSilentMergeFail	Dunay nahitabong problema samtang nag-finalize sa imong account sa Among Us. Palihug sulayi pag-usab o padayon gamit ang account sa bisita. Ma-save ang tanang progreso, pero girekomenda namo ang pag-set up og account aron ma-enjoy gayud nimo ang tanang feature sa Among Us.\n\nSulayan og usab ang pag-setup og account?
+AskForEosAccount	Duna na ba ka'y account sa Among Us? (Nailhab sab nga Epic Online Services account.)\n\nKon nakadula na ka og Among Us niini nga device sauna, pilia ang 'Oo'.
+KwsCreateFail	Uh oh! Dunay nahitabong problema sa pagpadala sa email sa mga Pagtugot sa Tigbantay. Palihug sulayi pag-usab o padayon sa offline mode.\n\nSulayan pag-usab?
+	
+MissingGuardianEmailText	Ang imong account kulangan og email address sa guardian. Kinahanglan namong mohangyo sa imong guardian (pinaagi sa e-mail) og pagtugot nga magpadayon. Kung moingon sila nga oo, magamit nimo ang libreng chat online ug maalisdan ang imong username. Hangyoa ang usa ka hamtong nga tabangan ka niini!
+MiningPit	Pit sa Pagmina
+Jungle	Kalasangan
+BuildSandcastle	Magtukod og Kastilyong Balas
+FishingDock	Mudunggo
+CatchFish	Magdakop og Isda
+CollectShells	Mangolekta og Mga Kinhason
+LiftWeights	Mualsa og Bug-at
+RoastMarshmallow	Magsugba og Marshmallow
+TestFrisbee	Maglabay og Frisbee
+CollectSamples	Mangolekta og Mga Sample
+CollectVegetables	Mangolekta og Mga Utanon
+HoistSupplies	Birahon ang Mga Supply
+MineOres	Magmina og Mga Ore
+ReplaceParts	Mga-ilis og Mga Piyesa
+HelpCritter	Tabangan ang Critter
+RecRoom	Zone sa Pagpisik
+Lookout	Lookout
+Beach	Baybayon
+Highlands	Ang Mga Pangpang
+SleepingQuarters	Ang Dorm
+CrankGenerator	I-crank nga Generator
+FixAntenna	Ayuhon ang Antenna
+TuneRadio	Mangita og Signal
+MushroomMixupSabotage	Gi-aktibo ang Mushroom Mixup para sa {0}
+MushroomMixupName	Mushroom Mixup
+CollectStick	Mangolekta og Stick
+MineOresMine	Gamiton ang Pickaxe
+PolishGem	Pasinawon ang Gem
+ExtractFuel	I-extract ang Fuel
+MonitorMushroom	Monitoron ang Mushroom
+WipeSand	Trapohan ang Balas
+PlayVideogame	Magdula og Video Game
+CookFish	Magluto og Isda
+PrepVegetables	Mag-andam sa Mga Utanon
+	
+LobbyTimerExpiringTitle	Mu-expire na ang Lobby
+LobbyTimerExpiringMsg	I-extend ang lobby sa {0}?
+LobbyTimerExpiringOk	I-extend
+LobbyTimerExpiringNo	I-dismiss
+LobbyTimerExpiringUnit	s
+LobbyTimerExpiringMsg2	Masirado ang lobby sulod sa {0}.
+LobbyTimerExpiringHud	Mu-expire ang lobby sa {0}
+	
+Cosmetic.hat_pickaxe	Wala Ka Makaigo
+Cosmetic.hat_anchor	Gibuhian Na ang Mga Angkla
+Cosmetic.hat_antenna	Jockey sa Pagkaon
+Cosmetic.hat_sharkfin	Iho sa Yuta
+Cosmetic.hat_lilShroom	Usa Lamang Gamay nga Funguy
+Cosmetic.hat_mushbuns	Cute murag Butones
+Cosmetic.hat_bucket	Hari sa Kastilyong Balas
+Cosmetic.hat_mushroomBeret	Beret sa Mga Champignon
+Cosmetic.hat_fungleFlower	Gwapa sa Baho
+Cosmetic.hat_fishingHat	Mahimo Ko Nimong Angler
+Cosmetic.hat_killerplant	Ganahan Kini Kanako
+Cosmetic.hat_shovel	Giganahan Ko Niini
+Cosmetic.hat_beachball	Ang Tanan Mahitungod sa Balanse
+Cosmetic.hat_bucketHat	Gitawag Kini nga Fashion
+Cosmetic.hat_mysteryBones	Aduna'y Kahiubos
+Cosmetic.visor_doubleeyepatch	Dobleng Arrrgh
+Cosmetic.visor_marshmallow	Toasty
+Cosmetic.visor_starfish	Napilit Kanimo
+Cosmetic.visor_fishhook	Nadani sa usa ka Pagbati
+Cosmetic.visor_sunscreenv	SPF Zero
+Cosmetic.skin_FishSkinskin	Aduna'y Wala Mutukma Niini
+Cosmetic.skin_FishingSkinskin	Manguha og Pagdayeg
+Cosmetic.skin_InnerTubeSkinskin	Dili Ko Kamao Mulangoy
+Cosmetic.skin_LifeVestSkinskin	Mu-overboard
+Cosmetic.pet_Creb	Creb
+Cosmetic.nameplate_zipline	Diri nalang Kutob
+Cosmetic.nameplate_grill	Master sa Grill
+Cosmetic.nameplate_plant	Gibase sa Tanum
+Cosmetic.nameplate_sandcastle	Dili Nako Mabalas Kini
+Cosmetic.nameplate_cliffs	Kini Sedimentary
+	
+ReportNotificationHeader	Salamat sa pagtabang nga magpabiling luwas ug mahigalaon nga lugar ang Among Us!
+ReportNotificationBody	Ribyuhon sa among grupo sa pag-moderate ang impormasyon nga imong gi-report ug molihok kon angay base sa among Code of Conduct.
+ErrorClientTimeout	Nadiskonekta ka sa server. Mahimong tungod kini sa mga isyu sa server, mga isyu sa network o mga isyu sa device. Susiha ang gikusgon sa imong network.\n\nKung kini mahitabo kanunay, mahimong karaan na kaayo o wala na makaabot sa minimum nga mga kinahanglanon sa spec ang imong device. Sulayi ang pagdula sa laing device.
+ErrorClientTimeoutConsole	Nadiskonekta ka sa server. Tungod tingali kini sa mga isyu sa server o sa network. Susiha ang gikusgon sa imong network.
+	
+Cosmetic.hat_NewYear2024	Bag-ong Tuig 2024
+	
+Cosmetic.nameplate_Celeste	Pataas ug Padayon
+Cosmetic.nameplate_flyingStrawberry	Dakpa Dayon Ko
+Cosmetic.hat_madeline	Buhok ni Madeline
+Cosmetic.hat_badeline	Buhok ni Badeline
+Cosmetic.visor_theobeard	Bungot ni Theo
+Cosmetic.hat_theohair	Buhok ni Theo
+Cosmetic.hat_bird	Ang Birb
+Cosmetic.skin_Theoskin	Gear ni Theo
+Cosmetic.skin_MadelineSkinskin	Gear ni Madeline
+Cosmetic.skin_BadelineSkinskin	Jacket ni Badeline
+Cosmetic.pet_Strawb	Naglupad nga Strawberry
+Cosmetic.pet_napstamate	Napstamate
+Cosmetic.hat_undyne	Ponytail sa Hustisya
+Cosmetic.hat_floweyGood	Imong Pinakasuod nga Higala
+Cosmetic.hat_floweyBad	Ang Imong Pinakagrabeng Kaaway
+Cosmetic.hat_spear	Spear sa Hustisya
+Cosmetic.hat_boneUndertale	Bonetrousle
+Cosmetic.hat_duck	Langgam nga Magdala sa Crew
+Cosmetic.nameplate_flowers	Sa Unang Panahon
+Cosmetic.nameplate_fight	Aduna Kay Panahon
+Cosmetic.skin_Undyneskin	Casual nga Outfit sa Hustisya
+Cosmetic.skin_Sanskin	Hoodie sa Usa ka Tawo
+Cosmetic.skin_Papyrusskin	CoolSkeleton95
+Cosmetic.nameplate_battlefield	Mag-brawl Ta
+Cosmetic.nameplate_hominid	ZAP!
+Cosmetic.hat_castleCrasher	Helmet sa Crasher
+Cosmetic.hat_hattyHattington	Kalo ni Hatty Hattington
+Cosmetic.hat_alienHominid	Antena sa Alien
+Cosmetic.hat_king	Kingley nga Krown
+Cosmetic.visor_hattyHattington	Mga Lami nga Luha ni Hatty
+Cosmetic.visor_king	Kingley nga Dignidad
+Cosmetic.visor_alienHominid	Ubos nga Ngipon sa Alien
+Cosmetic.pet_Rammy	Rammy
+Cosmetic.skin_KingSkinskin	Kingley nga Mga Robe
+Cosmetic.skin_HattySkinskin	Makapalipay nga Suit ni Hatty
+Cosmetic.skin_CrusaderSkinskin	Armadura sa Crasher
+Cosmetic.nameplate_hourglass	Wala Na'y Oras
+Cosmetic.nameplate_shadows	Na-expire Na ang Imong Kontrata
+Cosmetic.hat_hatkid	Kalo ni Kid
+Cosmetic.hat_conductor	Kalo sa Conductor
+Cosmetic.hat_mustachegirl	Hood ni Mustache Girl
+Cosmetic.hat_bowkid	Laso ni Bow Kid
+Cosmetic.skin_HatKidSkinskin	Kapa ni Kid
+Cosmetic.skin_MoustacheKidSkinskin	Mga Robe ni Mustache Girl
+Cosmetic.skin_Conductorskin	Uniporme sa Conductor
+Cosmetic.skin_BowKidskin	Sanina ni Bow Kid
+Cosmetic.pet_Crow	Mad Crow
+Cosmetic.visor_mustachegirl	Bigote ni Mustache Girl
+Cosmetic.nameplate_torch	Pahayagi ang Kangitngit
+Cosmetic.nameplate_dungeonFloor	Sayaw Hangtod Kapoyon Ka (Mamatay)
+Cosmetic.hat_shopkeeper	Kalo ni Frederick
+Cosmetic.hat_cadence	Bandana ni Cadence
+Cosmetic.hat_nocturna	Ponytail ni Nocturna
+Cosmetic.hat_skull	Murag Nailhan Nako Sila
+Cosmetic.skin_FrederickSkinskin	Outfit ni Frederick
+Cosmetic.skin_CadenceSkinskin	Tabbard ni Cadence
+Cosmetic.skin_Nocturnaskin	Mga Pako ni Nocturna
+Cosmetic.visor_shopkeeper	Goatee ni Frederick
+Cosmetic.pet_DancingSkeletonPet	Bone Shaker
+Cosmetic.nameplate_honk	HONK
+Cosmetic.nameplate_knife	Dili Gayud Opsyon ang Kalinaw
+Cosmetic.pet_GoosePet	Usa ka Gangsa
+Cosmetic.hat_bell	Bulawan nga Kampana
+Cosmetic.hat_goosefloaty	Walay Title nga Goose Floaty
+Cosmetic.hat_gardener	Kalo sa Hardinero
+Cosmetic.visor_goose	Sungo sa Gangsa
+Cosmetic.visor_gardenernose	Ilong sa Hardinero
+Cosmetic.visor_wimpglasses	Antipara sa Wimp
+Cosmetic.skin_GardenerSkin1skin	Gear sa Hardinero
+Cosmetic.skin_Wimpskin	Wardrobe sa Wimp
+Cosmetic.hat_shiitakeHat	X Ang Timaan
+Cosmetic.hat_mushmuffsHat	Mga Fungle Beat ni Lo-Fi
+Cosmetic.hat_shrapnelHat	Iigo ang Salog sa Lawas
+Cosmetic.visor_mushroomeyesVisor	Spore-o-Vision
+Cosmetic.visor_animesunglassesVisor	Murag Hait
+Cosmetic.visor_starsunglassesmintVisor	Bituon nga Mata - Mint
+Cosmetic.visor_heartsunglassesgoldVisor	Ganahan Makakita Nimo- Yellow
+Cosmetic.nameplate_binocularsNameplate	Fungle Patrol
+Cosmetic.nameplate_DeadSunsetNameplate	Sa Katapusan (Sa Adlaw)
+Cosmetic.skin_Skins14_5skin	Andam na Mo-fungle
+	
+Cosmetic.hat_lny_soupSpoon	Maayong Soup
+Cosmetic.hat_lny_lantern	Hayagi ang Dalan
+Cosmetic.hat_lny_dancerHead	Atubangan sa Linya
+Cosmetic.hat_lny_dancerBody	Na-stuck sa Tunga Uban Kanimo
+Cosmetic.hat_lny_dancerTail	Luyo sa Linya
+Cosmetic.nameplate_lny_monkey	Tuig sa Monkey
+Cosmetic.nameplate_lny_tiger	Tuig sa Tiger
+Cosmetic.nameplate_lny_horse	Tuig sa Horse
+Cosmetic.nameplate_lny_goat	Tuig sa Goat
+Cosmetic.nameplate_lny_rooster	Tuig sa Rooster
+Cosmetic.nameplate_lny_snake	Tuig sa Snake
+Cosmetic.nameplate_lny_dragon	Tuig sa Dragon
+Cosmetic.nameplate_lny_boar	Tuig sa Boar
+Cosmetic.nameplate_lny_dog	Tuig sa Dog
+Cosmetic.nameplate_lny_rabbit	Tuig sa Rabbit
+Cosmetic.nameplate_lny_ox	Tuig sa Ox
+Cosmetic.nameplate_lny_cat	Tuig sa Cat
+Cosmetic.nameplate_lny_rat	Tuig sa Rat
+Cosmetic.nameplate_lny_lanterns	Tanang Kahayag
+Cosmetic.nameplate_lny_incense	Nindot nga Incense
+Cosmetic.skin_lny_dragonDancer	Sayaw, Dragon, Sayaw
+Cosmetic.nameplate_lny_beanDragon	Legend sa Bean Dragon
+Cosmetic.nameplate_lny_clouds	Mauswagon nga Vibes
+Cosmetic.nameplate_lny_redPackets	Ipa-ulan
+	
+Cosmetic.pet_lny_dragon	Kamingaw sa Skeld
+Cosmetic.hat_lny_ox	Bull og Ulo
+Cosmetic.hat_lny_dog	Pag-usig sa Sayop nga Kahoy
+Cosmetic.hat_lny_horse	Gusto ba Nimo Mahimong Neigh-bor Nako
+Cosmetic.hat_lny_pig	Hogwash
+Cosmetic.hat_lny_rat	Squeaky nga Limpyo
+Cosmetic.hat_lny_cat	Murag Nyah?
+Cosmetic.hat_lny_monkey	I'm All Ears
+Cosmetic.hat_lny_rooster	Hot nga Pako
+Cosmetic.hat_lny_goat	Ang G.O.A.T.
+Cosmetic.hat_lny_dragon	Dili kinahanglang i-Dragon Things Out
+Cosmetic.hat_lny_tiger	Dunggan sa Tigre
+Cosmetic.hat_lny_rabbit	18 Carrot nga Bulawan
+Cosmetic.visor_lny_rat	Kinsa'y Nihiwa sa Cheese
+Cosmetic.visor_lny_snake	Hissssssssss
+Cosmetic.visor_lny_pig	Ham nga Radyo
+Cosmetic.visor_lny_tiger	Go Get 'Em, Tigre
+Cosmetic.visor_lny_dragon	Dawbi Kung Dragons, Imagine
+Cosmetic.nameplate_lny_goldCrewmate	Mga Maayong Fortune
+Cosmetic.nameplate_lny_goldImpostor	Mga Bulawang Misfortune
+	
+AprilFoolsModeToggle	April Fools nga Mode (Limitadong Cosmetics)
+ErrorAuthNonceFailure	Sabotahe! Nakasinati og isyu ang mga server sa Among Us samtang gipamatud-an ka. Palihug sulayi pag-usab.\n\nKung magpadayon ang problema, palihug pagsumite og <link="https://innersloth.zendesk.com/hc/en-us/requests/new">ticket sa suporta</link>.
+	
+Cosmetic.nameplate_crewmatesBlue	Funky Crew - Asul
+Cosmetic.nameplate_crewmatesRed	Funky Crew - Pula
+Cosmetic.nameplate_horseHeaven	Wala Na Mi Nag-Horse Around
+Cosmetic.nameplate_horsemateField	Pasture Prime
+Cosmetic.hat_fluffyHat	Comfy Clownin
+Cosmetic.hat_topHatMinimate	Gamay nga Dappermate
+Cosmetic.hat_triplePartyHat	Party Ang Tulo
+Cosmetic.visor_happyMouthNote	Nalingaw Ko
+Cosmetic.visor_henry	Henry Smugmin
+Cosmetic.visor_thatFace	H E L L O
+	
+Cosmetic.hat_bb1_bucketHatBee	Gitawag Kini nga Fashion - Bee
+Cosmetic.hat_bb1_bucketHatBlack	Gitawag Kini nga Fashion - Itom
+Cosmetic.hat_bb1_bucketHatCamo	Gitawag Kini nga Fashion - Camo
+Cosmetic.hat_bb1_bucketHatFlowers	Gitawag Kini nga Fashion - Floral
+Cosmetic.hat_bb1_bucketHatWhite	Gitawag Kini nga Fashion - Khaki
+Cosmetic.hat_bb1_bunnyBlack	Season sa Wabbit - Itom
+Cosmetic.hat_bb1_sunHatGreen	Ania na ang Sunny Days - Mint
+Cosmetic.hat_bb1_sunHatYellow	Ania na ang Sunny Days - Yellow
+Cosmetic.hat_bb1_lilShroomRed	Usa Lang ka Gamay nga Funguy - Pula
+Cosmetic.hat_bb1_lilShroomBlue	Usa Lang ka Gamay nga Funguy - Asul
+Cosmetic.hat_bb1_lilShroomGlowing	Usa Lang ka Gamay nga Funguy - Glow
+Cosmetic.skin_bb1_rainbowTube	Dili Ko Kamao Mulangoy - Rainbow
+Cosmetic.skin_bb1_fungleDress	Nag-blossom
+Cosmetic.nameplate_bb1_disco	Biyernes...Na Gyud
+Cosmetic.nameplate_bb1_hackerman	Padulong sa Mainframe
+Cosmetic.nameplate_bb1_ram	Mga Seryosong RAMification
+Cosmetic.nameplate_bb1_rave	Raving Review
+Cosmetic.nameplate_bb1_zen	All Righty Zen!
+	
+ViewLabel	Tan-awa
+ViewingLabel	Nagtan-aw sa Mga Setting sa Dula...
+RoomCodeLabel	Code sa Room
+RoomCodeCopied	Nakopya na ang Code sa Room!
+RoomSettingsLabel	Mga Setting sa Room
+ModeLabel	Preset
+PrivacyLabel	Pagkapribado
+CapacityLabel	Kapasidad
+GameSettingsLabel	Mga Setting sa Dula
+RoleSettingsLabel	Mga Setting sa Role
+GamePresetsLabel	Mga Preset sa Dula
+GamePresetsDescription	I-apply ang girekomenda nga mga setting para sa imong lobby sa dula.
+GamePresetsPopupTitle	Pasidaan!
+GamePresetsPopupText	Ang mga pagbag-o nga imong nahimo sa mga setting sa imong dula ma-overwrite sa gipili nga preset!
+GamePresetsPopupContinue	Padayon Bisan pa niana
+GamePresetsPopupBack	Balik
+StandardRulesPresetDescription	Ang preset para sa balanse nga mga setting sa dula ug walay role.
+RolesRulesPresetDescription	Ang girekomenda nga mga setting para sa lobby nga naay mga role.
+StandardRulesPresetDescriptionHideAndSeek	Ang preset para sa pinakamaayo nga mga setting sa Hide n Seek nga naka-off ang flashlight vision.
+FlashlightRulesPresetDescription	Ang preset para sa mga crewmate nga adunay flashlight vision nga naay balanse nga mga setting sa dula.
+GameSettingsDescription	I-edit ang mga setting sa indibidwal para sa imong lobby sa dula.
+RoleSettingsDescription	I-edit ang mga setting sa role para sa imong lobby sa dula.
+GameModeStandard	Mga Core Setting
+GameModeStandardRoles	Mga Role Galore
+GameModeFlashlight	Mga Flashlight
+GameModeCustom	Custom
+GameModeStandardSeek	Pitch Dark
+ImpostorsCategory	Mga Impostor
+RolesCategory	Mga Role
+MeetingsCategory	Mga Meeting
+PlayersCategory	Mga Crewmate
+TasksCategory	Mga Task
+InfoLabel	Impormasyon
+RoleQuotaLabel	Gidaghanon sa Role
+OverviewCategory	Overview
+LobbyChangeSettingNotification	{0} gi-set sa {1}.
+LobbyChangeSettingNotificationRole	{0} gi-set sa {1}, Tsansa: {2}.
+CrewmateRolesHeader	Mga Role sa Crewmate
+ImpostorRolesHeader	Mga Role sa Impostor
+LocalLobbyLabel	Lokal nga Lobby
+NumberRoleHeader	Gidaghanon sa Role
+ChanceRoleHeader	% nga Tsansa
+WaitingForPlayers	Naghulat sa Mga Player
+FinalHideCategory	Ulahing Tago
+	
+QCLobbyRoleNoisemakers	Mga Noisemaker?
+QCLobbyRoleTrackers	Mga Tracker?
+QCLobbyRolePhantoms	Mga Phantom?
+QCSelfWasTracking	Gisubay nako si {0}
+QCSelfGoingToNoisemaker	Moadto unta ko sa Noisemaker
+QCSelfSawRoleInLocation	Nakita nako si {0} sa {1}
+	
+NoisemakerRole	Noisemaker
+NoisemakerBlurb	Magpadala og alerto kung mapatay
+NoisemakerBlurbMed	Ialerto ang tanang crewmate sa imong lokasyon\nkung mapatay.
+NoisemakerBlurbLong	Dili ordinaryong role sa crewmate ang Noisemaker. Wala silay abilidad nga magamit sama sa tanang uban nga role. Hinuon, awtomatiko nga magpadala sila og alerto kung mapatay sila sa impostor. Makapataranta og dali sa impostor ang alerto. Tan-awa imong mga kauban nga crewmate nga magdali og adto sa eksena sa krimen aron dakpon ang killer ug panimaslan imong kamatayon!
+NoisemakerImpostorAlert	Makadawat og alerto ang mga impostor
+NoisemakerAlertDuration	Gidugayon sa alerto
+PhantomAbility	Mawala
+PhantomAbilityUndo	Makita
+PhantomRole	Phantom
+PhantomBlurb	Mahimo nga invisible
+PhantomBlurbMed	Mahimo nga invisible aron makatago-tago\no makalikay nga mapatay.
+PhantomBlurbLong	Mahimo nga invisible ang Phantom aron makatago sa crewmate o makabiya sa eksena sa krimen nga dil madakpan. Dili sila makapatay samtang invisible, pero makagamit gihapon sila og mga hagdanan ug zipline. Ang pagkahimong invisible ug dili invisible maghimo og dako nga aso nga panganod maong siguroha nga walay crewmate sa area! Dili sab hangtod sa hangtod ang pagka-invisible mao nga siguroha nga ma-timing og sakto ang abilidad.
+PhantomCooldown	Cooldown sa Pagkawala
+PhantomDuration	Gidugayon sa Pagkawala
+TrackerRole	Tracker
+TrackerAbility	Track
+TrackerAbilityUndo	I-untrack
+TrackerBlurb	I-track ang crewmate gamit ang imong mapa
+TrackerBlurbMed	Pagbutang og tracker sa usa ka crewmate\naron makita ang ilang mga kalihokan sa mapa.
+TrackerBlurbLong	Makita sa Tracker ang posisyon sa crewmate sa ilang minimap. Kinahanglan una nga motapad sila sa laing crewmate aron mabutang ang tracking device. Pagbantay nga dili kaayo ka makaduda tan-awon samtang duolan ang ubang crewmate. Molungtad lang og pipila ka segundo ang pag-track mao nga siguroha ang pagpili og maayo sa target. Dugang pa, ayaw palabi'g tan-aw og dugay sa minimap kay dali ra ka maduolan sa impostor ana!
+TrackerCooldown	Cooldown sa Pag-track
+TrackerDuration	Gidugayon sa Pag-track
+TrackerDelay	Delay sa Pag-track
+RolesHelp_Noisemaker_01	Dili ordinaryong role sa crewmate ang Noisemaker. Wala silay abilidad nga magamit sama sa tanang uban nga role. Hinuon, awtomatiko nga magpadala sila og alerto kung mapatay sila sa impostor.
+RolesHelp_Noisemaker_02	Makapataranta og dali sa impostor ang alerto. Tan-awa imong mga kauban nga crewmate nga magdali og adto sa eksena sa krimen aron dakpon ang killer ug panimaslan imong kamatayon!
+RolesHelp_Tracker_01	Makita sa Tracker ang posisyon sa crewmate sa ilang minimap. Kinahanglan una nga motapad sila sa laing crewmate aron mabutang ang tracking device. Pagbantay nga dili kaayo ka makaduda tan-awon samtang duolan ang ubang crewmate.
+RolesHelp_Tracker_02	Molungtad lang og pipila ka segundo ang pag-track mao nga siguroha ang pagpili og maayo sa target. Dugang pa, ayaw palabi'g tan-aw og dugay sa minimap kay dali ra ka maduolan sa impostor ana!
+RolesHelp_Phantom_01	Mahimo nga invisible ang Phantom aron makatago sa crewmate o makabiya sa eksena sa krimen nga dil madakpan. Dili sila makapatay samtang invisible, pero makagamit gihapon sila og mga hagdanan ug zipline.
+RolesHelp_Phantom_02	Ang pagkahimong invisible ug dili invisible maghimo og dako nga aso nga panganod maong siguroha nga walay crewmate sa area! Dili sab hangtod sa hangtod ang pagka-invisible mao nga siguroha nga ma-timing og sakto ang abilidad.
+	
+HostYouLabel	(Ikaw!)
+HostNounLabel	Host:
+RoleSettingsAll	TANAN
+	
+QCCoreSettings	Gamiton ang mga Core Setting nga preset?
+QCRolesGalore	Gamiton ang mga Role Galore nga preset?
+QCPitchDark	Gamiton ang Pitch Dark nga preset?
+QCFlashlight	Gamiton ang mga Flashlight nga preset?
+QCPleaseWait	Palihug hulati nga magsugod
+QCWaitMinute	Palihug sa paghulat og usa ka minuto para magsugod
+QCLobbyClosing	Hapit na masirado ang lobby
+QCChangeCosmetics	Kinahanglan nakong mag-ilis og cosmetics
+QCWaitingPlayers	Naghulat sa ubang player…
+QCLetsWaitPlayers	Hulatan nato ang ubang player?
+	
+Cosmetic.hat_nott	Hood ni Nott
+Cosmetic.hat_chetney	Headband ni Chetney
+Cosmetic.hat_jester	Mga Sungay ni Jester
+Cosmetic.hat_laudna	Buhok ni Laudna
+Cosmetic.hat_molly	Mga Sungay ni Mollymauk
+Cosmetic.hat_artagan	Buhok ni Artagan
+Cosmetic.hat_fearne	Buhok ni Fearne
+Cosmetic.hat_vax	Buhok ni Vax
+Cosmetic.hat_fcg	Ulo ni FCG
+Cosmetic.hat_sprinkle	Okay ra si Sprinkle
+Cosmetic.hat_orthax	Pag-manifest ni Orthax
+Cosmetic.hat_scanlan	Kamot ni Scanlan
+Cosmetic.nameplate_eyes	Ang Siyam ka Mata ni Lucien
+Cosmetic.nameplate_cupcake	Dust sa Kalami
+Cosmetic.nameplate_moons	Mga Bulan Sa Exandria
+Cosmetic.nameplate_tea	Teatime kauban si Caduceus
+Cosmetic.pet_Pate	Pâté
+Cosmetic.pet_Mister	Mister
+Cosmetic.skin_Nott	Cloak ni Nott
+Cosmetic.skin_Chetney	Tracksuit ni Chetney
+Cosmetic.skin_Jester	Sanina ni Jester
+Cosmetic.skin_Laudna	Sanina ni Laudna
+Cosmetic.skin_Molly	Garb ni Mollymauk
+Cosmetic.skin_artagan	Cloak ni Artagan
+Cosmetic.skin_Fearne	Sanina ni Fearne
+Cosmetic.skin_Vax	Armadura ni Vax
+Cosmetic.visor_nott	Maskara ni Nott
+Cosmetic.visor_chetney	Mga Kilay ni Chetney
+Cosmetic.visor_artagan	Mga Talagsaong Kilay ni Artagan
+	
+GuardianNewPermissionUpdate	Ingon sa bersiyon sa dula {0}, tungod sa mga kinahanglanon nga gitakda sa bag-ong mga balaod sa kaluwasan sa bata, ang tanan nga Mga Account sa Bata nanginahanglan ug usa ka ginikanan o tigbantay nga maghatag ug pagtugot nga hingpit nga maka-access sa Among Us. Ang imong datos sa dula ug mga butang wala maapektuhan, apan ang imong account kinahanglan nga susihon sa dili pa nimo kini hingpit nga ma-access.\n\nMahimo ka magpadayon sa pagdula sa usa ka temporaryo nga gipugngan nga account hangtod ang imong ginikanan o tigbantay maghatag pagtugot. Kung aduna nay email sa ginikanan o tigbantay nga gilakip sa imong account, kini makita sa ubos.
+	
+Cosmetic.skin_Edgeworth	Suit ni Miles Edgeworth
+Cosmetic.hat_Edgeworth	Gupit ng Buhok ni Miles Edgeworth
+	
+Cosmetic.hat_paws_panda	Bamboozled
+Cosmetic.hat_paws_spaceDog	Top Dog
+Cosmetic.hat_paws_fish	Nakapaak sa Linya
+Cosmetic.hat_paws_raccoon	Anaa sa Sly
+Cosmetic.hat_paws_turtle	Nakurat si Shell
+Cosmetic.hat_paws_foxGrey	Pagsayaw sa Foxtrot - Gray
+Cosmetic.hat_paws_antlers	Kinatibuk-an nga Racket
+Cosmetic.hat_paws_opossum	Iring nga Swamp
+Cosmetic.nameplate_paws_fur	Mabangis nga Pahinumdom
+Cosmetic.nameplate_paws_jaguar	Nakit-an ko
+Cosmetic.nameplate_paws_feathers	Mag-uban
+Cosmetic.nameplate_paws_scales	Pag-scale sa mga Paril
+Cosmetic.skin_paws_opossum	Tig-dive sa basura
+Cosmetic.skin_paws_parrot	Sinina sa Flight
+Cosmetic.skin_paws_raccoon	Lil Rascal
+Cosmetic.skin_paws_foxGrey	Kit & Caboodle - Grey
+Cosmetic.visor_paws_sacabambaspis	Makahulog sa apapangig
+Cosmetic.visor_paws_parrotBeak	Pagpasundayag sa sungo
+Cosmetic.visor_paws_bone	Maayong Pagkaon
+Cosmetic.visor_paws_carrot	Ang Mas Maayo nga Makita Ka
+Cosmetic.visor_paws_raccoon	Dumpster nga Bandido
+Cosmetic.hat_claws_spaceDog	Iro Diha Niini
+Cosmetic.hat_claws_frog	Nangurog
+Cosmetic.hat_claws_moose	Si Fast ug Moose
+Cosmetic.hat_claws_dragonRed	Unsa ang Dragon - Pula
+Cosmetic.hat_claws_bullHorns	Incredibull
+Cosmetic.hat_claws_foxOrange	Pagsayaw sa Foxtrot - Kahil
+Cosmetic.hat_claws_squid	Nokus Pro Quo
+Cosmetic.hat_claws_kuduHorns	Kudu Ipaubos lang, Palihug?
+Cosmetic.hat_claws_buffaloHorns	Buffalo Buffalo Buffalo
+Cosmetic.hat_claws_hippo	Hippocritical
+Cosmetic.nameplate_claws_spaceCat	Iring nga Team Space
+Cosmetic.nameplate_claws_spaceDog	Iro nga Team Space
+Cosmetic.nameplate_claws_tigerPrint	Maanindot Ka
+Cosmetic.nameplate_claws_lilypad	Lily Nagbugsay sa gawas
+Cosmetic.pet_claws_spaceCat	Iring nga Space
+Cosmetic.skin_claws_stripes	Makahadlok nga Symmetry
+Cosmetic.skin_claws_squid	Cephalobod
+Cosmetic.skin_claws_dragonRed	Ihulog ang Dragon - Pula
+Cosmetic.skin_claws_frogSuit	Ambaki Kini
+Cosmetic.skin_claws_hoofed	Lakangi Kini
+Cosmetic.skin_claws_foxOrange	Kit & Caboodle - Kahil
+Cosmetic.visor_claws_knife	Tugoti Ko nga Makita Kon Unsay Naa Nimo
+Cosmetic.visor_claws_smallMuzzle	Mas Bark kay sa Bite
+Cosmetic.visor_claws_whiskers	Ang Meow sa Iring
+Cosmetic.visor_claws_bullRing	Patay nga Ringer
+	
+Cosmetic.hat_NewYear2025	Bag-ong Tuig 2025

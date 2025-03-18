@@ -1,0 +1,2706 @@
+KEY ID	Dutch
+LocalButton	Lokaal
+OnlineButton	Online
+HowToPlayButton	Zo speel je
+FreePlayButton	Oefenmodus
+PublicHeader	Openbaar
+PrivateHeader	Privé
+HostHeader	Hosten
+ExitButton	Sluiten
+BackButton	Terug
+AvailableGamesLabel	Beschikbare spellen
+CreateGameButton	Spel aanmaken
+FindGameButton	Spel zoeken
+EnterCode	Code invoeren
+GhostIgnoreTasks	Je bent dood. Geniet van de chaos.
+GhostDoTasks	Je bent dood. Voltooi je taken om te winnen.
+TotalTasksCompleted	Totaal aantal taken voltooid
+GhostImpostor	Je bent dood. Je kunt nog steeds saboteren.
+ImpostorTask	Saboteer en dood iedereen.
+FakeTasks	Neptaken:
+TaskComplete	Klus geklaard!
+ExileTextSP	{0} was de bedrieger.
+ExileTextSN	{0} was niet de bedrieger.
+ExileTextPP	{0} was een bedrieger.
+ExileTextPN	{0} was geen bedrieger.
+NoExileSkip	Er is niemand uitgegooid. (Overgeslagen)
+NoExileTie	Er is niemand uitgegooid. (Onbeslist)
+ExileTextNonConfirm	{0} is er uitgegooid.
+ImpostorsRemainS	Er is nog {0} bedrieger.
+ImpostorsRemainP	Er zijn nog {0} bedriegers.
+Hallway	Gang
+Engines	Motoren
+UpperEngine	Bovenste motor
+Cafeteria	Kantine
+Weapons	Wapens
+Reactor	Reactor
+Security	Beveiliging
+MedBay	Ziekenkamer
+LifeSupp	Zuurstof
+Nav	Navigatie
+LowerEngine	Onderste motor
+Electrical	Elektra
+Admin	Administratie
+Storage	Opslag
+Shields	Schilden
+Comms	Communicatie
+Decontamination	Ontsmetting
+Launchpad	Lanceerplatform
+LockerRoom	Kleedkamer
+Laboratory	Laboratorium
+Balcony	Balkon
+Office	Kantoor
+Greenhouse	Plantenkas
+DivertPowerTo	Leid stroom om naar {0}
+DivertPower	Stroom omleiden
+AcceptDivertedPower	Accepteer omgeleide stroom
+SubmitScan	Verstuur scan
+PrimeShields	Activeer schilden
+FuelEngines	Vul motoren bij
+ChartCourse	Stippel route uit
+StartReactor	Start reactor
+SwipeCard	Scan kaart
+ClearAsteroids	Ruim asteroïden op
+DownloadData	Download data
+UploadData	Upload data
+InspectSample	Onderzoek monster
+EmptyChute	Leeg de stortkoker
+EmptyGarbage	Ruim het afval op
+AlignEngineOutput	Lijn motoruitvoer uit
+FixWiring	Repareer bedrading
+FixWiringName	Bedrading
+DoorsName	Deuren
+CalibrateDistributor	Kalibreer stroomverdeler
+UnlockManifolds	Ontgrendel verdelers
+ResetReactor	Reactormeltdown over
+ResetReactorName	Reactormeltdown
+FixLights	Repareer lampen
+FixLightsName	Verlichting
+CleanO2Filter	Reinig zuurstoffilter
+FixComms	Communicatie gesaboteerd
+RestoreOxy	Zuurstof uitgeput over
+RestoreOxyName	Zuurstof uitgeput
+StabilizeSteering	Stabiliseer besturing
+AssembleArtifact	Stel artefact samen
+SortSamples	Sorteer monsters
+MeasureWeather	Meet het weer
+EnterIdCode	Voer ID-code in
+BuyBeverage	Koop drankje
+ProcessData	Verwerk data
+NumImpostorsS	Er is <color=#FF1919FF>1 bedrieger</color> in ons midden
+NumImpostorsP	Er zijn <color=#FF1919FF>{0} bedriegers</color> in ons midden
+Crewmate	Bemanningslid
+Impostor	Bedrieger
+Victory	Gewonnen
+Defeat	Verloren
+CrewmatesDisconnected	Meeste bemanningsleden\nhebben verbinding verloren
+ImpostorDisconnected	Bedrieger heeft verbinding verloren
+PickAnomaly	Kies afwijking
+WaterPlantsGetCan	Gieter gevonden!
+AuthOfficeOkay	Kantoor Oké
+AuthCommsOkay	Communicatie Oké
+AuthOfficeActive	Kantoor AAN
+AuthCommsActive	Communicatie AAN
+AuthOfficeNotActive	Kantoor UIT
+AuthCommsNotActive	Communicatie UIT
+SecLogEntry	{0} liep langs de {1} sensor
+SecLogEntryColorblind	{0} ({1}) liep langs de {2}-sensor
+LogNorth	noordelijke
+LogSouthEast	zuidoostelijke
+LogSouthWest	zuidwestelijke
+EnterName	Jouw naam
+SwipeCardPleaseInsert	Voer kaart in
+SwipeCardPleaseSwipe	Scan kaart
+SwipeCardBadRead	Scanfout. Probeer opnieuw.
+SwipeCardTooFast	Te snel. Probeer opnieuw.
+SwipeCardTooSlow	Te langzaam. Probeer opnieuw.
+SwipeCardAccepted	Goedgekeurd. Bedankt.
+ReactorHoldToStop	Hou ingedrukt om meltdown te stoppen
+ReactorWaiting	Wacht op tweede gebruiker
+ReactorNominal	Reactor stabiel
+MeetingWhoIsTitle	Wie is de bedrieger?
+MeetingVotingBegins	Stemmen begint over: {0} s
+MeetingVotingEnds	Stemmen is afgelopen over: {0} s
+MeetingVotingResults	Uitslag stemming
+MeetingProceeds	Verder over: {0} s
+MeetingHasVoted	{0} heeft gestemd. Nog {1} te gaan.
+HowToPlayText1	Among Us gaat over teamwork en verraad.\n\nSpelers kunnen bemanningsleden zijn of een bedrieger.
+HowToPlayText2	Speel met 4 tot 15 spelers, online of via lokale wifi.
+HowToPlayText41	Als je een spel host, kun je instellen hoe het wordt gespeeld.
+HowToPlayText42	Bepaal eerst met wie je wilt spelen.\n\nAls je online met vrienden wilt spelen, kies je 'Privé' en deel je de kamercode.\n\nAls je met mensen van over de hele wereld wilt spelen, kies je 'Openbaar'.
+HowToPlayText43	Wil je met meer taken spelen? Of sneller lopen? Meer bedriegers? Als host kun je deze instellingen aanpassen. Zorg wel dat je de wijzigingen bevestigt bij je medespelers.
+HowToPlayText44	Als iemand onbeschoft doet en/of spam stuurt, kan de host die speler tijdelijk uit het spel gooien of helemaal uit de specifieke online kamer verbannen.
+HowToPlayTextMap	Spelers hebben een eigen kaart tot hun beschikking om de weg te vinden op het schip.
+HowToPlayTextCrew1	Doel: vul de gezamenlijke takenmeter of ontdek wie de bedrieger is.
+HowToPlayTextCrew2	Voltooi taken om de meter te vullen.
+HowToPlayTextCrew3	Reageer op sabotage van de bedrieger.
+HowToPlayTextCrew4	Bedrieger gevonden? Spoed vergadering!
+HowToPlayTextCrew5	Maak melding van lijken.
+HowToPlayTextCrew6	Zoek in Administratie en Beveiliging naar verdachte activiteiten.
+HowToPlayTextImp1	Doel: dood de bemanning.
+HowToPlayTextImp2	Meng je onder de bemanning.
+HowToPlayTextImp3	Sluip door de luchtschachten.
+HowToPlayTextImp4	Doe alsof je taken voltooit.
+HowToPlayTextImp5	Saboteer het schip en leid de bemanning om de tuin.
+HowToPlayTextImp6	Sluit deuren en lok slachtoffers in de val.
+HowToPlayTextImp7	Dood de bemanning tussen afkoelperiodes.
+HowToPlayText5	Als jullie samen fysiek in dezelfde ruimte spelen, mag er niet gepraat worden. Zo blijft het eerlijk voor de bemanning en de bedrieger.\n\nAls een speler gedood wordt door de bedrieger, mag die pas praten als het spel voorbij is.\n\nSpoken kunnen hun taken nog steeds uitvoeren om de bemanning naar de overwinning te helpen.
+HowToPlayText6	Als iemand een lijk meldt of een spoedvergadering bijeenroept, komt de bemanning bij elkaar om te bespreken wat ze weten over de bedrieger.\n\nSpelers kunnen nu openlijk praten over wie ze denken dat de bedrieger is en welke informatie ze hebben. Als je samen fysiek in dezelfde ruimte speelt, mogen de spoken niet praten, want zij weten al wie de bedrieger is.\n\nBedriegers zullen proberen hun onschuld te bewijzen of een ander bemanningslid te beschuldigen.
+HowToPlayText7	Na de bespreking stem je op wie volgens jou de bedrieger is.\n\nWie de meeste stemmen krijgt, wordt uit het schip gegooid, dus denk goed na over je stem!\n\nAls je niet genoeg informatie hebt, kun je als bemanning ook besluiten om niemand eruit te gooien en meer informatie te verzamelen.
+HowToPlayText81	Oefen in het speltype Oefenmodus!
+HowToPlayText82	Stel je eigen taken in als bemanningslid of oefen je moorddadige strategieën als bedrieger!
+SettingsGeneral	Algemeen
+SettingsControls	Besturing
+SettingsSound	Geluid
+SettingsGraphics	Beeld
+SettingsData	Data
+SettingsCensorChat	Chat beheren
+SettingsMusic	Muziek
+SettingsSFX	Effecten
+SettingsOn	Aan
+SettingsOff	Uit
+SettingsSendTelemetry	Telemetrie sturen
+SettingsControlMode	Besturing
+SettingsTouchMode	Aanraken
+SettingsJoystickMode	Joystick
+SettingsKeyboardMode	Muis+toetsenbord
+SettingsFullscreen	Volledig scherm
+SettingsVSync	VSync
+SettingsResolution	Resolutie
+SettingsApply	Toepassen
+SettingsPersonalizeAds	Reclame personaliseren
+SettingsLanguage	Taal
+SettingsJoystickSize	Grootte
+SettingsMouseMode	Muis
+SettingsStreamerMode	Streamermodus
+MatchMapName	Kaart
+MatchLanguage	Taal chat
+MatchImpostors	Bedriegers
+MatchMaxPlayers	Max. spelers
+Cancel	Annuleren
+Confirm	Bevestigen
+PlayerColor	Kleur
+PlayerHat	Hoofddeksel
+PlayerSkin	Skin
+PlayerPet	Huisdier
+GameSettings	Spel
+GameRecommendedSettings	Aanbevolen instellingen
+GameCustomSettings	Aangepaste instellingen
+GameMapName	Kaart
+GameNumImpostors	Aantal bedriegers
+GameNumMeetings	Aantal spoedvergaderingen
+GameDiscussTime	Bespreektijd
+GameVotingTime	Stemtijd
+GamePlayerSpeed	Spelersnelheid
+GameCrewLight	Zicht bemanning
+GameImpostorLight	Zicht bedrieger
+GameKillCooldown	Moordafkoeling
+GameKillDistance	Moordafstand
+GameCommonTasks	Aantal gewone taken
+GameLongTasks	Aantal lange taken
+GameShortTasks	Aantal korte taken
+GameEmergencyCooldown	Noodafkoeling
+GameSecondsAbbrev	{0}s
+GameConfirmImpostor	Uitgooien bevestigen
+GameVisualTasks	Zichtbare taken
+GameAnonymousVotes	Anonieme stemmen
+GameTaskBarMode	Updates takenmeter
+SettingNormalTaskMode	Altijd
+SettingMeetingTaskMode	Vergaderingen
+SettingInvisibleTaskMode	Nooit
+Limit	Limiet
+RoomCode	Code
+RoomCodeInfo	Klik om te kopiëren
+LeaveGame	Spel verlaten
+ReturnToGame	Terug naar spel
+LocalHelp	Probleempjes met de verbinding?\n\n● Zorg dat iedereen dezelfde wifiverbinding gebruikt\n● Zorg ervoor dat iedereen dezelfde versie heeft (rechtsonder)\n● Zorg dat je een sterk wifi-signaal hebt\n● Soms helpt het als iemand anders host\n● Soms helpt het om de app opnieuw op te starten...\n● Soms helpt het om je telefoon opnieuw op te starten...\n● Lukt het nog steeds niet? Stuur ons dan een mail: support@innersloth.com!
+OnlineHelp	Hoe werkt dit?\n\n● Als je een spel host, krijg je een spelcode in het lobbypaneel.\n● Deel de spelcode met vrienden om een privékamer te maken.\n● Of tik op 'Privé' om de kamer openbaar te maken in 'Spel zoeken'.\n● De host kan spelers verbannen of verwijderen op momenten dat de chat beschikbaar is.\n● Lukt het nog steeds niet? Stuur ons dan een mail: support@innersloth.com!
+EmergencyCount	BEMANNINGSLID {0} HEEFT NOG\n\n\n\nSPOEDVERGADERINGEN
+EmergencyNotReady	BEMANNINGSLEDEN MOETEN\n\n\n\nWACHTEN TOT HET VOLGENDE NOODGEVAL
+EmergencyDuringCrisis	SPOEDVERGADERINGEN ZIJN NIET MOGELIJK\nTIJDENS EEN CRISIS
+EmergencyRequested	SPOEDVERGADERING VERZOCHT\nWACHT OP DE HOST
+AdPolicyTitle	Reclamebeleid
+AdPolicyText	Kunnen we je persoonlijke gegevens gebruiken om advertenties op je af te stemmen? Als je op ja klikt, verzamelen onze advertentiepartners zoals Google AdMob en Unity Ads automatisch gegevens en gebruiken ze apparaatkenmerken en cookies voor advertentiepersonalisering. Als je op nee klikt, zie je mogelijk nog steeds niet-gepersonaliseerde advertenties. Om alle advertenties te verwijderen, koop je [httpstore]hier[] de advertentieloze upgrade. Jij en je vrienden krijgen dan geen advertenties wanneer jij host! Zie ons [https://www.innersloth.com/nl/privacy-policy-nl/]privacybeleid[] voor meer informatie over de privacy-praktijken van ons en onze advertentiepartners. Je kunt je besluit altijd wijzigen in het instellingenmenu onder "Data".
+Accept	Accepteren
+RemoveAds	Advertenties verwijderen
+PlainYes	Ja
+PlainNo	Nee
+PrivacyPolicyTitle	Privacybeleid
+PrivacyPolicyText	Innersloth verwerkt persoonlijke gegevens voor Among Us. Lees ons <link="https://www.innersloth.com/nl/privacy-policy-nl/">privacybeleid</link> voor meer informatie over onze privacy-praktijken. Je kunt je persoonlijke gegevensinstellingen voor Among Us beheren onder "Data".\n\nLees onze <link="https://www.innersloth.com/nl/terms-of-services-nl/">Gebruiksvoorwaarden</link> alvorens Among Us te spelen.
+ManageDataButton	Gegevensverzameling beheren
+UnderstandButton	Ik begrijp het
+WaterPlants	Geef planten water
+WeatherEta	Aankomst: \n{0}s
+WeatherComplete	Voltooid
+RunDiagnostics	Voer analyse uit
+SettingShort	Kort
+SettingMedium	Medium
+SettingLong	Lang
+SamplesPress	Druk om te starten
+SamplesAdding	Reagens toevoegen
+SamplesSelect	Selecteer afwijking
+SamplesThanks	Bedankt!
+SamplesComplete	Test voltooid
+AstDestroyed	Vernietigd: {0}
+TaskTestTitle	Takentester 2000
+BeginDiagnostics	Begin analyse
+UserLeftGame	{0} heeft het spel verlaten.
+GameStarting	Begint over {0}
+ChatRateLimit	Te snel. Wacht {0} seconde(n)
+Tasks	Taken
+MedscanRequested	Scan verzocht
+MedscanWaitingFor	Wacht op {0}
+MedscanCompleted	Scan voltooid!
+MedscanCompleteIn	Scan voltooid over {0}
+StatsTitle	Statistieken
+StatsBodiesReported	Lijken gemeld:\t
+StatsEmergenciesCalled	Vergaderingen bijeengeroepen:\t
+StatsTasksCompleted	Taken voltooid:\t
+StatsAllTasksCompleted	Alle taken voltooid:\t
+StatsSabotagesFixed	Sabotages gerepareerd:\t
+StatsImpostorKills	Bedriegermoorden:\t\t
+StatsTimesMurdered	Aantal keer gedood:\t
+StatsTimesEjected	Aantal keer uitgegooid:\t\t
+StatsCrewmateStreak	Reeks als bemanningslid:\t
+StatsGamesImpostor	Aantal keer bedrieger:\t
+StatsGamesCrewmate	Aantal keer bemanning:\t
+StatsGamesStarted	Spellen begonnen:\t
+StatsGamesFinished	Spellen voltooid:\t
+StatsImpostorVoteWins	Bedriegerstemming gewonnen:\t
+StatsImpostorKillsWins	Bedriegermoorden gewonnen:\t
+StatsImpostorSabotageWins	Bedriegersabotages gewonnen:\t
+StatsCrewmateVoteWins	Bemanningsstemming gewonnen:\t
+StatsCrewmateTaskWins	Bemanningstaken gewonnen:\t
+MonitorOxygen	Controleer boom
+StoreArtifacts	Sla artefacten op
+FillCanisters	Vul flessen
+InsertKeys	Voer sleutels in
+ResetSeismic	Herstel seismische stabilisators
+SeismicHoldToStop	Hou ingedrukt om seismische stabilisators te activeren
+SeismicNominal	Seismische activiteit stabiel
+ScanBoardingPass	Scan instapkaart
+FixWeatherNode	Repareer weersensor
+OpenWaterways	Open waterwegen
+ReplaceWaterJug	Vervang waterfles
+RepairDrill	Repareer boor
+AlignTelescope	Lijn telescoop uit
+RecordTemperature	Neem temperatuur op
+RebootWifi	Reboot wifi
+WifiRebootRequired	Reboot vereist
+WifiPleaseWait	Even geduld
+WifiPleaseReturnIn	Kom terug over {0}
+WifiPleasePowerOn	Aanzetten a.u.b.
+WifiRebootComplete	Reboot voltooid
+Outside	Buiten
+Dropship	Shuttle
+Decontamination2	Ontsmetting boven
+Specimens	Specimenkamer
+BoilerRoom	Stookruimte
+GameOverImpostorDead	Normaal gesproken zou De Bemanning net gewonnen hebben omdat De Bedrieger dood is. Om te kunnen oefenen, reanimeren we iedereen echter.
+GameOverImpostorKills	Normaal gesproken zou De Bedrieger net gewonnen hebben omdat De Bemanning niet meer kan winnen. Om te kunnen Oefenen, reanimeren we iedereen echter.
+GameOverTaskWin	Normaal gesproken zou De Bemanning net gewonnen hebben omdat de takenmeter vol is. Om te kunnen Oefenen, geven we echter nieuwe taken.
+GameOverSabotage	Gewoonlijk zou de bedrieger gewonnen hebben vanwege de ernstige sabotage, maar nu zetten we die gewoon uit.
+HowToPlayText2Switch	Speel online met 4 tot 15 spelers met je\n\nNintendo Switch Online-lidmaatschap of via lokale wifi!
+VentDirection	Luchtschachtrichting
+VentMove	Door luchtschacht bewegen
+MenuNavigate	Bewegen
+NsoError	Kan geen verbinding maken met het netwerk.
+ErrorServerOverload	De Among Us-servers zijn overbelast.\r\n\r\nSorry! Probeer het later nog eens!
+ErrorIntentionalLeaving	Je mag {0} minuten niet meedoen aan een nieuw spel als je de verbinding opzettelijk verbreekt.
+ErrorFocusLost	De verbinding werd verbroken omdat Among Us onderbroken werd door een andere app.
+ErrorBanned	Je bent verbannen uit {0}.\r\n\r\nJe kunt die kamer niet meer betreden.
+ErrorKicked	Je bent verwijderd uit {0}.\r\n\r\nJe kunt de kamer opnieuw betreden als het spel nog niet is begonnen.
+ErrorBannedNoCode	Je bent verbannen uit de kamer.\r\n\r\nJe kunt die kamer niet meer betreden.
+ErrorKickedNoCode	Je bent verwijderd uit de kamer.\r\n\r\nJe kunt de kamer opnieuw betreden als het spel nog niet is begonnen.
+ErrorHacking	Je bent verbannen vanwege hacken.\r\n\r\nKappen nou.
+ErrorFullGame	Het spel waaraan je mee wilt doen zit vol.\r\n\r\nVraag aan de host of je de volgende ronde mee kunt doen.
+ErrorStartedGame	Het spel waaraan je mee wilt doen is al begonnen.\r\n\r\nVraag aan de host of je de volgende ronde mee kunt doen.
+ErrorNotFoundGame	Het spel dat je zoekt is niet gevonden.
+ErrorInactivity	De server heeft dit spel gestopt. Mogelijk vanwege inactiviteit.
+ErrorGenericOnlineDisconnect	Je verbinding met de server is verbroken.\r\nControleer je netwerk als dit vaker gebeurt.\r\nDit kan ook een probleem zijn met de server.
+ErrorGenericLocalDisconnect	Je verbinding met de host is verbroken.\r\n\r\nControleer je wifi-signaal als dit vaker gebeurt.
+ErrorInvalidName	Server heeft gebruikersnaam '{0}' afgewezen
+ErrorUnknown	Je verbinding met de server is verbroken door een onbekende fout.
+ErrorIncorrectVersion	Je gebruikt een oudere versie van de game.\r\n\r\nVoer een update uit om met anderen te spelen.
+	
+ServerNA	Noord-Amerika
+ServerEU	Europa
+ServerAS	Azië
+ServerSA	Zuid-Amerika
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	Speler
+MyTablet	Mijn tablet
+Headquarters	Hoofdkwartier
+DownloadTestEstTimeS	Geschatte tijd: {0}s
+DownloadTestEstTimeMS	Geschatte tijd: {0}m {1}s
+DownloadTestEstTimeHMS	Geschatte tijd: {0}u {1}m {2}s
+DownloadTestEstTimeDHMS	Geschatte tijd: {0}d {1}u {2}m {3}s
+DownloadComplete	Voltooid
+GrabCoffee	HAAL EEN KOP KOFFIE OF ZO
+TakeBreak	NEEM EVEN PAUZE
+DontNeedWait	JE HOEFT NIET TE WACHTEN
+DoSomethingElse	GA EVEN WAT ANDERS DOEN
+NodeTB	Sensor_TB
+NodeIRO	Sensor_IRO
+NodeGI	Sensor_GI
+NodePD	Sensor_PD
+NodeCA	Sensor_CA
+NodeMLG	Sensor_MLG
+Vending	GEKOCHT
+OtherLanguage	Overig
+ImposterAmtAny	1-3
+	
+VitalsORGN	ORNJ
+VitalsBLUE	BLW
+VitalsRED	ROOD
+VitalsBRWN	BRN
+VitalsGRN	GRN
+VitalsPINK	ROZE
+VitalsWHTE	WIT
+VitalsYLOW	GEEL
+VitalsBLAK	ZWRT
+VitalsPURP	PRS
+VitalsCYAN	TURK
+VitalsLIME	GLGR
+ColorOrange	ORANJE
+ColorBlue	BLAUW
+ColorRed	ROOD
+ColorBrown	BRUIN
+ColorGreen	GROEN
+ColorPink	ROZE
+ColorWhite	WIT
+ColorYellow	GEEL
+ColorBlack	ZWART
+ColorPurple	PAARS
+ColorCyan	TURKOOIS
+ColorLime	GEELGROEN
+ColorMaroon	DONKERBRUIN
+ColorRose	BLEEKROOD
+ColorBanana	BANAANGEEL
+ColorGray	GRIJS
+ColorTan	LICHTBRUIN
+ColorCoral	KORAAL
+MedID	ID:
+MedC	KL:
+MedHT	LNGT:
+MedBT	BLD:
+MedWT	GW:
+MedETA	Aankomst {0}
+MedHello	HALLO!
+LobbySizeWarning	Je kunt Among Us met 4 spelers spelen, \nmaar we raden 5 of meer spelers aan.\n\nSpellen met 4 spelers zijn snel afgelopen en meestal wint de bedrieger.
+Okay	Oké
+OkayDontShow	Oké. Laat dit niet zien
+Nevermind	Laat maar
+CamEast	Oosten
+CamCentral	Centraal
+CamNortheast	Noordoosten
+CamSouth	Zuiden
+CamSouthwest	Zuidwesten
+CamNorthwest	Noordwesten
+LoadingFailed	Laden mislukt:
+PetFailFetchData	Kon gegevens huisdieren niet ophalen
+BadResult	SLECHT RESULTAAT
+More	NOG {0} KEER
+Processing	Verwerken
+ExitGame	Spel sluiten
+WaitingForHost	Wacht op host...
+LeftGameError	{0} heeft het spel verlaten vanwege een fout.
+PlayerWasBannedBy	{0} werd verbannen door {1}
+PlayerWasKickedBy	{0} werd verwijderd door {1}
+Dummy	Dummy
+Bad	SLECHT
+Status	Status:
+Fine	GOED
+OK	OKE
+SecondsAbbv	{0}s
+PetTryOn	Kijk hoe je eruit zou zien!
+DataPolicyWhat	Wat is er verzameld?
+	
+VaultRoom	Kluis
+Cockpit	Cockpit
+Armory	Wapenkamer
+Kitchen	Keuken
+ViewingDeck	Panoramadek
+HallOfPortraits	Portretzaal
+Medical	Ziekenboeg
+CargoBay	Vrachtruim
+Ventilation	Ventilatie
+Showers	Douches
+Engine	Machinekamer
+Brig	Hal
+MeetingRoom	Vergaderruimte
+Records	Archiefruimte
+Lounge	Lounge
+GapRoom	Tussenruimte
+MainHall	Centrale hal
+	
+PolishRuby	Poets robijn op
+ResetBreakers	Reset onderbrekers
+Decontaminate	Ontsmet
+MakeBurger	Maak burger
+UnlockSafe	Open safe
+SortRecords	Sorteer dossiers
+PutAwayPistols	Berg pistolen op
+PutAwayRifles	Berg geweren op
+FixShower	Repareer douche
+CleanToilet	Maak toilet schoon
+DressMannequin	Kleed paspop aan
+PickUpTowels	Raap handdoeken op
+RewindTapes	Spoel tapes terug
+StartFans	Zet ventilatoren aan
+DevelopPhotos	Ontwikkel foto's
+GetBiggolSword	Haal het Biggol-zwaard
+StopCharles	Vermijd botsing
+	
+RevealCode	Onthul code
+DirtyHeader	VIES
+AuthLeftOkay	Linkerkant oké
+AuthRightOkay	Rechterkant oké
+AuthLeftActive	Linkerkant AAN
+AuthRightActive	Rechterkant AAN
+AuthLeftNotActive	Linkerkant UIT
+AuthRightNotActive	Rechterkant UIT
+PSXBEngagementScreen	Druk op een knop om te starten.
+DeleteButton	Verwijderen
+QuickChat	Snelchat
+QCBuilderHeader	Snelchat-bouwer
+QCLocationLaptop	Laptop
+MapNameSkeld	Skeld
+MapNameMira	Mira
+MapNamePolus	Polus
+MapNameAirship	Airship
+MapNameFungle	Fungle
+QCSystemsStart	Starten
+QCSystemsKick	Schop
+QCCrewI	Ik
+QCCrewMe	Me
+QCBuildingPlaceholder	Zin bouwen...
+QCCrewDead	Dood
+QCTagSelf	Mezelf
+QCInputSelf	Zelf
+QCTagFavorites	Favorieten
+QCInputFavorite	Favoriet
+QCTagRoles	Rollen
+QCInputRole	Rol
+QCTagTasks	Taken
+QCInputTask	Taak
+QCTagSabotages	Systemen
+QCInputSabotages	Sabotage
+QCTagQuickRemarks	Korte opmerkingen
+QCTagRemarks	Opmerkingen
+QCInputRemark	Opmerking
+QCTagAccuse	Beschuldig!
+QCInputAccusation	Beschuldiging
+QCTagDefend	Verdedig!
+QCInputDefense	Verdediging
+QCTagQuestionSingular	Vraag
+QCTagQuestion	Vraag?
+QCTagLobby	Lobby
+QCTagImpostor	Bedrieger
+QCTagMeeting	Bijeenkomst
+QCTagHiding	Verstoppen
+QCTagFlashlight	Zaklamp
+QCSelfVoted	Ik heb gestemd voor {0}
+QCSelfReportedBody	Ik heb het lichaam gemeld
+QCSelfCams	Ik stond op camera
+QCCrewCams	{0} stond op camera
+QCSelfWasProtected	Ik werd beschermd
+QCCrewWasProtected	{0} werd beschermd
+QCSelfWasntMe	Ik was het niet
+QCWhoWasAt	Wie was op deze locatie: {0}?
+QCSelfDoingTask	Ik was bezig met {0}
+QCWhoIsRole	Wie is {0}?
+QCSelfFixedSystem	Ik heb {0} gerepareerd
+QCCrewFixedSystem	{0} heeft {1} gerepareerd
+QCSelfAccAtLocation	Ik heb gezien dat {0} {1} heeft vermoord op locatie {2}
+QCSelfDidTaskAtLocation	Ik heb taak {0} uitgevoerd op locatie {1}
+QCCrewDidTaskAtLocation	{0} heeft taak {1} uitgevoerd op locatie {2}
+QCSelfSawCrewVentAtLocation	Ik zag {0} een luchtschacht gebruiken op locatie {1}
+QCSelfDidntVent	Ik heb geen luchtschacht gebruikt
+QCFollowMe	Volg me
+QCItsNotMe	Ik ben het niet
+QCSelfDoneWithTasks	Ik ben klaar met taken
+QCGhostsDoYourTasks	Spoken, voer jullie taken uit
+QCSelfNotTheImpostor	Ik ben niet de Bedrieger
+QCHello	Hallo
+QCThanks	Dank je
+QCSorry	Sorry
+QCGG	GG
+QCBye	Doei
+QCWhereWasTheBody	Waar was het lichaam?
+QCSelfReady	Ik ben klaar
+QCSelfWasRole	Ik was {0}
+QCWhoWasRole	Wie was {0}?
+QCCoolOutfitCrew	Gave outfit, {0}!
+QCCrewReportedBody	{0} heeft het lichaam gemeld
+QCCrewNoOne	Niemand
+QCResYes	Ja
+QCResNo	Nee
+QCResDontKnow	Weet ik niet
+QCResDontKnowNeg	Misschien
+QCResVote	Stemmen
+QCResVoteNeg	Stemmen overslaan
+QCResRip	r.i.p.
+QCResRipNeg	lozen
+QCResLies	leugens
+QCResLiesNeg	oké
+QCQstWhere	waar?
+QCQstWho	wie?
+QCQstWhoDidTask	wie was verantwoordelijk voor {0}?
+QCQstBodyOrMeeting	Was dit een lijk of een spoedvergadering?
+QCStaDoubleKill	Het was een dubbele moord
+QCStaWasSelfReport	Het was een zelfmelding
+QCStaPleaseDoTasks	Voer je taken uit
+QCStaBodyWasInA	Het lichaam was in {0}
+QCLocation	Locatie
+QCSystems	Systemen
+QCCrew	Bemanning
+QCAccusation	Beschuldiging
+QCResponse	Reactie
+QCQuestion	Vraag
+QCStatements	Verklaringen
+QCSelfWasUsingBinoculars	Ik gebruikte de verrekijker
+QCSelfSawThroughBinoculars	Ik keek door de verrekijker
+QCInTheSporeCloud	In de Sporenwolk
+QCHiddenBySporeCloud	Verborgen in de Sporenwolk
+CQCrewKilledDeadInSporeCloud	{0} heeft {1} vermoord in de Sporenwolk
+QCSelfUsingZipline	Ik gebruikte de Tokkelbaan
+QCSelfSawWhileUsingZipline	Ik keek terwijl ik de Tokkelbaan gebruikte
+QCCrewWasUsingZipline	{0} gebruikte de Tokkelbaan
+QCDuringMushroomMixup	Tijdens Paddenstoelenpuzzel
+	
+ChatType	Type chat
+QuickChatOnly	Alleen Snelchat
+FreeChatOnly	Alleen Vrije chat
+FreeOrQuickChat	Vrije chat
+DateOfBirth	Geboortedatum
+DateOfBirthEnter	Vul je geboortedatum in:
+Month	Maand
+Day	Dag
+Year	Jaar
+January	Januari
+February	Februari
+March	Maart
+April	April
+May	Mei
+June	Juni
+July	Juli
+August	Augustus
+September	September
+October	Oktober
+November	November
+December	December
+Submit	Inzenden
+	
+QCAccAKilledB_QCCrewMe_ANY	Ik heb {1} gedood
+QCAccAKilledB_QCCrewMe_QCCrewNoOne	Ik heb niemand gedood
+QCAccAKilledB_QCCrewMe_QCCrewMe	
+QCAccAKilledB_ANY_QCCrewMe	{0} heeft me gedood
+QCAccAKilledB	{0} heeft {1} gedood
+QCAccAKilledB_ANY_QCCrewNoOne	{0} heeft niemand gedood
+QCAccAKilledB_QCCrewNoOne_QCCrewMe	Niemand heeft mij gedood
+QCAccAKilledB_QCCrewNoOne_ANY	Niemand heeft {1} gedood
+QCAccAKilledB_QCCrewNoOne_QCCrewNoOne	Niemand heeft iemand gedood
+QCAccAKilledBNeg_QCCrewMe_ANY	Ik heb {0} niet gedood
+QCAccAKilledBNeg_QCCrewMe_QCCrewNoOne	Ik heb niemand gedood
+QCAccAKilledBNeg_QCCrewMe_QCCrewMe	Ik heb mezelf niet gedood
+QCAccAKilledBNeg_ANY_QCCrewMe	{0} heeft me niet gedood
+QCAccAKilledBNeg	{0} heeft {1} niet gedood
+QCAccAKilledBNeg_ANY_QCCrewNoOne	{0} heeft niemand gedood
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAKilledBNeg_QCCrewNoOne_ANY	
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsSuspicious_QCCrewMe	Ik ben verdacht
+QCAccAIsSuspicious	{0} is verdacht
+QCAccAIsSuspicious_QCCrewNoOne	Niemand is verdacht
+QCAccAIsSuspiciousNeg_QCCrewMe	Ik ben oké
+QCAccAIsSuspiciousNeg	{0} is oké
+QCAccAIsSuspiciousNeg_QCCrewNoOne	Iedereen is niet oké
+QCAccASawBVent_QCCrewMe_ANY	Ik zag {0} een luchtschacht gebruiken
+QCAccASawBVent_QCCrewMe_QCCrewNoOne	Ik zag niemand een luchtschacht gebruiken
+QCAccASawBVent_QCCrewMe_QCCrewMe	
+QCAccASawBVent_ANY_QCCrewMe	{0} zag me een luchtschacht gebruiken
+QCAccASawBVent	{0} zag {1} een luchtschacht gebruiken
+QCAccASawBVent_ANY_QCCrewNoOne	{0} zag niemand een luchtschacht gebruiken
+QCAccASawBVent_QCCrewNoOne_QCCrewMe	Niemand zag me een luchtschacht gebruiken
+QCAccASawBVent_QCCrewNoOne_ANY	Niemand zag {1} een luchtschacht gebruiken
+QCAccASawBVent_QCCrewNoOne_QCCrewNoOne	Niemand zag iemand een luchtschacht gebruiken
+QCAccASawBVentNeg_QCCrewMe_ANY	Ik zag {0} nooit een luchtschacht gebruiken
+QCAccASawBVentNeg_QCCrewMe_QCCrewNoOne	Ik zag nooit iemand een luchtschacht gebruiken
+QCAccASawBVentNeg_QCCrewMe_QCCrewMe	
+QCAccASawBVentNeg_ANY_QCCrewMe	{0} zag me nooit een luchtschacht gebruiken
+QCAccASawBVentNeg	{0} zag {1} nooit een luchtschacht gebruiken
+QCAccASawBVentNeg_ANY_QCCrewNoOne	{0} zag nooit iemand een luchtschacht gebruiken
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewMe	Niemand zag me ooit een luchtschacht gebruiken
+QCAccASawBVentNeg_QCCrewNoOne_ANY	Niemand zag {1} ooit een luchtschacht gebruiken
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewNoOne	Niemand zag ooit iemand een luchtschacht gebruiken
+QCAccAWasChasingB_QCCrewMe_ANY	Ik joeg op {0}
+QCAccAWasChasingB_QCCrewMe_QCCrewNoOne	Ik joeg op niemand
+QCAccAWasChasingB_QCCrewMe_QCCrewMe	
+QCAccAWasChasingB_ANY_QCCrewMe	{0} joeg op mij
+QCAccAWasChasingB	{0} joeg op {1}
+QCAccAWasChasingB_ANY_QCCrewNoOne	{0} joeg op niemand
+QCAccAWasChasingB_QCCrewNoOne_QCCrewMe	Niemand joeg op mij
+QCAccAWasChasingB_QCCrewNoOne_ANY	Niemand joeg op {1}
+QCAccAWasChasingB_QCCrewNoOne_QCCrewNoOne	Niemand joeg op iemand
+QCAccAWasChasingBNeg_QCCrewMe_ANY	Ik joeg niet op {0}
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewNoOne	Ik joeg niet op iemand
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewMe	
+QCAccAWasChasingBNeg_ANY_QCCrewMe	{0} joeg niet op mij
+QCAccAWasChasingBNeg	{0} joeg niet op {1}
+QCAccAWasChasingBNeg_ANY_QCCrewNoOne	{0} joeg niet op iemand
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAWasChasingBNeg_QCCrewNoOne_ANY	
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsLying_QCCrewMe	Ik lieg
+QCAccAIsLying	{0} liegt
+QCAccAIsLying_QCCrewNoOne	Niemand liegt
+QCAccAIsLyingNeg_QCCrewMe	Ik vertel de waarheid
+QCAccAIsLyingNeg	{0} vertelt de waarheid
+QCAccAIsLyingNeg_QCCrewNoOne	Niemand vertelt de waarheid
+QCAccVoteA_QCCrewMe	stem op mij
+QCAccVoteA	stem op {0}
+QCAccVoteA_QCCrewNoOne	stem niet
+QCAccVoteANeg_QCCrewMe	stem niet op mij
+QCAccVoteANeg	stem niet op {0}
+QCAccVoteANeg_QCCrewNoOne	
+QCAccADidntReport_QCCrewMe	Ik heb het lichaam niet gemeld
+QCAccADidntReport	{0} heeft het lichaam niet gemeld
+QCAccADidntReport_QCCrewNoOne	
+QCResAWas_QCCrewMe	Ik was het
+QCResAWas	{0} was het
+QCResAWas_QCCrewNoOne	Niemand was het
+QCResAWasNeg_QCCrewMe	Ik was het niet
+QCResAWasNeg	{0} was het niet
+QCResAWasNeg_QCCrewNoOne	
+QCResADid_QCCrewMe	Ik heb het gedaan
+QCResADid	{0} heeft het gedaan
+QCResADid_QCCrewNoOne	Niemand heeft het gedaan
+QCResADidNeg_QCCrewMe	Ik heb het niet gedaan
+QCResADidNeg	{0} heeft het niet gedaan
+QCResADidNeg_QCCrewNoOne	
+QCResAWasAtB_QCCrewMe_ANY	Ik was hier: {0}
+QCResAWasAtB	{0} was hier: {1}
+QCResAWasAtB_QCCrewNoOne_ANY	Niemand was hier: {0}
+QCResAWasAtBNeg_QCCrewMe_ANY	Ik was niet hier: {0}
+QCResAWasAtBNeg	{0} was niet hier: {1}
+QCResAWasAtBNeg_QCCrewNoOne_ANY	
+QCQstWhoWasWith_QCCrewMe	wie was bij me?
+QCQstWhoWasWith	wie was bij {0}?
+QCQstWhoWasWith_QCCrewNoOne	wie was alleen?
+QCQstWhatWasADoing_QCCrewMe	
+QCQstWhatWasADoing	wat was {0} aan het doen?
+QCQstWhatWasADoing_QCCrewNoOne	
+QCQstWhereWasA_QCCrewMe	
+QCQstWhereWasA	waar was {0}?
+QCQstWhereWasA_QCCrewNoOne	
+QCStaASawB_QCCrewMe_ANY	Ik zag {0}
+QCStaASawB_QCCrewMe_QCCrewNoOne	Ik zag niemand
+QCStaASawB_QCCrewMe_QCCrewMe	
+QCStaASawB_ANY_QCCrewMe	{0} zag me
+QCStaASawB	{0} zag {1}
+QCStaASawB_ANY_QCCrewNoOne	{0} zag niemand
+QCStaASawB_QCCrewNoOne_QCCrewMe	Niemand zag me
+QCStaASawB_QCCrewNoOne_ANY	Niemand zag {0}
+QCStaASawB_QCCrewNoOne_QCCrewNoOne	Niemand heeft iemand gezien
+QCStaAWasWithB_QCCrewMe_ANY	Ik was met {0}
+QCStaAWasWithB_QCCrewMe_QCCrewNoOne	Ik was met niemand
+QCStaAWasWithB_QCCrewMe_QCCrewMe	
+QCStaAWasWithB_ANY_QCCrewMe	{0} was met mij
+QCStaAWasWithB	{0} was met {1}
+QCStaAWasWithB_ANY_QCCrewNoOne	{0} was met niemand
+QCStaAWasWithB_QCCrewNoOne_QCCrewMe	Niemand was met mij
+QCStaAWasWithB_QCCrewNoOne_ANY	Niemand was met {1}
+QCStaAWasWithB_QCCrewNoOne_QCCrewNoOne	Niemand was met iemand
+QCStaADidB_QCCrewMe_ANY	Ik heb dit gedaan: {0}
+QCStaADidB	{0} heeft dit gedaan: {1}
+QCStaADidB_QCCrewNoOne_ANY	Niemand heeft dit gedaan: {1}
+QCStaASelfReported_QCCrewMe	Ik heb mezelf gemeld
+QCStaASelfReported	{0} heeft zichzelf gemeld
+QCStaASelfReported_QCCrewNoOne	Niemand heeft zichzelf gemeld
+QCStaACalledMeeting_QCCrewMe	Ik heb een vergadering georganiseerd
+QCStaACalledMeeting	{0} heeft een vergadering georganiseerd
+QCStaACalledMeeting_QCCrewNoOne	Niemand heeft een vergadering georganiseerd
+QCMore	Meer
+QCQstWhy	waarom?
+QCCrewSomeone	Iemand
+QCResUrWelcome	graag gedaan
+QCResNp	geen probleem
+QCResYikes	ai
+QCResRipCrew	rip {0}
+QCResYeetCrew	yeet {0}
+QCSelfWasOnVitals	Ik lag aan de hartslagmonitor
+QCSawDeadCrewOnVitals	Ik zag dat {0} dood aan de hartslagmonitor lag
+QCSelfSawTwoCrew	Ik zag twee {0}
+QCCrewShapeshifted	{0} is van vorm veranderd
+QCSelfSawCrewDoVisualTask	Ik zag {0} een visuele taak uitvoeren
+QCSelfWasOnDoorlogs	Ik bekeek de deurlogboeken
+QCSelfWasOnAdmin	Ik was bij de administratie
+QCSelfAmVotingCrew	Ik stem voor {0}
+QCCrewWasPretendingTasks	{0} deed alsof hij/zij taken uitvoerde
+QCCrewWasPretendingSabotage	{0} deed alsof hij/zij {1} aan het repareren was
+QCLobbyMoreImpostors	Meer Bedriegers?
+QCLobbyLessImpostors	Minder Bedriegers?
+QCLobbyConfirmEjects	Uitgooien bevestigen?
+QCLobbyMoreEmergencyMeetings	Meer spoedvergaderingen?
+QCLobbyLessEmergencyMeetings	Minder spoedvergaderingen?
+QCLobbyAnonymousVotes	Anonieme stemmen?
+QCLobbyMoreEmergencyCooldownTime	Meer tijd voor noodafkoeling?
+QCLobbyLessEmergencyCooldownTime	Minder tijd voor noodafkoeling?
+QCLobbyMoreDiscussionTime	Meer besprekingstijd?
+QCLobbyLessDiscussionTime	Minder besprekingstijd?
+QCLobbyMoreVotingTime	Meer tijd om te stemmen?
+QCLobbyLessVotingTime	Minder tijd om te stemmen?
+QCLobbyFasterPlayerSpeed	Hogere spelerssnelheid?
+QCLobbySlowerPlayerSpeed	Lagere spelerssnelheid?
+QCLobbyTaskBarUpdates	Takenmeter-updates?
+QCLobbyVisualTasks	Visuele taken?
+QCLobbyMoreCrewmateVision	Meer zicht voor bemanningsleden?
+QCLobbyLessCrewmateVision	Minder zicht voor bemanningsleden?
+QCLobbyMoreImpostorVision	Meer zicht voor bedriegers?
+QCLobbyLessImpostorVision	Minder zicht voor bedriegers?
+QCLobbyMoreKillCooldownTime	Meer tijd voor moordafkoeling?
+QCLobbyLessKillCooldownTime	Minder tijd voor moordafkoeling?
+QCLobbyLongerKillDistance	Langere moordafstand?
+QCLobbyShorderKillDistance	Kortere moordafstand?
+QCLobbyMoreCommonTasks	Meer gewone taken?
+QCLobbyLessCommonTasks	Minder gewone taken?
+QCLobbyMoreLongTasks	Meer lange taken?
+QCLobbyLessLongTasks	Minder lange taken?
+QCLobbyMoreShortTasks	Meer korte taken?
+QCLobbyLessShortTasks	Minder korte taken?
+QCLobbyRoleScientists	Wetenschappers?
+QCLobbyRoleGuardianAngels	Beschermengelen?
+QCLobbyRoleEngineers	Werktuigkundigen?
+QCLobbyRoleShapeshifters	Vormveranderaars?
+QCLobbyRoleNone	Geen rollen
+QCResLess	Minder
+QCResMore	Meer
+QCResNone	Geen
+QCLobbyHNSMoreHideTime	Meer tijd om te verstoppen?
+QCLobbyHNSLessHideTime	Minder tijd om te verstoppen?
+QCLobbyHNSMoreFinalHideTime	Meer tijd voor Final Verstoppertje?
+QCLobbyHNSLessFinalHideTime	Minder tijd voor Final Verstoppertje?
+QCLobbyHNSFlashlightMode	Zaklampmodus?
+QCLobbyHNSMoreCrewmateFlashlightSize	Grotere zaklampen voor Bemanningsleden?
+QCLobbyHNSLessCrewmateFlashlightSize	Kleinere zaklampen voor Bemanningsleden?
+QCLobbyHNSMoreImpostorFlashlightSize	Grotere zaklampen voor Bedriegers?
+QCLobbyHNSLessImpostorFlashlightSize	Kleinere zaklampen voor Bedriegers?
+QCLobbyHNSShowNames	Namen weergeven?
+QCLobbyHNSMoreVents	Meer luchtschachten?
+QCLobbyHNSLessVents	Minder luchtschachten?
+QCLobbyHNSMoreTimeInVent	Meer tijd in luchtschacht?
+QCLobbyHNSLessTimeInVent	Minder tijd in luchtschacht?
+QCLobbyHNSMoreFinalHideImpostorSpeed	Hogere snelheid voor Bedrieger tijdens Final Verstoppertje?
+QCLobbyHNSLessFinalHideImpostorSpeed	Lagere snelheid voor Bedrieger tijdens Final Verstoppertje?
+QCLobbyHNSFinalHideSeekMap	Final Verstoppertje-kaart?
+QCLobbyHNSFinalHidePings	Final Verstoppertje-pings?
+QCLobbyHNSMorePingInterval	Langere ping-interval?
+QCLobbyHNSLessPingInterval	Kortere ping-interval?
+QCResAgree	Akkoord
+QCResDisagree	Niet akkoord
+QCResNice	Mooi
+QCResUhOh	O-o
+QCResOops	Oeps
+QCResExclamationMarks	!!!
+QCResQuestionMarks	???
+SecurityLogsSystem	Beveiligingslogs
+SecurityCamsSystem	Beveiligingscamera's
+AdminMapSystem	Administratiekaart
+VitalsSystem	Hartslagmonitor
+EngagementScreenSignIn	Aanmelden...
+EngagementScreen	Druk op een knop om te starten.
+SaveGameOutOfSpaceMessage	Wil je doorgaan zonder opslaan?
+SaveGameOutOfSpaceConfirm	Doorgaan
+SaveGameOutOfSpaceCancel	Opnieuw
+Success	Gelukt!
+Failed	Mislukt!
+ErrorCreate	Er ging iets mis tijdens het aanmaken van je account. Probeer het later nog eens.
+SuccessCreate	Je hebt een account aangemaakt!
+Close	Sluiten
+ErrorLogIn	Kan geen verbinding maken met je Among Us-account.
+SuccessLogIn	Je bent aangemeld bij je account!
+AccountInfo	ACCOUNTINFO
+Account	ACCOUNT
+UserName	GEBRUIKERSNAAM
+Height	Lengte
+Weight	Gewicht
+SignIn	Aanmelden
+CreateAccount	Account aanmaken
+RequestPermission	Toestemming vragen
+RandomizeName	Willekeurige naam
+AccountLinking	Account koppelen
+ChangeName	Naam wijzigen
+LogOut	Uitloggen
+GuardianWait	Je moet wachten tot je ouder/voogd toestemming geeft om Vrij chatten te gebruiken en je gebruikersnaam te wijzigen.
+EmailEdit	E-mail aanpassen
+EmailResend	Opnieuw verzenden
+GuestContinue	Doorgaan als gast
+GuardianEmailSent	E-mail naar ouder/voogd verstuurd
+GuardianCheckEmail	Laat je ouder/voogd reageren op de e-mail om alle functies in het spel te ontgrendelen
+EditName	Naam aanpassen
+Name	Naam
+CreateAccountQuestion	Account aanmaken?
+DoYouWantCreate	Wil je een account aanmaken?
+PermissionRequired	Toestemming vereist
+NeedPermissionText	We moeten je ouder/voogd (via e-mail) toestemming vragen om verder te gaan. Als ze ja zeggen, dan kun je online Vrij chatten gebruiken en je gebruikersnaam wijzigen. Vraag een volwassene om je hiermee te helpen!
+GuardianEmailTitle	E-mailadres ouder/voogd
+Send	Versturen
+Undo	Ongedaan maken
+Clear	Wissen
+NewEmail	Nieuw e-mailadres
+ConfirmEmail	E-mailadres bevestigen
+EditEmail	E-mail aanpassen
+Loading	Laden...
+Welcome	WELKOM
+GuardianEmail	[e-mail van je voogd]
+	
+BanButton	VERBANNEN
+KickButton	VERWIJDEREN
+ReportButton	MELDEN
+ReportConfirmation	We hebben je melding over de volgende gebruiker ontvangen.
+ReportBadName	Aanstootgevende naam
+ReportBadChat	Aanstootgevende chat
+ReportHacking	Hacken/valsspelen
+ReportHarassment	Pesten/wangedrag
+ReportWhy	Waarom meld je deze gebruiker?
+DLLNotFoundAccountError	Er is een fout opgetreden bij het verbinding maken met online diensten. Totdat dit opgelost is, kun je alleen in de speltypes Lokaal of in Oefenmodus spelen. Probeer het later nog eens.
+ContinueOffline	Offline spelen
+WantToLogIn	Je bent momenteel niet ingelogd bij een account.
+GoOffline	Offline gaan
+PlayAsGuest	Als gast spelen
+LogInTitle	Aanmelden bij een account
+LogInInfoText	Meld je aan of maak een Among Us-account aan om toegang te krijgen tot de functies van het spel zoals:\n\n- Je voortgang op verschillende apparaten opslaan\n- Toegang krijgen tot vrije chat\n- Cosmetische voorwerpen koppelen\n- En meer!\n\nVoor sommige functies is mogelijk de toestemming van een ouder of voogd vereist, afhankelijk van het type account.
+LogInInfoTextSwitch	Heb je nog geen account, dan wordt er automatisch eentje voor je aangemaakt.
+ControllerDisconnectedMessage	Verbinding met controller verbroken
+FollowUs	Volg ons!
+	
+QuickChatInstructionsStart	Je chatinstellingen in het spel zijn ingesteld op 'Alleen Snelchat'.
+QuickChatInstructionsChild	Je moet je ouder of voogd toestemming vragen om 'Vrije chat' te gebruiken.
+QuickChatInstructionsGuest	Je moet aangemeld zijn om dit te veranderen.
+QuickChatInstructionsFull	Je kunt alleen Snelchat tijdens het spelen gebruiken en je kunt alleen met andere Snelchat-gebruikers spelen.
+	
+SwitchEShopBrowseAll	Bekijk alle items in de Nintendo eShop
+	
+Download	Downloaden
+Upload	Uploaden
+pk05_davehat	Dave's pet
+pk05_Ellie	Ellie
+pk05_Svenhat	Svens hoed
+pk05_Burthat	Burts hoed
+pk05_Ellryhat	Ellry's hanenkam
+pk05_monocles	Dubbele monocle
+pk05_cheesetoppat	Kaashoed
+pk05_Macbethhat	Dhr. Macbeths hoge hoed
+pk05_HenryToppat	Henry's hoge hoed
+pk05_EllieToppat	Ellie's hoge hoed
+pk05_GeoffreyToppat	Geoffrey's hoge hoed
+	
+InsufficientStorageError	Er is onvoldoende ruimte om het materialenpakket te downloaden. Maak ruimte op je apparaat en probeer het opnieuw.
+NetworkError	Er is een netwerkfout opgetreden. Controleer je verbindingsinstellingen en probeer het opnieuw.
+OtherDownloadError	Er is een fout opgetreden: {0}
+DownloadingLabel	{0} wordt gedownload...
+DownloadSizeLabel	Downloadgrootte: {0}MB
+	
+TimeRemaining	Resterende tijd: {0}
+DeadLabel	DOOD
+	
+InviteFriends	Vrienden uitnodigen
+	
+NutriLabel	VOED
+CO2Label	CO2
+RADLabel	STRLNG
+WaterLabel	WATER
+	
+DoorlogLabel	DEURLOGBOEK
+VitalsLabel	HARTSLAG
+OptionsLabel	PERSONALISEREN
+ProceedLabel	DOORGAAN
+StartLabel	STARTEN
+UseLabel	GEBRUIKEN
+PlayAgain	OPNIEUW
+QuitLabel	STOPPEN
+ReportLabel	MELDEN
+SabotageLabel	SABOTEREN
+VentLabel	LUCHTSCHACHT
+KillLabel	VERMOORDEN
+DiscussLabel	BESPREEK!
+SkippedVoting	OVERGESLAGEN
+SkipVoteLabel	OVERSLAAN
+EmergencyMeeting	SPOEDVERGADERING
+BodyReported	LIJK GEMELD
+SkinLabel	SKINS
+HatLabel	HOOFDDEKSELS
+PetLabel	HUISDIEREN
+AnnouncementLabel	AANKONDIGINGEN
+	
+UploadingLabel	UPLOADEN...
+ConnectionLabel	Verbinding:
+NoneLabel	GEEN
+PoorLabel	SLECHT
+GoodLabel	GOED
+LogLabel	LOG
+ReadingLabel	METING
+WeatherDataDownload	WEERMETINGEN DOWNLOADEN
+MiraBundle	MIRA HQ-bundel
+MiraSkinBundle	MIRA HQ-skinbundel
+PolusBundle	Polus-bundel
+PolusSkinBundle	Polus-kaartskinbundel
+AirshipBundle	Airship-bundel
+PetAlien1	Hersenslak-huisdierbundel
+PetCrewmate	Mini-bemanningslid-bundel
+PetAnimal	Hamster-huisdierbundel
+PetAlien2	Bedkrab-huisdierbundel
+PetStickmin	Stickmin-huisdierbundel
+PrisonerSkin	Gevangene
+Cyborg_RHM	Cyborg RHM
+CCC_Officer	CCC
+BeginLabel	BEGINNEN
+QuietLabel	SSSSST!
+VentCleaning	Maak luchtschacht schoon
+CleanUp	Ruim op
+ProgressLabel	Voortgang:
+TermsOfUseTitle	Gebruiksvoorwaarden
+PPAndToUTitle	Privacybeleid en Gebruiksvoorwaarden
+	
+ErrorNotAuthenticated	De Among Us-servers kennen je niet.\r\n\nJe moet een Among Us-account hebben om online te kunnen spelen.
+ComePlayDiscord	Kom Among Us spelen met mij!
+
+ShowAccountSupportID5	Accountondersteunings-ID tonen
+ShowAccountSupportID4	Druk nog eens 4 keer om te tonen
+ShowAccountSupportID3	Dit ID niet delen
+ShowAccountSupportID2	Niet tonen tijdens het streamen (2)
+ShowAccountSupportID1	Laat me dit ID wel zien
+SupportIDLabel	Ondersteunings-ID: {0}
+YouAreNotOnline	Je bent niet online.
+NoDeadBodiesFound	Geen lijken gevonden
+SupportEmail	Mail ons op support@innersloth.com als je ondersteuning nodig hebt.
+PerfectLabel	PERFECT
+PSNErrorSessionFailed	Er is iets misgegaan met de huidige gamesessie
+PSNErrorSessionJoinFailed	Meedoen met gamesessie is mislukt
+PSNErrorSessionGetInfoFailed	Ophalen van gamesessiegegevens is mislukt
+PSNErrorPSNConnectionLost	Verbinding met PlayStation™Network verbroken
+PSNErrorUserSignedOut	Gebruiker heeft zich afgemeld
+	
+CrossPlayTitle	Crossplay
+CrossPlayAllPlatforms	Alle platforms
+CrossPlaySamePlatform	Zelfde platform
+CrossPlayEnabledWarning	Crossplay ingeschakeld: Je kunt spelers van andere netwerken tegenkomen.
+	
+TimeOutText	Het aanmelden duurt wel erg lang. Wil je liever doorgaan in de offline modus?
+RetryText	Nog even wachten
+Continue	Doorgaan
+GameComplete	Spel uitgespeeld
+LevelShorthand	Niv. {0}
+MaxLevel	Max. niv.
+Cosmetic.hat_AbominalHat	Verschrikkelijke sneeuwkop
+Cosmetic.hat_Antenna_Black	Slechte ontvangst - Zwart
+Cosmetic.hat_Astronaut-Blue	Ruimtewandeling - Blauw
+Cosmetic.hat_Astronaut-Cyan	Ruimtewandeling - Lichtblauw
+Cosmetic.hat_Astronaut-Orange	Ruimtewandeling - Oranje
+Cosmetic.hat_Bandana_Blue	Greh - Blauw
+Cosmetic.hat_Bandana_Green	Greh - Groen
+Cosmetic.hat_Bandana_Pink	Greh - Roze
+Cosmetic.hat_Bandana_Red	Greh - Rood
+Cosmetic.hat_Bandana_White	Greh - Wit
+Cosmetic.hat_Bandana_Yellow	Greh - Geel
+Cosmetic.hat_baseball_Black	Ballenspel - Zwart
+Cosmetic.hat_baseball_Green	Ballenspel - Groen
+Cosmetic.hat_baseball_Lightblue	Ballenspel - Lichtblauw
+Cosmetic.hat_baseball_LightGreen	Ballenspel - Lichtgroen
+Cosmetic.hat_baseball_Lilac	Ballenspel - Lila
+Cosmetic.hat_baseball_Orange	Ballenspel - Oranje
+Cosmetic.hat_baseball_Pink	Ballenspel - Roze
+Cosmetic.hat_baseball_Purple	Ballenspel - Paars
+Cosmetic.hat_baseball_Red	Ballenspel - Rood
+Cosmetic.hat_baseball_White	Ballenspel - Wit
+Cosmetic.hat_baseball_Yellow	Ballenspel - Geel
+Cosmetic.hat_Basketball	Dunk
+Cosmetic.hat_Beanie_Black	Beanie - Zwart
+Cosmetic.hat_Beanie_Blue	Beanie - Blauw
+Cosmetic.hat_Beanie_Green	Beanie - Groen
+Cosmetic.hat_Beanie_Lightblue	Beanie - Babyblauw
+Cosmetic.hat_Beanie_LightGreen	Beanie - Babygroen
+Cosmetic.hat_Beanie_LightPurple	Beanie - Babyroze
+Cosmetic.hat_Beanie_Pink	Beanie - Roze
+Cosmetic.hat_Beanie_Purple	Beanie - Paars
+Cosmetic.hat_Beanie_White	Beanie - Wit
+Cosmetic.hat_Beanie_Yellow	Beanie - Geel
+Cosmetic.hat_Bowlingball	Strike
+Cosmetic.hat_Chocolate	Chocolade-ijs
+Cosmetic.hat_CuppaJoe	Waakzame Joe
+Cosmetic.hat_Deitied	Altaar voor de godheden
+Cosmetic.hat_Doc_black	Dokter, wat doet u nu? - Zwart
+Cosmetic.hat_Doc_Orange	Dokter, wat doet u nu? - Oranje
+Cosmetic.hat_Doc_Purple	Dokter, wat doet u nu? - Paars
+Cosmetic.hat_Doc_Red	Dokter, wat doet u nu? - Rood
+Cosmetic.hat_Doc_White	Dokter, wat doet u nu? - Wit
+Cosmetic.hat_Dodgeball	Treffer
+Cosmetic.hat_Dorag_Black	Piraatmaatje - Houtskool
+Cosmetic.hat_Dorag_Desert	Piraatmaatje - Woestijn
+Cosmetic.hat_Dorag_Jungle	Piraatmaatje - Woudgroen
+Cosmetic.hat_Dorag_Purple	Piraatmaatje - Paars
+Cosmetic.hat_Dorag_Sky	Piraatmaatje - Hemelsblauw
+Cosmetic.hat_Dorag_Snow	Piraatmaatje - Sneeuwwit
+Cosmetic.hat_Dorag_Yellow	Piraatmaatje - Citrusgeel
+Cosmetic.hat_DrillMetal	Boor
+Cosmetic.hat_DrillStone	Boor - Steen
+Cosmetic.hat_DrillWood	Boor - Hout
+Cosmetic.hat_EarmuffGreen	Warme oortjes - Groen
+Cosmetic.hat_EarmuffsPink	Warme oortjes - Roze
+Cosmetic.hat_EarmuffsYellow	Warme oortjes - Geel
+Cosmetic.hat_EarnmuffBlue	Warme oortjes
+Cosmetic.hat_Goggles_Black	Beschermbril - Zwart
+Cosmetic.hat_Goggles_Chrome	Beschermbril - Chroom
+Cosmetic.hat_GovtDesert	Militant - Woestijn
+Cosmetic.hat_GovtHeadset	Beste headset
+Cosmetic.hat_Hardhat_black	Arbo-waardig - Zwart
+Cosmetic.hat_Hardhat_Blue	Arbo-waardig - Blauw
+Cosmetic.hat_Hardhat_Green	Arbo-waardig - Groen
+Cosmetic.hat_Hardhat_Orange	Arbo-waardig - Oranje
+Cosmetic.hat_Hardhat_Pink	Arbo-waardig - Roze
+Cosmetic.hat_Hardhat_Purple	Arbo-waardig - Paars
+Cosmetic.hat_Hardhat_Red	Arbo-waardig - Rood
+Cosmetic.hat_Hardhat_White	Arbo-waardig - Wit
+Cosmetic.hat_HardtopHat	Kraanmachinist
+Cosmetic.hat_headslug_Purple	Hoofdslak - Paars
+Cosmetic.hat_headslug_Red	Hoofdslak - Rood
+Cosmetic.hat_headslug_White	Hoofdslak - Wit
+Cosmetic.hat_headslug_Yellow	Hoofdslak - Geel
+Cosmetic.hat_Heart	Ik hart jou
+Cosmetic.hat_Helmet	Geridderd
+Cosmetic.hat_Herohood_Black	Woudgroenkrijger - Zwart
+Cosmetic.hat_Herohood_Blue	Woudgroenkrijger - Blauw
+Cosmetic.hat_Herohood_Pink	Woudgroenkrijger - Roze
+Cosmetic.hat_Herohood_Purple	Woudgroenkrijger - Paars
+Cosmetic.hat_Herohood_Red	Woudgroenkrijger - Rood
+Cosmetic.hat_Herohood_White	Woudgroenkrijger - Wit
+Cosmetic.hat_Herohood_Yellow	Woudgroenkrijger - Geel
+Cosmetic.hat_Janitor	Haunted Hotel
+Cosmetic.hat_MilitaryWinter	Militant - Winter
+Cosmetic.hat_MinerBlack	Mijn helm - Zwart
+Cosmetic.hat_MinerYellow	Mijn helm - Geel
+Cosmetic.hat_mira_bush	Groenig
+Cosmetic.hat_mira_case	Belangrijke documenten
+Cosmetic.hat_mira_cloud	Hoofd in de wolken
+Cosmetic.hat_mira_flower	Exotische bloem
+Cosmetic.hat_mira_flower_red	Aromatische bloem
+Cosmetic.hat_mira_gem	Uniek specikmin
+Cosmetic.hat_mira_headset_blue	Beste headset - Blauw
+Cosmetic.hat_mira_headset_pink	Beste headset - Roze
+Cosmetic.hat_mira_headset_yellow	Beste headset - Geel
+Cosmetic.hat_mira_leaf	Liaanaal
+Cosmetic.hat_mira_milk	Perziksappak
+Cosmetic.hat_mira_sign_blue	Nattigheid - Blauw
+Cosmetic.hat_NewYears2018	Nieuwjaar 2019
+Cosmetic.hat_NoHat	Geen
+Cosmetic.hat_Paperhat_Black	Vouwtje bedankt - Zwart
+Cosmetic.hat_Paperhat_Blue	Vouwtje bedankt - Blauw
+Cosmetic.hat_Paperhat_Cyan	Vouwtje bedankt - Zeeschuim
+Cosmetic.hat_Paperhat_Lightblue	Vouwtje bedankt - Hemelsblauw
+Cosmetic.hat_Paperhat_Pink	Vouwtje bedankt - Roze
+Cosmetic.hat_Paperhat_Yellow	Vouwtje bedankt - Geel
+Cosmetic.hat_astronaut	Ruimtewandeling
+Cosmetic.hat_pk01_BaseballCap	Ballenspel
+Cosmetic.hat_brainslug	Hoofdslak
+Cosmetic.hat_bushhat	Dunne D
+Cosmetic.hat_captain	Cap-itein
+Cosmetic.hat_doubletophat	Toppat-baas
+Cosmetic.hat_flowerpot	Geplant
+Cosmetic.hat_goggles	Beschermbril
+Cosmetic.hat_hardhat	Arbo-waardig
+Cosmetic.hat_military	Militant
+Cosmetic.hat_paperhat	Vouwtje bedankt
+Cosmetic.hat_partyhat	Feestmuts
+Cosmetic.hat_police	Politieman-officier
+Cosmetic.hat_stethescope	Dokter, wat doet u nu?
+Cosmetic.hat_tophat	Toppat-soldaat
+Cosmetic.hat_towelwizard	Net gedoucht
+Cosmetic.hat_russian	The Wall-oesjanka
+Cosmetic.hat_viking	Vi King
+Cosmetic.hat_wallcap	The Wall-pet
+Cosmetic.hat_whitetophat	Witte Toppat
+Cosmetic.hat_pk02_Crown	Gekroond
+Cosmetic.hat_pk02_Eyebrows	Stickmin-wenkbrauwen
+Cosmetic.hat_pk02_HaloHat	De onschuld zelve
+Cosmetic.hat_pk02_HeroCap	Woudgroenkrijger
+Cosmetic.hat_pk02_PipCap	Kleine Jim
+Cosmetic.hat_pk02_PlungerHat	Niet te stoppen
+Cosmetic.hat_pk02_ScubaHat	Watergevaarte
+Cosmetic.hat_pk02_StickminHat	Stickmin-rijder
+Cosmetic.hat_pk02_StrawHat	Safarihoed
+Cosmetic.hat_pk02_TenGallonHat	Cowboyhoed
+Cosmetic.hat_pk02_ThirdEyeHat	Derde oog
+Cosmetic.hat_pk02_ToiletPaperHat	Drukpapier
+Cosmetic.hat_pk02_Toppat	De nieuwe baas
+Cosmetic.hat_pk03_Fedora	Fedora
+Cosmetic.hat_pk03_Goggles	Veiligheid achterop
+Cosmetic.hat_pk03_Headphones	Beste headset
+Cosmetic.hat_pk03_Security1	Strakke beveiliging
+Cosmetic.hat_pk03_StrapHat	Tuiniershoed
+Cosmetic.hat_pk03_Traffic	Wegwerkzaamheden
+Cosmetic.hat_traffic_purple	Wegwerkzaamheden - Paars
+Cosmetic.hat_pk04_Antenna	Slechte ontvangst
+Cosmetic.hat_pk04_Archae	Siberia James
+Cosmetic.hat_pk04_Balloon	Alles zweeft
+Cosmetic.hat_pk04_Banana	Gepeld
+Cosmetic.hat_pk04_Bandana	Greh
+Cosmetic.hat_pk04_Beanie	Beanie
+Cosmetic.hat_pk04_Bear	Beresterk
+Cosmetic.hat_pk04_BirdNest	Twee eieren in een nest
+Cosmetic.hat_pk04_CCC	Chaos bedwongen
+Cosmetic.hat_pk04_Chef	Koksmuts
+Cosmetic.hat_pk04_DoRag	Piraatmaatje
+Cosmetic.hat_pk04_Fez	Fenomenale fez
+Cosmetic.hat_pk04_GeneralHat	Generale repetitie
+Cosmetic.hat_pk04_HunterCap	Domkop
+Cosmetic.hat_pk04_JungleHat	Zoek dekking
+Cosmetic.hat_pk04_MinerCap	Mijn helm
+Cosmetic.hat_pk04_MiniCrewmate	Mini-bemanningslid
+Cosmetic.hat_pk04_Pompadour	Vetkuif
+Cosmetic.hat_pk04_RamHorns	Rammer
+Cosmetic.hat_pk04_Slippery	Nattigheid
+Cosmetic.hat_pk04_Snowman	Sneeuwmaat
+Cosmetic.hat_pk04_Vagabond	Mysterieuze vagebond
+Cosmetic.hat_pk04_WinterHat	IJskoud
+Cosmetic.hat_pk05_Burthat	Ik ben Burt
+Cosmetic.hat_pk05_Cheese	Kaaskop
+Cosmetic.hat_pk05_cheesetoppat	Munster
+Cosmetic.hat_pk05_Cherry	Kers op de taart
+Cosmetic.hat_pk05_davehat	Museumbeveiliging
+Cosmetic.hat_pk05_Egg	Eitje
+Cosmetic.hat_pk05_Ellie	Roodharige bandiet
+Cosmetic.hat_pk05_EllieToppat	Gerekruteerde Ellie
+Cosmetic.hat_pk05_Ellryhat	Funky fusie
+Cosmetic.hat_pk05_Fedora	Noir
+Cosmetic.hat_pk05_Flamingo	Drijvende flamingo
+Cosmetic.hat_pk05_FlowerPin	Madeliefste
+Cosmetic.hat_pk05_GeoffreyToppat	Dikkop
+Cosmetic.hat_pk05_Helmet	Geridderd
+Cosmetic.hat_pk05_HenryToppat	Gerekruteerde Henry
+Cosmetic.hat_pk05_Macbethhat	Dhr. Macbeth
+Cosmetic.hat_pk05_Plant	Groentje
+Cosmetic.hat_pk05_Svenhat	Sven Svensson
+Cosmetic.hat_pk05_Wizardhat	Betoverend
+Cosmetic.hat_pk06_Candycanes	Zoete zuurstok
+Cosmetic.hat_pk06_ElfHat	Speelgoedmannetje
+Cosmetic.hat_pk06_Lights	Verlicht
+Cosmetic.hats_newyears2018	Nieuwjaar 2019
+Cosmetic.hat_pk06_Present	Ingepakt
+Cosmetic.hat_pk06_Reindeer	Ren, dier!
+Cosmetic.hat_pk06_Santa	Cadeautjesman
+Cosmetic.hat_pk06_Snowman	Sneeuwpret
+Cosmetic.hat_pk06_tree	Altijdgroen
+Cosmetic.hat_pkHW01_BatWings	Vleermuisvleugels
+Cosmetic.hat_pkHW01_CatEyes	Vleermuts
+Cosmetic.hat_pkHW01_Horns	Duivelse hoorntjes
+Cosmetic.hat_pkHW01_Machete	Hak-hak
+Cosmetic.hat_pkHW01_Mohawk	Hanenkam
+Cosmetic.hat_pkHW01_Pirate	Kielhaler
+Cosmetic.hat_pkHW01_Pumpkin	Pompoen
+Cosmetic.hat_pkHW01_ScaryBag	Masker, het Monstermasker
+Cosmetic.hat_pkHW01_Witch	Heksenhoed
+Cosmetic.hat_pkHW01_Wolf	Weerwolf
+Cosmetic.hat_Plunger_Blue	Niet te stoppen - Blauw
+Cosmetic.hat_Plunger_Yellow	Niet te stoppen - Zwart met geel
+Cosmetic.hat_Ponytail	Blondje
+Cosmetic.hat_Pot	Graafhelm
+Cosmetic.hat_Prototype	Prototypehelm
+Cosmetic.hat_Ramhorn_Black	Rammer - Zwart
+Cosmetic.hat_Ramhorn_Red	Rammer - Rood
+Cosmetic.hat_Ramhorn_White	Rammer - Wit
+Cosmetic.hat_Records	Archiefarchiveerder
+Cosmetic.hat_RockIce	Uit je dak - IJskap
+Cosmetic.hat_RockLava	Uit je dak - Uitbarsting
+Cosmetic.hat_Rubberglove	Handige schoen
+Cosmetic.hat_Rupert	Rupert
+Cosmetic.hat_SnowbeanieGreen	Winter komt eraan - Groen
+Cosmetic.hat_SnowbeanieOrange	Winter komt eraan - Oranje
+Cosmetic.hat_SnowBeaniePurple	Winter komt eraan - Paars
+Cosmetic.hat_SnowbeanieRed	Winter komt eraan
+Cosmetic.hat_Soccer	Kopbal
+Cosmetic.hat_TenGallon_Black	Cowboyhoed - Zwart
+Cosmetic.hat_TenGallon_White	Cowboyhoed - Wit
+Cosmetic.hat_ThomasC	Thomas-hoed
+Cosmetic.hat_ToppatHair	Coole Katie
+Cosmetic.hat_Traffic_Blue	Wegwerkzaamheden - Blauw
+Cosmetic.hat_Traffic_Red	Wegwerkzaamheden - Rood
+Cosmetic.hat_Traffic_Yellow	Wegwerkzaamheden - Geel
+Cosmetic.hat_Unicorn	Magische eenhoorn
+Cosmetic.hat_Visor	Zonneklep
+Cosmetic.hat_Voleyball	Spike
+Cosmetic.hat_WilfordIV	Sir Wilford IV
+Cosmetic.hat_Winston	Omgekochte ambtenaar
+Cosmetic.hat_WinterGreen	IJskoud - Groen
+Cosmetic.hat_WinterHelmet	Zoek dekking - Winter
+Cosmetic.hat_WinterRed	IJskoud - Rood
+Cosmetic.hat_WinterYellow	IJskoud - Geel
+Cosmetic.hat_Zipper	Bemanningspak
+Cosmetic.nameplate_airship_CCC	Centrum voor chaosbedwinging
+Cosmetic.nameplate_airship_Diamond	Diamanten!
+Cosmetic.nameplate_airship_Emerald	Smaragden!
+Cosmetic.nameplate_airship_Gems	De kluis daarboven
+Cosmetic.nameplate_airship_government	De grootste naamplaat
+Cosmetic.nameplate_Airship_Hull	Airship-romp
+Cosmetic.nameplate_airship_Ruby	Robijnen!
+Cosmetic.nameplate_airship_Sky	Boven de wolken
+Cosmetic.nameplate_airship_Toppat	Het Toppat-luchtschip
+Cosmetic.nameplate_is_dig	Dig2China
+Cosmetic.nameplate_is_game	SPORT
+Cosmetic.nameplate_is_ghost	Spooktoren
+Cosmetic.nameplate_is_green	Deity's tuin
+Cosmetic.nameplate_is_sand	Zegen van de goden
+Cosmetic.nameplate_is_trees	Bomen
+Cosmetic.nameplate_is_yard	Dig-locatie
+Cosmetic.nameplate_Mira_Cafeteria	Vandaag op het menu: pizzasap
+Cosmetic.nameplate_Mira_Glass	De lucht beneden
+Cosmetic.nameplate_Mira_Tiles	Bijenkorf op de korrel
+Cosmetic.nameplate_Mira_Vines	Liaan maar zitten dan
+Cosmetic.nameplate_Mira_Wood	Daar hout ik nou van
+	
+Cosmetic.nameplate_NoPlate	Geen
+Cosmetic.nameplate_Polus_Colors	Polus-palet
+Cosmetic.nameplate_Polus_DVD	SimSong-fanaat
+Cosmetic.nameplate_Polus_Ground	Paarse planeet
+Cosmetic.nameplate_Polus_Lava	Lavallending
+Cosmetic.nameplate_Polus_Planet	Planeet Polus
+Cosmetic.nameplate_Polus_Snow	Sneeuwlanden
+Cosmetic.nameplate_Polus_SpecimenBlue	Specimen - Blauw
+Cosmetic.nameplate_Polus_SpecimenGreen	Specimen - Groen
+Cosmetic.nameplate_Polus_SpecimenPurple	Specimen - Paars
+Cosmetic.nameplate_Polus-Skyline	Polus-horizon
+Cosmetic.nameplate_Polus-Snowmates	Sneeuwmaatjes van Polus
+Cosmetic.pet_Alien	Hoofdslak
+Cosmetic.pet_Bedcrab	Bedkrab
+Cosmetic.pet_Bush	Bosjesvriend
+Cosmetic.pet_Charles	Charles Chopper
+Cosmetic.pet_Charles_Red	Toppat Chopper
+Cosmetic.pet_Crewmate	Mini-bemanningslid
+Cosmetic.pet_Cube	Godheidje
+Cosmetic.pet_Doggy	Hontje
+Cosmetic.pet_Ellie	E. Rose
+Cosmetic.pet_EmptyPet	Geen
+Cosmetic.pet_test	Glitch
+Cosmetic.pet_Hamster	Hampton
+Cosmetic.pet_Lava	Magmaatje
+Cosmetic.pet_Robot	Ro-Bot
+Cosmetic.pet_Snow	Sneeuwbal
+Cosmetic.pet_Squig	Squig
+Cosmetic.pet_Stickmin	H. Stickmin
+Cosmetic.pet_UFO	UFO
+Cosmetic.skin_Abominalskin	Verschrikkelijke sneeuwmaat
+Cosmetic.skin_Archae	Avonturier
+Cosmetic.skin_Astro	Astronauwelijks
+Cosmetic.skin_Astro_blue	Astronauwelijks - Blauw
+Cosmetic.skin_Astro_cyan	Astronauwelijks - Turkoois
+Cosmetic.skin_Astro_orange	Astronauwelijks - Oranje
+Cosmetic.skin_Bling	Bling-bling
+Cosmetic.skin_Bushskin	Stiekemerd
+Cosmetic.skin_BusinessFem-Aquaskin	Zakelijke rok - Aquablauw
+Cosmetic.skin_BusinessFemskin	Zakelijke rok
+Cosmetic.skin_BusinessFem-Tanskin	Zakelijke rok - Lichtbruin
+Cosmetic.skin_Capt	Vliegbrevet
+Cosmetic.skin_CCC	Chaos Containment-bemanningslid
+Cosmetic.skin_D2Cskin	Graafjochie
+Cosmetic.skin_General	Generaal Galeforce
+Cosmetic.skin_Hazmat	Hazmaat
+Cosmetic.skin_Hazmat-Blackskin	Hazmaat - Zwart
+Cosmetic.skin_Hazmat-Blueskin	Hazmaat - Blauw
+Cosmetic.skin_Hazmat-Greenskin	Hazmaat - Groen
+Cosmetic.skin_Hazmat-Pinkskin	Hazmaat - Roze
+Cosmetic.skin_Hazmat-Redskin	Hazmaat - Rood
+Cosmetic.skin_Hazmat-Whiteskin	Hazmaat - Wit
+Cosmetic.skin_JacketGreenskin	Warm ingepakt - Groen
+Cosmetic.skin_JacketPurpleskin	Warm ingepakt - Paars
+Cosmetic.skin_JacketYellowskin	Warm ingepakt - Geel
+Cosmetic.skin_Janitorskin	Corvee
+Cosmetic.skin_Mech	Klusjesman
+Cosmetic.skin_MechanicRed	Airship-monteur
+Cosmetic.skin_Military	Officiersoutfit
+Cosmetic.skin_MilitaryDesert	Officier - Woestijn
+Cosmetic.skin_MilitarySnowskin	Officier - Sneeuwwit
+Cosmetic.skin_Miner	Ondermijner
+Cosmetic.skin_MinerBlackskin	Ondermijner - Zwart
+Cosmetic.skin_None	Geen
+Cosmetic.skin_Police	Politieagent
+Cosmetic.skin_prisoner	Gevangene 2112
+Cosmetic.skin_PrisonerBlue	Gevangene 2112 - Blauw
+Cosmetic.skin_PrisonerTanskin	Gevangene 2112 - Lichtbruin
+Cosmetic.skin_rhm	Right Hand Man: Reborn
+Cosmetic.skin_RockIceskin	Vriesvriend
+Cosmetic.skin_RockLavaskin	Rotsvast
+Cosmetic.skin_Science	Wetenschappelijke theorie
+Cosmetic.skin_Scientist-Blueskin	Dokter
+Cosmetic.skin_Scientist-Darkskin	Duistere wetenschapper
+Cosmetic.skin_Security	Veilige beveiliger
+Cosmetic.skin_Skin_SuitRedskin	Toppat-uniform
+Cosmetic.skin_SportsBlueskin	Sportteam BLAUW
+Cosmetic.skin_SportsRedskin	Sportteam ROOD
+Cosmetic.skin_SuitB	Strak in 't pak
+Cosmetic.skin_SuitW	Blits
+Cosmetic.skin_SweaterBlueskin	Dikke trui - Blauw
+Cosmetic.skin_SweaterPinkskin	Dikke trui - Roze
+Cosmetic.skin_Sweaterskin	Dikke trui
+Cosmetic.skin_SweaterYellowskin	Dikke trui - Geel
+Cosmetic.skin_Tarmac	Land hier
+Cosmetic.skin_ToppatSuitFem	Toppat-rok
+Cosmetic.skin_ToppatVest	Gevestigde orde
+Cosmetic.skin_Wall	The Wall-verdediger
+Cosmetic.skin_Winter	Warm ingepakt
+Cosmetic.visor_BillyG	Mr. G
+Cosmetic.visor_Blush	Bloos
+Cosmetic.visor_Bomba	Bombastisch
+Cosmetic.visor_Carrot	Dolletjes
+Cosmetic.visor_Crack	Among Us Cracked 2021
+Cosmetic.visor_D2CGoggles	Graaf diep
+Cosmetic.visor_Dirty	Was mij
+Cosmetic.visor_Dotdot	puntje puntje puntje
+Cosmetic.visor_EmptyVisor	Geen
+Cosmetic.visor_EyepatchL	Ooglap
+Cosmetic.visor_EyepatchR	Ooglap
+Cosmetic.visor_Galeforce	Galeforce-snorharen
+Cosmetic.visor_is_beard	Een baard
+Cosmetic.visor_JanitorStache	Spooksnor
+Cosmetic.visor_Krieghaus	Krieghaus
+Cosmetic.visor_Lava	Smelthelm
+Cosmetic.visor_LolliBlue	Lolly - Blauw
+Cosmetic.visor_LolliBrown	Lolly - Bruin
+Cosmetic.visor_LolliOrange	Lolly - Oranje
+Cosmetic.visor_LolliRed	Lolly
+Cosmetic.visor_mira_card_blue	Paskaart - Blauw
+Cosmetic.visor_mira_card_red	Paskaart - Rood
+Cosmetic.visor_mira_glasses	Kijkglazen
+Cosmetic.visor_mira_mask_black	Gifbescherming - Zwart
+Cosmetic.visor_mira_mask_blue	Gifbescherming - Blauw
+Cosmetic.visor_mira_mask_green	Gifbescherming - Groen
+Cosmetic.visor_mira_mask_purple	Gifbescherming - Paars
+Cosmetic.visor_mira_mask_red	Gifbescherming - Rood
+Cosmetic.visor_mira_mask_white	Gifbescherming - Wit
+Cosmetic.visor_Mouth	Worm
+Cosmetic.visor_PiercingL	Piercing
+Cosmetic.visor_PiercingR	Piercing
+Cosmetic.visor_pk01_AngeryVisor	b o o s
+Cosmetic.visor_pk01_DumStickerVisor	Niet vergeten
+Cosmetic.visor_pk01_FredVisor	Deugdelijke doelman
+Cosmetic.hat_geoff	My name Geoff
+Cosmetic.visor_pk01_HazmatVisor	Gifbescherming
+Cosmetic.visor_pk01_MonoclesVisor	Dubbele monocle
+Cosmetic.visor_pk01_PaperMaskVisor	Kapjeknapperd
+Cosmetic.visor_pk01_PlagueVisor	Geplaagd
+Cosmetic.visor_pk01_RHMVisor	Right Hand-snor
+Cosmetic.visor_pk01_Security1Visor	Zonnebril
+Cosmetic.visor_polus_ice	IJstranen
+Cosmetic.visor_Reginald	Reginald-snor
+Cosmetic.visor_Scar	Litteken
+Cosmetic.visor_SciGoggles	Veiligheid voorop
+Cosmetic.visor_shopglasses	Winkel hier
+Cosmetic.visor_SkiGoggleBlack	De piste op - Zwart
+Cosmetic.visor_SKiGogglesOrange	De piste op - Oranje
+Cosmetic.visor_SkiGogglesWhite	De piste op
+Cosmetic.visor_SmallGlasses	Minibrilletje
+Cosmetic.visor_SmallGlassesBlue	Minibrilletje - Blauw
+Cosmetic.visor_SmallGlassesRed	Minibrilletje - Rood
+Cosmetic.visor_Stickynote_Cyan	Niet vergeten - Turkoois
+Cosmetic.visor_Stickynote_Green	Niet vergeten - Groen
+Cosmetic.visor_Stickynote_Orange	Niet vergeten - Oranje
+Cosmetic.visor_Stickynote_Pink	Niet vergeten - Roze
+Cosmetic.visor_Stickynote_Purple	Niet vergeten - Paars
+Cosmetic.visor_Straw	Kauwspriet
+Cosmetic.visor_WinstonStache	Imposante snor
+Visor	Vizier
+EquipLabel	Aandoen
+NamePlate	Naamplaatje
+Visors	Vizieren
+NamePlates	Naamplaatjes
+Cosmicube	Cosmicube
+Cosmicubes	Cosmicubes
+Activate	Inschakelen
+Deactivate	Uitschakelen
+Owned	In bezit
+Purchase	Kopen
+CosmicubeProgression	{0}% voltooid
+ViewCube	Blok bekijken
+ConfirmPurchaseHeader	Aankoop bevestigen
+ConfirmPurchaseText	Wil je de volgende vertakking van {0} kopen?
+DeactivateCube	Uitschakelen
+ActivateCube	Inschakelen
+Bundles	Bundels
+Stars	Sterren
+Wardrobe	Garderobe
+PlayerLevel	Niveau
+PlayerXp	XP
+PlayerLevelExtremeShorthand	Niv.
+Max	Max.
+Colors	Kleuren
+CopiedText	Tekst gekopieerd!
+LinkAccount	Account koppelen
+CreateNewAccount	Nieuw account aanmaken
+LinkExistingAccount	Bestaand account koppelen
+LinkAccountExplanation	Als je al op een ander platform een Among Us-account hebt, kun je dat account koppelen!\nOf je kunt een totaal nieuw account aanmaken.
+LinkAccountCode	Vul de volgende code in op <link="{0}">{1}</link> \n<size=+2>{2}</size>
+ErrorLink	Er ging iets mis tijdens het koppelen van je account. Probeer het later nog eens.
+UnlinkAccount	Account ontkoppelen
+ConfirmUnlinkAccount	Account ontkoppelen bevestigen
+UnlinkAccountExplain	Als je je {0}-account ontkoppelt, worden alle gegevens gewist en wordt er een nieuw {0}-account aangemaakt.\n- Je raakt alle op je {0}-account ontvangen of ontgrendelde items kwijt.\n- Je begint opnieuw op niveau 1 en met 0 XP.
+UnlinkAccountExplainConfirm	Bewaar deze ID ter referentie:\n\n{0}\n\nAls je je account ontkoppelt en je hebt deze ID niet, dan kunnen we je voortgang niet herstellen en kunnen we je niet helpen als er een fout gemaakt is.
+UnlinkError	Er ging iets mis tijdens het ontkoppelen van je account. Probeer het later nog eens.
+UnlinkSuccess	Het ontkoppelen van {0} van je Among Us-hoofdaccount is gelukt!
+ConfirmLinkExistingAccount	Koppelen aan een bestaand account bevestigen
+LinkExistingAccountExplain	Als je een ander account koppelt, worden alle gegevens op dit platform overschreven. Dit betekent dat je {0} Among Us-account vervangen zal worden door het andere account.\n- Alle items die je met je {0}-account ontgrendeld hebt, zullen worden overschreven.\n- Alle verdiende XP in je {0}-account zal worden overschreven.\n- Alle bonen, capsules en sterren zullen worden overschreven.
+LinkExistingAccountExplainConfirm	Zodra je bevestigt, zullen we je {0} Among Us-account resetten ter voorbereiding op het importeren van de gegevens van een ander account.\n\n<color=#{1}>ZORG DAT JE EEN ANDER BESTAAND ACCOUNT HEBT WAAR JE DIT ACCOUNT AAN WILT KOPPELEN VOORDAT JE DOORGAAT.</color>\n\nResetten van je {0}-account zal alle XP, bonen, capsules en items op 0 zetten. We kunnen dit NIET ongedaan maken.
+ResetAccount	Account resetten
+	
+PurchasingLabel	Item wordt gekocht
+	
+ErrorInternalServer	Interne serverfout (code {0})
+ErrorPlatformLock	Deze kamer is beperkt tot spelers op hetzelfde platform
+ErrorLobbyInactivity	De server heeft de ruimte afgesloten vanwege inactiviteit
+ErrorMatchmakerInactivity	De server heeft de verbinding verbroken vanwege inactiviteit
+ErrorInvalidGameOptions	De ontvangen game-opties waren ongeldig. Mogelijk moet je alle opgeslagen gegevens wissen en het spel opnieuw opstarten.
+ErrorNoServersAvailable	Er zijn geen servers beschikbaar. Sorry! Probeer het later opnieuw.
+ErrorQuickmatchDisabled	QuickMatch is momenteel niet beschikbaar. Probeer in plaats daarvan mee te doen met een spel.
+ErrorTooManyGames	Er zijn te veel spellen. Probeer mee te doen met een spel.
+Bundle.hat_holiday2018	Feestdagen-hoedjesbundel 2018
+Bundle.hats_bundle2	1 miljoen downloads Hoedjesbundel
+Bundle.hats_halloween2019	Halloween-hoedjesbundel 2019
+Bundle.hats_newyears2018	Nieuwjaar-hoedjesbundel 2018
+Bundle.map_airship	Airship-bundel
+Bundle.map_mira	MIRA-bundel
+Bundle.map_polus	Polus-bundel
+Bundle.pet_alien1	Hersenslak-huisdierbundel
+Bundle.pet_alien2	Bedkrab-huisdierbundel
+Bundle.pet_animal	Dieren-huisdierbundel
+Bundle.pet_crewmate	Bemanningslid-huisdierbundel
+Bundle.pet_stickmin	Stickmin-huisdierbundel
+StoreComingSoon	Binnenkort...
+	
+StartCosmicubeLabel	STARTEN
+Bundle.star_bundle	Sterrenbundel
+ErrorPlatformParentalControlsBlock	Jouw ouderlijk toezicht, of het ouderlijk toezicht van de spelers waar je je bij aan probeert te sluiten, staat je niet toe om samen te spelen.
+ErrorPlatformParentalControlsBlockPS	Jouw ouderlijk toezicht, of het ouderlijk toezicht van de spelers waar je je bij aan probeert te sluiten, staat je niet toe om samen te spelen.
+FailPurchase	Er is iets misgegaan met deze transactie. Probeer het later opnieuw.
+FailPurchaseUnknown	Foutcode {0}
+FailPurchaseAlreadyOwn	Je hebt dit item al.
+FailPurchaseCurrency	Je hebt niet genoeg van het vereiste betaalmiddel om dit item te kopen.
+FailPurchaseCubeOwn	Je hebt dit Cosmicube niet.
+Locked	NOG NIET TE KOOP
+	
+Active	ACTIEF
+Crewmates	Bemanningsleden
+XpGainedValue	{0} XP
+	
+XboxShopBrowseAll	Bekijk alle items in de Microsoft Store
+PSShopBrowseAll	Bekijk alle items in de PlayStation™Store
+Equipped	Uitgerust
+	
+MouseMovement	Bewegen met muis
+KeyboardOptions	Toetsenbordopties
+RemapBindings	Sneltoetsen wijzigen...
+KeyboardBindingsHeader	Sneltoetsen
+HowToPlayText_Consoles	Speel online met 4 tot 15 spelers!
+	
+StarDisclaimer	Koop Among Us-sterren om een compleet sterrenstelsel aan aanpassingen te ontgrendelen! Geef je sterren uit aan exclusieve cosmetische voorwerpen en unieke kosmoblokken in de winkel in de game. Alle hier gekochte sterren zijn niet in te wisselen of te gebruiken op PlayStation® of Nintendo Switch™.
+	
+Commsdisabled	[COMM. UITGESCHAKELD]
+ErrorQuickChatMode	Verkeerd type Chat: in deze ruimte moet {0} gebruikt worden. Jouw instelling is {1}.
+
+	
+ErrorLobbyUsersBlocked	Meedoen niet mogelijk: gebruiker staat op blokkeerlijst van de lobby of gebruiker blokkeert je. Probeer een andere lobby.
+SteamNotInitialized	Steam is niet goed opgestart. Start het spel opnieuw op vanuit Steam en probeer het nog eens.
+LoggedInErrorStarPurchase	Je moet aangemeld zijn op je account om sterren te kopen
+ErrorDisconnectPacket	De verbinding met de server is verbroken.
+AndroidAssetBundleWarning	Om de installatie te voltooien moet Among Us extra content downloaden. Druk op 'Accepteren' om door te gaan.
+ItchNoStars	Helaas kun je geen sterren kopen op itch.io. Maar als je je itch.io-account koppelt aan een ander platform (bijv. andere pc-versies), kun je daar sterren kopen en gebruiken! Opmerking: sterren die gekocht worden op een Nintendo Switch™ kunnen niet worden overgedragen naar een ander platform.
+Roles	Rollen
+RolesSettings	Rolinstellingen
+ScientistRole	Wetenschapper
+EngineerRole	Werktuigkundige
+GuardianAngelRole	Beschermengel
+ShapeshifterRole	Vormveranderaar
+ScientistBlurb	Gebruik hartslag wanneer je wilt
+EngineerBlurb	Kan de luchtschachten gebruiken
+GuardianAngelBlurb	Bescherm de resterende bemanning
+ShapeshifterBlurb	Vermom jezelf
+CrewmateBlurb	Doe je taken
+ImpostorBlurb	Dood en saboteer
+RolesHelp_CrewmateRole	Rol bemanningslid: {0}
+RolesHelp_ImpostorRole	Rol bedrieger: {0}
+RolesHelpIntro_01	Rollen voegen een gloednieuw niveau van bedrog en strategie toe aan het klassieke spel!
+RolesHelpIntro_02	Zowel Bemanningsleden als Bedriegers kunnen willekeurig rollen toegewezen krijgen, afhankelijk van de spelinstellingen die door de host zijn gekozen.
+RolesHelp_Scientist_01	De Wetenschapper heeft overal toegang tot een draagbaar hartslagpaneel om de status van de bemanning te controleren.
+RolesHelp_Scientist_02	Het paneel moet echter worden opgeladen, dus de Wetenschapper moet taken voltooien om de batterij te vullen.
+RolesHelp_Engineer_01	De Werktuigkundige is een Bemanningslid dat luchtschachten kan gebruiken om zich sneller te verplaatsen en Bedriegers op heterdaad te betrappen.
+RolesHelp_Engineer_02	Je kunt er echter niet altijd blijven en het is vrij verdacht, dus kijk wie er in de buurt is als je de luchtschacht gebruikt...
+RolesHelp_GuardianAngel_01	De Beschermengel is de geest van een Bemanningslid. Deze kan andere levende Bemanningsleden tijdelijk beschermen.
+RolesHelp_GuardianAngel_02	Als je het goed timet, kun je voorkomen dat Bedriegers hun slachtoffer doden. Mazzel!
+RolesHelp_Shapeshifter_01	De Vormveranderaar kan zijn uiterlijk veranderen en zich vermommen als andere Bemanningsleden. Doe het goed om andere Bemanningsleden in de val te lokken en verwarring te zaaien over wie de echte Bedrieger is!
+RolesHelp_Shapeshifter_02	Maar pas op: de vermomming duurt niet eeuwig en laat bewijs achter.
+RolesHelpOutro_01	Rollen zijn configureerbaar! Gamehosts kunnen kiezen hoe vaak een Werktuigkundige in luchtschachten kan kruipen, wat de afkoeltijd is voor de Vormveranderaar, enzovoort. Ze kunnen ook kiezen hoe groot de kans is dat een van deze rollen in het spel voorkomt. Je kunt altijd zien of een rol is ingeschakeld in de instellingen van de spel-lobby!
+RolesHelpOutro_02	Speel met de instellingen die je het leukst vindt om je ultieme lobby te creëren, of sluit je aan bij een lobby en kijk welke chaos je daar kunt veroorzaken. We voegen mogelijk nieuwe rollen aan het spel toe, dus kom terug wanneer je maar wilt! Veel plezier!
+YourRoleIs	Je rol is
+ShapeshiftAbility	Verwisselen
+VitalsAbility	Hartslag
+ProtectAbility	Beschermen
+VentAbility	Luchtschacht
+ShapeshiftAbilityUndo	Terugwisselen
+RoleChanceAndQuantity	{0} met {1}% kans
+CheckingPurchasesLabel	Aankopen controleren...
+ProtectedRecently	De beschermengel heeft zojuist iemand beschermd...
+ScientistBlurbMed	Gebruik hartslag wanneer je wilt.\nVoltooi taken om je batterij op te laden.
+ScientistBlurbLong	De wetenschapper kan een draagbare hartslagmonitor gebruiken om de status van de bemanning te controleren. Maar de draagbare hartslagmonitor moet wel worden opgeladen, dus de wetenschapper moet taken voltooien om de batterij te vullen.
+EngineerBlurbMed	Kan de luchtschachten gebruiken.
+EngineerBlurbLong	De werktuigkundige is een bemanningslid dat luchtschachten kan gebruiken om zich sneller te verplaatsen, en bedriegers kan betrappen die de luchtschachten gebruiken. Maar je kunt er niet eeuwig blijven, dus let goed op wanneer je de luchtschachten gebruikt...
+GuardianAngelBlurbMed	Creëer een beschermend schild rond\nde resterende bemanning.
+GuardianAngelBlurbLong	De beschermengel is het spook van het eerste dode bemanningslid. Deze kan andere, levende bemanningsleden tijdelijk beschermen met een schild. Met de juiste timing kun je voorkomen dat bedriegers hun slachtoffer doden. Mazzel!
+ShapeshifterBlurbMed	Vermom jezelf door in andere bemanningsleden\nte veranderen.
+ShapeshifterBlurbLong	De vormveranderaar kan van gedaante verwanderen en zichzelf vermommen als een ander bemanningslid. Als je het goed doet, kun je andere bemanningsleden verdacht maken en verwarring veroorzaken over de identiteit van de echte bedrieger. Maar kijk uit, want de vermomming duurt niet eeuwig en laat bewijsmateriaal achter.
+RoleHint	Hint
+ScientistBatteryCharge	Batterijduur
+ScientistCooldown	Hartslagafkoeling
+ShapeshifterCooldown	Vormveranderaarafkoeling
+ShapeshifterDuration	Vormveranderaarduur
+ShapeshifterLeaveSkin	Vormveranderaarbewijs achterlaten
+EngineerCooldown	Afkoeling luchtschacht gebruiken
+EngineerInVentCooldown	Max. tijd in luchtschachten
+GuardianAngelCooldown	Beschermingsafkoeling
+GuardianAngelDuration	Beschermingsduur
+OracleRole	Orakel
+OracleBlurb	Kent één Bemanningslid dat geen Bedrieger is
+OracleBlurbMed	Kent één Bemanningslid dat geen Bedrieger is.
+OracleBlurbLong	Het Orakel is een Bemanningslid dat zeker weet dat één Bemanningslid geen Bedrieger is
+Cosmetic.hat_heim	Heimerdingers haar
+Cosmetic.hat_enforcer	Enforcer-helm
+Cosmetic.hat_caitlin	Caitlyns pet
+Cosmetic.hat_clagger	Claggors bril
+Cosmetic.hat_vi	Vi's haar
+Cosmetic.hat_jinx	Jinx' haar
+Cosmetic.hat_jayce	Jayce' haar
+Cosmetic.hat_comper	Chomper
+Cosmetic.visor_heim	Heimerdingers snor
+Cosmetic.visor_jinx	Jinx' bril
+Cosmetic.skin_heim	Heimerdingers pak
+Cosmetic.skin_jayce	Jayce' raadspak
+Cosmetic.skin_enforcer	Enforcer-pantser
+Cosmetic.skin_caitlin	Caitlyns uniform
+Cosmetic.skin_jinx	Jinx' kleren
+Cosmetic.skin_vi	Vi's kleren
+Cosmetic.pet_poro	Heimerdingers Poro
+RedeemPurchasedItemsTitle	Gekochte items inwisselen
+RedeemPurcahsedItemsExplain	We hebben een splinternieuw inventarissysteem dat op verschillende platformen toegang tot je items biedt! Items die eerder op dit platform zijn gekocht kunnen SLECHTS ÉÉN KEER worden overgezet naar ons nieuwe inventarissysteem.\nAls dit je hoofdaccount van Among Us is (het platform waarop je het meest speelt), kun je gerust op 'doorgaan' klikken en je gekochte DLC inwisselen in het nieuwe inventarissysteem. Als dit een account is dat je aan je hoofdaccount wilt koppelen, moet je eerst koppelen voordat je inwisselt.\n\nAccount-ID: {0}
+RedeemProceed	Doorgaan
+RedeemNotYet	Niet nu
+RedeemNever	Niet meer vragen
+AccountIDDisplay	Account-ID: {0}
+Cosmetic.hat_witch_white	Heksenhoed - wit
+Cosmetic.hat_witch_pink	Heksenhoed - roze
+Cosmetic.hat_witch_murky	Heksenhoed - modderig
+Cosmetic.hat_witch_green	Heksenhoed - groen
+Cosmetic.hat_papermask	Masker, het Monstermasker - licht
+Cosmetic.hat_mohawk_rainbow	Hanenkam - regenboog
+Cosmetic.hat_mohawk_purple_green	Hanenkam - paars-groen
+Cosmetic.hat_mohawk_bumblebee	Hanenkam - hommel
+Cosmetic.hat_devilhorns_yellow	Duivelse hoorntjes - goud
+Cosmetic.hat_devilhorns_white	Duivelse hoorntjes - wit
+Cosmetic.hat_devilhorns_murky	Duivelse hoorntjes - modderig
+Cosmetic.hat_devilhorns_green	Duivelse hoorntjes - groen
+Cosmetic.hat_devilhorns_crewcolor	Duivelse hoorntjes - bemanningskleur
+Cosmetic.hat_devilhorns_black	Duivelse hoorntjes - zwart
+Cosmetic.hat_cat_grey	Vleermuts - grijs
+Cosmetic.hat_cat_snow	Vleermuts - sneeuw
+Cosmetic.hat_cat_pink	Vleermuts - roze
+Cosmetic.hat_cat_orange	Vleermuts - oranje
+Cosmetic.hat_wolf_grey	Weerwolf - grijs
+Cosmetic.hat_wolf_murky	Weerwolf - troebel
+Cosmetic.hat_bat_ice	Vleermuisvleugels - ijs
+Cosmetic.hat_bat_green	Vleermuisvleugels - groen
+Cosmetic.hat_bat_crewcolor	Vleermuisvleugels - bemanningskleur
+Cosmetic.skin_mummy	Ik wil mijn mummie
+Cosmetic.visor_mummy	Ingewikkeld
+Cosmetic.hat_mummy	Jummie mummie
+Cosmetic.hat_candycorn	Snoephoorntjes
+Cosmetic.hat_clown_purple	Clownshaar
+Cosmetic.hat_fairywings	Feeënvleugeltjes
+Cosmetic.hat_fishhed	Vissenkop
+Cosmetic.hat_frankenbolts	Frankenbouten
+Cosmetic.hat_frankenbride	Frankenvrouw
+Cosmetic.visor_clownnose	Clownsneus
+Cosmetic.visor_masque_blue	Gemaskerd - blauw
+Cosmetic.visor_masque_green	Gemaskerd - groen
+Cosmetic.visor_masque_red	Gemaskerd - rood
+Cosmetic.visor_masque_white	Gemaskerd - wit
+Cosmetic.nameplate_hw_pumpkin	Jack-o-Pumkpin
+Cosmetic.nameplate_hw_candy	Snoeptijd
+Cosmetic.nameplate_hw_woods	Spookbos
+Cosmetic.hat_axe	Barstende koppijn
+Cosmetic.visor_eyeball	Een oogje op jou
+Cosmetic.hat_tombstone	RIP-hoed
+Cosmetic.hat_bone	Uitgebeend
+Cosmetic.hat_arrowhead	Pijlsnel
+Cosmetic.hat_glowstick	Gloeiende gloeiende
+Cosmetic.skin_clown	Bemanno de Clown
+Cosmetic.skin_fairy	Goede bemanningsfee
+Cosmetic.skin_fishmonger	De visboer
+Cosmetic.skin_pumpkin	Grote pompoenbroek
+Cosmetic.skin_vampire	Vampier hier
+Cosmetic.skin_witch	Rare heks
+Cosmetic.pet_frankendog	Frankenhondje
+Cosmetic.hat_mohawk_bubblegum	Hanenkam - kauwgom
+AvailableFor	Nog \n{0}d {1}u {2}m {3}s beschikbaar
+GuardianAngelImpostorSeeProtect	Bescherming zichtbaar voor bedriegers
+Cosmetic.hat_pkHW01_PlagueHat	Geplaagd
+	
+QCAccIsRole	{0} is een {1}
+QCAccIsRole_QCCrewMe_ANY	Ik ben een {0}
+QCAccIsRoleNeg	{0} is niet een {1}
+QCAccIsRoleNeg_QCCrewMe_ANY	Ik ben geen {0}
+QCAccIsRoleNeg_QCCrewNoOne_ANY	Niemand is een {1}
+QCAccShapeshited	{0} veranderde in {1}
+QCAccShapeshited_QCCrewMe_ANY	Ik veranderde in {1}
+QCStaShapeshifterSkin	Vormveranderaarskin gevonden in {0}
+QCResIsBeingFramed	{0} wordt erin geluisd
+QCResIsBeingFramed_QCCrewMe	Ik word erin geluisd
+QCResCloseTo	{0} was vlak bij {1}
+QCResCloseTo_QCCrewMe_ANY	Ik was vlak bij {0}
+QCResCloseTo_ANY_QCCrewMe	{0} was vlak bij me
+QCResIsRoleMaybe	{0} is misschien een {1}
+QCResIsRoleMaybe_QCCrewMe_ANY	Ik ben misschien een {1}
+QCResProtected	{0} beschermde {1}
+QCResProtected_QCCrewMe_ANY	Ik beschermde {1}
+QCResProtected_ANY_QCCrewMe	{0} beschermde me
+QCRoles	Rollen
+GuestProgressionWarning	Je bent ingelogd met een gastaccount! \n\nAlle verdiende XP, capsules en bonen zijn alleen gekoppeld aan dit gastaccount. Gastaccounts zijn uitsluitend gekoppeld aan je fysieke apparaat en gaan verloren als je van apparaat wisselt. \n\nOm toegang te krijgen tot al je verdiende betaalmiddelen en aankopen open je het account-tabblad in het hoofdmenu en log je in bij je Among Us-account.
+	
+ErrorFailedToCreateGame	Gamesessie aanmaken mislukt. Probeer het later opnieuw.
+ErrorFailedToJoinCreatedGame	Deelnemen aan aangemaakte gamesessie is mislukt. Probeer het later opnieuw.
+ErrorDisconnectBeforeJoining	Verbinding verbroken voordat je je aansloot bij de gamesessie.
+	
+PSEULA_SIEA	
+PSEULA_SIEE	Elke content die in een winkel in het spel is gekocht, wordt gekocht van Sony Interactive Entertainment Network Europe Limited (“SIENE”) en is onderworpen aan de servicevoorwaarden van PlayStation™Network die bij PlayStation™Store verkrijgbaar zijn. U dient de gebruiksrechten te controleren omdat deze per item kunnen verschillen. Tenzij anderszins vermeld, gelden dezelfde leeftijdsbeperkingen voor content die in een winkel in het spel beschikbaar is als voor het spel zelf.
+ErrorCrossPlatformCommunication	Je communicatie-instellingen blokkeren je deelname aan het spel. Om mee te spelen, schakel je crossplaycommunicatie in.
+ErrorCrossPlat	De kamer waar je naartoe bent gegaan is cross-platform, maar je hebt crossplay uitgeschakeld in je lokale instellingen.
+ErrorDuplicateConnection	Dubbele aanmelding gedetecteerd.
+ErrorLobbyFailedGettingBlockedUsers	Meedoen niet mogelijk: er is een serverfout opgetreden bij het ophalen van de blokkeerlijst
+	
+MaxVentUses	Max. luchtschachten gebruikt
+MaxTimeInVent	Max. tijd in luchtschacht
+MinCrewmatesForVitals	Min. bemanningsleden in leven om hartslag te ontgrendelen
+ShowAccountID	Account-ID tonen
+HideAccountID	Account-ID verbergen
+HiddenAccountID	[Account-ID verborgen]
+AllTasksComplete	Alle taken voltooid!
+EscapePrompt	Bemanningsleden ontsnappen over:
+FlashlightFov	Zichtveld zaklamp
+SteamOverlayDisabled	Je Steam-overlay moet ingeschakeld zijn om Sterrenbundels te kunnen kopen. Schakel je Steam-overlay in het spel in en start het opnieuw op.
+Cosmetic.hat_pk05_RHM	Right Hand-hoed
+	
+Cosmetic.skin_w21_deer	Rendier
+Cosmetic.skin_w21_elf	Kerstelf
+Cosmetic.skin_w21_msclaus	De Kerstvrouw
+Cosmetic.skin_w21_nutcracker	De Notenkraker
+Cosmetic.skin_w21_santa	Het is kerst, man!
+Cosmetic.skin_w21_snowmate	Sneeuwmaat
+Cosmetic.hat_w21_snowman	Hoge pief
+Cosmetic.hat_w21_gingerbread	Gembermanningslid
+Cosmetic.hat_w21_holly	Sierlijk verveeld
+Cosmetic.hat_w21_krampus	Krampus
+Cosmetic.hat_w21_log	Stamhoofd
+Cosmetic.hat_w21_mistletoe	Maar, eh... tak?
+Cosmetic.hat_w21_mittens	Ik weet van wanten
+Cosmetic.hat_w21_nutcracker	Hersenkraker
+Cosmetic.hat_w21_pinecone	Dennenappel
+Cosmetic.hat_w21_winterpuff	Wollige bolletjes
+Cosmetic.hat_w21_snowflake	Sneeuwvlok
+Cosmetic.visor_w21_carrot	Diepgeworteld
+Cosmetic.visor_w21_nutstache	Snorrenkraker
+Cosmetic.visor_w21_santabeard	Kerstbaard
+Cosmetic.nameplate_w21_snow	Kraakheldere sneeuw
+Cosmetic.nameplate_w21_tree	Stralende sterren
+Cosmetic.nameplate_w21_fireplace	Bij de openhaard
+Cosmetic.visor_w21_nye	GELUKKIG NIEUWJAAR - 2021
+Cosmetic.hat_w21_elf_pink	Elfenmuts - roze
+Cosmetic.hat_w21_elf_swe	Elfenmuts - blauw
+Cosmetic.hat_w21_lights_white	Feestelijke gloed - wit
+Cosmetic.hat_w21_lights_yellow	Feestelijke gloed - geel
+Cosmetic.hat_w21_present_evil	Goed ingepakt - Rood/zwart
+Cosmetic.hat_w21_present_redwhite	Goed ingepakt - Rood/wit
+Cosmetic.hat_w21_present_whiteblue	Goed ingepakt - Wit/blauw
+Cosmetic.hat_w21_santa_evil	Cadeautjesman - Ondeugend
+Cosmetic.hat_w21_santa_yellow	Cadeautjesman - Verguld
+Cosmetic.hat_w21_santa_green	Cadeautjesman - Woud
+Cosmetic.hat_w21_santa_mint	Cadeautjesman - Mintgroen
+Cosmetic.hat_w21_santa_pink	Cadeautjesman - Roze
+Cosmetic.hat_w21_santa_white	Cadeautjesman - IJzig
+Cosmetic.hat_w21_snowman_swe	Sneeuwpret - Blauw/geel
+Cosmetic.hat_w21_snowman_evil	Sneeuwpret - Ondeugend
+Cosmetic.hat_w21_snowman_greenred	Sneeuwpret - groen
+Cosmetic.hat_w21_snowman_redgreen	Sneeuwpret - Rood/groen
+Cosmetic.hat_w21_present_greenyellow	Goed ingepakt - Groen/geel
+Cosmetic.hat_w21_candycane_blue	Zuurstokken - Bosbes
+Cosmetic.hat_w21_candycane_bubble	Zuurstokken - Kauwgom
+Cosmetic.hat_w21_candycane_chocolate	Zuurstokken - Muntchocola
+Cosmetic.hat_w21_candycane_mint	Zuurstokken - Munt
+Cosmetic.skin_w21_tree	O, Dennenboom
+StatsRoleWins	Gewonnen als {0}:\t
+StatsEngineerVents	Luchtschachten als werktuigkundige:\t
+StatsScientistChargesGained	Batterijen opgeladen als wetenschapper:\t
+StatsGuardianAngelCrewmatesProtected	Bemanning beschermd als beschermengel:\t
+StatsShapeshifterShiftedKills	Moorden als veranderde vormveranderaar:\t
+QCOnlyInfo	Je kunt alleen Snelchat tijdens het spelen gebruiken en je kunt alleen met andere Snelchat-gebruikers spelen.
+FreeChatInfo	Je kunt Vrije chat en Snelchat tijdens het spelen gebruiken en je speelt alleen met andere Vrije chat-gebruikers.
+FreeChatWarning	Je moet aangemeld zijn om Vrije chat te kunnen gebruiken. Als je bent aangemeld met een kinderaccount, moet je het Account-tabblad openen en toestemming krijgen van een ouder/voogd om Vrije chat in te schakelen.
+FreeChatLinkWarning	Het verzenden van URL's is niet toegestaan! Je bericht is niet verzonden.
+ScreenShakeOption	Schermtrillingen
+StreamingTwitch	Begin te streamen op Twitch
+AnnouncementFailFetchData	Kon aankondiging niet ophalen.
+AnnouncementFailFetchData_LastKnown	Kan aankondiging niet ophalen. Laatst bekend:
+	
+Cosmetic.pet_clank	Clank
+Cosmetic.pet_GuiltySpark	Guilty Spark
+Cosmetic.hat_halospartan	Spartan-helm
+Cosmetic.hat_ratchet	Ratchets pet
+Cosmetic.skin_halospartan	Spartan-pantser
+Cosmetic.skin_ratchet	Ratchets jumpsuit
+Cosmetic.skin_screamghostface	Scream-gewaden
+Cosmetic.hat_screamghostface	Scream-masker
+	
+AmongUsFriends	Among Us-vrienden
+FriendsGuestWarning	Je moet ingelogd zijn om deze functie te kunnen gebruiken.
+PlatformFriends	Platformvrienden
+BlockedPlayers	Geblokkeerde spelers
+RecentPlayers	Onlangs gespeeld met
+LobbyLabel	Lobby
+FriendCodeExplanation	Among Us heeft nu een Vriendenlijst! Om vriendschapsverzoeken of game-uitnodigingen te kunnen versturen of ontvangen, moet je hierna een unieke vriendcode kiezen.\n\nZodra je er eentje gekozen hebt, kun je deze niet veranderen.
+FriendCodeSuccess	Jouw vriendcode is {0}
+FriendRequestReceived	Vriendschapsverzoek ontvangen
+FriendRequestSent	Vriendschapsverzoek verstuurd
+GameLobbyInviteSent	Game-uitnodiging verstuurd
+GameLobbyInviteReceived	Game-uitnodiging ontvangen
+BlockPlayerConfirm	Speler blokkeren?
+RemoveFriendConfirm	Vriend verwijderen?
+InviteToLobbyConfirm	Een game-uitnodiging versturen?
+FriendCodeLabel	Vriendcode
+FriendCodeCreationTitle	Kies een vriendcode
+FriendRequestSentFailed	Vriendschapsverzoek versturen is mislukt
+ErrorBadUsername	Ongeldige vriendcode. Vul een volledige vriendcode in om het opnieuw te proberen (bijv. Kleinduimpje#0001)
+ErrorUserNotFound	Vriendcode bestaat niet
+ErrorPlatformFriends	Platformvrienden ophalen is mislukt
+ErrorThisIsYou	Sorry, je kunt jezelf niet als een vriend toevoegen.
+ErrorFriendRequestExists	Je hebt deze gebruiker al een vriendschapsverzoek gestuurd
+ErrorAlreadyFriends	Je bent al bevriend met deze gebruiker. Joepie!
+GameLobbyInviteSentFailed	Game-uitnodiging versturen is mislukt
+BlockedPlayerFailed	Speler blokkeren is mislukt
+BlockedPlayer	Speler geblokkeerd
+AlreadyBlocked	Deze speler is al geblokkeerd
+FriendList	Vriendenlijst
+NoNewRequests	Geen inkomende verzoeken
+AddFriendPrompt	Voeg een vriend toe via code
+NewRequests	{0} nieuwe verzoeken!
+Requests	Verzoeken
+AddFriend	Vriend toevoegen
+StreamWarning	Laat dit niet in het openbaar zien, tenzij je wilt dat iedereen je vriendcode kent!
+FriendsListPermissionsWarning	Je hebt toestemming van je ouder/voogd nodig om deze functie te gebruiken.
+AddFriendConfirm	Vriendschapsverzoek sturen naar {0}?
+UnfriendConfirm	{0} ontvrienden?
+UnblockConfirm	{0} deblokkeren?
+SettingsEnableFriendInvites	Vriend- en lobby-uitnodigingen
+ErrorTooManyRequests	Te veel lobby-aanvragen. Wacht een paar minuten voordat je het opnieuw probeert.
+TempDisabled	Tijdelijk uitgeschakeld
+TempDisabledLinkExplain	Accounts ondergaan wijzigingen. We hebben de mogelijkheid om bestaande accounts te koppelen tijdelijk beperkt. Dit wordt in een toekomstige update binnenkort opgelost!
+RedeemPopup	Hier is een geschenk van de bemanning!\n{0}.
+RedeemButton	Inwisselen
+ErrorMaxFriends	Je vriendenlijst is vol.
+ErrorPlayerBlockedYou	Fout: gebruiker staat op je blokkeerlijst of gebruiker blokkeert je.
+ErrorRecipientMaxFriendRequests	Fout: de gebruiker heeft het maximale aantal vriendschapsverzoeken en kan er geen meer ontvangen.
+ErrorSenderMaxFriendRequests	Fout: je hebt te veel vriendschapsverzoeken uitstaan.
+ErrorRecipientMaxFriends	Fout: de vriendenlijst van de gebruiker zit vol.
+ViewRequests	Verzoeken bekijken
+ParentPortalButton	Toestemming verzoeken
+FriendsListEmailSent	We hebben je ouder of voogd zojuist een e-mail gestuurd met een verzoek om aanvullende toestemmingen voor de vriendenlijst. Vraag of ze hun e-mail willen bekijken.
+Decontamination3	Ontsmetting beneden
+ErrorCommunications	Je communicatie-instellingen verhinderen dat je meedoet aan het spel. Zorg dat je met anderen kunt communiceren om aan dit spel mee te doen.
+SettingsColorblind	Tekst voor kleurenblinden
+MergeGuestAccountText	Er lijkt een <link="https://www.innersloth.com/merging-guest-accounts/">gastaccount</link> op dit apparaat te zijn! We bieden geen ondersteuning meer voor gastaccounts en zullen alle items, betaalmiddelen en ervaring van je gastaccount samenvoegen in dit {0}-account.\n\nHoud er rekening mee dat als je dit apparaat (computer, telefoon, etc.) met andere mensen deelt, dat iedereen die dit apparaat gebruikt, het gastaccount DEELT. Als je doorgaat, kunnen andere gebruikers op dit apparaat dit gastaccount niet samenvoegen, en je kunt dit gastaccount slechts ÉÉN KEER samenvoegen. Je kunt de items, betaalmiddelen en ervaring die gekoppeld zijn aan dit gastaccount NIET nog een keer verplaatsen.\n\nBevestig dat je je gastaccount wilt samenvoegen met dit {0}-account.
+MergeGuestAccountTitle	Gastaccount samenvoegen
+ManageAccountTitle	Account beheren
+ManageAccountText	Ga naar <link="https://accounts.innersloth.com/">https://accounts.innersloth.com</link> om je account te beheren, het samen te voegen of als je problemen hebt.
+CurrencyBeans	Bonen
+CurrencyPods	{MapName} Pods
+	
+Cosmetic.visor_BaconVisor	Zo blij om je weer te zien
+Cosmetic.hat_Baguette	Zeg maar pain du stok
+Cosmetic.skin_Bananaskin	Tijd voor pindakaasjelly
+Cosmetic.visor_BananaVisor	Je zag me uitglijden
+Cosmetic.nameplate_BlimeyPlate	Jemig!
+Cosmetic.skin_BlueApronskin	Uw bestelling graag - Gemak
+Cosmetic.skin_BlueSuspskin	Citroenblauw
+Cosmetic.hat_BreadLoaf	Haal dat brood
+Cosmetic.nameplate_BreadPlate	Brood is het beste.
+Cosmetic.pet_BredPet	Brob
+Cosmetic.visor_BubbleBumVisor	Kauwgombellen
+Cosmetic.hat_Butter	Boter op je hoofd
+Cosmetic.skin_ChefBlackskin	Van de kook - Zwart
+Cosmetic.pet_ChewiePet	Kauwtje
+Cosmetic.visor_CucumberVisor	Schoonheidsslaapje
+Cosmetic.nameplate_EggPlate	Eizingwekkend!
+Cosmetic.pet_HamPet	Hammie
+Cosmetic.skin_Hotdogskin	€1,50
+Cosmetic.visor_IceCreamChocolateVisor	Zielig schepje - Chocola
+Cosmetic.visor_IceCreamMintVisor	Zielig schepje - Munt
+Cosmetic.visor_IceCreamStrawberryVisor	Zielig schepje - Aardbei
+Cosmetic.visor_IceCreamUbeVisor	Zielig schepje - Ube
+Cosmetic.hat_OrangeHat	Clementine zal dat onthouden
+Cosmetic.skin_OrangeSuspskin	Tangerine Dream
+Cosmetic.hat_PancakeStack	Vette stapels
+Cosmetic.hat_Pineapple	Dat ziet er ananas uit
+Cosmetic.skin_PinkApronskin	Uw bestelling graag - Cupcake
+Cosmetic.nameplate_PinkPlate	Denk roze
+Cosmetic.nameplate_PizzaPlate	Pak een punt
+Cosmetic.hat_PizzaSliceHat	Pizza Hat
+Cosmetic.visor_PizzaVisor	Wil je een punt?
+Cosmetic.nameplate_PlatePlate	Naamplaat
+Cosmetic.hat_StrawberryLeavesHat	Verlegen aardbei
+Cosmetic.hat_ToastButterHat	Een toast op botere dagen
+Cosmetic.visor_ToastVisor	Laat op school
+Cosmetic.skin_YellowApronskin	Uw bestelling graag - Reep
+Cosmetic.skin_YellowSuspskin	Citroenmeisje
+Cosmetic.skin_PinkSuspskin	Grapefruit-pak
+	
+Cosmetic.hat_BananaGreen	Gepeld - Onrijp
+Cosmetic.hat_BananaPurple	Gepeld - Fungushia
+Cosmetic.hat_cheeseBleu	Kaaskop - Blauw
+Cosmetic.hat_cheeseMoldy	Kaaskop - Stank
+Cosmetic.hat_cheeseSwiss	Kaaskop - Zwitsers
+Cosmetic.hat_ChefWhiteBlue	Koksmuts - Chef Whites
+Cosmetic.hat_cherryOrange	Kers op de taart - Rainier
+Cosmetic.hat_cherryPink	Kers op de taart - Roze
+Cosmetic.hat_chocolateCandy	Schepijs - Kauwgom
+Cosmetic.hat_chocolateMatcha	Schepijs - Matcha
+Cosmetic.hat_chocolateVanillaStrawb	Schepijs - Aardbei-vanille
+Cosmetic.hat_croissant	Krokante croissant
+Cosmetic.hat_eggGreen	Eitje - Groen
+Cosmetic.hat_eggYellow	Eitje - Gebakken ei
+Cosmetic.skin_ApronGreen	Uw bestelling graag - Latte
+Cosmetic.skin_ChefBlue	Van de kook - Blauw
+Cosmetic.skin_ChefRed	Van de kook
+Cosmetic.hat_IceCreamMatcha	Twee scheppen - Matcha
+Cosmetic.hat_IceCreamMint	Twee scheppen - Munt
+Cosmetic.hat_IceCreamNeo	Twee scheppen - Napolitaans
+Cosmetic.hat_IceCreamStrawberry	Twee scheppen - Aardbei
+Cosmetic.hat_IceCreamUbe	Twee scheppen - Ube
+Cosmetic.hat_IceCreamVanilla	Twee scheppen - Vanille
+Cosmetic.visor_lollipopCrew	Lolly - Bemanningskleur
+Cosmetic.visor_lollipopLemon	Lolly - Ananas
+Cosmetic.visor_lollipopLime	Lolly - Zure appel
+Cosmetic.nameplate_Croissant	Mijn croissant(s) laten vallen
+Cosmetic.nameplate_Lemon	Mijn leven voor een citroen
+Cosmetic.nameplate_Orange	Oranje boven
+Cosmetic.hat_sausage	Dichtgeknoopt
+SignInIssueTitle	Fout {0}-account
+SignInIssueText	Helaas kan je {0} vanwege accountbeperkingen niet worden gebruikt om een account aan te maken. Probeer het opnieuw met een ander(e) {1}.\n\nJe kunt Among Us blijven spelen op dit apparaat, maar sommige functies zijn beperkt, inclusief: het koppelen van accounts, Ster-aankopen, en items die worden overgezet naar een nieuw apparaat. Als je vragen hebt, stuur dan een e-mail naar support@innersloth.com.
+FriendListUnavailable	Vriendenlijst niet beschikbaar
+	
+ErrorSanction	Je account is verbannen ({1}). Reden: {0}.
+SanctionDuration	tot {0}
+SanctionPermanent	permanent
+SanctionConduct	\r\nGebruik deze tijd om na te denken over onze <link="https://www.innersloth.com/nl/gedragscode/">gedragscode</link>!
+SanctionSexualMisconduct	seksueel wangedrag
+SanctionDoxing	persoonlijke gegevens (dreigen te) delen of doxing
+SanctionIllegalActivity	de promotie of deelname aan illegale activiteiten
+SanctionHarassment	het verzenden van hatelijke, discriminerende of denigrerende chatberichten
+SanctionSelfHarmPromotion	het aanmoedigen van zelfbeschadiging of zelfmoord
+SanctionCheatingHacking	vals spelen/hacken
+SanctionSpamming	chat-spamming
+SanctionUnsportsmanlikeConduct	onsportief gedrag
+SanctionInappropriateChatDating	ongepaste chat
+SanctionBullying	pesten
+SanctionInappropriateChatPersonalInfo	ongepaste chat
+SanctionImpersonationDevelopers	zich voordoen als de ontwikkelaars
+SanctionImpersonationCeleb	zich voordoen als de sterren
+SanctionWeaponizingRules	de wapenisering van regels
+SanctionInappropriateNameDerogatory	een ongepaste naam hebben
+SanctionInappropriateNameNsfw	een ongepaste naam hebben
+SanctionInappropriateNameUnsportsmanlike	een ongepaste naam hebben
+SanctionRepeatOffender3	herhaaldelijke overtredingen
+SanctionRepeatOffender10	herhaaldelijke overtredingen
+SanctionUnknown	een overtreding van onze gedragscode
+	
+FeaturedItems	Uitgelichte items
+FeaturedBundles	Uitgelichte bundels
+FeaturedCubes	Uitgelichte Kosmoblokken
+	
+AbbreviatedDay	{0} d
+AbbreviatedHour	{0} u
+AbbreviatedMinute	{0} m
+AbbreviatedSecond	{0} s
+	
+BugReportCategoryGeneral	Algemene vraag
+BugReportCategoryAccountManagement	Accountbeheer
+BugReportCategoryGameplayIssue	Gameplay-probleem/bug
+BugReportCategoryServerIssues	Serverproblemen
+BugReportCategoryBilling	Hulp bij facturering en betaling
+BugReportPopUpSubmittedText	Bedankt! Je feedback is verzonden.
+BugReportPopUpSubmissionFailedText	Je hebt te recentelijk feedback gegeven. Probeer het later nog eens.
+BugReportPopUpCategoryLabel	Categorie
+BugReportPopUpDescriptionLabel	Beschrijf in detail wat je aan het doen was toen het probleem optrad. Als je meer hulp nodig hebt, kun je een e-mail sturen naar support@innersloth.com.
+BugReportPopUpTitle	Oei! Er is iets fout gegaan!
+BugReportIssueButton	Een probleem verzenden
+BugReportPopUpAttachScreenshotLabel	Screenshot maken?
+BugReportPopUpAttachScreenshotDesc	Er wordt een screenshot van het huidige spelscherm gemaakt (min het Help-venster). Deze wordt bij je feedback gevoegd.
+Email	E-mailadres
+SettingsHelp	Help
+UserIdTokenError	Gebruikersverificatie verlopen. Start het spel opnieuw als dit probleem aanhoudt.
+	
+Cosmetic.hat_hl_korone	Inugami Korone-hoed
+Cosmetic.hat_hl_okayu	Nekomata Okayu-hoed
+Cosmetic.hat_hl_gura	Gawr Gura-hoed
+Cosmetic.hat_hl_mio	Ookami Mio-hoed
+Cosmetic.hat_hl_fubuki	Shirakami Fubuki-hoed
+Cosmetic.hat_hl_risu	Ayunda Risu-hoed
+Cosmetic.hat_hl_moona	Moona Hoshinova-hoed
+Cosmetic.hat_hl_pekora	Usada Pekora-hoed
+Cosmetic.hat_hl_marine	Houshou Marine-hoed
+Cosmetic.hat_hl_watson	Watson Amelia-hoed
+Cosmetic.skin_hl_korone	Inugami Korone-outfit
+Cosmetic.skin_hl_okayu	Nekomata Okayu-outfit
+Cosmetic.skin_hl_gura	Gawr Gura-outfit
+Cosmetic.skin_hl_mio	Ookami Mio-outfit
+Cosmetic.skin_hl_fubuki	Shirakami Fubuki-outfit
+Cosmetic.skin_hl_risu	Ayunda Risu-outfit
+Cosmetic.skin_hl_moona	Moona Hoshinova-outfit
+Cosmetic.skin_hl_pekora	Usada Pekora-outfit
+Cosmetic.skin_hl_marine	Houshou Marine-outfit
+Cosmetic.skin_hl_watson	Watson Amelia-outfit
+Cosmetic.visor_hl_nothoughts	Gedachteloos
+Cosmetic.visor_hl_sweepy	Veger
+Cosmetic.visor_hl_smug	Arrogant aura
+Cosmetic.visor_hl_ah	O.
+Cosmetic.visor_hl_hmph	Hmf!
+Cosmetic.visor_hl_teehee	Hehe!
+Cosmetic.visor_hl_bored	Verveeld
+Cosmetic.visor_hl_nudge	Hint-hint
+Cosmetic.visor_hl_marine	Marine-ooglapje
+Cosmetic.visor_hl_wrong	Haha, wat zou er verkeerd kunnen zijn?
+	
+AccountDeleteHelp	Door op BEVESTIGEN te drukken, dien je een verzoek in om al je Among Us-gegevens te verwijderen. Het kost 7-14 dagen om dit verzoek te verwerken, en alle sterren, XP, bonen, pods en gekochte cosmetische items worden verwijderd. Zodra je account volledig is verwijderd, kunnen we deze actie niet meer ongedaan maken. Je account werkt normaal totdat de verwijderingsprocedure is voltooid.\n\nAls je fouten tegenkomt, kun je contact opnemen met support@innersloth.com.
+DeleteAccount	Account verwijderen
+DoNotDeleteAccount	Verwijdering account annuleren
+AccountUnDeleteHelp	Door op BEVESTIGEN te drukken, stop je de procedure voor het verwijderen van je account. Als je het account wilt verwijderen, moet je het verzoek opnieuw indienen.\n\nAls je fouten tegenkomt, kun je contact opnemen met support@innersloth.com.
+ConfirmDelete	Typ DELETE om te bevestigen
+ConfirmDeleteAccounts	Vink dit vakje aan om te bevestigen dat je begrijpt dat dit account en gekoppelde accounts worden verwijderd ({0}).
+ConfirmDeleteAccountsEmpty	Vink dit vakje aan om te bevestigen dat je begrijpt dat dit account en gekoppelde accounts worden verwijderd.
+AccountRequestDelete	In afwachting van verwijdering account
+	
+UserVersionError	Onjuiste versie : Deze kamer is gemaakt met Among Us {0}
+Cosmetic.visor_vr_Vr-Black	Virtual Reality - Zwart
+Cosmetic.visor_vr_Vr-White	Virtual Reality - Wit
+	
+GameType	Speltype
+GameTypeError	Fout!
+GameTypeClassic	Klassiek
+GameTypeHideAndSeek	Verstoppertje
+	
+ShowCrewmateNames	Namen weergeven
+	
+HideActionButton	Verstoppen
+HasBeenKilled	is gedood
+Random	Willekeurig
+Ghost	Spook
+CurrentlyHaunting	Spookt momenteel bij:
+RoundRobin	Eén voor één
+RuleOneCrewmates	Overleef totdat de tijd om is.\nAls je taken voltooit, gaat de timer omlaag.
+RuleTwoCrewmates	Gebruik luchtschachten en de Gevaarmeter om je te verstoppen!
+RuleThreeCrewmates	Als de timer op nul komt, kan de Bedrieger je traceren!
+RuleOneImpostor	Dood alle Bemanningsleden binnen de tijdslimiet!
+RuleTwoImpostor	Handel snel: je hebt beperkt zicht en geen toegang tot luchtschachten.
+RuleThreeImpostor	Op het laatste moment krijg je een turbo en zoektips!
+RuleOneCrewmatesTitle	Voer taken uit
+RuleTwoCrewmatesTitle	Verstop je goed
+RuleThreeCrewmatesTitle	Final Verstoppertje
+RuleOneImpostorTitle	Dood snel
+RuleTwoImpostorTitle	Zoek
+PetAction	Aai
+EscapeTime	Verstoptijd
+FinalEscapeTime	Final Verstoppertje-tijd
+UseFlashlight	Zaklampmodus
+CrewmateFlashlightSize	Zaklampgrootte Bemanningslid
+ImpostorFlashlightSize	Zaklampgrootte Bedrieger
+SeekerFinalSpeed	Snelheid Bedrieger Final Verstoppertje
+SeekerFinalMap	Final Verstoppertje-kaart
+SeekerPings	Final Verstoppertje-pings
+MaxPingTime	Ping-interval
+TagsTitle	Tags
+FiltersTitle	Filters
+TagFiltersTitle	Filters
+FiltersAppliedSingular	{0} filter toegepast
+FiltersAppliedPlural	{0} filters toegepast
+TagsFilteredSingular	{0} tag vereist
+TagsFilteredPlural	{0} tags vereist
+TagsAppliedSingular	{0} tag toegepast
+TagsAppliedPlural	{0} tags toegepast
+DefaultFilterTag_FirstTime	Beginner
+DefaultFilterTag_Casual	Casual
+DefaultFilterTag_Serious	Serieus
+DefaultFilterTag_Expert	Expert
+TagFiltersHelpFindGame	Je kunt spelzoekopdrachten filteren door tags te selecteren in de vervolgkeuzelijst Filters. Filters die je selecteert, komen <i>exact</i> overeen met de zoekresultaten.\n\nVoorbeeld: Als je <b>Casual</b> en <b>Expert</b> selecteert, vind je alleen spellen die zijn getagd met zowel <b>Casual</b>- als <b>Expert</b>-filters.
+TagFiltersHelpCreate	Je kunt je spel taggen met filters om spelers te helpen je spel te vinden. Filters die je selecteert, komen <i>exact</i> overeen met de zoekresultaten.\n\nVoorbeeld: Als je <b>Casual</b> en <b>Expert</b> selecteert, is je spel alleen zichtbaar voor mensen die zoeken naar zowel <b>Casual</b>- als <b>Expert</b>-filters.
+MapFiltersSelected	{0} kaarten geselecteerd
+FindGameNeedsRefresh	Filterinstellingen gewijzigd\n\nVernieuw het scherm
+CreateLabel	Maken
+NewGameMode	Nieuwe spelmodus!
+NewModeInfo	Er staat veel op het spel in deze bloedstollende modus!\n<i>Maar wacht: dit is geen gewoon verstoppertje...</i>
+HideSeekHowToPlayCaptionOne	Het is heel eenvoudig!
+HideSeekHowToPlayCaptionTwo	Bemanningsleden!
+HideSeekHowToPlayCaptionThree	Bedriegers!
+HideSeekHowToPlayPageOne	<color=#38F25D><b>Bemanningsleden:</b></color> Voltooi taken om de klok te versnellen, de Bedrieger te ontwijken en in leven te blijven totdat de tijd om is.\n\n<color=#FF3131><b>De Bedrieger:</b></color> Vind de Bemanningsleden en moord iedereen uit.
+HideSeekHowToPlaySubtextOne	Geen sociale deductie hier, alleen maar doodsbang geschreeuw.
+HideSeekHowToPlayCrewmateInfoOne	Verbeter je verstop- en sluipvaardigheden om te overleven.
+HideSeekHowToPlayCrewmateInfoTwo	In deze modus kun je luchtschachten gebruiken en een high-tech Gevaarmeter krijgen die je waarschuwt wanneer de Bedrieger dichterbij komt. De Bedrieger heeft een beperkt gezichtsveld, dus gebruik je verstand, luchtschachten en brillen om ze te ontwijken!
+HideSeekHowToPlayImpostorInfoOne	Bedriegers kunnen in deze modus niet in luchtschachten kruipen, dus je moet snel handelen om je prooi te vangen. Het is donker buiten! Gelukkig heb je een zaklamp om je volgende slachtoffers te vinden.
+HideSeekHowToPlayFinalHide	Dit is de finaaaal countdownnn. In de laatste momenten van het spel krijgen Bedriegers een krachtbonus: ze zijn sneller, krijgen een speciale Zoekkaart en een directionele ping naar de plek waarop overlevende Bemanningsleden zich bevinden.\n\nDenk snel en ren strategisch weg om te winnen!
+HideSeekHowToPlayFlashlightMobile	Gebruik de Zaklamp-stick aan de rechterkant van je scherm om je straal te richten en dood alle Bemanningsleden die je kunt vinden!
+HideSeekHowToPlayFlashlightDefault	Gebruik je muis om je Zaklampstraal te richten en dood alle Bemanningsleden die je kunt vinden!
+HideSeekHowToPlayFlashlightConsoles	Gebruik de rechter-stick om je straal te richten en dood alle Bemanningsleden die je kunt vinden!
+HideSeekHowToPlayFlashlightPlayStation	Gebruik de rechter joystick om je straal te richten en dood alle Bemanningsleden die je kunt vinden!
+HideSeekHowToPlayFlashlightSwitch	Gebruik de rechterstick om je straal te richten en dood alle Bemanningsleden die je kunt vinden!
+OptionUnavailablePublicLobby	Niet beschikbaar in openbare lobby's
+Cosmetic.nameplate_ballPit	Nog een uurtje graag
+Cosmetic.nameplate_cafeteria	Mag ik bij je zitten?
+Cosmetic.nameplate_deadbodyfound	Gemeld!
+Cosmetic.nameplate_ejected	Niemand kan je horen schreeuwen
+Cosmetic.nameplate_flagAce	Ace Pride-vlag
+Cosmetic.nameplate_flagAgend	Agender Pride-vlag
+Cosmetic.nameplate_flagBi	Bi Pride-vlag
+Cosmetic.nameplate_flagGendF	Genderfluid Pride-vlag
+Cosmetic.nameplate_flagGendQ	GenderQ Pride-vlag
+Cosmetic.nameplate_flagNonbinary	Nonbinary Pride-vlag
+Cosmetic.nameplate_flagPan	Pan Pride-vlag
+Cosmetic.nameplate_flagPride	Inclusieve Pride-vlag
+Cosmetic.nameplate_flagLesbian	Lesbian Pride-vlag
+Cosmetic.nameplate_flagRainbow	Gay Pride-vlag
+Cosmetic.nameplate_flagTrans	Trans Pride-vlag
+Cosmetic.nameplate_flashlight	Wie is daar?
+Cosmetic.nameplate_impostor	Sabotage over 1, 2...
+Cosmetic.nameplate_ninjas	Verstopt in de schaduw
+Cosmetic.nameplate_polus	Chillen op Polus
+Cosmetic.nameplate_reactor	Reacties Bemanningsleden
+Cosmetic.nameplate_ripple	Rimpeleffect
+Cosmetic.nameplate_seeker	Schijn van twijfel
+Cosmetic.nameplate_shhh	Ssssssssst
+Cosmetic.pet_nuggetPet	De nug
+	
+Cosmetic.visor_Candycane	Zuurstokschrok
+Cosmetic.nameplate_candyCanePlate	Kerstsnoepje
+Cosmetic.pet_coaltonpet	Kooltje
+Cosmetic.skin_greedygrampaskin	Gierige opa
+Cosmetic.visor_IceBeard	Ik eis ijs
+Cosmetic.hat_Igloo	IJspet
+Cosmetic.hat_Present	Deksel
+Cosmetic.skin_presentskin	Geschenk uit de hemel
+Cosmetic.visor_Rudolph	Bij de neus genomen
+Cosmetic.skin_scarfskin	Knuffelsjaal
+Cosmetic.hat_Scrudge	Jij daar, jongen!
+Cosmetic.hat_Snowman	IJzige vermomming
+Cosmetic.nameplate_SnowmiesPlate	In de sneeuw met m'n matties
+Cosmetic.hat_StarTopper	Ik ben de ster
+Cosmetic.skin_uglysweaterskin	Foute trui met luiaardprint
+Cosmetic.nameplate_winterForestPlate	Dennengeur
+Cosmetic.nameplate_WrappingPaperPlate	Ingepakt
+Cosmetic.hat_crownBean	Boonmagnaat
+Cosmetic.hat_crownDouble	Dubbele kroon
+Cosmetic.hat_crownTall	Lang bewind
+Cosmetic.hat_wigJudge	Blaaskaak
+Cosmetic.hat_wigTall	Gepoederd persoon
+Cosmetic.hat_cashHat	100 rooien
+Cosmetic.hat_tinFoil	Aluhoedje
+Cosmetic.hat_mareLwyd	Spookpaard
+Cosmetic.hat_schnapp	Schnaps
+Cosmetic.hat_Sorry	Sorry
+Cosmetic.visor_wash	Vies
+Cosmetic.visor_anime	Anime-oog
+Cosmetic.visor_teary	Ik was het niet
+Cosmetic.visor_tvColorTest	Testbeeld
+Cosmetic.visor_beautyMark	Schoonheidsvlek
+Cosmetic.visor_Stealthgoggles	Stealth-bril
+Cosmetic.visor_Plsno	niet ik, alsjeblieft
+	
+Cosmetic.hat_NewYear2023	Nieuwjaar 2023
+Cosmetic.pet_HolidayHamPet	Ham-ster
+Cosmetic.pet_YuleGoatPet	Bränt
+	
+Cosmetic.skin_Box1skin	Doos
+Cosmetic.skin_BubbleWrapskin	Breekbaar
+Cosmetic.skin_Burlapskin	Sjiek jute
+Cosmetic.skin_BushSign1skin	Gewoon een struik
+Cosmetic.skin_Horse1skin	Spookpaard-gewaad
+Cosmetic.skin_Sack1skin	Zak aardappels
+Cosmetic.skin_benoit	Benoit Blanc
+Cosmetic.hat_babybean	Bonenbaby
+Cosmetic.skin_Astronaut-Blueskin	Astronauwelijks - Blauw
+Cosmetic.skin_Astronaut-Cyanskin	Astronauwelijks - Lichtblauw
+Cosmetic.skin_Astronaut-Orangeskin	Astronauwelijks - Oranje
+HauntAbilityName	Spoken
+	
+RestorePurchases	Aankopen herstellen
+StatsHidenSeekGamesCrewmateSurvived	Overleefde Verstoppertje-spellen:\t
+StatsHidenSeekTimesVented	Gebruikte Luchtschachten in Verstoppertje:\t
+StatsTimesPettedPet	Aai-acties:\t
+StatsImpostorKills_HideAndSeek	Bedrieger-slachtoffers Verstoppertje:\t
+StatsFastestCrewmateWin_HideAndSeek	Snelste overwinning Bemanningslid in Verstoppertje:\t
+StatsFastestImpostorWin_HideAndSeek	Snelste overwinning Bedrieger in Verstoppertje:\t
+StatsHideAndSeekImpostorVictory	Overwinningen Bedrieger in Verstoppertje:\t
+StatsHideAndSeekCrewmateVictory	Overwinningen Bemanningslid in Verstoppertje:\t
+SeekButton	Zoek
+ScrollList	Door lijst scrollen
+ScrollNews	Door nieuws scrollen
+AmongUsAnnouncements	Aankondigingen Among Us
+Cosmetic.hat_osiris	Osiris' helm
+Cosmetic.hat_maraSov	Mara Sov
+Cosmetic.skin_D2Osiris	Osiris' pantser
+Cosmetic.hat_saint14	Helm van Saint-14
+Cosmetic.skin_D2Saint14	Pantser van Saint-14
+Cosmetic.hat_shaxx	Shaxx' helm
+Cosmetic.skin_D2Shaxx	Shaxx' pantser
+Cosmetic.hat_titan	Titans helm
+Cosmetic.hat_warlock	Warlocks helm
+Cosmetic.hat_hunter	Hunters kap
+Cosmetic.skin_D2Titan	Titans pantser
+Cosmetic.skin_D2Warlock	Warlocks pantser
+Cosmetic.skin_D2Hunter	Hunters pantser
+Cosmetic.hat_starhorse	Starhorse
+Cosmetic.hat_savathun	Savathûns kroon
+Cosmetic.visor_savathun	Ogen van Savathûn
+Cosmetic.hat_caiatl	Caiatls helm
+Cosmetic.visor_eliksni	Eliksni-gezichtsplaat
+Cosmetic.hat_pyramid	Piramiden
+Cosmetic.visor_erisBandage	Eris Morns verband
+Cosmetic.hat_erisMorn	Eris Morn
+Cosmetic.hat_chalice	Calus' kelk
+Cosmetic.pet_D2PoukaPet	Pouka
+Cosmetic.pet_D2WormPet	Worm
+Cosmetic.pet_D2GhostPet	Spook
+Cosmetic.nameplate_titan	Titans trots
+Cosmetic.nameplate_warlock	Warlocks trots
+Cosmetic.nameplate_hunter	Hunters trots
+Cosmetic.nameplate_lightfall	Lightfall
+AnnouncementErrorSubtitle	Oei! De aankondigingen zijn gesaboteerd!
+AnnouncementErrorText	Het lijkt erop dat er iets mis is gegaan. Zorg ervoor dat je game online is en is bijgewerkt naar de nieuwste versie om de nieuwste informatie en oplossingen van Among Us te krijgen.\n\nAls je nog steeds problemen ondervindt, stuur dan een support ticket via support@innersloth.com.
+ReadMoreLabel	om de volledige aankondiging weer te geven!
+ReturnToList	Terug naar lijst
+NavigateLinks	Door links navigeren
+HttpErrorContextNone	Er is een probleem met het bereiken van de server
+HttpErrorContextAuthenticate	Er is een probleem met de authenticatie
+HttpErrorContextRequestGameCode	Er is een probleem met het vinden van een spelcode
+HttpErrorContextFindHostServer	Er is een probleem met het vinden van een hostserver
+HttpErrorContextRequestGamesList	Er is een probleem met het aanvragen van de lijst met games
+HttpErrorUnknown	Onbekende fout
+HttpErrorBadRequest	Ongeldig verzoek. Code: 400
+HttpErrorUnauthorized	Niet gemachtigd. Code: 401
+HttpErrorForbidden	Verboden. Code: 403
+HttpErrorNotFound	Niet gevonden. Code: 404
+HttpErrorMethodNotAllowed	Methode niet toegestaan. Code: 405
+HttpErrorRequestTimeout	Time-out verzoek. Code: 408
+HttpErrorTooManyRequests	Te veel verzoeken. Code: 429
+HttpErrorInternalServerError	Interne serverfout. Code: 500
+HttpErrorBadGateway	Ongeldige gateway. Code: 502
+HttpErrorServiceUnavailable	Service niet beschikbaar. Code: 503
+HttpErrorGatewayTimeout	Time-out gateway. Code: 504
+AgeVerificationTitle	Leeftijdsverificatie
+AgeVerificationInfoTitle	Wat is leeftijdsverificatie?
+AgeVerificationInfo	Leeftijdsverificatie is vereist voordat je toegang krijgt tot Among Us. Wij slaan je geboortedatum niet op.
+AgeVerificationMoreInfo	Voor meer informatie over onze privacypraktijken bezoek je:\n<link="https://www.innersloth.com/nl/privacy-policy-nl/">https://www.innersloth.com/nl/privacy-policy-nl/</link>
+EditLabel	Bewerken
+VerifyAgeText	Is deze datum je juiste geboortedatum?
+Cosmetic.nameplate_flagMlm	MLM Pride-vlag
+Cosmetic.nameplate_flagAro	Aromantic Pride-vlag
+Cosmetic.visor_chimkin	Kimp
+Cosmetic.hat_rabbitEars	Flappie-seizoen
+Cosmetic.hat_fishCap	Fish Fear Me
+Cosmetic.hat_bandanaWBY	Inpakken en wegwezen
+PlayLabel	Speel
+SettingsLabel	Instellingen
+NewsLabel	Nieuws
+AccountLabel	Mijn account
+CreditsLabel	Aftiteling
+ShopLabel	Winkel
+InventoryLabel	Inventaris
+StatsLabel	Statistieken
+FriendsLabel	Vrienden
+Cosmetic.hat_starBalloon	Vijf van vijf
+Cosmetic.visor_shuttershadesWhite	Betoverende Brillen - Wit
+Cosmetic.visor_shuttershadesPink	Betoverende Brillen - Gave gozer
+Cosmetic.visor_shuttershadesPurple	Betoverende Brillen - Paars
+Cosmetic.visor_shuttershadesBlue	Betoverende Brillen - Blauw
+Cosmetic.visor_shuttershadesLime	Betoverende Brillen - Groen
+Cosmetic.visor_shuttershadesYellow	Betoverende Brillen - Geel
+Cosmetic.hat_glowstickPink	Gloeiende gloeiende - Roze
+Cosmetic.hat_glowstickYellow	Gloeiende gloeiende - Geel
+Cosmetic.hat_glowstickCyan	Gloeiende gloeiende - Cyaan
+Cosmetic.hat_glowstickOrange	Gloeiende gloeiende - Oranje
+Cosmetic.hat_glowstickPurple	Gloeiende gloeiende - Paars
+Cosmetic.pet_Pip	Pip
+Cosmetic.pet_Pusheen	Pusheen
+Cosmetic.pet_Stormy	Stormy
+Cosmetic.nameplate_pusheen_01	Enkele regenboog, wat betekent dat
+Cosmetic.nameplate_pusheen_02	Aardbeienvelden
+Cosmetic.nameplate_pusheen_03	Het donnutje in huis
+Cosmetic.nameplate_pusheen_04	Wat heb je daar?
+Cosmetic.hat_pusheenGreyHat	Pusheen de Hoed
+Cosmetic.hat_PusheenicornHat	Super Pusheenicorn
+Cosmetic.hat_pusheenMintHat	Pastelgroene Pusheen
+Cosmetic.hat_pusheenPurpleHat	Pastelpaarse Pusheen
+Cosmetic.hat_pusheenPinkHat	Pastelroze Pusheen
+Cosmetic.hat_pusheenSitHat	Het zit erop
+Cosmetic.hat_pusheenSleepHat	Katzwijm
+Cosmetic.hat_SlothHat	Sloth
+Cosmetic.visor_pusheenGorgeousVisor	Schitterend!
+Cosmetic.visor_pusheenKissyVisor	Kuskat
+Cosmetic.visor_pusheenKoolKatVisor	Koele kat
+Cosmetic.visor_pusheenOmNomNomVisor	Om nom nom
+Cosmetic.visor_pusheenSmileVisor	Pusheen-lach
+Cosmetic.visor_pusheenYaaaaaayVisor	Yaaaaaay
+Cosmetic.skin_PusheenGreyskin	Pusheen
+Cosmetic.skin_Pusheenicornskin	Super Pusheenicorn
+Cosmetic.skin_PusheenMintskin	Pastelgroene Pusheen
+Cosmetic.skin_PusheenPinkskin	Pastelroze Pusheen
+Cosmetic.skin_PusheenPurpleskin	Pastelpaarse Pusheen
+Cosmetic.skin_Slothskin	Sloth
+Cosmetic.hat_bearyCold	Brr-beer-y
+	
+EosAccountSilentMergeFail	Er is iets misgegaan bij het finaliseren van je Among Us-account. Probeer het nog eens of ga verder met een gastaccount. Alle voortgang wordt opgeslagen, maar we raden je aan een account aan te maken, zodat je ten volle kunt genieten van alle functies in Among Us.\n\nAccount opnieuw configureren?
+AskForEosAccount	Heb je al een Among Us- account? (Ook bekend als een Epic Online Services-account.)\n\nAls je Among Us eerder op dit apparaat hebt gespeeld, selecteer je ’Ja’.
+KwsCreateFail	Oeps! Er is iets fout gegaan tijdens het verzenden van de e-mail voor toestemming van je ouders/voogd. Probeer het opnieuw of ga verder in de offline modus.\n\nOpnieuw proberen?
+	
+MissingGuardianEmailText	In je account ontbreekt een e-mailadres van een voogd. We moeten je voogd (via e-mail) om toestemming vragen om door te gaan. Als ze ja zeggen, kun je vrije chat online gebruiken en je gebruikersnaam wijzigen. Vraag een volwassene om je hiermee te helpen!
+MiningPit	Mijnschacht
+Jungle	Jungle
+BuildSandcastle	Bouw zandkasteel
+FishingDock	Dok
+CatchFish	Vang vis
+CollectShells	Verzamel schelpen
+LiftWeights	Hef gewichten
+RoastMarshmallow	Rooster marshmallow
+TestFrisbee	Gooi frisbee
+CollectSamples	Verzamel monsters
+CollectVegetables	Verzamel groenten
+HoistSupplies	Takel benodigdheden
+MineOres	Delf ertsen
+ReplaceParts	Vervang onderdelen
+HelpCritter	Help monster
+RecRoom	Spetterzone
+Lookout	Uitkijk
+Beach	Strand
+Highlands	De kliffen
+SleepingQuarters	De slaapzaal
+CrankGenerator	Zwengel generator aan
+FixAntenna	Repareer antenne
+TuneRadio	Zoek signaal
+MushroomMixupSabotage	Paddenstoelenpuzzel geactiveerd voor {0}
+MushroomMixupName	Paddenstoelenpuzzel
+CollectStick	Verzamel stok
+MineOresMine	Gebruik pikhouweel
+PolishGem	Poets edelsteen
+ExtractFuel	Win brandstof
+MonitorMushroom	Bewaak paddenstoel
+WipeSand	Veeg zand weg
+PlayVideogame	Speel videogame
+CookFish	Kook vis
+PrepVegetables	Bereid groenten
+	
+LobbyTimerExpiringTitle	Lobby verloopt
+LobbyTimerExpiringMsg	Lobby verlengen met {0}?
+LobbyTimerExpiringOk	Verlengen
+LobbyTimerExpiringNo	Geen actie
+LobbyTimerExpiringUnit	s
+LobbyTimerExpiringMsg2	De lobby gaat dicht over {0}.
+LobbyTimerExpiringHud	Lobby verloopt over {0}
+	
+Cosmetic.hat_pickaxe	Mispoes
+Cosmetic.hat_anchor	Ankers uit
+Cosmetic.hat_antenna	UFOmbrero
+Cosmetic.hat_sharkfin	Gehaaid
+Cosmetic.hat_lilShroom	Paddopet
+Cosmetic.hat_mushbuns	Duopaddo
+Cosmetic.hat_bucket	Koning van het zandkasteel
+Cosmetic.hat_mushroomBeret	Baret van champignons
+Cosmetic.hat_fungleFlower	Stinkend stijlvol
+Cosmetic.hat_fishingHat	I Could be Ur Angler
+Cosmetic.hat_killerplant	Het vindt me lekker
+Cosmetic.hat_shovel	Gat in je hoofd
+Cosmetic.hat_beachball	Alles draait om evenwicht
+Cosmetic.hat_bucketHat	Dat heet mode
+Cosmetic.hat_mysteryBones	Berend Botje
+Cosmetic.visor_doubleeyepatch	Dubbele arrrgh
+Cosmetic.visor_marshmallow	Geroosterd
+Cosmetic.visor_starfish	Plakkertje
+Cosmetic.visor_fishhook	Aan de haak geslagen
+Cosmetic.visor_sunscreenv	Beschermingsfactor nul
+Cosmetic.skin_FishSkinskin	Rotte vis
+Cosmetic.skin_FishingSkinskin	Vissen naar complimenten
+Cosmetic.skin_InnerTubeSkinskin	Ik kan niet zwemmen
+Cosmetic.skin_LifeVestSkinskin	Overboord
+Cosmetic.pet_Creb	Kreb
+Cosmetic.nameplate_zipline	Lijnbreuk
+Cosmetic.nameplate_grill	Grillmeester
+Cosmetic.nameplate_plant	Plantaardig
+Cosmetic.nameplate_sandcastle	Zand erover
+Cosmetic.nameplate_cliffs	Het is sedimentair
+	
+ReportNotificationHeader	Bedankt dat je Among Us veilig en gezellig houdt!
+ReportNotificationBody	Ons moderatieteam beoordeelt de informatie die je hebt gerapporteerd en onderneemt waar nodig actie op basis van onze gedragscode.
+ErrorClientTimeout	De verbinding met de server is verbroken. Dit kan te wijten zijn aan serverproblemen, netwerkproblemen of apparaatproblemen. Controleer je netwerksterkte.\n\nAls dit vaak gebeurt, is je apparatuur mogelijk te oud of voldoet deze niet aan de minimale specificaties. Probeer op andere apparatuur te spelen.
+ErrorClientTimeoutConsole	Verbinding met de server verbroken. Dit kan worden veroorzaakt door server- of netwerkproblemen. Controleer je netwerksterkte.
+	
+Cosmetic.hat_NewYear2024	Nieuwjaar 2024
+	
+Cosmetic.nameplate_Celeste	Omhoog en verder
+Cosmetic.nameplate_flyingStrawberry	Vang me snel
+Cosmetic.hat_madeline	Madelines haar
+Cosmetic.hat_badeline	Badelines haar
+Cosmetic.visor_theobeard	Theo's baard
+Cosmetic.hat_theohair	Theo's haar
+Cosmetic.hat_bird	De birb
+Cosmetic.skin_Theoskin	Theo's uitrusting
+Cosmetic.skin_MadelineSkinskin	Madelines uitrusting
+Cosmetic.skin_BadelineSkinskin	Badelines jas
+Cosmetic.pet_Strawb	Vliegende aardbei
+Cosmetic.pet_napstamate	Napstalid
+Cosmetic.hat_undyne	Paardenstaart van gerechtigheid
+Cosmetic.hat_floweyGood	Je beste vriend
+Cosmetic.hat_floweyBad	Je ergste nachtmerrie
+Cosmetic.hat_spear	Speer van gerechtigheid
+Cosmetic.hat_boneUndertale	Bonetrousle
+Cosmetic.hat_duck	Vogel die bemanning draagt
+Cosmetic.nameplate_flowers	Er was eens
+Cosmetic.nameplate_fight	Je gaat het krijgen
+Cosmetic.skin_Undyneskin	Informele outfit van gerechtigheid
+Cosmetic.skin_Sanskin	Hoodie van een gast
+Cosmetic.skin_Papyrusskin	CoolSkeleton95
+Cosmetic.nameplate_battlefield	Laten we gaan knokken
+Cosmetic.nameplate_hominid	PZZZT!
+Cosmetic.hat_castleCrasher	Crashers helm
+Cosmetic.hat_hattyHattington	Hatty Hattingtons hoed
+Cosmetic.hat_alienHominid	Buitenaardse antennes
+Cosmetic.hat_king	Koningskroon
+Cosmetic.visor_hattyHattington	Hatty's heerlijke tranen
+Cosmetic.visor_king	Waardigheid van de koning
+Cosmetic.visor_alienHominid	Buitenaardse onderbeet
+Cosmetic.pet_Rammy	Rammy
+Cosmetic.skin_KingSkinskin	Koningsgewaden
+Cosmetic.skin_HattySkinskin	Hatty's heerlijke pak
+Cosmetic.skin_CrusaderSkinskin	Crashers pantser
+Cosmetic.nameplate_hourglass	Geen tijd te verliezen
+Cosmetic.nameplate_shadows	Je contract is afgelopen
+Cosmetic.hat_hatkid	Kinderhoed
+Cosmetic.hat_conductor	De pet van de conducteur
+Cosmetic.hat_mustachegirl	Kap van Mustache Girl
+Cosmetic.hat_bowkid	Boog van Bow Kid
+Cosmetic.skin_HatKidSkinskin	Kindercape
+Cosmetic.skin_MoustacheKidSkinskin	Gewaad van Mustache Girl
+Cosmetic.skin_Conductorskin	Uniform van de conducteur
+Cosmetic.skin_BowKidskin	Jurk van Bow Kid
+Cosmetic.pet_Crow	Gekke kraai
+Cosmetic.visor_mustachegirl	Snor van Mustache Girl
+Cosmetic.nameplate_torch	Verlicht de nacht
+Cosmetic.nameplate_dungeonFloor	Dansen tot je er (dood) bij neervalt
+Cosmetic.hat_shopkeeper	Fredericks hoed
+Cosmetic.hat_cadence	Cadences bandana
+Cosmetic.hat_nocturna	Nocturna's staart
+Cosmetic.hat_skull	Ik kende hem een beetje
+Cosmetic.skin_FrederickSkinskin	Fredericks outfit
+Cosmetic.skin_CadenceSkinskin	Cadences tabberd
+Cosmetic.skin_Nocturnaskin	Nocturna's vleugels
+Cosmetic.visor_shopkeeper	Fredericks sik
+Cosmetic.pet_DancingSkeletonPet	Bottenschudder
+Cosmetic.nameplate_honk	TOETER
+Cosmetic.nameplate_knife	Vrede was nooit een optie
+Cosmetic.pet_GoosePet	Een gans
+Cosmetic.hat_bell	Gouden bel
+Cosmetic.hat_goosefloaty	Goose-zwemband zoncder titel
+Cosmetic.hat_gardener	De pet van de tuinman
+Cosmetic.visor_goose	Een ganzenbek
+Cosmetic.visor_gardenernose	Neus van de tuinman
+Cosmetic.visor_wimpglasses	Bril van de Wimp
+Cosmetic.skin_GardenerSkin1skin	Uitrusting van de tuinman
+Cosmetic.skin_Wimpskin	Garderobe van de Wimp
+Cosmetic.hat_shiitakeHat	De X markeert de plek
+Cosmetic.hat_mushmuffsHat	Lo-Fi Fungle-beats
+Cosmetic.hat_shrapnelHat	Laat de vloer he lichaam raken
+Cosmetic.visor_mushroomeyesVisor	Spore-o-Visie
+Cosmetic.visor_animesunglassesVisor	Scherpe ogen
+Cosmetic.visor_starsunglassesmintVisor	Ik zie sterretjes - Munt
+Cosmetic.visor_heartsunglassesgoldVisor	Leuk om je te zien - Geel
+Cosmetic.nameplate_binocularsNameplate	Fungle-patrouille
+Cosmetic.nameplate_DeadSunsetNameplate	Uiteinde-lijk
+Cosmetic.skin_Skins14_5skin	Klaar voor de Fungle
+	
+Cosmetic.hat_lny_soupSpoon	Goede soep
+Cosmetic.hat_lny_lantern	Schijn even bij
+Cosmetic.hat_lny_dancerHead	Vooraan in de rij
+Cosmetic.hat_lny_dancerBody	Stuck in the Middle With You
+Cosmetic.hat_lny_dancerTail	Achteraan aansluiten
+Cosmetic.nameplate_lny_monkey	Jaar van de aap
+Cosmetic.nameplate_lny_tiger	Jaar van de tijger
+Cosmetic.nameplate_lny_horse	Jaar van het paard
+Cosmetic.nameplate_lny_goat	Jaar van de geit
+Cosmetic.nameplate_lny_rooster	Jaar van de haan
+Cosmetic.nameplate_lny_snake	Jaar van de slang
+Cosmetic.nameplate_lny_dragon	Jaar van de draak
+Cosmetic.nameplate_lny_boar	Jaar van het varken
+Cosmetic.nameplate_lny_dog	Jaar van de hond
+Cosmetic.nameplate_lny_rabbit	Jaar van het konijn
+Cosmetic.nameplate_lny_ox	Jaar van de os
+Cosmetic.nameplate_lny_cat	Jaar van de kat
+Cosmetic.nameplate_lny_rat	Jaar van de rat
+Cosmetic.nameplate_lny_lanterns	Alle lantaarns
+Cosmetic.nameplate_lny_incense	Wie rookgordijn
+Cosmetic.skin_lny_dragonDancer	Dans, draak, dans
+Cosmetic.nameplate_lny_beanDragon	Legende van de bonendraak
+Cosmetic.nameplate_lny_clouds	Sfeer van voorspoed
+Cosmetic.nameplate_lny_redPackets	Laat het regenen
+	
+Cosmetic.pet_lny_dragon	Woestenij van Skeld
+Cosmetic.hat_lny_ox	Koppig als een stier
+Cosmetic.hat_lny_dog	Oor-weerstaanbaar
+Cosmetic.hat_lny_horse	Hinnik-stap-sprong
+Cosmetic.hat_lny_pig	Zweinstein
+Cosmetic.hat_lny_rat	Piepklein
+Cosmetic.hat_lny_cat	Hou je van Nyah?
+Cosmetic.hat_lny_monkey	Een en al oor
+Cosmetic.hat_lny_rooster	Hotwing
+Cosmetic.hat_lny_goat	De G.O.A.T.
+Cosmetic.hat_lny_dragon	Een draak van een hoed
+Cosmetic.hat_lny_tiger	Ear of the Tiger
+Cosmetic.hat_lny_rabbit	Worteltrekken
+Cosmetic.visor_lny_rat	Kaaskop
+Cosmetic.visor_lny_snake	Sissssssssss
+Cosmetic.visor_lny_pig	Ham-radio
+Cosmetic.visor_lny_tiger	Pak ze, tijger
+Cosmetic.visor_lny_dragon	But What if Dragons, Imagine
+Cosmetic.nameplate_lny_goldCrewmate	Voorspoed
+Cosmetic.nameplate_lny_goldImpostor	Tegenspoed
+	
+AprilFoolsModeToggle	1 april-modus (Beperkte cosmetische items)
+ErrorAuthNonceFailure	Sabotage! De servers van Among Us hebben een probleem ondervonden tijdens je authenticatie. Probeer het nog eens.\n\nAls het probleem zich blijft voordoen, dien dan een <link="https://innersloth.zendesk.com/hc/en-us/requests/new">support ticket</link> in.
+	
+Cosmetic.nameplate_crewmatesBlue	Hippe bemanning - Blauw
+Cosmetic.nameplate_crewmatesRed	Hippe bemanning - Rood
+Cosmetic.nameplate_horseHeaven	We gaan de teugels aantrekken
+Cosmetic.nameplate_horsemateField	Weelderige weide
+Cosmetic.hat_fluffyHat	Knusse kolder
+Cosmetic.hat_topHatMinimate	Dandy dwergmaatje
+Cosmetic.hat_triplePartyHat	Feestelijk trio
+Cosmetic.visor_happyMouthNote	Puur plezier
+Cosmetic.visor_henry	Henry Grijnzemin
+Cosmetic.visor_thatFace	H A L L O
+	
+Cosmetic.hat_bb1_bucketHatBee	Dat heet mode - Bij
+Cosmetic.hat_bb1_bucketHatBlack	Dat heet mode - Zwart
+Cosmetic.hat_bb1_bucketHatCamo	Dat heet mode - Camo
+Cosmetic.hat_bb1_bucketHatFlowers	Dat heet mode - Bloemen
+Cosmetic.hat_bb1_bucketHatWhite	Dat heet mode - Kaki
+Cosmetic.hat_bb1_bunnyBlack	Wabbit Season - Zwart
+Cosmetic.hat_bb1_sunHatGreen	Het is zonnig weer - Munt
+Cosmetic.hat_bb1_sunHatYellow	Het is zonnig weer - Geel
+Cosmetic.hat_bb1_lilShroomRed	Paddopet – Rood
+Cosmetic.hat_bb1_lilShroomBlue	Paddopet - Blauw
+Cosmetic.hat_bb1_lilShroomGlowing	Paddopet - Glow
+Cosmetic.skin_bb1_rainbowTube	Ik kan niet zwemmen - Regenboog
+Cosmetic.skin_bb1_fungleDress	Bloesempracht
+Cosmetic.nameplate_bb1_disco	Eindelijk... vrijdag
+Cosmetic.nameplate_bb1_hackerman	De digitale diepte in
+Cosmetic.nameplate_bb1_ram	RAMkraak
+Cosmetic.nameplate_bb1_rave	Lichtgevende lofzang
+Cosmetic.nameplate_bb1_zen	Helemaal zen, zeg!
+	
+ViewLabel	Weergeven
+ViewingLabel	Spelinstellingen weergeven...
+RoomCodeLabel	Kamercode
+RoomCodeCopied	Kamercode gekopieerd!
+RoomSettingsLabel	Kamerinstellingen
+ModeLabel	Voorinstelling
+PrivacyLabel	Privacy
+CapacityLabel	Capaciteit
+GameSettingsLabel	Spelinstellingen
+RoleSettingsLabel	Rolinstellingen
+GamePresetsLabel	Spelvoorkeuren
+GamePresetsDescription	Pas aanbevolen instellingen toe op je spel-lobby.
+GamePresetsPopupTitle	Waarschuwing!
+GamePresetsPopupText	De wijzigingen die je hebt aangebracht in de instellingen van je spel worden overschreven door de geselecteerde preset!
+GamePresetsPopupContinue	Toch doorgaan
+GamePresetsPopupBack	Terug
+StandardRulesPresetDescription	De voorinstelling voor uitgebalanceerde spelinstellingen zonder rollen.
+RolesRulesPresetDescription	De aanbevolen instellingen voor een lobby met rollen.
+StandardRulesPresetDescriptionHideAndSeek	De voorinstelling voor de ideale Verstoppertje-instellingen met zaklampzicht uitgeschakeld.
+FlashlightRulesPresetDescription	De voorinstelling waarbij bemanningsleden zaklampzicht hebben naast uitgebalanceerde spelinstellingen.
+GameSettingsDescription	Persoonlijke instellingen voor je spel-lobby bewerken.
+RoleSettingsDescription	Rolinstellingen voor je spel-lobby bewerken.
+GameModeStandard	Hoofdinstellingen
+GameModeStandardRoles	Rollen in overvloed
+GameModeFlashlight	Zaklampen
+GameModeCustom	Aangepast
+GameModeStandardSeek	Pikkedonker
+ImpostorsCategory	Bedriegers
+RolesCategory	Rollen
+MeetingsCategory	Vergaderingen
+PlayersCategory	Bemanningsleden
+TasksCategory	Taken
+InfoLabel	Info
+RoleQuotaLabel	Aantal rollen
+OverviewCategory	Overzicht
+LobbyChangeSettingNotification	{0} ingesteld op {1}.
+LobbyChangeSettingNotificationRole	{0} ingesteld op {1}, kans: {2}.
+CrewmateRolesHeader	Rollen bemanningsleden
+ImpostorRolesHeader	Rollen bedriegers
+LocalLobbyLabel	Lokale lobby
+NumberRoleHeader	Aantal van rol
+ChanceRoleHeader	% kans
+WaitingForPlayers	Wachten op spelers
+FinalHideCategory	Final Verstoppertje
+	
+QCLobbyRoleNoisemakers	Herrieschoppers?
+QCLobbyRoleTrackers	Spoorzoekers?
+QCLobbyRolePhantoms	Fantomen?
+QCSelfWasTracking	Ik was {0} aan het opsporen
+QCSelfGoingToNoisemaker	Ik was op weg naar de Herriemaker
+QCSelfSawRoleInLocation	Ik zag {0} op locatie {1}
+	
+NoisemakerRole	Herriemaker
+NoisemakerBlurb	Stuur een waarschuwing als je wordt gedood
+NoisemakerBlurbMed	Waarschuw alle bemanningsleden over je locatie\nals je wordt gedood.
+NoisemakerBlurbLong	De Herriemaker is geen gewone rol voor bemanningsleden. Herriemakers hebben geen vaardigheid die ze kunnen gebruiken, zoals alle andere rollen. In plaats daarvan sturen ze automatisch een waarschuwing wanneer ze worden gedood door een bedrieger. De waarschuwing jaagt de bedrieger makkelijk op de kast. Kijk hoe je mede-bemanningsleden zich naar de plaats delict haasten om de moordenaar te pakken en je dood te wreken!
+NoisemakerImpostorAlert	Bedriegers ontvangen een waarschuwing
+NoisemakerAlertDuration	Duur waarschuwing
+PhantomAbility	Verdwijnen
+PhantomAbilityUndo	Verschijnen
+PhantomRole	Fantoom
+PhantomBlurb	Onzichtbaar worden
+PhantomBlurbMed	Word onzichtbaar om stiekem rond te sluipen\nof te ontsnappen van een moord.
+PhantomBlurbLong	De Fantoom kan onzichtbaar worden om een bemanningslid stiekem te besluipen of ongemerkt de plaats van een misdrijf te verlaten. Als Fantomen onzichtbaar zijn, kunnen ze niet doden, maar ze kunnen wel ladders en tokkelbanen gebruiken. Als je onzichtbaar of weer zichtbaar wordt, ontstaat er een grote rookwolk, dus zorg ervoor dat er geen bemanningsleden in de buurt zijn! De onzichtbaarheid is ook niet permanent, dus zorg ervoor dat je deze vaardigheid goed timet.
+PhantomCooldown	Afkoeltijd verdwijnen
+PhantomDuration	Duur verdwijnen
+TrackerRole	Spoorzoeker
+TrackerAbility	Spoorzoeken
+TrackerAbilityUndo	Niet meer opsporen
+TrackerBlurb	Spoor een bemanningslid op met je kaart
+TrackerBlurbMed	Plaats een tracker op bemanningsleden om\nhun bewegingen op de kaart te volgen.
+TrackerBlurbLong	Spoorzoekers kunnen de positie van een bemanningslid op hun minikaart zien. Eerst moeten ze naast een bemanningslid staan om de tracker te plaatsen. Pas op dat je niet te verdacht overkomt als je het andere bemanningslid nadert. Opsporen duurt maar een paar seconden, dus zorg ervoor dat je een doelwit zorgvuldig kiest. Staar ook niet te lang naar de minikaart, want dat maakt je kwetsbaar voor een bedrieger!
+TrackerCooldown	Afkoeltijd opsporen
+TrackerDuration	Duur opsporen
+TrackerDelay	Vertraging opsporen
+RolesHelp_Noisemaker_01	De Herriemaker is geen gewone rol voor bemanningsleden. Herriemakers hebben geen vaardigheid die ze kunnen gebruiken, zoals alle andere rollen. In plaats daarvan sturen ze automatisch een waarschuwing wanneer ze worden gedood door een bedrieger.
+RolesHelp_Noisemaker_02	De waarschuwing jaagt de bedrieger makkelijk op de kast. Kijk hoe je mede-bemanningsleden zich naar de plaats delict haasten om de moordenaar te pakken en je dood te wreken!
+RolesHelp_Tracker_01	Spoorzoekers kunnen de positie van een bemanningslid op hun minikaart zien. Eerst moeten ze naast een bemanningslid staan om de tracker te plaatsen. Pas op dat je niet te verdacht overkomt als je het andere bemanningslid nadert.
+RolesHelp_Tracker_02	Opsporen duurt maar een paar seconden, dus zorg ervoor dat je een doelwit zorgvuldig kiest. Staar ook niet te lang naar de minikaart, want dat maakt je kwetsbaar voor een bedrieger!
+RolesHelp_Phantom_01	De Fantoom kan onzichtbaar worden om een bemanningslid stiekem te besluipen of ongemerkt de plaats van een misdrijf te verlaten. Als Fantomen onzichtbaar zijn, kunnen ze niet doden, maar ze kunnen wel ladders en tokkelbanen gebruiken.
+RolesHelp_Phantom_02	Als je onzichtbaar of weer zichtbaar wordt, ontstaat er een grote rookwolk, dus zorg ervoor dat er geen bemanningsleden in de buurt zijn! De onzichtbaarheid is ook niet permanent, dus zorg ervoor dat je deze vaardigheid goed timet.
+	
+HostYouLabel	(Jij!)
+HostNounLabel	Host:
+RoleSettingsAll	ALLES
+	
+QCCoreSettings	Hoofdinstellingen-preset gebruiken?
+QCRolesGalore	Rollen in Overvloed-preset gebruiken?
+QCPitchDark	Pikkedonker-preset gebruiken?
+QCFlashlight	Zaklampen-preset gebruiken?
+QCPleaseWait	Je moet wachten voordat je kunt beginnen
+QCWaitMinute	Je moet één minuut wachten voordat je kunt beginnen
+QCLobbyClosing	De lobby gaat binnenkort dicht
+QCChangeCosmetics	Ik moet cosmetische items wijzigen
+QCWaitingPlayers	Wachten op meer spelers...
+QCLetsWaitPlayers	Laten we wachten op meer spelers.
+	
+Cosmetic.hat_nott	Notts kap
+Cosmetic.hat_chetney	Chetney's hoofdband
+Cosmetic.hat_jester	Jesters hoorns
+Cosmetic.hat_laudna	Laudna's haar
+Cosmetic.hat_molly	Mollymauks hoorns
+Cosmetic.hat_artagan	Artagans haar
+Cosmetic.hat_fearne	Fearnes haar
+Cosmetic.hat_vax	Vax' haar
+Cosmetic.hat_fcg	FCG's hersenpan
+Cosmetic.hat_sprinkle	Het gaat "prima" met Sprinkle
+Cosmetic.hat_orthax	Openbaring van Orthax
+Cosmetic.hat_scanlan	Scanlans hand
+Cosmetic.nameplate_eyes	De negen ogen van Lucien
+Cosmetic.nameplate_cupcake	Stof van verrukking
+Cosmetic.nameplate_moons	Manen boven Exandria
+Cosmetic.nameplate_tea	Thee met Caduceus
+Cosmetic.pet_Pate	Pâté
+Cosmetic.pet_Mister	Mister
+Cosmetic.skin_Nott	Notts mantel
+Cosmetic.skin_Chetney	Chetney's trainingspak
+Cosmetic.skin_Jester	Jesters jurk
+Cosmetic.skin_Laudna	Laudna's jurk
+Cosmetic.skin_Molly	Mollymauks kleding
+Cosmetic.skin_artagan	Artagans mantel
+Cosmetic.skin_Fearne	Fearnes jurk
+Cosmetic.skin_Vax	Vax' pantser
+Cosmetic.visor_nott	Notts masker
+Cosmetic.visor_chetney	Chetney's wenkbrauwen
+Cosmetic.visor_artagan	Artagans ongelooflijke wenkbrauwen
+	
+GuardianNewPermissionUpdate	Met ingang van spelversie {0} moeten alle Kinderaccounts volgens de nieuwe wetten voor de veiligheid van kinderen toestemming van een ouder of voogd hebben om volledig toegang te krijgen tot Among Us. Dit heeft geen invloed op je spelgegevens en items, maar je account moet wel worden gecontroleerd voordat je volledige toegang kunt krijgen.\n\nJe kunt blijven spelen op een tijdelijk beperkt account totdat je ouder of voogd toestemming verleent. Als er al een e-mailadres van je ouder of voogd aan je account is gekoppeld, verschijnt dat hieronder.
+	
+Cosmetic.skin_Edgeworth	Pak van Miles Edgeworth
+Cosmetic.hat_Edgeworth	Kuif van Miles Edgeworth
+	
+Cosmetic.hat_paws_panda	Pandastisch
+Cosmetic.hat_paws_spaceDog	Alfawolf
+Cosmetic.hat_paws_fish	Ik heb beet
+Cosmetic.hat_paws_raccoon	In het geniep
+Cosmetic.hat_paws_turtle	Schildpadvinder
+Cosmetic.hat_paws_foxGrey	Sloddervos - Grijs
+Cosmetic.hat_paws_antlers	Toegeweid
+Cosmetic.hat_paws_opossum	Moeraskat
+Cosmetic.nameplate_paws_fur	Bonte avond
+Cosmetic.nameplate_paws_jaguar	Luipaard gespot
+Cosmetic.nameplate_paws_feathers	Vroeg uit de veren
+Cosmetic.nameplate_paws_scales	Häagen-Dis
+Cosmetic.skin_paws_opossum	Afvalduiker
+Cosmetic.skin_paws_parrot	Vliegenierspak
+Cosmetic.skin_paws_raccoon	Deugniet
+Cosmetic.skin_paws_foxGrey	Vostuum - Grijs
+Cosmetic.visor_paws_sacabambaspis	Aan de kaak gesteld
+Cosmetic.visor_paws_parrotBeak	Hou je snavel
+Cosmetic.visor_paws_bone	Bot gevangen
+Cosmetic.visor_paws_carrot	Dan kan ik je beter zien
+Cosmetic.visor_paws_raccoon	Afvalbandiet
+Cosmetic.hat_claws_spaceDog	Gebeten hond
+Cosmetic.hat_claws_frog	Koele kikker
+Cosmetic.hat_claws_moose	Dwing-eland
+Cosmetic.hat_claws_dragonRed	Wat een draak - Rood
+Cosmetic.hat_claws_bullHorns	Stierlijk vervelend
+Cosmetic.hat_claws_foxOrange	Sloddervos - Oranje
+Cosmetic.hat_claws_squid	Inktvisie
+Cosmetic.hat_claws_kuduHorns	Koe doe je dat?
+Cosmetic.hat_claws_buffaloHorns	Buffelen
+Cosmetic.hat_claws_hippo	Nijltaart
+Cosmetic.nameplate_claws_spaceCat	Team Ruimtekat
+Cosmetic.nameplate_claws_spaceDog	Team Ruimtehond
+Cosmetic.nameplate_claws_tigerPrint	Papieren tijger
+Cosmetic.nameplate_claws_lilypad	Lelieblad
+Cosmetic.pet_claws_spaceCat	Ruimtekat
+Cosmetic.skin_claws_stripes	Angstaanjagende symmetrie
+Cosmetic.skin_claws_squid	Koppig en potig
+Cosmetic.skin_claws_dragonRed	Drakenlijf - Rood
+Cosmetic.skin_claws_frogSuit	Opkikker
+Cosmetic.skin_claws_hoofed	Hoefniks
+Cosmetic.skin_claws_foxOrange	Vostuum - Oranje
+Cosmetic.visor_claws_knife	Mes op de keel
+Cosmetic.visor_claws_smallMuzzle	Blaffende honden bijten niet
+Cosmetic.visor_claws_whiskers	Dat zit wel snor
+Cosmetic.visor_claws_bullRing	Deurklopper
+	
+Cosmetic.hat_NewYear2025	Nieuwjaar 2025

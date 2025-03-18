@@ -1,0 +1,2706 @@
+KEY ID	TChinese
+LocalButton	本地
+OnlineButton	線上
+HowToPlayButton	如何遊玩
+FreePlayButton	練習
+PublicHeader	公開
+PrivateHeader	私人
+HostHeader	主持
+ExitButton	結束
+BackButton	返回
+AvailableGamesLabel	可加入的遊戲
+CreateGameButton	建立遊戲
+FindGameButton	尋找遊戲
+EnterCode	輸入代碼
+GhostIgnoreTasks	您死了。享受這場混亂吧。
+GhostDoTasks	您死了。完成任務來獲得勝利。
+TotalTasksCompleted	已完成任務總數
+GhostImpostor	您死了。您仍可以搞破壞。
+ImpostorTask	搞破壞並殺死所有人。
+FakeTasks	假任務：
+TaskComplete	任務已完成！
+ExileTextSP	{0} 是偽裝者。
+ExileTextSN	{0} 不是偽裝者。
+ExileTextPP	{0} 是偽裝者之一。
+ExileTextPN	{0} 不是偽裝者之一。
+NoExileSkip	沒有人被逐出。(已跳過)
+NoExileTie	沒有人被逐出。(平局)
+ExileTextNonConfirm	{0} 已被逐出。
+ImpostorsRemainS	剩下 {0} 個偽裝者。
+ImpostorsRemainP	剩下 {0} 個偽裝者。
+Hallway	走廊
+Engines	引擎室
+UpperEngine	上引擎室
+Cafeteria	餐廳
+Weapons	艦載武器室
+Reactor	反應爐
+Security	保全室
+MedBay	醫務室
+LifeSupp	氧氣室
+Nav	導航室
+LowerEngine	下引擎室
+Electrical	電氣室
+Admin	管理室
+Storage	儲藏室
+Shields	護盾室
+Comms	通訊室
+Decontamination	除污室
+Launchpad	發射台
+LockerRoom	更衣室
+Laboratory	實驗室
+Balcony	露臺
+Office	辦公室
+Greenhouse	溫室
+DivertPowerTo	將電力轉移至{0}
+DivertPower	轉移電力
+AcceptDivertedPower	接受轉移電力
+SubmitScan	提交掃描結果
+PrimeShields	啟動護盾
+FuelEngines	為引擎添加燃料
+ChartCourse	制定航行路線
+StartReactor	啟動反應爐
+SwipeCard	刷卡
+ClearAsteroids	清除小行星
+DownloadData	下載資料
+UploadData	上傳資料
+InspectSample	檢查樣本
+EmptyChute	清空垃圾滑道
+EmptyGarbage	清空垃圾
+AlignEngineOutput	校正引擎輸出
+FixWiring	修復線路
+FixWiringName	電線
+DoorsName	門
+CalibrateDistributor	校正配電盤
+UnlockManifolds	解鎖歧管
+ResetReactor	反應爐熔毀倒數：
+ResetReactorName	反應爐熔毀
+FixLights	修復照明
+FixLightsName	燈光
+CleanO2Filter	清理氧氣過濾器
+FixComms	通訊破壞
+RestoreOxy	氧氣耗盡倒數：
+RestoreOxyName	氧氣耗盡
+StabilizeSteering	穩定轉向
+AssembleArtifact	組合文物
+SortSamples	將樣本分類
+MeasureWeather	測量氣候
+EnterIdCode	輸入識別碼
+BuyBeverage	購買飲料
+ProcessData	處理資料
+NumImpostorsS	我們之中有 <color=#FF1919FF>1 個偽裝者</color>
+NumImpostorsP	我們之中有 <color=#FF1919FF>{0} 個偽裝者</color>
+Crewmate	船員
+Impostor	偽裝者
+Victory	勝利
+Defeat	失敗
+CrewmatesDisconnected	大部分船員\n已斷線
+ImpostorDisconnected	偽裝者已斷線
+PickAnomaly	找出異常情況
+WaterPlantsGetCan	取得澆水壺！
+AuthOfficeOkay	辦公室正常
+AuthCommsOkay	通訊室正常
+AuthOfficeActive	辦公室已啟動
+AuthCommsActive	通訊室已啟動
+AuthOfficeNotActive	辦公室未啟動
+AuthCommsNotActive	通訊室未啟動
+SecLogEntry	{0} 已經過{1}感應器
+SecLogEntryColorblind	{0} ({1}) 已經過{2}感應器
+LogNorth	北側
+LogSouthEast	東南側
+LogSouthWest	西南側
+EnterName	輸入名稱
+SwipeCardPleaseInsert	請插卡
+SwipeCardPleaseSwipe	請刷卡
+SwipeCardBadRead	讀取失敗。請再試一次。
+SwipeCardTooFast	速度過快。請再試一次。
+SwipeCardTooSlow	速度過慢。請再試一次。
+SwipeCardAccepted	已接受。謝謝您。
+ReactorHoldToStop	按住以阻止熔毀
+ReactorWaiting	正在等候第二個使用者
+ReactorNominal	反應爐正常
+MeetingWhoIsTitle	誰是偽裝者？
+MeetingVotingBegins	投票開始倒數：{0} 秒
+MeetingVotingEnds	投票結束倒數：{0} 秒
+MeetingVotingResults	投票結果
+MeetingProceeds	執行倒數：{0} 秒
+MeetingHasVoted	{0} 已投票。{1} 個人尚未投票。
+HowToPlayText1	《Among Us》是款充滿合作與背叛的遊戲。\n\n玩家會扮演船員或偽裝者。
+HowToPlayText2	與 4 到 15 個玩家在線上或透過本地 WiFi 一起遊玩！
+HowToPlayText41	主持遊戲時，您可以控制遊戲進行的方式。
+HowToPlayText42	首先，請決定一起遊玩的對象！\n\n如果您想在線上和朋友一起遊玩，請設定成「私人」並把房間代碼分享給朋友。\n\n如果您想和世界各地的人一起遊玩，請設定成「公開」。
+HowToPlayText43	加入更多任務？把行走速度變快？增加更多偽裝者？身為主持者，您可以變更這些設定。不過，請務必先與其他玩家確認這些變更。
+HowToPlayText44	如果有人表現無禮或濫發訊息，主持者可以暫時踢出玩家作為警告，或禁止玩家進入特定線上房間。
+HowToPlayTextMap	玩家可以存取個人地圖，以協助在船上四處移動。
+HowToPlayTextCrew1	目標：填滿團隊任務列或找出偽裝者。
+HowToPlayTextCrew2	完成任務以填滿量表。
+HowToPlayTextCrew3	處理偽裝者的破壞。
+HowToPlayTextCrew4	在發現偽裝者時召開緊急會議。
+HowToPlayTextCrew5	舉報所發現的屍體。
+HowToPlayTextCrew6	檢查管理室地圖和保全系統以追蹤可疑活動。
+HowToPlayTextImp1	目標：殺死船員。
+HowToPlayTextImp2	混入船員之中。
+HowToPlayTextImp3	經由通風口隱匿行動。
+HowToPlayTextImp4	假裝執行任務。
+HowToPlayTextImp5	在船上搞破壞並混淆船員。
+HowToPlayTextImp6	關門並困住受害者。
+HowToPlayTextImp7	在冷卻時間之間殺死船員。
+HowToPlayText5	在面對面遊玩時，玩家不能彼此交談，以確保船員和偽裝者之間的遊戲公平性。\n\n如果有玩家被偽裝者殺害，該玩家在遊戲結束前都不能說話。\n\n鬼魂仍需執行獲指派的任務，以嘗試使船員獲勝。
+HowToPlayText6	如果有人舉報發現屍體或召開緊急會議，船員會一起討論他們所掌握關於偽裝者的情報。\n\n此時玩家可以公開談論自己認為偽裝者是誰及所掌握的情報。在面對面遊玩時，由於鬼魂已經知道偽裝者是誰，因此不得說話。\n\n偽裝者必須試著證明自己的無辜，或是指控其他船員。
+HowToPlayText7	討論後，請把票投給您認為是偽裝者的人。\n\n得到最多票的玩家將會被逐出船上，因此請明智地投票！\n\n如果您沒有足夠的資訊，而且其他船員也都這麼認為，則可以跳過投票以避免逐出無辜之人，並收集更多資訊。
+HowToPlayText81	在練習模式中進行訓練！
+HowToPlayText82	以船員的身分自行設定任務，或扮演偽裝者來演練殺人謀略！
+SettingsGeneral	一般
+SettingsControls	控制
+SettingsSound	聲音
+SettingsGraphics	圖像
+SettingsData	資料
+SettingsCensorChat	聊天審查
+SettingsMusic	音樂
+SettingsSFX	音效
+SettingsOn	開
+SettingsOff	關
+SettingsSendTelemetry	傳送遙測
+SettingsControlMode	控制模式
+SettingsTouchMode	觸控
+SettingsJoystickMode	搖桿
+SettingsKeyboardMode	滑鼠+鍵盤
+SettingsFullscreen	全螢幕
+SettingsVSync	垂直同步
+SettingsResolution	解析度
+SettingsApply	套用
+SettingsPersonalizeAds	個人化廣告
+SettingsLanguage	語言
+SettingsJoystickSize	大小
+SettingsMouseMode	滑鼠
+SettingsStreamerMode	直播主模式
+MatchMapName	地圖
+MatchLanguage	聊天語言
+MatchImpostors	偽裝者
+MatchMaxPlayers	玩家上限
+Cancel	取消
+Confirm	確認
+PlayerColor	色彩
+PlayerHat	帽子
+PlayerSkin	外觀
+PlayerPet	寵物
+GameSettings	遊戲
+GameRecommendedSettings	建議設定
+GameCustomSettings	自訂設定
+GameMapName	地圖
+GameNumImpostors	偽裝者數
+GameNumMeetings	緊急會議數
+GameDiscussTime	討論時間
+GameVotingTime	投票時間
+GamePlayerSpeed	玩家速度
+GameCrewLight	船員視野
+GameImpostorLight	偽裝者視野
+GameKillCooldown	殺人冷卻時間
+GameKillDistance	殺人距離
+GameCommonTasks	普通任務數
+GameLongTasks	長任務數
+GameShortTasks	短任務數
+GameEmergencyCooldown	緊急會議冷卻時間
+GameSecondsAbbrev	{0} 秒
+GameConfirmImpostor	逐出後確認
+GameVisualTasks	視覺性任務
+GameAnonymousVotes	匿名投票
+GameTaskBarMode	任務列更新
+SettingNormalTaskMode	持續
+SettingMeetingTaskMode	會議
+SettingInvisibleTaskMode	永不
+Limit	限制
+RoomCode	代碼
+RoomCodeInfo	按一下即可複製
+LeaveGame	離開遊戲
+ReturnToGame	返回遊戲
+LocalHelp	遇到連線問題？\n\n● 確定所有人都已連線至相同的 WiFi 名稱\n● 請確定所有人的版本都相同 (顯示在右下角)\n● 確定 WiFi 訊號夠強\n● 有時換人主持能協助解決問題\n● 有時重新啟動應用程式能協助解決問題...\n● 有時重新啟動手機能協助解決問題...\n● 還是有問題？請透過 support@innersloth.com 與我們聯繫！
+OnlineHelp	該如何進行？\n\n● 在主辦遊戲時，你可以在遊戲大廳的介面中找到相應的遊戲代碼。\n● 跟朋友分享該代碼以建立私人房間。\n● 或點擊「私人」以在「尋找遊戲」中公開該房間。\n● 主持者可以在可聊天時禁止玩家進入或踢出玩家。\n● 還是有問題？請透過 support@innersloth.com 與我們聯繫！
+EmergencyCount	船員 {0} 還有\n\n\n\n次召開緊急會議的額度
+EmergencyNotReady	船員必須等候\n\n\n\n才能再次召開緊急會議
+EmergencyDuringCrisis	無法在發生危機時\n召開緊急會議
+EmergencyRequested	已要求召開緊急會議\n正在等候主持者
+AdPolicyTitle	廣告政策
+AdPolicyText	我們是否可以使用您的個人資料來為您提供量身打造的廣告？如果您按一下「是」，我們如 Google AdMob 跟 Unity Ads 的廣告合作夥伴將會自動收集資料，並使用裝置識別碼和 Cookie 來提供個人化的廣告。如果您按一下「否」，您仍可能會看到非個人化的廣告。若要移除所有廣告，請在[httpstore]這裡[]購買無廣告升級。當您主持遊戲時，您和您的朋友將不會看到任何廣告！若要深入了解我們和我們廣告合作夥伴的隱私權做法，請參閱我們的[https://www.innersloth.com/zhtw/privacy-policy-tw/]隱私政策[]。您隨時都可以在設定選單的「資料」底下變更您的決定。
+Accept	接受
+RemoveAds	移除廣告
+PlainYes	是
+PlainNo	否
+PrivacyPolicyTitle	隱私權政策
+PrivacyPolicyText	Innersloth 負責處理《Among Us》的個人資料。請參閱我們的<link="https://www.innersloth.com/zhtw/privacy-policy-tw/">隱私政策</link>以了解我們的隱私權做法。您可以在「資料」底下管理您針對《Among Us》的個人資料設定。\n\n遊玩《Among Us》前請閱讀我們的<link="https://www.innersloth.com/zhtw/terms-of-services-games-tw/>使用條款</link>。
+ManageDataButton	管理資料收集
+UnderstandButton	我了解
+WaterPlants	幫植物澆水
+WeatherEta	預估時間：{0} 秒
+WeatherComplete	完成
+RunDiagnostics	執行診斷
+SettingShort	短
+SettingMedium	中
+SettingLong	長
+SamplesPress	按下以開始
+SamplesAdding	添加試劑
+SamplesSelect	選取異常情況
+SamplesThanks	謝謝您！
+SamplesComplete	測試完成
+AstDestroyed	已摧毀：{0}
+TaskTestTitle	任務測試器 2000
+BeginDiagnostics	開始診斷
+UserLeftGame	{0} 已離開遊戲。
+GameStarting	開始倒數：{0}
+ChatRateLimit	太快了。請等候 {0} 秒
+Tasks	任務
+MedscanRequested	已要求掃描
+MedscanWaitingFor	正在等候 {0}
+MedscanCompleted	掃描完成！
+MedscanCompleteIn	掃描完成倒數：{0}
+StatsTitle	統計資料
+StatsBodiesReported	舉報屍體次數：\t
+StatsEmergenciesCalled	召開緊急會議次數：\t
+StatsTasksCompleted	完成任務次數：\t
+StatsAllTasksCompleted	完成所有任務次數：\t
+StatsSabotagesFixed	修復破壞次數：\t
+StatsImpostorKills	偽裝者殺人次數：\t\t
+StatsTimesMurdered	被謀殺次數：\t
+StatsTimesEjected	被逐出次數：\t\t
+StatsCrewmateStreak	連續扮演船員次數：\t
+StatsGamesImpostor	扮演偽裝者次數：\t
+StatsGamesCrewmate	扮演船員次數：\t
+StatsGamesStarted	開始遊戲次數：\t
+StatsGamesFinished	完成遊戲次數：\t
+StatsImpostorVoteWins	偽裝者投票勝利次數：\t
+StatsImpostorKillsWins	偽裝者殺人勝利次數：\t
+StatsImpostorSabotageWins	偽裝者破壞勝利次數：\t
+StatsCrewmateVoteWins	船員投票勝利次數：\t
+StatsCrewmateTaskWins	船員任務勝利次數：\t
+MonitorOxygen	監控樹木
+StoreArtifacts	存放文物
+FillCanisters	填滿罐子
+InsertKeys	插入鑰匙
+ResetSeismic	重設抗震穩定器
+SeismicHoldToStop	按住以啟動抗震穩定器
+SeismicNominal	地震活動正常
+ScanBoardingPass	掃描登船證
+FixWeatherNode	修復氣候節點
+OpenWaterways	打開水道
+ReplaceWaterJug	更換水壺
+RepairDrill	修理鑽頭
+AlignTelescope	對準望遠鏡
+RecordTemperature	記錄溫度
+RebootWifi	重新啟動 Wifi
+WifiRebootRequired	需要重新啟動
+WifiPleaseWait	請稍候
+WifiPleaseReturnIn	請於下列時間後返回：{0}
+WifiPleasePowerOn	請開啟電源
+WifiRebootComplete	重新啟動完成
+Outside	戶外
+Dropship	運輸船
+Decontamination2	上除污室
+Specimens	標本室
+BoilerRoom	鍋爐室
+GameOverImpostorDead	在正常情況下，船員已經獲勝了，因為偽裝者已經死亡。針對練習模式，我們會改為復活所有人。
+GameOverImpostorKills	在正常情況下，偽裝者已經獲勝了，因為船員已不可能獲勝。針對練習模式，我們會改為復活所有人。
+GameOverTaskWin	在正常情況下，船員已經獲勝了，因為任務列已經填滿。針對練習模式，我們會改為發布新任務。
+GameOverSabotage	在正常情況下，偽裝者已經獲勝了，因為已造成嚴重破壞。但我們會改為將它關閉。
+HowToPlayText2Switch	使用您的 Nintendo Switch Online 會員與 4 到 15 個玩家在線上或透過本地 Wi-Fi 一起遊玩！
+VentDirection	通風口方向
+VentMove	經由通風口移動
+MenuNavigate	引導
+NsoError	無法連上網路。
+ErrorServerOverload	《Among Us》伺服器已超載。\r\n\r\n非常抱歉！請稍後再試！
+ErrorIntentionalLeaving	您在刻意斷線之後，需要再等候 {0} 分鐘才能加入另一個遊戲。
+ErrorFocusLost	您已經斷線，因為有另一個應用程式將《Among Us》暫停。
+ErrorBanned	您被禁止進入 {0}。\r\n\r\n您無法重新加入該房間。
+ErrorKicked	您被踢出 {0}。\r\n\r\n如果該房間尚未開始遊戲，您可以重新加入。
+ErrorBannedNoCode	您被禁止進入該房間。\r\n\r\n您無法重新加入該房間。
+ErrorKickedNoCode	您被踢出該房間。\r\n\r\n如果該房間尚未開始遊戲，您可以重新加入。
+ErrorHacking	您因作弊而被禁止進入。\r\n\r\n請停止此行為。
+ErrorFullGame	您試圖加入的遊戲已滿。\r\n\r\n請詢問主持者您是否能在下回合加入。
+ErrorStartedGame	您試圖加入的遊戲已經開始。\r\n\r\n請詢問主持者您是否能在下回合加入。
+ErrorNotFoundGame	找不到您在尋找的遊戲。
+ErrorInactivity	遊戲伺服器已停止此遊戲。可能是因為處於非使用狀態。
+ErrorGenericOnlineDisconnect	您已和伺服器斷線。\r\n如果此情況經常發生，請確認您的網路強度。\r\n這也可能是伺服器問題。
+ErrorGenericLocalDisconnect	您已和主持者斷線。\r\n\r\n如果此情況經常發生，請確認您的 WiFi 強度。
+ErrorInvalidName	遊戲伺服器拒絕此使用者名稱：{0}
+ErrorUnknown	有未知錯誤使您從伺服器斷線。
+ErrorIncorrectVersion	您執行的是較舊版本的遊戲。\r\n\r\n請更新以和其他人一起遊玩。
+	
+ServerNA	北美洲
+ServerEU	歐洲
+ServerAS	亞洲
+ServerSA	南美洲
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	玩家
+MyTablet	我的平板
+Headquarters	總部
+DownloadTestEstTimeS	預估時間：{0} 秒
+DownloadTestEstTimeMS	預估時間：{0} 分 {1} 秒
+DownloadTestEstTimeHMS	預估時間：{0} 小時 {1} 分 {2} 秒
+DownloadTestEstTimeDHMS	預估時間：{0} 天 {1} 小時 {2} 分 {3} 秒
+DownloadComplete	完成
+GrabCoffee	去喝杯咖啡
+TakeBreak	休息一下
+DontNeedWait	您不需要一直等
+DoSomethingElse	去做點別的事
+NodeTB	節點_TB
+NodeIRO	節點_IRO
+NodeGI	節點_GI
+NodePD	節點_PD
+NodeCA	節點_CA
+NodeMLG	節點_MLG
+Vending	販賣
+OtherLanguage	其他
+ImposterAmtAny	1-3
+	
+VitalsORGN	橘
+VitalsBLUE	藍
+VitalsRED	紅
+VitalsBRWN	棕
+VitalsGRN	綠
+VitalsPINK	粉紅
+VitalsWHTE	白
+VitalsYLOW	黃
+VitalsBLAK	黑
+VitalsPURP	紫
+VitalsCYAN	青
+VitalsLIME	黃綠
+ColorOrange	橘色
+ColorBlue	藍色
+ColorRed	紅色
+ColorBrown	棕色
+ColorGreen	綠色
+ColorPink	粉紅色
+ColorWhite	白色
+ColorYellow	黃色
+ColorBlack	黑色
+ColorPurple	紫色
+ColorCyan	青色
+ColorLime	黃綠色
+ColorMaroon	深紅色
+ColorRose	玫紅色
+ColorBanana	蕉黃色
+ColorGray	灰色
+ColorTan	褐色
+ColorCoral	珊瑚紅
+MedID	識別：
+MedC	色彩：
+MedHT	身高：
+MedBT	血型：
+MedWT	體重：
+MedETA	預估時間：{0}
+MedHello	您好！
+LobbySizeWarning	《Among Us》至少需要 4 個玩家，但是建議由 5 個或更多的玩家參與。\n\n只有 4 個玩家的遊戲很快就會結束，且獲勝的通常都是偽裝者。
+Okay	好
+OkayDontShow	好，不要再顯示
+Nevermind	還是算了
+CamEast	東側
+CamCentral	中央
+CamNortheast	東北側
+CamSouth	南側
+CamSouthwest	西南側
+CamNorthwest	西北側
+LoadingFailed	載入失敗：
+PetFailFetchData	無法擷取寵物資料
+BadResult	不良結果
+More	剩下 {0} 次
+Processing	處理中
+ExitGame	結束遊戲
+WaitingForHost	正在等候主持者
+LeftGameError	{0} 因錯誤而離開遊戲。
+PlayerWasBannedBy	{0} 被 {1} 禁止進入
+PlayerWasKickedBy	{0} 被 {1} 踢出
+Dummy	假人
+Bad	錯誤
+Status	狀態：
+Fine	良好
+OK	好
+SecondsAbbv	{0} 秒
+PetTryOn	裝備看看吧！
+DataPolicyWhat	會收集哪些資料？
+	
+VaultRoom	保險庫
+Cockpit	駕駛艙
+Armory	軍械庫
+Kitchen	廚房
+ViewingDeck	觀景台
+HallOfPortraits	肖像廳
+Medical	醫務室
+CargoBay	貨倉
+Ventilation	通風室
+Showers	淋浴間
+Engine	引擎室
+Brig	牢房
+MeetingRoom	會議室
+Records	檔案室
+Lounge	休息室
+GapRoom	間隙室
+MainHall	大廳
+	
+PolishRuby	拋光紅寶石
+ResetBreakers	重設斷路器
+Decontaminate	除污
+MakeBurger	製作漢堡
+UnlockSafe	解鎖保險箱
+SortRecords	將記錄分類
+PutAwayPistols	收起手槍
+PutAwayRifles	收起步槍
+FixShower	修復淋浴間
+CleanToilet	清理馬桶
+DressMannequin	裝飾假人
+PickUpTowels	撿起毛巾
+RewindTapes	倒帶
+StartFans	啟動風扇
+DevelopPhotos	沖洗相片
+GetBiggolSword	取得 Biggol Sword
+StopCharles	避開墜毀路線
+	
+RevealCode	顯示代碼
+DirtyHeader	骯髒程度
+AuthLeftOkay	左側正常
+AuthRightOkay	右側正常
+AuthLeftActive	左側已啟動
+AuthRightActive	右側已啟動
+AuthLeftNotActive	左側未啟動
+AuthRightNotActive	右側未啟動
+PSXBEngagementScreen	按下任意按鈕以開始。
+DeleteButton	刪除
+QuickChat	快速聊天
+QCBuilderHeader	快速聊天生成器
+QCLocationLaptop	筆記型電腦
+MapNameSkeld	Skeld
+MapNameMira	Mira
+MapNamePolus	Polus
+MapNameAirship	Airship
+MapNameFungle	Fungle
+QCSystemsStart	開始
+QCSystemsKick	踢出
+QCCrewI	我
+QCCrewMe	我
+QCBuildingPlaceholder	正在構成句子...
+QCCrewDead	死亡
+QCTagSelf	我自己
+QCInputSelf	自己
+QCTagFavorites	最愛
+QCInputFavorite	最愛
+QCTagRoles	職業
+QCInputRole	職業
+QCTagTasks	任務
+QCInputTask	任務
+QCTagSabotages	系統
+QCInputSabotages	破壞
+QCTagQuickRemarks	快速評論
+QCTagRemarks	評論
+QCInputRemark	評論
+QCTagAccuse	指控！
+QCInputAccusation	指控
+QCTagDefend	辯護！
+QCInputDefense	辯護
+QCTagQuestionSingular	問題
+QCTagQuestion	問題？
+QCTagLobby	大廳
+QCTagImpostor	偽裝者
+QCTagMeeting	會議
+QCTagHiding	躲藏
+QCTagFlashlight	手電筒
+QCSelfVoted	我投了{0}
+QCSelfReportedBody	我舉報了屍體
+QCSelfCams	我看了監視器
+QCCrewCams	{0}看了監視器
+QCSelfWasProtected	我被保護了
+QCCrewWasProtected	{0}被保護了
+QCSelfWasntMe	不是我
+QCWhoWasAt	誰在{0}？
+QCSelfDoingTask	我在執行{0}任務
+QCWhoIsRole	{0}是誰？
+QCSelfFixedSystem	我修復了{0}
+QCCrewFixedSystem	{0}修復了{1}
+QCSelfAccAtLocation	我看到{0}在{2}殺死了{1}
+QCSelfDidTaskAtLocation	我在{1}執行了{0}任務
+QCCrewDidTaskAtLocation	{0}在{2}執行了{1}任務
+QCSelfSawCrewVentAtLocation	我看到{0}在{1}使用通風口
+QCSelfDidntVent	我沒有使用通風口
+QCFollowMe	跟我來
+QCItsNotMe	不是我
+QCSelfDoneWithTasks	我完成了任務
+QCGhostsDoYourTasks	鬼魂請完成任務
+QCSelfNotTheImpostor	我不是偽裝者
+QCHello	嗨
+QCThanks	謝謝
+QCSorry	抱歉
+QCGG	做得好
+QCBye	再見
+QCWhereWasTheBody	屍體在哪裡？
+QCSelfReady	我準備好了
+QCSelfWasRole	我是{0}
+QCWhoWasRole	{0}是誰？
+QCCoolOutfitCrew	{0}，你的造型很酷喔！
+QCCrewReportedBody	{0}舉報了屍體
+QCCrewNoOne	沒有人
+QCResYes	是
+QCResNo	否
+QCResDontKnow	不知道
+QCResDontKnowNeg	也許
+QCResVote	投票
+QCResVoteNeg	跳過投票
+QCResRip	安息吧
+QCResRipNeg	嘿
+QCResLies	說謊
+QCResLiesNeg	好
+QCQstWhere	哪裡？
+QCQstWho	誰？
+QCQstWhoDidTask	是誰{0}？
+QCQstBodyOrMeeting	這是發現屍體還是緊急會議？
+QCStaDoubleKill	那是雙殺
+QCStaWasSelfReport	那是兇手自我舉報
+QCStaPleaseDoTasks	請完成您的任務
+QCStaBodyWasInA	屍體位於{0}
+QCLocation	地點
+QCSystems	系統
+QCCrew	船員
+QCAccusation	指控
+QCResponse	回應
+QCQuestion	問題
+QCStatements	聲明
+QCSelfWasUsingBinoculars	我當時正在使用雙筒望遠鏡
+QCSelfSawThroughBinoculars	我在使用雙筒望遠鏡的時候有看到
+QCInTheSporeCloud	在孢子雲中
+QCHiddenBySporeCloud	藏在孢子雲中
+CQCrewKilledDeadInSporeCloud	{0} 在孢子雲中殺死了 {1}
+QCSelfUsingZipline	我當時正在使用滑索
+QCSelfSawWhileUsingZipline	我在滑索上的時候有看到
+QCCrewWasUsingZipline	{0} 當時正在使用滑索
+QCDuringMushroomMixup	在蘑菇混合過程中
+	
+ChatType	聊天類型
+QuickChatOnly	僅限快速聊天
+FreeChatOnly	僅限自由聊天
+FreeOrQuickChat	自由聊天
+DateOfBirth	出生年月日
+DateOfBirthEnter	請輸入您的出生年月日：
+Month	月
+Day	日
+Year	年
+January	一月
+February	二月
+March	三月
+April	四月
+May	五月
+June	六月
+July	七月
+August	八月
+September	九月
+October	十月
+November	十一月
+December	十二月
+Submit	提交
+	
+QCAccAKilledB_QCCrewMe_ANY	我殺了{1}
+QCAccAKilledB_QCCrewMe_QCCrewNoOne	我沒有殺死任何人
+QCAccAKilledB_QCCrewMe_QCCrewMe	
+QCAccAKilledB_ANY_QCCrewMe	{0}殺了我
+QCAccAKilledB	{0}殺了{1}
+QCAccAKilledB_ANY_QCCrewNoOne	{0} 沒有殺死任何人
+QCAccAKilledB_QCCrewNoOne_QCCrewMe	沒有人殺死我
+QCAccAKilledB_QCCrewNoOne_ANY	沒有人殺死{1}
+QCAccAKilledB_QCCrewNoOne_QCCrewNoOne	沒有人殺死任何人
+QCAccAKilledBNeg_QCCrewMe_ANY	我沒有殺死{0}
+QCAccAKilledBNeg_QCCrewMe_QCCrewNoOne	我沒有殺死任何人
+QCAccAKilledBNeg_QCCrewMe_QCCrewMe	我沒有殺死自己
+QCAccAKilledBNeg_ANY_QCCrewMe	{0}沒有殺死我
+QCAccAKilledBNeg	{0}沒有殺死{1}
+QCAccAKilledBNeg_ANY_QCCrewNoOne	{0}沒有殺死任何人
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAKilledBNeg_QCCrewNoOne_ANY	
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsSuspicious_QCCrewMe	我很可疑
+QCAccAIsSuspicious	{0}很可疑
+QCAccAIsSuspicious_QCCrewNoOne	沒有人很可疑
+QCAccAIsSuspiciousNeg_QCCrewMe	我是好人
+QCAccAIsSuspiciousNeg	{0}是好人
+QCAccAIsSuspiciousNeg_QCCrewNoOne	大家都是壞人
+QCAccASawBVent_QCCrewMe_ANY	我看到{0}使用通風口
+QCAccASawBVent_QCCrewMe_QCCrewNoOne	我沒有看到任何人使用通風口
+QCAccASawBVent_QCCrewMe_QCCrewMe	
+QCAccASawBVent_ANY_QCCrewMe	{0}看到我使用通風口
+QCAccASawBVent	{0}看到{1}使用通風口
+QCAccASawBVent_ANY_QCCrewNoOne	{0}沒有看到任何人使用通風口
+QCAccASawBVent_QCCrewNoOne_QCCrewMe	沒有人看到我使用通風口
+QCAccASawBVent_QCCrewNoOne_ANY	沒有人看到{1}使用通風口
+QCAccASawBVent_QCCrewNoOne_QCCrewNoOne	沒有人看到任何人使用通風口
+QCAccASawBVentNeg_QCCrewMe_ANY	我沒看過{0}使用通風口
+QCAccASawBVentNeg_QCCrewMe_QCCrewNoOne	我沒看過任何人使用通風口
+QCAccASawBVentNeg_QCCrewMe_QCCrewMe	
+QCAccASawBVentNeg_ANY_QCCrewMe	{0}沒看過我使用通風口
+QCAccASawBVentNeg	{0}沒看過{1}使用通風口
+QCAccASawBVentNeg_ANY_QCCrewNoOne	{0}沒看過任何人使用通風口
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewMe	沒有人看過我使用通風口
+QCAccASawBVentNeg_QCCrewNoOne_ANY	沒有人看過{1}使用通風口
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewNoOne	沒有人看過任何人使用通風口
+QCAccAWasChasingB_QCCrewMe_ANY	我在追殺{0}
+QCAccAWasChasingB_QCCrewMe_QCCrewNoOne	我沒有在追殺任何人
+QCAccAWasChasingB_QCCrewMe_QCCrewMe	
+QCAccAWasChasingB_ANY_QCCrewMe	{0}在追殺我
+QCAccAWasChasingB	{0}在追殺{1}
+QCAccAWasChasingB_ANY_QCCrewNoOne	{0}沒有在追殺任何人
+QCAccAWasChasingB_QCCrewNoOne_QCCrewMe	沒有人在追殺我
+QCAccAWasChasingB_QCCrewNoOne_ANY	沒有人在追殺{1}
+QCAccAWasChasingB_QCCrewNoOne_QCCrewNoOne	沒有人在追殺任何人
+QCAccAWasChasingBNeg_QCCrewMe_ANY	我沒有在追殺{0}
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewNoOne	我沒有在追殺任何人
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewMe	
+QCAccAWasChasingBNeg_ANY_QCCrewMe	{0}沒有在追殺我
+QCAccAWasChasingBNeg	{0}沒有在追殺{1}
+QCAccAWasChasingBNeg_ANY_QCCrewNoOne	{0}沒有在追殺任何人
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAWasChasingBNeg_QCCrewNoOne_ANY	
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsLying_QCCrewMe	我在說謊
+QCAccAIsLying	{0}在說謊
+QCAccAIsLying_QCCrewNoOne	沒有人在說謊
+QCAccAIsLyingNeg_QCCrewMe	我說的是實話
+QCAccAIsLyingNeg	{0}說的是實話
+QCAccAIsLyingNeg_QCCrewNoOne	沒有人說的是實話
+QCAccVoteA_QCCrewMe	投給我
+QCAccVoteA	投給{0}
+QCAccVoteA_QCCrewNoOne	不要投給任何人
+QCAccVoteANeg_QCCrewMe	不要投給我
+QCAccVoteANeg	不要投給{0}
+QCAccVoteANeg_QCCrewNoOne	
+QCAccADidntReport_QCCrewMe	我沒有舉報屍體
+QCAccADidntReport	{0}沒有舉報屍體
+QCAccADidntReport_QCCrewNoOne	
+QCResAWas_QCCrewMe	我是
+QCResAWas	{0}是
+QCResAWas_QCCrewNoOne	沒有人是
+QCResAWasNeg_QCCrewMe	我不是
+QCResAWasNeg	{0}不是
+QCResAWasNeg_QCCrewNoOne	
+QCResADid_QCCrewMe	我做了
+QCResADid	{0}做了
+QCResADid_QCCrewNoOne	沒有人做了
+QCResADidNeg_QCCrewMe	我沒有做
+QCResADidNeg	{0}沒有做
+QCResADidNeg_QCCrewNoOne	
+QCResAWasAtB_QCCrewMe_ANY	我在{0}
+QCResAWasAtB	{0}在{1}
+QCResAWasAtB_QCCrewNoOne_ANY	沒有人在{0}
+QCResAWasAtBNeg_QCCrewMe_ANY	我不在{0}
+QCResAWasAtBNeg	{0}不在{1}
+QCResAWasAtBNeg_QCCrewNoOne_ANY	
+QCQstWhoWasWith_QCCrewMe	誰和我在一起？
+QCQstWhoWasWith	誰和{0}在一起？
+QCQstWhoWasWith_QCCrewNoOne	誰獨自行動？
+QCQstWhatWasADoing_QCCrewMe	
+QCQstWhatWasADoing	{0}在做什麼？
+QCQstWhatWasADoing_QCCrewNoOne	
+QCQstWhereWasA_QCCrewMe	
+QCQstWhereWasA	{0}在哪裡？
+QCQstWhereWasA_QCCrewNoOne	
+QCStaASawB_QCCrewMe_ANY	我看到{0}
+QCStaASawB_QCCrewMe_QCCrewNoOne	我沒有看到任何人
+QCStaASawB_QCCrewMe_QCCrewMe	
+QCStaASawB_ANY_QCCrewMe	{0}看到我
+QCStaASawB	{0}看到{1}
+QCStaASawB_ANY_QCCrewNoOne	{0}沒有看到任何人
+QCStaASawB_QCCrewNoOne_QCCrewMe	沒有人看到我
+QCStaASawB_QCCrewNoOne_ANY	沒有人看到{0}
+QCStaASawB_QCCrewNoOne_QCCrewNoOne	沒有人看到任何人
+QCStaAWasWithB_QCCrewMe_ANY	我和{0}在一起
+QCStaAWasWithB_QCCrewMe_QCCrewNoOne	我沒有和任何人在一起
+QCStaAWasWithB_QCCrewMe_QCCrewMe	
+QCStaAWasWithB_ANY_QCCrewMe	{0}和我在一起
+QCStaAWasWithB	{0}和{1}在一起
+QCStaAWasWithB_ANY_QCCrewNoOne	{0}沒有和任何人在一起
+QCStaAWasWithB_QCCrewNoOne_QCCrewMe	沒有任何人和我在一起
+QCStaAWasWithB_QCCrewNoOne_ANY	沒有任何人和{1}在一起
+QCStaAWasWithB_QCCrewNoOne_QCCrewNoOne	沒有人和任何人在一起
+QCStaADidB_QCCrewMe_ANY	我做了{0}
+QCStaADidB	{0} 做了{1}
+QCStaADidB_QCCrewNoOne_ANY	沒有人做了{1}
+QCStaASelfReported_QCCrewMe	我自我舉報自己是兇手
+QCStaASelfReported	{0}自我舉報自己是兇手
+QCStaASelfReported_QCCrewNoOne	沒有人自我舉報自己是兇手
+QCStaACalledMeeting_QCCrewMe	我召開了會議
+QCStaACalledMeeting	{0}召開了會議
+QCStaACalledMeeting_QCCrewNoOne	沒有人召開了會議
+QCMore	更多
+QCQstWhy	為什麼？
+QCCrewSomeone	某個人
+QCResUrWelcome	不客氣
+QCResNp	不會
+QCResYikes	哎呀
+QCResRipCrew	安息吧，{0}
+QCResYeetCrew	嘿，{0}
+QCSelfWasOnVitals	我在使用生命監測器
+QCSawDeadCrewOnVitals	我在生命監測器上看到{0}死了
+QCSelfSawTwoCrew	我看到兩個{0}
+QCCrewShapeshifted	{0}變形了
+QCSelfSawCrewDoVisualTask	我看到{0}做了一個視覺性任務
+QCSelfWasOnDoorlogs	我在使用門禁日誌
+QCSelfWasOnAdmin	我在使用管理室
+QCSelfAmVotingCrew	我在投給{0}
+QCCrewWasPretendingTasks	{0}假裝在執行任務
+QCCrewWasPretendingSabotage	{0}假裝在修理{1}
+QCLobbyMoreImpostors	更多偽裝者？
+QCLobbyLessImpostors	更少偽裝者？
+QCLobbyConfirmEjects	確認逐出？
+QCLobbyMoreEmergencyMeetings	更多緊急會議？
+QCLobbyLessEmergencyMeetings	更少緊急會議？
+QCLobbyAnonymousVotes	匿名投票？
+QCLobbyMoreEmergencyCooldownTime	更多緊急會議冷卻時間？
+QCLobbyLessEmergencyCooldownTime	更少緊急會議冷卻時間？
+QCLobbyMoreDiscussionTime	更多討論時間？
+QCLobbyLessDiscussionTime	更少討論時間？
+QCLobbyMoreVotingTime	更多投票時間？
+QCLobbyLessVotingTime	更少投票時間？
+QCLobbyFasterPlayerSpeed	玩家速度調快？
+QCLobbySlowerPlayerSpeed	玩家速度調慢？
+QCLobbyTaskBarUpdates	任務列更新？
+QCLobbyVisualTasks	視覺性任務？
+QCLobbyMoreCrewmateVision	擴大船員視野？
+QCLobbyLessCrewmateVision	縮小船員視野？
+QCLobbyMoreImpostorVision	擴大偽裝者視野？
+QCLobbyLessImpostorVision	縮小偽裝者視野？
+QCLobbyMoreKillCooldownTime	更多殺人冷卻時間？
+QCLobbyLessKillCooldownTime	更少殺人冷卻時間？
+QCLobbyLongerKillDistance	殺人距離加長？
+QCLobbyShorderKillDistance	殺人距離縮短？
+QCLobbyMoreCommonTasks	更多普通任務？
+QCLobbyLessCommonTasks	更少普通任務？
+QCLobbyMoreLongTasks	更多長任務？
+QCLobbyLessLongTasks	更少長任務？
+QCLobbyMoreShortTasks	更多短任務？
+QCLobbyLessShortTasks	更少短任務？
+QCLobbyRoleScientists	科學家？
+QCLobbyRoleGuardianAngels	守護天使？
+QCLobbyRoleEngineers	工程師？
+QCLobbyRoleShapeshifters	變形者？
+QCLobbyRoleNone	沒有職業
+QCResLess	減少/縮小/調慢
+QCResMore	增加/擴大/調快
+QCResNone	無
+QCLobbyHNSMoreHideTime	更多躲藏時間？
+QCLobbyHNSLessHideTime	更少躲藏時間？
+QCLobbyHNSMoreFinalHideTime	更多最終躲藏時間？
+QCLobbyHNSLessFinalHideTime	更少最終躲藏時間？
+QCLobbyHNSFlashlightMode	手電筒模式？
+QCLobbyHNSMoreCrewmateFlashlightSize	擴大船員手電筒範圍？
+QCLobbyHNSLessCrewmateFlashlightSize	縮小船員手電筒範圍？
+QCLobbyHNSMoreImpostorFlashlightSize	擴大偽裝者手電筒範圍？
+QCLobbyHNSLessImpostorFlashlightSize	縮小偽裝者手電筒範圍？
+QCLobbyHNSShowNames	顯示名稱？
+QCLobbyHNSMoreVents	更多通風口？
+QCLobbyHNSLessVents	更少通風口？
+QCLobbyHNSMoreTimeInVent	更多通風口滯留時間？
+QCLobbyHNSLessTimeInVent	更少通風口滯留時間？
+QCLobbyHNSMoreFinalHideImpostorSpeed	最終躲藏偽裝者速度調快？
+QCLobbyHNSLessFinalHideImpostorSpeed	最終躲藏偽裝者速度調慢？
+QCLobbyHNSFinalHideSeekMap	最終躲藏尋人地圖？
+QCLobbyHNSFinalHidePings	最終躲藏位置提示？
+QCLobbyHNSMorePingInterval	位置提示時間間隔增加？
+QCLobbyHNSLessPingInterval	位置提示時間間隔減少？
+QCResAgree	同意
+QCResDisagree	不同意
+QCResNice	很好
+QCResUhOh	糟了
+QCResOops	糟糕
+QCResExclamationMarks	！！！
+QCResQuestionMarks	？？？
+SecurityLogsSystem	保全日誌
+SecurityCamsSystem	保全監視器
+AdminMapSystem	管理室地圖
+VitalsSystem	生命監測器
+EngagementScreenSignIn	正在登入...
+EngagementScreen	按下任意按鈕以開始。
+SaveGameOutOfSpaceMessage	您是否想在不儲存的情況下繼續？
+SaveGameOutOfSpaceConfirm	繼續
+SaveGameOutOfSpaceCancel	重試
+Success	成功！
+Failed	失敗！
+ErrorCreate	建立帳號時發生錯誤。請稍後再試。
+SuccessCreate	您已成功建立帳號！
+Close	關閉
+ErrorLogIn	無法連上您的《Among Us》帳號。
+SuccessLogIn	您已成功登入您的帳號！
+AccountInfo	帳號資訊
+Account	帳號
+UserName	使用者名稱
+Height	身高
+Weight	體重
+SignIn	登入
+CreateAccount	建立帳號
+RequestPermission	要求許可
+RandomizeName	隨機命名
+AccountLinking	帳號連結
+ChangeName	變更名稱
+LogOut	登出
+GuardianWait	您必須等候監護人給予許可，才能使用自由聊天和變更使用者名稱。
+EmailEdit	編輯電子郵件
+EmailResend	重新傳送電子郵件
+GuestContinue	以訪客身分繼續
+GuardianEmailSent	已傳送監護人電子郵件
+GuardianCheckEmail	別忘了請您的監護人檢查他們的電子郵件，以解鎖所有遊戲功能。
+EditName	編輯名稱
+Name	名稱
+CreateAccountQuestion	建立帳號？
+DoYouWantCreate	您是否要建立帳號？
+PermissionRequired	需要許可
+NeedPermissionText	我們需要 (透過電子郵件) 獲得您監護人的許可才能繼續。如果他們同意，您將能使用線上自由聊天和變更使用者名稱。請尋求成人協助您！
+GuardianEmailTitle	監護人電子郵件
+Send	傳送
+Undo	復原
+Clear	清除
+NewEmail	新電子郵件
+ConfirmEmail	確認電子郵件
+EditEmail	編輯電子郵件
+Loading	載入中
+Welcome	歡迎
+GuardianEmail	[您監護人的電子郵件]
+	
+BanButton	禁止進入
+KickButton	踢出
+ReportButton	舉報
+ReportConfirmation	您已成功舉報下列使用者。
+ReportBadName	不當名稱
+ReportBadChat	不當聊天
+ReportHacking	破解/作弊
+ReportHarassment	騷擾/不當行為
+ReportWhy	您舉報這個使用者的原因是？
+DLLNotFoundAccountError	您在連線到線上服務時發生錯誤。在修正此問題之前，您只能以本地或練習模式進行遊戲。請稍後再試。
+ContinueOffline	進行離線遊戲
+WantToLogIn	您目前沒有登入任何帳號。
+GoOffline	離線
+PlayAsGuest	以訪客身分遊玩
+LogInTitle	登入帳號
+LogInInfoText	登入或建立 Among Us 帳號以存取如下等遊戲功能：\n\n- 於特定裝置間跨裝置儲存進度\n- 自由聊天\n- 連結造型\n- 還有更多內容！\n\n根據帳號類型的不同，部分功能可能需要家長或監護人許可。
+LogInInfoTextSwitch	如果您登入完整的帳號，便一律可以於未來再次登入。如果您沒有帳號，遊戲將自動為您建立一個。
+ControllerDisconnectedMessage	控制器已斷線
+FollowUs	追蹤我們！
+	
+QuickChatInstructionsStart	您的遊戲已設定為「僅限快速聊天」。
+QuickChatInstructionsChild	您必須獲得家長或監護人的許可才能使用完整聊天功能。
+QuickChatInstructionsGuest	您必須登入以變更此項目。
+QuickChatInstructionsFull	您在遊玩期間只能使用快速聊天功能，且只能與其他使用快速聊天功能的使用者一同遊玩。
+	
+SwitchEShopBrowseAll	在 Nintendo eShop 上瀏覽所有物品
+	
+Download	下載
+Upload	上傳
+pk05_davehat	Dave 的帽子
+pk05_Ellie	Ellie
+pk05_Svenhat	Sven 的帽子
+pk05_Burthat	Burt 的帽子
+pk05_Ellryhat	Ellry 的龐克頭
+pk05_monocles	雙眼眼鏡
+pk05_cheesetoppat	起司高帽
+pk05_Macbethhat	Mr. Macbeth 的高帽
+pk05_HenryToppat	Henry 的高帽
+pk05_EllieToppat	Ellie 的高帽
+pk05_GeoffreyToppat	Geoffrey 的高帽
+	
+InsufficientStorageError	儲存空間不足，無法下載資源包。請在裝置上挪出空間後再試一次。
+NetworkError	發生網路錯誤。請檢查連線設定後再試一次。
+OtherDownloadError	發生錯誤：{0}
+DownloadingLabel	正在下載 {0}
+DownloadSizeLabel	下載大小：{0}MB
+	
+TimeRemaining	剩餘時間：{0}
+DeadLabel	死亡
+	
+InviteFriends	邀請好友
+	
+NutriLabel	營養
+CO2Label	CO2
+RADLabel	輻射
+WaterLabel	水
+	
+DoorlogLabel	門禁日誌
+VitalsLabel	生命
+OptionsLabel	自訂
+ProceedLabel	繼續
+StartLabel	開始
+UseLabel	使用
+PlayAgain	再玩一次
+QuitLabel	退出
+ReportLabel	舉報
+SabotageLabel	破壞
+VentLabel	通風口
+KillLabel	殺死
+DiscussLabel	討論！
+SkippedVoting	已跳過投票
+SkipVoteLabel	跳過投票
+EmergencyMeeting	緊急會議
+BodyReported	已舉報屍體
+SkinLabel	外觀
+HatLabel	帽子
+PetLabel	寵物
+AnnouncementLabel	公告
+	
+UploadingLabel	上傳中
+ConnectionLabel	連線：
+NoneLabel	無
+PoorLabel	不佳
+GoodLabel	良好
+LogLabel	日誌
+ReadingLabel	數值
+WeatherDataDownload	下載氣候資料
+MiraBundle	MIRA HQ 組合包
+MiraSkinBundle	MIRA HQ 造型包
+PolusBundle	Polus 組合包
+PolusSkinBundle	Polus 地圖造型包
+AirshipBundle	Airship 組合包
+PetAlien1	腦洞蟲寵物組合包
+PetCrewmate	迷你船員組合包
+PetAnimal	倉鼠球寵物組合包
+PetAlien2	壓床蟹寵物組合包
+PetStickmin	Stickmin 寵物組合包
+PrisonerSkin	囚犯
+Cyborg_RHM	得力助手重生
+CCC_Officer	混亂控管中心主任
+BeginLabel	開始
+QuietLabel	噓！
+VentCleaning	清理通風口
+CleanUp	清理
+ProgressLabel	進度：
+TermsOfUseTitle	使用條款
+PPAndToUTitle	隱私權政策與使用條款
+	
+ErrorNotAuthenticated	《Among Us》伺服器無法驗證您的身分。\r\n\n您必須擁有《Among Us》帳號才能線上遊玩。
+ComePlayDiscord	來和我一起玩《Among Us》吧！
+
+ShowAccountSupportID5	顯示帳號支援識別碼
+ShowAccountSupportID4	再按 4 次以顯示
+ShowAccountSupportID3	不要分享這組識別碼
+ShowAccountSupportID2	直播期間不要顯示 (2)
+ShowAccountSupportID1	務必給我看這組識別碼
+SupportIDLabel	支援識別碼： {0}
+YouAreNotOnline	您不在線上。
+NoDeadBodiesFound	未發現屍體
+SupportEmail	如有任何支援相關問題，請連絡 support@innersloth.com。
+PerfectLabel	完美
+PSNErrorSessionFailed	目前的遊戲連線區發生錯誤
+PSNErrorSessionJoinFailed	無法加入遊戲連線區
+PSNErrorSessionGetInfoFailed	無法取得遊戲連線區資訊
+PSNErrorPSNConnectionLost	PlayStation™Network 失去連線
+PSNErrorUserSignedOut	使用者已登出
+	
+CrossPlayTitle	跨平台遊玩
+CrossPlayAllPlatforms	所有平台
+CrossPlaySamePlatform	相同平台
+CrossPlayEnabledWarning	已啟用跨平台遊玩：您可能會遇到不同平台的玩家。
+	
+TimeOutText	登入需要一點時間。要以離線模式繼續嗎？
+RetryText	再等一下
+Continue	繼續
+GameComplete	遊戲結束
+LevelShorthand	等級 {0}
+MaxLevel	最高等級
+Cosmetic.hat_AbominalHat	雪怪頭
+Cosmetic.hat_Antenna_Black	通訊不良：黑色
+Cosmetic.hat_Astronaut-Blue	太空漫步帽：藍色
+Cosmetic.hat_Astronaut-Cyan	太空漫步帽：淺藍色
+Cosmetic.hat_Astronaut-Orange	太空漫步帽：橘色
+Cosmetic.hat_Bandana_Blue	斯內克頭帶：藍色
+Cosmetic.hat_Bandana_Green	斯內克頭帶：綠色
+Cosmetic.hat_Bandana_Pink	斯內克頭帶：粉紅色
+Cosmetic.hat_Bandana_Red	斯內克頭帶：紅色
+Cosmetic.hat_Bandana_White	斯內克頭帶：白色
+Cosmetic.hat_Bandana_Yellow	斯內克頭帶：黃色
+Cosmetic.hat_baseball_Black	反戴帽：黑色
+Cosmetic.hat_baseball_Green	反戴帽：綠色
+Cosmetic.hat_baseball_Lightblue	反戴帽：淺藍色
+Cosmetic.hat_baseball_LightGreen	反戴帽：淺綠色
+Cosmetic.hat_baseball_Lilac	反戴帽：淺紫色
+Cosmetic.hat_baseball_Orange	反戴帽：橘色
+Cosmetic.hat_baseball_Pink	反戴帽：粉紅色
+Cosmetic.hat_baseball_Purple	反戴帽：紫色
+Cosmetic.hat_baseball_Red	反戴帽：紅色
+Cosmetic.hat_baseball_White	反戴帽：白色
+Cosmetic.hat_baseball_Yellow	反戴帽：黃色
+Cosmetic.hat_Basketball	一球入框
+Cosmetic.hat_Beanie_Black	毛帽：黑色
+Cosmetic.hat_Beanie_Blue	毛帽：藍色
+Cosmetic.hat_Beanie_Green	毛帽：綠色
+Cosmetic.hat_Beanie_Lightblue	毛帽：粉藍色
+Cosmetic.hat_Beanie_LightGreen	毛帽：粉綠色
+Cosmetic.hat_Beanie_LightPurple	毛帽：粉紫色
+Cosmetic.hat_Beanie_Pink	毛帽：粉紅色
+Cosmetic.hat_Beanie_Purple	毛帽：紫色
+Cosmetic.hat_Beanie_White	毛帽：白色
+Cosmetic.hat_Beanie_Yellow	毛帽：黃色
+Cosmetic.hat_Bowlingball	全倒
+Cosmetic.hat_Chocolate	巧克力霜淇淋
+Cosmetic.hat_CuppaJoe	Joe 監督帽
+Cosmetic.hat_Deitied	神龕帽
+Cosmetic.hat_Doc_black	診療帽：黑色
+Cosmetic.hat_Doc_Orange	診療帽：橘色
+Cosmetic.hat_Doc_Purple	診療帽：紫色
+Cosmetic.hat_Doc_Red	診療帽：紅色
+Cosmetic.hat_Doc_White	診療帽：白色
+Cosmetic.hat_Dodgeball	你出局了！
+Cosmetic.hat_Dorag_Black	吹噓海盜帽：煤炭灰
+Cosmetic.hat_Dorag_Desert	吹噓海盜帽：沙漠棕
+Cosmetic.hat_Dorag_Jungle	吹噓海盜帽：森林綠
+Cosmetic.hat_Dorag_Purple	吹噓海盜帽：紫色
+Cosmetic.hat_Dorag_Sky	吹噓海盜帽：天空藍
+Cosmetic.hat_Dorag_Snow	吹噓海盜帽：雪白
+Cosmetic.hat_Dorag_Yellow	吹噓海盜帽：柑橘黃
+Cosmetic.hat_DrillMetal	鑽頭
+Cosmetic.hat_DrillStone	石製鑽頭
+Cosmetic.hat_DrillWood	木製鑽頭
+Cosmetic.hat_EarmuffGreen	毛絨耳罩：綠色
+Cosmetic.hat_EarmuffsPink	毛絨耳罩：粉紅色
+Cosmetic.hat_EarmuffsYellow	毛絨耳罩：黃色
+Cosmetic.hat_EarnmuffBlue	毛絨耳罩
+Cosmetic.hat_Goggles_Black	護目鏡：黑色
+Cosmetic.hat_Goggles_Chrome	護目鏡：鉻合金色
+Cosmetic.hat_GovtDesert	軍官帽：沙漠棕
+Cosmetic.hat_GovtHeadset	超大耳機組
+Cosmetic.hat_Hardhat_black	職業安全合規帽：黑色
+Cosmetic.hat_Hardhat_Blue	職業安全合規帽：藍色
+Cosmetic.hat_Hardhat_Green	職業安全合規帽：綠色
+Cosmetic.hat_Hardhat_Orange	職業安全合規帽：橘色
+Cosmetic.hat_Hardhat_Pink	職業安全合規帽：粉紅色
+Cosmetic.hat_Hardhat_Purple	職業安全合規帽：紫色
+Cosmetic.hat_Hardhat_Red	職業安全合規帽：紅色
+Cosmetic.hat_Hardhat_White	職業安全合規帽：白色
+Cosmetic.hat_HardtopHat	起重機操作員帽
+Cosmetic.hat_headslug_Purple	腦洞蟲：紫色
+Cosmetic.hat_headslug_Red	腦洞蟲：紅色
+Cosmetic.hat_headslug_White	腦洞蟲：白色
+Cosmetic.hat_headslug_Yellow	腦洞蟲：黃色
+Cosmetic.hat_Heart	我愛你
+Cosmetic.hat_Helmet	騎士帽
+Cosmetic.hat_Herohood_Black	森林戰士：黑色
+Cosmetic.hat_Herohood_Blue	森林戰士：藍色
+Cosmetic.hat_Herohood_Pink	森林戰士：粉紅色
+Cosmetic.hat_Herohood_Purple	森林戰士：紫色
+Cosmetic.hat_Herohood_Red	森林戰士：紅色
+Cosmetic.hat_Herohood_White	森林戰士：白色
+Cosmetic.hat_Herohood_Yellow	森林戰士：黃色
+Cosmetic.hat_Janitor	Haunted Hotel
+Cosmetic.hat_MilitaryWinter	軍官帽：凜冬白
+Cosmetic.hat_MinerBlack	挫折礦工帽：黑色
+Cosmetic.hat_MinerYellow	挫折礦工帽：黃色
+Cosmetic.hat_mira_bush	一鳥在手
+Cosmetic.hat_mira_case	重要機密
+Cosmetic.hat_mira_cloud	雲端做夢
+Cosmetic.hat_mira_flower	異世之花
+Cosmetic.hat_mira_flower_red	芳香之花
+Cosmetic.hat_mira_gem	獨特標本
+Cosmetic.hat_mira_headset_blue	超大耳機組：藍色
+Cosmetic.hat_mira_headset_pink	超大耳機組：粉紅色
+Cosmetic.hat_mira_headset_yellow	超大耳機組：黃色
+Cosmetic.hat_mira_leaf	藤蔓
+Cosmetic.hat_mira_milk	水蜜桃汁
+Cosmetic.hat_mira_sign_blue	地面濕滑：藍色
+Cosmetic.hat_NewYears2018	2019 新年帽
+Cosmetic.hat_NoHat	無
+Cosmetic.hat_Paperhat_Black	折紙帽：黑色
+Cosmetic.hat_Paperhat_Blue	折紙帽：藍色
+Cosmetic.hat_Paperhat_Cyan	折紙帽：泡沫綠
+Cosmetic.hat_Paperhat_Lightblue	折紙帽：天空藍
+Cosmetic.hat_Paperhat_Pink	折紙帽：粉紅色
+Cosmetic.hat_Paperhat_Yellow	折紙帽：黃色
+Cosmetic.hat_astronaut	太空漫步帽
+Cosmetic.hat_pk01_BaseballCap	反戴帽
+Cosmetic.hat_brainslug	腦洞蟲
+Cosmetic.hat_bushhat	鄧迪帽
+Cosmetic.hat_captain	船長帽
+Cosmetic.hat_doubletophat	高帽 Chief
+Cosmetic.hat_flowerpot	盆栽帽
+Cosmetic.hat_goggles	護目鏡
+Cosmetic.hat_hardhat	職業安全合規帽
+Cosmetic.hat_military	軍官帽
+Cosmetic.hat_paperhat	折紙帽
+Cosmetic.hat_partyhat	派對帽
+Cosmetic.hat_police	警探帽
+Cosmetic.hat_stethescope	診療帽
+Cosmetic.hat_tophat	高帽 Grunt
+Cosmetic.hat_towelwizard	出浴毛巾帽
+Cosmetic.hat_russian	高牆冬帽
+Cosmetic.hat_viking	維京王帽
+Cosmetic.hat_wallcap	高牆鴨舌帽
+Cosmetic.hat_whitetophat	白色高帽
+Cosmetic.hat_pk02_Crown	王冠
+Cosmetic.hat_pk02_Eyebrows	Stickmin 粗眉
+Cosmetic.hat_pk02_HaloHat	純真光環
+Cosmetic.hat_pk02_HeroCap	森林戰士
+Cosmetic.hat_pk02_PipCap	小吉姆帽
+Cosmetic.hat_pk02_PlungerHat	馬桶吸把
+Cosmetic.hat_pk02_ScubaHat	潛水鏡
+Cosmetic.hat_pk02_StickminHat	Stickmin 騎手
+Cosmetic.hat_pk02_StrawHat	塞倫蓋提帽
+Cosmetic.hat_pk02_TenGallonHat	牛仔帽
+Cosmetic.hat_pk02_ThirdEyeHat	第三隻眼
+Cosmetic.hat_pk02_ToiletPaperHat	捲筒衛生紙
+Cosmetic.hat_pk02_Toppat	新 Chief 高帽
+Cosmetic.hat_pk03_Fedora	迷人紳士帽
+Cosmetic.hat_pk03_Goggles	安全第二
+Cosmetic.hat_pk03_Headphones	超大耳機組
+Cosmetic.hat_pk03_Security1	嚴加戒備帽
+Cosmetic.hat_pk03_StrapHat	園丁帽
+Cosmetic.hat_pk03_Traffic	交通堵塞帽
+Cosmetic.hat_traffic_purple	交通堵塞帽：紫色
+Cosmetic.hat_pk04_Antenna	通訊不良
+Cosmetic.hat_pk04_Archae	西伯利亞尋寶帽
+Cosmetic.hat_pk04_Balloon	小丑飄浮帽
+Cosmetic.hat_pk04_Banana	香蕉皮
+Cosmetic.hat_pk04_Bandana	斯內克頭帶
+Cosmetic.hat_pk04_Beanie	毛帽
+Cosmetic.hat_pk04_Bear	灰熊難擋
+Cosmetic.hat_pk04_BirdNest	一巢二卵
+Cosmetic.hat_pk04_CCC	混亂遏制
+Cosmetic.hat_pk04_Chef	我是大廚帽
+Cosmetic.hat_pk04_DoRag	吹噓海盜帽
+Cosmetic.hat_pk04_Fez	土耳其毯帽
+Cosmetic.hat_pk04_GeneralHat	將軍帽
+Cosmetic.hat_pk04_HunterCap	獵戶帽
+Cosmetic.hat_pk04_JungleHat	迷彩偽裝帽
+Cosmetic.hat_pk04_MinerCap	挫折礦工帽
+Cosmetic.hat_pk04_MiniCrewmate	迷你船員
+Cosmetic.hat_pk04_Pompadour	上梳頭
+Cosmetic.hat_pk04_RamHorns	公羊角
+Cosmetic.hat_pk04_Slippery	地面濕滑
+Cosmetic.hat_pk04_Snowman	雪友帽
+Cosmetic.hat_pk04_Vagabond	神秘流浪者
+Cosmetic.hat_pk04_WinterHat	防寒毛帽
+Cosmetic.hat_pk05_Burthat	我是 Burt
+Cosmetic.hat_pk05_Cheese	香濃乳酪
+Cosmetic.hat_pk05_cheesetoppat	Muenster 乳酪帽
+Cosmetic.hat_pk05_Cherry	點綴櫻桃
+Cosmetic.hat_pk05_davehat	博物館保全帽
+Cosmetic.hat_pk05_Egg	荷包蛋
+Cosmetic.hat_pk05_Ellie	紅髮惡徒
+Cosmetic.hat_pk05_EllieToppat	Ellie 新人帽
+Cosmetic.hat_pk05_Ellryhat	繽紛飛機頭
+Cosmetic.hat_pk05_Fedora	暗夜帽
+Cosmetic.hat_pk05_Flamingo	充氣紅鶴
+Cosmetic.hat_pk05_FlowerPin	雛菊髮飾
+Cosmetic.hat_pk05_GeoffreyToppat	大頭帽
+Cosmetic.hat_pk05_Helmet	騎士帽
+Cosmetic.hat_pk05_HenryToppat	Henry 新人帽
+Cosmetic.hat_pk05_Macbethhat	Mr. Macbeth
+Cosmetic.hat_pk05_Plant	萌芽
+Cosmetic.hat_pk05_Svenhat	Sven Svensson
+Cosmetic.hat_pk05_Wizardhat	正宗魔法師帽
+Cosmetic.hat_pk06_Candycanes	拐杖糖
+Cosmetic.hat_pk06_ElfHat	玩具老兄
+Cosmetic.hat_pk06_Lights	燈火通明
+Cosmetic.hats_newyears2018	2019 新年帽
+Cosmetic.hat_pk06_Present	包裝禮物
+Cosmetic.hat_pk06_Reindeer	迷路麋鹿
+Cosmetic.hat_pk06_Santa	送禮老兄
+Cosmetic.hat_pk06_Snowman	雪人
+Cosmetic.hat_pk06_tree	常青樹
+Cosmetic.hat_pkHW01_BatWings	蝙蝠翅膀
+Cosmetic.hat_pkHW01_CatEyes	蝙蝠帽
+Cosmetic.hat_pkHW01_Horns	驚駭惡魔
+Cosmetic.hat_pkHW01_Machete	磨刀霍霍
+Cosmetic.hat_pkHW01_Mohawk	搖滾龐克頭
+Cosmetic.hat_pkHW01_Pirate	走上甲板
+Cosmetic.hat_pkHW01_Pumpkin	南瓜帽
+Cosmetic.hat_pkHW01_ScaryBag	怪物頭罩
+Cosmetic.hat_pkHW01_Witch	巫婆帽
+Cosmetic.hat_pkHW01_Wolf	狼人頭飾
+Cosmetic.hat_Plunger_Blue	馬桶吸把：藍色
+Cosmetic.hat_Plunger_Yellow	馬桶吸把：黑與黃
+Cosmetic.hat_Ponytail	金髮公主
+Cosmetic.hat_Pot	挖掘帽
+Cosmetic.hat_Prototype	原型頭盔
+Cosmetic.hat_Ramhorn_Black	公羊角：黑色
+Cosmetic.hat_Ramhorn_Red	公羊角：紅色
+Cosmetic.hat_Ramhorn_White	公羊角：白色
+Cosmetic.hat_Records	檔案室記錄員帽
+Cosmetic.hat_RockIce	硬岩：冰冠帽
+Cosmetic.hat_RockLava	硬岩：火山爆發
+Cosmetic.hat_Rubberglove	手套帽
+Cosmetic.hat_Rupert	魯伯特
+Cosmetic.hat_SnowbeanieGreen	凜冬已至：綠色
+Cosmetic.hat_SnowbeanieOrange	凜冬已至：橘色
+Cosmetic.hat_SnowBeaniePurple	凜冬已至：紫色
+Cosmetic.hat_SnowbeanieRed	凜冬已至
+Cosmetic.hat_Soccer	頭球
+Cosmetic.hat_TenGallon_Black	牛仔帽：黑色
+Cosmetic.hat_TenGallon_White	牛仔帽：白色
+Cosmetic.hat_ThomasC	Thomas Top
+Cosmetic.hat_ToppatHair	Cool Katie
+Cosmetic.hat_Traffic_Blue	交通堵塞帽：藍色
+Cosmetic.hat_Traffic_Red	交通堵塞帽：紅色
+Cosmetic.hat_Traffic_Yellow	交通堵塞帽：黃色
+Cosmetic.hat_Unicorn	神奇獨角獸
+Cosmetic.hat_Visor	遮陽帽
+Cosmetic.hat_Voleyball	扣球
+Cosmetic.hat_WilfordIV	Sir Wilford IV
+Cosmetic.hat_Winston	腐敗官員帽
+Cosmetic.hat_WinterGreen	防寒毛帽：綠色
+Cosmetic.hat_WinterHelmet	迷彩偽裝帽：凜冬白
+Cosmetic.hat_WinterRed	防寒毛帽：紅色
+Cosmetic.hat_WinterYellow	防寒毛帽：黃色
+Cosmetic.hat_Zipper	船員裝
+Cosmetic.nameplate_airship_CCC	Center for Chaos Containment
+Cosmetic.nameplate_airship_Diamond	鑽石！
+Cosmetic.nameplate_airship_Emerald	綠寶石！
+Cosmetic.nameplate_airship_Gems	空中保險庫
+Cosmetic.nameplate_airship_government	偉大名牌
+Cosmetic.nameplate_Airship_Hull	Airship 船體
+Cosmetic.nameplate_airship_Ruby	紅寶石！
+Cosmetic.nameplate_airship_Sky	雲端之上
+Cosmetic.nameplate_airship_Toppat	高帽 Airship
+Cosmetic.nameplate_is_dig	Dig2China
+Cosmetic.nameplate_is_game	運動
+Cosmetic.nameplate_is_ghost	幽靈高塔
+Cosmetic.nameplate_is_green	神之草地
+Cosmetic.nameplate_is_sand	眾神賜福
+Cosmetic.nameplate_is_trees	樹木
+Cosmetic.nameplate_is_yard	挖掘地點
+Cosmetic.nameplate_Mira_Cafeteria	今日特餐：披薩果汁
+Cosmetic.nameplate_Mira_Glass	地面藍天
+Cosmetic.nameplate_Mira_Tiles	六角蜂巢
+Cosmetic.nameplate_Mira_Vines	誰的藤蔓
+Cosmetic.nameplate_Mira_Wood	投射木光
+	
+Cosmetic.nameplate_NoPlate	無
+Cosmetic.nameplate_Polus_Colors	Polus 調色盤
+Cosmetic.nameplate_Polus_DVD	SimSong 狂粉
+Cosmetic.nameplate_Polus_Ground	紫色星球
+Cosmetic.nameplate_Polus_Lava	岩漿
+Cosmetic.nameplate_Polus_Planet	Polus 行星
+Cosmetic.nameplate_Polus_Snow	雪地
+Cosmetic.nameplate_Polus_SpecimenBlue	標本：藍色
+Cosmetic.nameplate_Polus_SpecimenGreen	標本：綠色
+Cosmetic.nameplate_Polus_SpecimenPurple	標本：紫色
+Cosmetic.nameplate_Polus-Skyline	Polus 地平線
+Cosmetic.nameplate_Polus-Snowmates	Polus 雪友
+Cosmetic.pet_Alien	腦洞蟲
+Cosmetic.pet_Bedcrab	壓床蟹
+Cosmetic.pet_Bush	灌木夥伴
+Cosmetic.pet_Charles	Charles 直升機
+Cosmetic.pet_Charles_Red	高帽直升機
+Cosmetic.pet_Crewmate	迷你船員
+Cosmetic.pet_Cube	神靈小子
+Cosmetic.pet_Doggy	怪狗
+Cosmetic.pet_Ellie	E. Rose
+Cosmetic.pet_EmptyPet	無
+Cosmetic.pet_test	小錯誤
+Cosmetic.pet_Hamster	漢普頓
+Cosmetic.pet_Lava	岩漿夥伴
+Cosmetic.pet_Robot	機器人
+Cosmetic.pet_Snow	雪球
+Cosmetic.pet_Squig	史奎格
+Cosmetic.pet_Stickmin	H. Stickmin
+Cosmetic.pet_UFO	飛碟
+Cosmetic.skin_Abominalskin	雪怪夥伴
+Cosmetic.skin_Archae	出土奇觀
+Cosmetic.skin_Astro	太空人
+Cosmetic.skin_Astro_blue	太空人：藍色
+Cosmetic.skin_Astro_cyan	太空人：青色
+Cosmetic.skin_Astro_orange	太空人：橘色
+Cosmetic.skin_Bling	閃亮亮
+Cosmetic.skin_Bushskin	偷偷摸摸
+Cosmetic.skin_BusinessFem-Aquaskin	辦公裙：湖水綠
+Cosmetic.skin_BusinessFemskin	辦公裙
+Cosmetic.skin_BusinessFem-Tanskin	辦公裙：褐色
+Cosmetic.skin_Capt	駕駛執照
+Cosmetic.skin_CCC	Chaos Containment 船員
+Cosmetic.skin_D2Cskin	挖掘小子
+Cosmetic.skin_General	Galeforce 將軍
+Cosmetic.skin_Hazmat	危險物處理員
+Cosmetic.skin_Hazmat-Blackskin	危險物處理員：黑色
+Cosmetic.skin_Hazmat-Blueskin	危險物處理員：藍色
+Cosmetic.skin_Hazmat-Greenskin	危險物處理員：綠色
+Cosmetic.skin_Hazmat-Pinkskin	危險物處理員：粉紅色
+Cosmetic.skin_Hazmat-Redskin	危險物處理員：紅色
+Cosmetic.skin_Hazmat-Whiteskin	危險物處理員：白色
+Cosmetic.skin_JacketGreenskin	穿上外套：綠色
+Cosmetic.skin_JacketPurpleskin	穿上外套：紫色
+Cosmetic.skin_JacketYellowskin	穿上外套：黃色
+Cosmetic.skin_Janitorskin	管理員職責
+Cosmetic.skin_Mech	我來修理
+Cosmetic.skin_MechanicRed	Airship 技師
+Cosmetic.skin_Military	軍官造型
+Cosmetic.skin_MilitaryDesert	軍官：沙漠棕
+Cosmetic.skin_MilitarySnowskin	軍官：雪白
+Cosmetic.skin_Miner	地下挖掘者
+Cosmetic.skin_MinerBlackskin	地下挖掘者：黑色
+Cosmetic.skin_None	無
+Cosmetic.skin_Police	警察
+Cosmetic.skin_prisoner	囚犯編號 2112
+Cosmetic.skin_PrisonerBlue	囚犯編號 2112：藍色
+Cosmetic.skin_PrisonerTanskin	囚犯編號 2112：褐色
+Cosmetic.skin_rhm	Right Hand Man：Reborn
+Cosmetic.skin_RockIceskin	冰中相見
+Cosmetic.skin_RockLavaskin	堅固熔岩
+Cosmetic.skin_Science	科學理論
+Cosmetic.skin_Scientist-Blueskin	醫生
+Cosmetic.skin_Scientist-Darkskin	黑暗科學家
+Cosmetic.skin_Security	維護安全
+Cosmetic.skin_Skin_SuitRedskin	高帽制服
+Cosmetic.skin_SportsBlueskin	運動比賽藍隊
+Cosmetic.skin_SportsRedskin	運動比賽紅隊
+Cosmetic.skin_SuitB	西裝筆挺
+Cosmetic.skin_SuitW	閃亮
+Cosmetic.skin_SweaterBlueskin	舒適毛衣：藍色
+Cosmetic.skin_SweaterPinkskin	舒適毛衣：粉紅色
+Cosmetic.skin_Sweaterskin	舒適毛衣
+Cosmetic.skin_SweaterYellowskin	舒適毛衣：黃色
+Cosmetic.skin_Tarmac	在此著陸
+Cosmetic.skin_ToppatSuitFem	高帽裙子
+Cosmetic.skin_ToppatVest	既得利益背心
+Cosmetic.skin_Wall	高牆衛兵
+Cosmetic.skin_Winter	穿上外套
+Cosmetic.visor_BillyG	G 先生鬍鬚
+Cosmetic.visor_Blush	害羞
+Cosmetic.visor_Bomba	不予置評
+Cosmetic.visor_Carrot	笑眼
+Cosmetic.visor_Crack	Among Us 裂痕 2021
+Cosmetic.visor_D2CGoggles	挖掘小子護目鏡
+Cosmetic.visor_Dirty	快弄乾淨
+Cosmetic.visor_Dotdot	點點點
+Cosmetic.visor_EmptyVisor	無
+Cosmetic.visor_EyepatchL	獨眼眼罩
+Cosmetic.visor_EyepatchR	獨眼眼罩
+Cosmetic.visor_Galeforce	Galeforce 鬍鬚
+Cosmetic.visor_is_beard	鬍鬚
+Cosmetic.visor_JanitorStache	幽靈鬍鬚
+Cosmetic.visor_Krieghaus	Krieghaus 鬍鬚
+Cosmetic.visor_Lava	熔化頭盔
+Cosmetic.visor_LolliBlue	棒棒糖：藍色
+Cosmetic.visor_LolliBrown	棒棒糖：棕色
+Cosmetic.visor_LolliOrange	棒棒糖：橘色
+Cosmetic.visor_LolliRed	棒棒糖
+Cosmetic.visor_mira_card_blue	通行證：藍色
+Cosmetic.visor_mira_card_red	通行證：紅色
+Cosmetic.visor_mira_glasses	眼鏡
+Cosmetic.visor_mira_mask_black	防毒面具：黑色
+Cosmetic.visor_mira_mask_blue	防毒面具：藍色
+Cosmetic.visor_mira_mask_green	防毒面具：綠色
+Cosmetic.visor_mira_mask_purple	防毒面具：紫色
+Cosmetic.visor_mira_mask_red	防毒面具：紅色
+Cosmetic.visor_mira_mask_white	防毒面具：白色
+Cosmetic.visor_Mouth	巨口蟲怪
+Cosmetic.visor_PiercingL	耳環
+Cosmetic.visor_PiercingR	耳環
+Cosmetic.visor_pk01_AngeryVisor	憤怒粗眉
+Cosmetic.visor_pk01_DumStickerVisor	便利貼
+Cosmetic.visor_pk01_FredVisor	強悍守門員
+Cosmetic.hat_geoff	我是 Geoff
+Cosmetic.visor_pk01_HazmatVisor	防毒面具
+Cosmetic.visor_pk01_MonoclesVisor	雙眼眼鏡
+Cosmetic.visor_pk01_PaperMaskVisor	保命口罩
+Cosmetic.visor_pk01_PlagueVisor	瘟疫鳥喙
+Cosmetic.visor_pk01_RHMVisor	Right Hand 鬍鬚
+Cosmetic.visor_pk01_Security1Visor	墨鏡
+Cosmetic.visor_polus_ice	冰晶淚
+Cosmetic.visor_Reginald	Reginald 鬍鬚
+Cosmetic.visor_Scar	傷疤
+Cosmetic.visor_SciGoggles	安全第一
+Cosmetic.visor_shopglasses	奸商眼鏡
+Cosmetic.visor_SkiGoggleBlack	滑雪護目鏡：黑色
+Cosmetic.visor_SKiGogglesOrange	滑雪護目鏡：橘色
+Cosmetic.visor_SkiGogglesWhite	滑雪護目鏡
+Cosmetic.visor_SmallGlasses	迷你鏡片
+Cosmetic.visor_SmallGlassesBlue	迷你鏡片：藍色
+Cosmetic.visor_SmallGlassesRed	迷你鏡片：紅色
+Cosmetic.visor_Stickynote_Cyan	便利貼：青色
+Cosmetic.visor_Stickynote_Green	便利貼：綠色
+Cosmetic.visor_Stickynote_Orange	便利貼：橘色
+Cosmetic.visor_Stickynote_Pink	便利貼：粉紅色
+Cosmetic.visor_Stickynote_Purple	便利貼：紫色
+Cosmetic.visor_Straw	嘴叼麥稈
+Cosmetic.visor_WinstonStache	副駕駛鬍鬚
+Visor	臉部裝飾
+EquipLabel	裝備
+NamePlate	名牌
+Visors	臉部裝飾
+NamePlates	名牌
+Cosmicube	Cosmicube
+Cosmicubes	Cosmicubes
+Activate	啟用
+Deactivate	停用
+Owned	已擁有
+Purchase	購買
+CosmicubeProgression	已完成 {0}%
+ViewCube	檢視方塊
+ConfirmPurchaseHeader	確認購買
+ConfirmPurchaseText	要購買以下的 {0}分支嗎？
+DeactivateCube	停用
+ActivateCube	啟用
+Bundles	組合包
+Stars	星星
+Wardrobe	衣櫃
+PlayerLevel	等級
+PlayerXp	經驗值
+PlayerLevelExtremeShorthand	等級
+Max	最高
+Colors	色彩
+CopiedText	已複製文字！
+LinkAccount	連結帳號
+CreateNewAccount	建立新帳號
+LinkExistingAccount	連結現有帳號
+LinkAccountExplanation	如果您在其他平台上已有《Among Us》帳號，便可連結到該帳號！\n或者可以建立新帳號。
+LinkAccountCode	在 <link="{0}">{1}</link> \n<size=+2>{2}</size> 輸入以下代碼
+ErrorLink	連結帳號時發生錯誤。請稍後再試。
+UnlinkAccount	取消連結帳號
+ConfirmUnlinkAccount	確認取消連結帳號
+UnlinkAccountExplain	取消連結您的 {0} 帳號將清除您的資料並建立新的 {0} 帳號。\n- 您將失去 {0} 帳號上已獲得或已解鎖的物品。\n- 您將從等級 1 與 0 經驗值重新開始。
+UnlinkAccountExplainConfirm	請儲存此識別碼以供備查：\n\n{0}\n\n如果您取消連結帳號時沒有此識別碼，若過程出錯時我們便無法復原您的進度，並且無法提供協助。
+UnlinkError	取消連結帳號時發生錯誤。請稍後再試。
+UnlinkSuccess	您已成功取消 {0} 與《Among Us》主要帳號的連結！
+ConfirmLinkExistingAccount	確認連結至現有帳號
+LinkExistingAccountExplain	連結至不同帳號將覆蓋此平台上的所有資料，這代表您的 {0}《Among Us》帳號將被其他帳號取代。\n- 您 {0} 帳號上所有已解鎖的物品將被覆蓋。\n- 您 {0} 帳號上所有已獲得的經驗值將被覆蓋。\n- 所有的豆豆、艙室與星星將被覆蓋。
+LinkExistingAccountExplainConfirm	待您確認後，我們將重設您的{0}《Among Us》帳號，以便準備匯入不同帳號的資料。\n\n<color=#{1}>請確認您有另一個欲連結此帳號的現有帳號之後再繼續。</color>\n\n重設您的 {0} 帳號將清空所有經驗值、豆豆、艙室與物品。我們將「無法」還原此操作。
+ResetAccount	重設帳號
+	
+PurchasingLabel	購買物品
+	
+ErrorInternalServer	內部伺服器錯誤 (代碼 {0})
+ErrorPlatformLock	此房間的建立者已將房間設為僅限相同平台的玩家加入
+ErrorLobbyInactivity	由於遊戲處於非使用狀態，伺服器已關閉此房間
+ErrorMatchmakerInactivity	由於遊戲處於非使用狀態，伺服器已中斷您的連線
+ErrorInvalidGameOptions	接收到的遊戲選項無效。您可能需要清除所有儲存資料並重新啟動遊戲。
+ErrorNoServersAvailable	沒有可用的伺服器。抱歉！請稍後再試一次。
+ErrorQuickmatchDisabled	QuickMatch 功能目前無法使用。請嘗試加入他人的遊戲。
+ErrorTooManyGames	目前正在進行的遊戲過多。請嘗試加入他人的遊戲。
+Bundle.hat_holiday2018	2018 聖誕帽組合包
+Bundle.hats_bundle2	1 百萬次下載帽子組合包
+Bundle.hats_halloween2019	2019 萬聖節帽組合包
+Bundle.hats_newyears2018	2018 新年帽組合包
+Bundle.map_airship	Airship 組合包
+Bundle.map_mira	MIRA 組合包
+Bundle.map_polus	Polus 組合包
+Bundle.pet_alien1	腦洞蟲寵物組合包
+Bundle.pet_alien2	壓床蟹寵物組合包
+Bundle.pet_animal	動物寵物組合包
+Bundle.pet_crewmate	船員寵物組合包
+Bundle.pet_stickmin	Stickmin 寵物組合包
+StoreComingSoon	敬請期待...
+	
+StartCosmicubeLabel	開始
+Bundle.star_bundle	星星組合包
+ErrorPlatformParentalControlsBlock	您的 Parental Controls 設定或您欲加入其遊戲之玩家的 Parental Controls 設定不允許你們一起遊玩。
+ErrorPlatformParentalControlsBlockPS	您的家長監控設定或您欲加入其遊戲之玩家的家長監控設定不允許你們一起遊玩。
+FailPurchase	交易時發生錯誤。請稍後再試。
+FailPurchaseUnknown	錯誤代碼 {0}
+FailPurchaseAlreadyOwn	您已擁有此物品。
+FailPurchaseCurrency	您沒有足夠的所需貨幣可購買此物品。
+FailPurchaseCubeOwn	您未擁有此Cosmicube。
+Locked	未解鎖
+	
+Active	已啟用
+Crewmates	船員
+XpGainedValue	{0}經驗值
+	
+XboxShopBrowseAll	在 Microsoft Store 上瀏覽所有物品
+PSShopBrowseAll	在 PlayStation™Store 上瀏覽所有物品
+Equipped	已裝備
+	
+MouseMovement	滑鼠移動
+KeyboardOptions	鍵盤選項
+RemapBindings	變更按鍵綁定
+KeyboardBindingsHeader	鍵盤綁定
+HowToPlayText_Consoles	與 4 到 15 個玩家在線上一起遊玩！
+	
+StarDisclaimer	購買《Among Us》星星來解鎖大批新自訂內容！在遊戲內商店花費星星，取得獨家造型物品和獨特的造型方塊。在此購買的所有星星皆無法在 PlayStation® 或 Nintendo Switch™ 上兌換及使用。
+	
+Commsdisabled	[通訊失靈]
+ErrorQuickChatMode	聊天模式錯誤：此房間為{0}房間，但您的設定為{1}。
+
+	
+ErrorLobbyUsersBlocked	無法加入：大廳中含有封鎖名單上的使用者或是將您封鎖的使用者。請嘗試其他大廳。
+SteamNotInitialized	Steam 未正確初始化。請從 Steam 重新啟動遊戲後再試一次。
+LoggedInErrorStarPurchase	您必須登入帳號才能購買星星
+ErrorDisconnectPacket	您與伺服器的連線已中斷。
+AndroidAssetBundleWarning	必須下載額外內容才能完成《Among Us》的安裝程序。請按「接受」以繼續。
+ItchNoStars	很抱歉，您無法在 itch.io 上購買星星。不過您可以將 itch.io 帳號連結到其他平台 (如其他 PC 版本)，即可在該平台購買並使用星星！請注意：在 Nintendo Switch™ 上購買的星星無法跨平台使用，因此無法在其他平台兌換。
+Roles	職業
+RolesSettings	職業設定
+ScientistRole	科學家
+EngineerRole	工程師
+GuardianAngelRole	守護天使
+ShapeshifterRole	變形者
+ScientistBlurb	隨時使用生命監測器
+EngineerBlurb	可使用通風口
+GuardianAngelBlurb	保護倖存船員
+ShapeshifterBlurb	自我偽裝
+CrewmateBlurb	完成任務
+ImpostorBlurb	殺人與破壞
+RolesHelp_CrewmateRole	船員身分：{0}
+RolesHelp_ImpostorRole	內鬼身分：{0}
+RolesHelpIntro_01	身份機制為這款經典遊戲再添一層技術成份，大家必須爾虞我詐、奇招盡出！
+RolesHelpIntro_02	船員與內鬼都會擁有一個隨機分配的身份，這部份會以遊戲房長所安排的遊戲設定為主。
+RolesHelp_Scientist_01	科學家能夠在任何地方使用可攜式生命面板查看其他船員的狀態。
+RolesHelp_Scientist_02	不過，這個面板會消耗電能，科學家們必須要完成任務後才能幫面板充電。
+RolesHelp_Engineer_01	船員當中的工程師能夠使用通風管迅速移動，也能夠在這樣的過程中找到正在使用通風管的內鬼。
+RolesHelp_Engineer_02	但你沒辦法一直待在通風管裡面，而且你這麼做會容易引起他人的懷疑，所以在使用通風管時，請務必要小心謹慎……
+RolesHelp_GuardianAngel_01	守護天使是一種船員的鬼魂形態。這些守護天使能夠暫時啟動護盾保護其他還活著的船員。
+RolesHelp_GuardianAngel_02	抓準時機使用這個技能，就能夠阻止內鬼殺掉身旁的受害者。幸運！
+RolesHelp_Shapeshifter_01	變形者能夠改變自己的樣貌，並偽裝成其他船員的樣子。技術夠好的話，你就能靠這招來陷害其他船員，並製造混亂，讓大家搞不清楚誰才是真正的船員！
+RolesHelp_Shapeshifter_02	但你可要小心了，因為偽裝並不是永久有效的，而且還會讓你留下證據把柄。
+RolesHelpOutro_01	大家會可以自訂這些身份的細節設定！遊戲房長可以指定工程師能夠使用通風管多少次，或是變形者技能的冷卻時間有多長，諸如此類。此外，遊戲房長也可以選擇這些身份在遊戲中出現的百分比機率。你隨時都能夠前往遊戲大廳的設定頁面，以查看該遊戲大廳是否有啟動身份機制！
+RolesHelpOutro_02	我們歡迎大家按照自己的喜好嘗試不同的設定，為你的大廳安排出最棒的遊戲體驗，或是加入其他人的大廳，看看場面有多混亂。我們日後還會不斷推出新的身份，想要了解更多資訊的話，別忘了要回來這邊查看最新的資訊。我們祝你玩得開心！
+YourRoleIs	您的職業是
+ShapeshiftAbility	變形
+VitalsAbility	生命
+ProtectAbility	保護
+VentAbility	通風口
+ShapeshiftAbilityUndo	解除
+RoleChanceAndQuantity	機率 {1}%，最多 {0} 名
+CheckingPurchasesLabel	正在確認購買...
+ProtectedRecently	守護天使最近保護了某個人...
+ScientistBlurbMed	隨時使用生命監測能力。\n完成任務即可充電。
+ScientistBlurbLong	科學家可以隨時使用可攜式生命監測面板查看船員狀態。不過，可攜式生命監測面板需要充電，因此科學家需要完成任務才能充電。
+EngineerBlurbMed	可使用通風口。
+EngineerBlurbLong	身為船員的工程師可使用通風口加速移動，也能當場抓到通風口的偽裝者。您無法永遠待在通風口裡，因此請小心通風口附近的人...
+GuardianAngelBlurbMed	為倖存船員展開護盾。
+GuardianAngelBlurbLong	守護天使是最先死亡的船員變成的鬼魂。可以短暫放出護盾保護其他活著的船員。抓好時機就能就能防止偽裝者殺掉受害者。真是萬幸！
+ShapeshifterBlurbMed	變身成其他船員來偽裝自己。
+ShapeshifterBlurbLong	變形者可以改變容貌，偽裝成其他船員。運用得當能陷害其他船員，並混淆偽裝者真正的身分。但要小心，偽裝不會永遠保持，而且會留下證據。
+RoleHint	提示
+ScientistBatteryCharge	續航時間
+ScientistCooldown	生命監測器冷卻時間
+ShapeshifterCooldown	變形冷卻時間
+ShapeshifterDuration	變形時間
+ShapeshifterLeaveSkin	留下變形證據
+EngineerCooldown	使用通風口冷卻時間
+EngineerInVentCooldown	通風口滯留時限
+GuardianAngelCooldown	保護冷卻時間
+GuardianAngelDuration	保護時間
+OracleRole	先知
+OracleBlurb	知道其中一位船員並非偽裝者
+OracleBlurbMed	知道其中一位船員並非偽裝者。
+OracleBlurbLong	先知是船員，並且知道其中一位船員並非偽裝者
+Cosmetic.hat_heim	Heimerdinger 髮型
+Cosmetic.hat_enforcer	執法者頭盔
+Cosmetic.hat_caitlin	Caitlyn 帽子
+Cosmetic.hat_clagger	Claggor 護目鏡
+Cosmetic.hat_vi	Vi 髮型
+Cosmetic.hat_jinx	Jinx 髮型
+Cosmetic.hat_jayce	Jayce 髮型
+Cosmetic.hat_comper	手榴彈
+Cosmetic.visor_heim	Heimerdinger 鬍鬚
+Cosmetic.visor_jinx	Jinx 護目鏡
+Cosmetic.skin_heim	Heimerdinger 服裝
+Cosmetic.skin_jayce	Jayce 西裝
+Cosmetic.skin_enforcer	執法者盔甲
+Cosmetic.skin_caitlin	Caitlyn 制服
+Cosmetic.skin_jinx	Jinx 衣服
+Cosmetic.skin_vi	Vi 衣服
+Cosmetic.pet_poro	Heimerdinger 的 Poro
+RedeemPurchasedItemsTitle	兌換購買的物品
+RedeemPurcahsedItemsExplain	我們推出了全新的物品庫系統，這樣玩家就可以跨平台存取物品！先前在此平台的購買的任何物品都可以有一次機會轉移至新的物品庫系統。\n如果這是您的《Among Us》主要帳號 (您最常遊玩《Among Us》的平台)，則可以安心地按一下「繼續」，在全新的物品庫系統中兌換購買的可下載內容。如果這是您想用來連結主要帳號的帳號，只能於連結後兌換！\n\n帳號識別碼：{0}
+RedeemProceed	繼續
+RedeemNotYet	現在不要
+RedeemNever	不再詢問
+AccountIDDisplay	帳號識別碼：{0}
+Cosmetic.hat_witch_white	巫婆帽：白色
+Cosmetic.hat_witch_pink	巫婆帽：粉紅色
+Cosmetic.hat_witch_murky	巫婆帽：漆黑
+Cosmetic.hat_witch_green	巫婆帽：綠色
+Cosmetic.hat_papermask	怪物頭罩：淺色
+Cosmetic.hat_mohawk_rainbow	搖滾龐克頭：彩虹
+Cosmetic.hat_mohawk_purple_green	搖滾龐克頭：紫綠
+Cosmetic.hat_mohawk_bumblebee	搖滾龐克頭：大黃蜂
+Cosmetic.hat_devilhorns_yellow	驚駭惡魔：金色
+Cosmetic.hat_devilhorns_white	驚駭惡魔：白色
+Cosmetic.hat_devilhorns_murky	驚駭惡魔：漆黑
+Cosmetic.hat_devilhorns_green	驚駭惡魔：綠色
+Cosmetic.hat_devilhorns_crewcolor	驚駭惡魔：船員色彩
+Cosmetic.hat_devilhorns_black	驚駭惡魔：黑色
+Cosmetic.hat_cat_grey	蝙蝠帽：灰色
+Cosmetic.hat_cat_snow	蝙蝠帽：雪白
+Cosmetic.hat_cat_pink	蝙蝠帽：粉紅色
+Cosmetic.hat_cat_orange	蝙蝠帽：橘色
+Cosmetic.hat_wolf_grey	狼人頭飾：灰色
+Cosmetic.hat_wolf_murky	狼人頭飾：漆黑
+Cosmetic.hat_bat_ice	蝙蝠翅膀：冰晶白
+Cosmetic.hat_bat_green	蝙蝠翅膀：綠色
+Cosmetic.hat_bat_crewcolor	蝙蝠翅膀：船員色彩
+Cosmetic.skin_mummy	木乃伊找媽咪
+Cosmetic.visor_mummy	包大人
+Cosmetic.hat_mummy	木乃伊之母
+Cosmetic.hat_candycorn	糖果玉米
+Cosmetic.hat_clown_purple	小丑鎮
+Cosmetic.hat_fairywings	振翅妖精
+Cosmetic.hat_fishhed	魚頭
+Cosmetic.hat_frankenbolts	螺絲怪人
+Cosmetic.hat_frankenbride	科學怪妻
+Cosmetic.visor_clownnose	譁眾取寵
+Cosmetic.visor_masque_blue	假面：藍色
+Cosmetic.visor_masque_green	假面：綠色
+Cosmetic.visor_masque_red	假面：紅色
+Cosmetic.visor_masque_white	假面：白色
+Cosmetic.nameplate_hw_pumpkin	南瓜燈
+Cosmetic.nameplate_hw_candy	糖果時間
+Cosmetic.nameplate_hw_woods	恐怖樹林
+Cosmetic.hat_axe	頭痛欲裂
+Cosmetic.visor_eyeball	緊盯不放
+Cosmetic.hat_tombstone	斷魂之墓
+Cosmetic.hat_bone	骨頭帽
+Cosmetic.hat_arrowhead	箭頭
+Cosmetic.hat_glowstick	徹夜狂歡
+Cosmetic.skin_clown	滑稽小丑
+Cosmetic.skin_fairy	妖精船員
+Cosmetic.skin_fishmonger	魚販
+Cosmetic.skin_pumpkin	超大南瓜褲
+Cosmetic.skin_vampire	我想吸血
+Cosmetic.skin_witch	怪異巫婆
+Cosmetic.pet_frankendog	科學怪犬
+Cosmetic.hat_mohawk_bubblegum	搖滾龐克頭：泡泡糖
+AvailableFor	下架倒數\n{0} 天 {1} 小時 {2} 分 {3} 秒
+GuardianAngelImpostorSeeProtect	偽裝者可看見保護
+Cosmetic.hat_pkHW01_PlagueHat	瘟疫鳥喙
+	
+QCAccIsRole	{0}是{1}
+QCAccIsRole_QCCrewMe_ANY	我是{0}
+QCAccIsRoleNeg	{0}不是{1}
+QCAccIsRoleNeg_QCCrewMe_ANY	我不是{0}
+QCAccIsRoleNeg_QCCrewNoOne_ANY	沒有人是{1}
+QCAccShapeshited	{0}變形成{1}
+QCAccShapeshited_QCCrewMe_ANY	我變形成{1}
+QCStaShapeshifterSkin	在{0}發現變形者外觀
+QCResIsBeingFramed	{0}被誣陷了
+QCResIsBeingFramed_QCCrewMe	我被誣陷了
+QCResCloseTo	{0}離{1}很近
+QCResCloseTo_QCCrewMe_ANY	我離{0}很近
+QCResCloseTo_ANY_QCCrewMe	{0}離我很近
+QCResIsRoleMaybe	{0}可能是{1}
+QCResIsRoleMaybe_QCCrewMe_ANY	我可能是{1}
+QCResProtected	{0}保護了{1}
+QCResProtected_QCCrewMe_ANY	我保護了{1}
+QCResProtected_ANY_QCCrewMe	{0}保護了我
+QCRoles	職業
+GuestProgressionWarning	您已登入訪客帳號！\n\n所有已取得的經驗值、艙室及豆豆只能套用於此訪客帳號。訪客帳號僅會與您的實體裝置連結，更換裝置將無法繼續使用此帳號。\n\n為確保您能存取所有獲得的貨幣和購買物品，請開啟主畫面中的帳號分頁，登入您的《Among Us》帳號。
+	
+ErrorFailedToCreateGame	建立遊戲連線區失敗。請稍後再試。
+ErrorFailedToJoinCreatedGame	建立遊戲連線區後加入失敗。請稍後再試。
+ErrorDisconnectBeforeJoining	加入遊戲連線區時中斷連線。
+	
+PSEULA_SIEA	
+PSEULA_SIEE	
+ErrorCrossPlatformCommunication	您的溝通交流設定使您無法加入遊戲。如要加入此遊戲，請啟用跨平台遊玩溝通交流功能。
+ErrorCrossPlat	您要加入的是跨平台房間，不過您在本地設定中已停用跨平台遊玩功能
+ErrorDuplicateConnection	偵測到重複登入。
+ErrorLobbyFailedGettingBlockedUsers	無法加入：取得封鎖名單時出現伺服器錯誤
+	
+MaxVentUses	通風口使用上限
+MaxTimeInVent	通風口滯留時限
+MinCrewmatesForVitals	解鎖生命監測器最少所需的存活船員數
+ShowAccountID	顯示帳號識別碼
+HideAccountID	隱藏帳號識別碼
+HiddenAccountID	[已隱藏帳號識別碼]
+AllTasksComplete	完成所有任務！
+EscapePrompt	船員逃脫時間：
+FlashlightFov	手電筒視野
+SteamOverlayDisabled	您必須啟用 Steam 內嵌介面才能購買星星組合包。請啟用遊戲內 Steam 內嵌介面，然後重新啟動遊戲。
+Cosmetic.hat_pk05_RHM	Right Hand 帽
+	
+Cosmetic.skin_w21_deer	雨鹿
+Cosmetic.skin_w21_elf	聖誕老人小幫手
+Cosmetic.skin_w21_msclaus	聖誕夫人
+Cosmetic.skin_w21_nutcracker	胡桃鉗
+Cosmetic.skin_w21_santa	聖誕老人駕到！
+Cosmetic.skin_w21_snowmate	雪人夥伴
+Cosmetic.hat_w21_snowman	舊禮帽
+Cosmetic.hat_w21_gingerbread	薑餅船員
+Cosmetic.hat_w21_holly	佳節裝飾
+Cosmetic.hat_w21_krampus	坎卜斯
+Cosmetic.hat_w21_log	耶魯節圓木帽
+Cosmetic.hat_w21_mistletoe	槲寄生親吻帽
+Cosmetic.hat_w21_mittens	連指手套帽
+Cosmetic.hat_w21_nutcracker	黑色高禮帽
+Cosmetic.hat_w21_pinecone	松果帽
+Cosmetic.hat_w21_winterpuff	舒適絨球帽
+Cosmetic.hat_w21_snowflake	雪花帽
+Cosmetic.visor_w21_carrot	紅蘿蔔鼻
+Cosmetic.visor_w21_nutstache	胡桃鉗鬍鬚
+Cosmetic.visor_w21_santabeard	聖誕老人鬍子
+Cosmetic.nameplate_w21_snow	閃亮雪花
+Cosmetic.nameplate_w21_tree	點點星光
+Cosmetic.nameplate_w21_fireplace	溫暖煙囪旁
+Cosmetic.visor_w21_nye	新年快樂：2021
+Cosmetic.hat_w21_elf_pink	小幫手帽：粉紅色
+Cosmetic.hat_w21_elf_swe	小幫手帽：藍色
+Cosmetic.hat_w21_lights_white	佳節光輝：白色
+Cosmetic.hat_w21_lights_yellow	佳節光輝：黃色
+Cosmetic.hat_w21_present_evil	禮物包裝：紅色/黑色
+Cosmetic.hat_w21_present_redwhite	禮物包裝：紅色/白色
+Cosmetic.hat_w21_present_whiteblue	禮物包裝：白色/藍色
+Cosmetic.hat_w21_santa_evil	送禮老兄：頑皮
+Cosmetic.hat_w21_santa_yellow	送禮老兄：鍍金
+Cosmetic.hat_w21_santa_green	送禮老兄：森林
+Cosmetic.hat_w21_santa_mint	送禮老兄：薄荷
+Cosmetic.hat_w21_santa_pink	送禮老兄：粉紅
+Cosmetic.hat_w21_santa_white	送禮老兄：冰凍
+Cosmetic.hat_w21_snowman_swe	雪人：藍色/黃色
+Cosmetic.hat_w21_snowman_evil	雪人：頑皮
+Cosmetic.hat_w21_snowman_greenred	雪人：綠色
+Cosmetic.hat_w21_snowman_redgreen	雪人：紅色/綠色
+Cosmetic.hat_w21_present_greenyellow	禮物包裝：綠色/黃色
+Cosmetic.hat_w21_candycane_blue	拐杖糖：藍莓
+Cosmetic.hat_w21_candycane_bubble	拐杖糖：泡泡糖
+Cosmetic.hat_w21_candycane_chocolate	拐杖糖：薄荷巧克力
+Cosmetic.hat_w21_candycane_mint	拐杖糖：薄荷
+Cosmetic.skin_w21_tree	翠綠枝葉
+StatsRoleWins	{0}職業勝利次數：\t
+StatsEngineerVents	工程師使用通風口次數：\t
+StatsScientistChargesGained	科學家獲得充電次數：\t
+StatsGuardianAngelCrewmatesProtected	守護天使成功保護船員次數：\t
+StatsShapeshifterShiftedKills	變形者變形時殺人次數：\t
+QCOnlyInfo	您在遊玩期間只能使用快速聊天功能，且只能與其他使用快速聊天功能的使用者一同遊玩。
+FreeChatInfo	您在遊玩期間能夠使用自由聊天和快速聊天功能，且只能與其他使用自由聊天功能的使用者一同遊玩。
+FreeChatWarning	您必須先登入才能使用自由聊天功能。如果您是使用未成年帳號登入，請前往帳號分頁並取得監護人的許可來啟用自由聊天功能。
+FreeChatLinkWarning	傳送 URL 是不被允許的！您的訊息並未送出。
+ScreenShakeOption	畫面晃動
+StreamingTwitch	開始在 Twitch 直播
+AnnouncementFailFetchData	無法取得公告。
+AnnouncementFailFetchData_LastKnown	無法取得公告。最後已知：
+	
+Cosmetic.pet_clank	克拉克
+Cosmetic.pet_GuiltySpark	記罪者
+Cosmetic.hat_halospartan	超級戰士頭盔
+Cosmetic.hat_ratchet	拉捷特的帽子
+Cosmetic.skin_halospartan	超級戰士護甲
+Cosmetic.skin_ratchet	拉捷特的連身服
+Cosmetic.skin_screamghostface	驚聲尖叫長袍
+Cosmetic.hat_screamghostface	驚聲尖叫面具
+	
+AmongUsFriends	《Among Us》朋友
+FriendsGuestWarning	您必須登入才能使用此功能。
+PlatformFriends	平台朋友
+BlockedPlayers	封鎖的玩家
+RecentPlayers	最近一起遊玩的玩家
+LobbyLabel	大廳
+FriendCodeExplanation	《Among Us》現已推出「朋友名單」！在下方選擇一個獨特的朋友編號，即可傳送和接收朋友或遊戲申請。\n\n編號一經選擇就無法變更。
+FriendCodeSuccess	您的朋友編號是 {0}
+FriendRequestReceived	已收到朋友申請
+FriendRequestSent	已傳送朋友申請
+GameLobbyInviteSent	已傳送遊戲邀請
+GameLobbyInviteReceived	已收到遊戲邀請
+BlockPlayerConfirm	要封鎖玩家嗎？
+RemoveFriendConfirm	要移除朋友嗎？
+InviteToLobbyConfirm	要傳送遊戲邀請嗎？
+FriendCodeLabel	朋友編號
+FriendCodeCreationTitle	選擇朋友編號
+FriendRequestSentFailed	無法傳送朋友申請
+ErrorBadUsername	朋友編號格式無效。請輸入完整的朋友編號再試一次 (例如 SmallBeans#0001)
+ErrorUserNotFound	朋友編號不存在
+ErrorPlatformFriends	無法取得您的平台朋友
+ErrorThisIsYou	抱歉，您無法將自己新增為朋友。
+ErrorFriendRequestExists	您已向這名使用者傳送了朋友申請
+ErrorAlreadyFriends	您已是這名使用者的朋友。太好啦！
+GameLobbyInviteSentFailed	無法傳送遊戲邀請
+BlockedPlayerFailed	無法封鎖玩家
+BlockedPlayer	已封鎖玩家
+AlreadyBlocked	這名玩家已遭封鎖
+FriendList	朋友名單
+NoNewRequests	未收到申請
+AddFriendPrompt	使用編號來新增朋友
+NewRequests	{0} 個新申請！
+Requests	申請
+AddFriend	新增朋友
+StreamWarning	除非您想讓每個人都知道您的朋友編號，否則不要將其公開！
+FriendsListPermissionsWarning	您必須獲得監護人的許可才能使用此功能。
+AddFriendConfirm	要向 {0} 傳送朋友申請嗎？
+UnfriendConfirm	要與 {0} 解除朋友關係嗎？
+UnblockConfirm	要將 {0} 解除封鎖嗎？
+SettingsEnableFriendInvites	朋友與大廳邀請
+ErrorTooManyRequests	大廳申請的數量過多。請稍待幾分鐘後再試一次。
+TempDisabled	暫時停用
+TempDisabledLinkExplain	帳號正進行變更。我們暫時限制了連結現有帳號的功能。這將盡快在日後的更新中修正！
+RedeemPopup	這是來自船員的禮物！\n{0}。
+RedeemButton	兌換
+ErrorMaxFriends	您的朋友名單已滿。
+ErrorPlayerBlockedYou	錯誤：使用者列於您的封鎖名單或使用者封鎖您。
+ErrorRecipientMaxFriendRequests	錯誤：使用者的朋友申請數已達上限，無法接收更多申請。
+ErrorSenderMaxFriendRequests	錯誤：您已送出太多則朋友申請。
+ErrorRecipientMaxFriends	錯誤：使用者的朋友名單已滿。
+ViewRequests	檢視申請
+ParentPortalButton	申請許可
+FriendsListEmailSent	我們剛才向您的家長或監護人傳送要求額外朋友名單許可的電子郵件。請讓他們查看他們的電子郵件。
+Decontamination3	下除污室
+ErrorCommunications	您的溝通交流設定使您無法加入遊戲。如要加入此遊戲，請啟用與他人交流的功能。
+SettingsColorblind	色盲文字
+MergeGuestAccountText	此裝置上似乎有<link="https://www.innersloth.com/merging-guest-accounts/">訪客帳號</link> ！我們現在已不再支援訪客帳號，並且會將您訪客帳號的所有物品、貨幣與紀錄合併至這個 {0} 帳號。\n\n如果您與其他人共用此裝置 (電腦、手機等等)，請留意此訪客帳號是所有使用此裝置的人共用的。如果您選擇繼續，未來此裝置上的其他使用者將無法合併此訪客帳號，因為此訪客帳號只可進行一次合併。您將無法再次重新分配已連接到此訪客帳號的物品、貨幣與紀錄。\n\n請確認您要將訪客帳號合併至這個 {0} 帳號。
+MergeGuestAccountTitle	合併訪客帳號
+ManageAccountTitle	管理帳號
+ManageAccountText	若要管理您的帳號、進行合併，或有其他問題，請前往<link="https://accounts.innersloth.com/">https://accounts.innersloth.com</link> 。
+CurrencyBeans	豆豆
+CurrencyPods	{MapName} 艙室
+	
+Cosmetic.visor_BaconVisor	很高興見到你
+Cosmetic.hat_Baguette	頭頂長棍
+Cosmetic.skin_Bananaskin	魔性香蕉
+Cosmetic.visor_BananaVisor	滑倒香蕉皮
+Cosmetic.nameplate_BlimeyPlate	天哪！
+Cosmetic.skin_BlueApronskin	接受點餐：便利
+Cosmetic.skin_BlueSuspskin	藍檸檬小伙子
+Cosmetic.hat_BreadLoaf	打拚換麵包
+Cosmetic.nameplate_BreadPlate	麵包最棒
+Cosmetic.pet_BredPet	麵包寵物
+Cosmetic.visor_BubbleBumVisor	美味泡泡
+Cosmetic.hat_Butter	融化奶油
+Cosmetic.skin_ChefBlackskin	要煮什麼？：黑色
+Cosmetic.pet_ChewiePet	軟糖船員
+Cosmetic.visor_CucumberVisor	美容覺
+Cosmetic.nameplate_EggPlate	大巨蛋！
+Cosmetic.pet_HamPet	火腿寵物
+Cosmetic.skin_Hotdogskin	銅板價熱狗
+Cosmetic.visor_IceCreamChocolateVisor	悲傷霜淇淋：巧克力
+Cosmetic.visor_IceCreamMintVisor	悲傷霜淇淋：薄荷
+Cosmetic.visor_IceCreamStrawberryVisor	悲傷霜淇淋：草莓
+Cosmetic.visor_IceCreamUbeVisor	悲傷霜淇淋：香芋
+Cosmetic.hat_OrangeHat	小柑橘
+Cosmetic.skin_OrangeSuspskin	橘夢
+Cosmetic.hat_PancakeStack	高熱量鬆餅
+Cosmetic.hat_Pineapple	旺到爆
+Cosmetic.skin_PinkApronskin	接受點餐：杯子蛋糕
+Cosmetic.nameplate_PinkPlate	粉紅葡萄柚
+Cosmetic.nameplate_PizzaPlate	美味切片
+Cosmetic.hat_PizzaSliceHat	必勝嗑
+Cosmetic.visor_PizzaVisor	想來一片嗎？
+Cosmetic.nameplate_PlatePlate	我就盤
+Cosmetic.hat_StrawberryLeavesHat	害羞草莓
+Cosmetic.hat_ToastButterHat	奶油吐司
+Cosmetic.visor_ToastVisor	快遲到了
+Cosmetic.skin_YellowApronskin	接受點餐：酒吧
+Cosmetic.skin_YellowSuspskin	黃檸檬姑娘
+Cosmetic.skin_PinkSuspskin	葡萄柚裝
+	
+Cosmetic.hat_BananaGreen	香蕉皮：未熟
+Cosmetic.hat_BananaPurple	香蕉皮：合成紅
+Cosmetic.hat_cheeseBleu	香濃乳酪：藍紋乳酪
+Cosmetic.hat_cheeseMoldy	香濃乳酪：臭乳酪
+Cosmetic.hat_cheeseSwiss	香濃乳酪：瑞士乳酪
+Cosmetic.hat_ChefWhiteBlue	我是大廚帽：大廚白
+Cosmetic.hat_cherryOrange	點綴櫻桃：雷尼爾櫻桃
+Cosmetic.hat_cherryPink	點綴櫻桃：粉紅櫻桃
+Cosmetic.hat_chocolateCandy	霜淇淋：泡泡糖
+Cosmetic.hat_chocolateMatcha	霜淇淋：抹茶
+Cosmetic.hat_chocolateVanillaStrawb	霜淇淋：草莓香草
+Cosmetic.hat_croissant	香酥可頌
+Cosmetic.hat_eggGreen	荷包蛋：綠色
+Cosmetic.hat_eggYellow	荷包蛋：太陽蛋
+Cosmetic.skin_ApronGreen	接受點餐：拿鐵
+Cosmetic.skin_ChefBlue	要煮什麼？：藍色
+Cosmetic.skin_ChefRed	要煮什麼？
+Cosmetic.hat_IceCreamMatcha	兩球霜淇淋：抹茶
+Cosmetic.hat_IceCreamMint	兩球霜淇淋：薄荷
+Cosmetic.hat_IceCreamNeo	兩球霜淇淋：拿坡里
+Cosmetic.hat_IceCreamStrawberry	兩球霜淇淋：草莓
+Cosmetic.hat_IceCreamUbe	兩球霜淇淋：香芋
+Cosmetic.hat_IceCreamVanilla	兩球霜淇淋：香草
+Cosmetic.visor_lollipopCrew	棒棒糖：船員色彩
+Cosmetic.visor_lollipopLemon	棒棒糖：鳳梨
+Cosmetic.visor_lollipopLime	棒棒糖：青蘋果
+Cosmetic.nameplate_Croissant	嚇噴可頌
+Cosmetic.nameplate_Lemon	檸檬人生
+Cosmetic.nameplate_Orange	橙心歡喜
+Cosmetic.hat_sausage	綁好尾端
+SignInIssueTitle	{0} 帳號錯誤
+SignInIssueText	很遺憾，你的 {0} 因為帳號限制的關係而無法用來建立帳號。請使用不同的 {1} 再試一次。\n\n你還是可繼續使用這個裝置來遊玩《Among Us》，但部份的功能將會受到限制，包括帳號綁定、購買星星及將物品轉移至新裝置等等的功能。如有任何疑問，請寄送電子郵件至 support@innersloth.com。
+FriendListUnavailable	無法使用朋友名單
+	
+ErrorSanction	由於您{0}，您的帳號已遭停權 ({1})。
+SanctionDuration	直到 {0}
+SanctionPermanent	永久
+SanctionConduct	\r\n請於這段時間反思自己的行為並仔細閱讀我們的<link="https://www.innersloth.com/zhtw/code-of-conduct-taiwan/">行為準則</link>！
+SanctionSexualMisconduct	做出性方面的不當行為
+SanctionDoxing	分享個人資訊、威脅他人分享個人資訊或進行肉搜
+SanctionIllegalActivity	鼓勵或從事非法行為
+SanctionHarassment	在聊天訊息中發表仇恨、歧視或貶損他人的言論
+SanctionSelfHarmPromotion	鼓勵自殘或自殺行為
+SanctionCheatingHacking	作弊/使用外掛軟體
+SanctionSpamming	傳送垃圾訊息
+SanctionUnsportsmanlikeConduct	做出違反運動家精神的行為
+SanctionInappropriateChatDating	傳送不當的聊天內容
+SanctionBullying	霸凌他人
+SanctionInappropriateChatPersonalInfo	傳送不當的聊天內容
+SanctionImpersonationDevelopers	冒充開發人員
+SanctionImpersonationCeleb	冒充名人
+SanctionWeaponizingRules	將遊戲規定用於攻擊目的
+SanctionInappropriateNameDerogatory	使用不當名稱
+SanctionInappropriateNameNsfw	使用不當名稱
+SanctionInappropriateNameUnsportsmanlike	使用不當名稱
+SanctionRepeatOffender3	屢次違反行為規範
+SanctionRepeatOffender10	屢次違反行為規範
+SanctionUnknown	違反我們的行為規範
+	
+FeaturedItems	精選物品
+FeaturedBundles	精選組合包
+FeaturedCubes	精選造型方塊
+	
+AbbreviatedDay	{0} 天
+AbbreviatedHour	{0} 小時
+AbbreviatedMinute	{0} 分
+AbbreviatedSecond	{0} 秒
+	
+BugReportCategoryGeneral	一般問題
+BugReportCategoryAccountManagement	帳號管理
+BugReportCategoryGameplayIssue	遊戲問題/錯誤
+BugReportCategoryServerIssues	伺服器問題
+BugReportCategoryBilling	帳單與付款幫助
+BugReportPopUpSubmittedText	謝謝！您的意見回饋已成功提交。
+BugReportPopUpSubmissionFailedText	您提交意見回饋的次數太過頻繁。請稍後再試一次。
+BugReportPopUpCategoryLabel	分類
+BugReportPopUpDescriptionLabel	請詳細描述發生問題時您在進行的操作。如果需要進一步幫助，請傳送電子郵件至 support@innersloth.com。
+BugReportPopUpTitle	糟糕！發生錯誤！
+BugReportIssueButton	提交錯誤
+BugReportPopUpAttachScreenshotLabel	要截取螢幕截圖嗎？
+BugReportPopUpAttachScreenshotDesc	系統將截取您目前的遊戲畫面 (不包含幫助視窗) 並附加在您的意見回饋中。
+Email	電子郵件
+SettingsHelp	幫助
+UserIdTokenError	使用者驗證過期。如果持續發生此情形，請重新啟動遊戲。
+	
+Cosmetic.hat_hl_korone	Inugami Korone 帽子
+Cosmetic.hat_hl_okayu	Nekomata Okayu 帽子
+Cosmetic.hat_hl_gura	Gawr Gura 帽子
+Cosmetic.hat_hl_mio	Ookami Mio 帽子
+Cosmetic.hat_hl_fubuki	Shirakami Fubuki 帽子
+Cosmetic.hat_hl_risu	Ayunda Risu 帽子
+Cosmetic.hat_hl_moona	Moona Hoshinova 帽子
+Cosmetic.hat_hl_pekora	Usada Pekora 帽子
+Cosmetic.hat_hl_marine	Houshou Marine 帽子
+Cosmetic.hat_hl_watson	Watson Amelia 帽子
+Cosmetic.skin_hl_korone	Inugami Korone 造型
+Cosmetic.skin_hl_okayu	Nekomata Okayu 造型
+Cosmetic.skin_hl_gura	Gawr Gura 造型
+Cosmetic.skin_hl_mio	Ookami Mio 造型
+Cosmetic.skin_hl_fubuki	Shirakami Fubuki 造型
+Cosmetic.skin_hl_risu	Ayunda Risu 造型
+Cosmetic.skin_hl_moona	Moona Hoshinova 造型
+Cosmetic.skin_hl_pekora	Usada Pekora 造型
+Cosmetic.skin_hl_marine	Houshou Marine 造型
+Cosmetic.skin_hl_watson	Watson Amelia 造型
+Cosmetic.visor_hl_nothoughts	放空
+Cosmetic.visor_hl_sweepy	睏
+Cosmetic.visor_hl_smug	一臉得意
+Cosmetic.visor_hl_ah	啊。
+Cosmetic.visor_hl_hmph	哼！
+Cosmetic.visor_hl_teehee	嘻嘻！
+Cosmetic.visor_hl_bored	開始無聊了
+Cosmetic.visor_hl_nudge	推推
+Cosmetic.visor_hl_marine	Marine 的眼罩
+Cosmetic.visor_hl_wrong	哈哈，這會有什麼問題呢？
+	
+AccountDeleteHelp	按下「確認」即代表您要求刪除所有您的《Among Us》資料。此要求將花費 7 至 14 天，並會清除所有星星、經驗值、豆豆、艙室與已購買的造型。帳號完全刪除後，我們無法還原此操作。您的帳號在刪除過程完成前可正常使用。\n\n如果遇到任何錯誤，請聯繫 support@innersloth.com。
+DeleteAccount	刪除帳號
+DoNotDeleteAccount	取消刪除帳號
+AccountUnDeleteHelp	按下「確認」即代表您將停止帳號刪除程序。如果您要刪除帳號，需要再次發出要求。\n\n如果遇到任何錯誤，請聯繫 support@innersloth.com。
+ConfirmDelete	請輸入「DELETE」以進行確認
+ConfirmDeleteAccounts	勾選此方塊以確認您了解此操作將刪除這個帳號與連結的帳號 ({0})。
+ConfirmDeleteAccountsEmpty	勾選此方塊以確認您了解此操作將刪除這個帳號與連結的帳號。
+AccountRequestDelete	刪除帳號處理中
+	
+UserVersionError	版本錯誤：此房間是以《Among Us》{0} 建立的
+Cosmetic.visor_vr_Vr-Black	虛擬實境：黑色
+Cosmetic.visor_vr_Vr-White	虛擬實境：白色
+	
+GameType	遊戲類型
+GameTypeError	錯誤！
+GameTypeClassic	經典
+GameTypeHideAndSeek	捉迷藏
+	
+ShowCrewmateNames	顯示名稱
+	
+HideActionButton	躲藏
+HasBeenKilled	已被殺死
+Random	隨機
+Ghost	鬼魂
+CurrentlyHaunting	正在作祟：
+RoundRobin	循環選擇
+RuleOneCrewmates	在時間結束前存活。\n完成任務可減少計時器的時間。
+RuleTwoCrewmates	利用通風口和危險量表來躲藏！
+RuleThreeCrewmates	計時器時間到後，偽裝者就能追蹤您！
+RuleOneImpostor	在限制時間內殺死所有船員！
+RuleTwoImpostor	您必須快速行動，因為您的視野受限，且無法進入通風口。
+RuleThreeImpostor	在最後的時間內，您的速度將會提升並獲得追蹤提示！
+RuleOneCrewmatesTitle	完成任務
+RuleTwoCrewmatesTitle	好好躲藏
+RuleThreeCrewmatesTitle	最終躲藏
+RuleOneImpostorTitle	速速殺害
+RuleTwoImpostorTitle	尋找
+PetAction	撫摸
+EscapeTime	躲藏時間
+FinalEscapeTime	最終躲藏時間
+UseFlashlight	手電筒模式
+CrewmateFlashlightSize	船員手電筒範圍
+ImpostorFlashlightSize	偽裝者手電筒範圍
+SeekerFinalSpeed	最終躲藏偽裝者速度
+SeekerFinalMap	最終躲藏尋人地圖
+SeekerPings	最終躲藏位置提示
+MaxPingTime	位置提示時間間隔
+TagsTitle	標籤
+FiltersTitle	篩選條件
+TagFiltersTitle	篩選條件
+FiltersAppliedSingular	已成功套用 {0} 個篩選項目
+FiltersAppliedPlural	成功套用 {0} 個篩選項目
+TagsFilteredSingular	需要 {0} 個標籤
+TagsFilteredPlural	需要 {0} 個標籤
+TagsAppliedSingular	已套用 {0} 個標籤
+TagsAppliedPlural	已套用 {0} 個標籤
+DefaultFilterTag_FirstTime	新手
+DefaultFilterTag_Casual	休閒
+DefaultFilterTag_Serious	認真
+DefaultFilterTag_Expert	專家
+TagFiltersHelpFindGame	您可以在篩選條件下拉式清單中選取標籤來篩選遊戲搜尋結果。您選取的篩選條件將會與搜尋結果<i>完全相符</i>。\n\n舉個例子：如果您選取<b>休閒</b>和<b>專家</b>，您就只會找到同時具有<b>休閒</b>和<b>專家</b>標籤的結果。
+TagFiltersHelpCreate	您可以為自己的遊戲加上篩選條件標籤，讓其他玩家更容易找到您的遊戲。您選取的篩選條件將會與搜尋結果<i>完全相符</i>。\n\n舉個例子：如果您選取<b>休閒</b>和<b>專家</b>，那麼只有同時搜尋<b>休閒</b>和<b>專家</b>篩選條件的玩家會看到您的遊戲。
+MapFiltersSelected	已選擇 {0} 張地圖
+FindGameNeedsRefresh	已成功變更篩選設定\n\n請重新整理頁面
+CreateLabel	建立
+NewGameMode	新的遊戲模式！
+NewModeInfo	在這個令人心驚膽跳的遊戲模式中，您將背負極高的風險！\n<i>不過等等，這可不是尋常的捉迷藏遊戲...</i>
+HideSeekHowToPlayCaptionOne	這非常簡單！
+HideSeekHowToPlayCaptionTwo	船員！
+HideSeekHowToPlayCaptionThree	偽裝者！
+HideSeekHowToPlayPageOne	<color=#38F25D><b>船員：</b></color>完成任務以加速時間進行，避開偽裝者，並在計時器時間結束前努力存活。\n\n<color=#FF3131><b>偽裝者：</b></color>找到船員並大開殺戒。
+HideSeekHowToPlaySubtextOne	這裡不需要社交推斷能力，只有恐懼和尖叫。
+HideSeekHowToPlayCrewmateInfoOne	磨練您的躲藏和隱匿技巧，才能保住小命。
+HideSeekHowToPlayCrewmateInfoTwo	在這個模式中，您可以使用通風口並取得高科技的危險量表，當偽裝者接近您時，危險量表會通知您。偽裝者的視野會受到限制，因此您可以運用智慧、通風口和臉部裝飾來躲開他們！
+HideSeekHowToPlayImpostorInfoOne	偽裝者在這個模式中無法進入通風口，因此您需要快速行動才能抓到您的獵物。外面十分黑暗！幸好，您可以用手電筒來幫助自己尋找下一個受害者。
+HideSeekHowToPlayFinalHide	這是最後的倒數了。在遊戲的最後一段時間內，偽裝者將獲得能力提升，他們的行動速度會加快，並獲得特別的尋人地圖和指示存活船員位置的提示。\n\n運用策略，快速思考並逃離危險，才能獲得勝利！
+HideSeekHowToPlayFlashlightMobile	使用畫面右側的手電筒虛擬搖桿來操控光束，殺死您找到的所有船員！
+HideSeekHowToPlayFlashlightDefault	使用滑鼠來操控手電筒光束，殺死您找到的所有船員！
+HideSeekHowToPlayFlashlightConsoles	使用右搖桿來引導光束，並殺死您可以找到的所有船員！
+HideSeekHowToPlayFlashlightPlayStation	使用右操作桿來引導光束，並殺死您可以找到的所有船員！
+HideSeekHowToPlayFlashlightSwitch	使用R操控搖桿來引導光束，並殺死您可以找到的所有船員！
+OptionUnavailablePublicLobby	無法在公開大廳中使用
+Cosmetic.nameplate_ballPit	再多一小時
+Cosmetic.nameplate_cafeteria	可以坐你旁邊嗎？
+Cosmetic.nameplate_deadbodyfound	已舉報！
+Cosmetic.nameplate_ejected	沒有人會聽見你的尖叫
+Cosmetic.nameplate_flagAce	無性戀驕傲旗幟
+Cosmetic.nameplate_flagAgend	無性別驕傲旗幟
+Cosmetic.nameplate_flagBi	雙性戀驕傲旗幟
+Cosmetic.nameplate_flagGendF	性別流動驕傲旗幟
+Cosmetic.nameplate_flagGendQ	性別酷兒驕傲旗幟
+Cosmetic.nameplate_flagNonbinary	非二元性別驕傲旗幟
+Cosmetic.nameplate_flagPan	泛性戀驕傲旗幟
+Cosmetic.nameplate_flagPride	性別包容驕傲旗幟
+Cosmetic.nameplate_flagLesbian	女同志驕傲旗幟
+Cosmetic.nameplate_flagRainbow	同志驕傲旗幟
+Cosmetic.nameplate_flagTrans	跨性別驕傲旗幟
+Cosmetic.nameplate_flashlight	誰在那裡？
+Cosmetic.nameplate_impostor	破壞者來襲
+Cosmetic.nameplate_ninjas	隱身暗影中
+Cosmetic.nameplate_polus	寒冷 Polus
+Cosmetic.nameplate_reactor	船員反應
+Cosmetic.nameplate_ripple	漣漪效應
+Cosmetic.nameplate_seeker	懷疑之影
+Cosmetic.nameplate_shhh	安靜！
+Cosmetic.pet_nuggetPet	雞塊
+	
+Cosmetic.visor_Candycane	超殺拐杖糖
+Cosmetic.nameplate_candyCanePlate	聖誕節甜心
+Cosmetic.pet_coaltonpet	小煤球
+Cosmetic.skin_greedygrampaskin	貪婪老爺爺
+Cosmetic.visor_IceBeard	我是冰人
+Cosmetic.hat_Igloo	雪屋帽
+Cosmetic.hat_Present	禮物盒帽
+Cosmetic.skin_presentskin	禮品公司
+Cosmetic.visor_Rudolph	閃亮鼻子
+Cosmetic.skin_scarfskin	溫暖圍巾
+Cosmetic.hat_Scrudge	孩子，你在這裡呀！
+Cosmetic.hat_Snowman	雪人偽裝
+Cosmetic.nameplate_SnowmiesPlate	雪地好友
+Cosmetic.hat_StarTopper	閃亮明星
+Cosmetic.skin_uglysweaterskin	樹懶醜毛衣
+Cosmetic.nameplate_winterForestPlate	芳香松樹
+Cosmetic.nameplate_WrappingPaperPlate	多彩包裝
+Cosmetic.hat_crownBean	豆豆大亨
+Cosmetic.hat_crownDouble	雙層王冠
+Cosmetic.hat_crownTall	「長」久統治
+Cosmetic.hat_wigJudge	浮誇假髮
+Cosmetic.hat_wigTall	粉墨登場
+Cosmetic.hat_cashHat	一疊大鈔
+Cosmetic.hat_tinFoil	那是個陰謀啊
+Cosmetic.hat_mareLwyd	恐怖馬駒
+Cosmetic.hat_schnapp	獸首怪物
+Cosmetic.hat_Sorry	抱歉
+Cosmetic.visor_wash	髒汙
+Cosmetic.visor_anime	動畫閃亮眼睛
+Cosmetic.visor_teary	不是我啦
+Cosmetic.visor_tvColorTest	播送終止
+Cosmetic.visor_beautyMark	美人痣
+Cosmetic.visor_Stealthgoggles	潛行護目鏡
+Cosmetic.visor_Plsno	拜託不要
+	
+Cosmetic.hat_NewYear2023	2023 新年帽
+Cosmetic.pet_HolidayHamPet	節日火腿
+Cosmetic.pet_YuleGoatPet	聖誕羊
+	
+Cosmetic.skin_Box1skin	包裝完成
+Cosmetic.skin_BubbleWrapskin	易碎
+Cosmetic.skin_Burlapskin	粗麻時尚
+Cosmetic.skin_BushSign1skin	就是個樹叢
+Cosmetic.skin_Horse1skin	恐怖馬駒長袍
+Cosmetic.skin_Sack1skin	一袋馬鈴薯
+Cosmetic.skin_benoit	偵探白朗
+Cosmetic.hat_babybean	豆豆寶寶
+Cosmetic.skin_Astronaut-Blueskin	太空人：藍色
+Cosmetic.skin_Astronaut-Cyanskin	太空人：淺藍色
+Cosmetic.skin_Astronaut-Orangeskin	太空人：橘色
+HauntAbilityName	作祟
+	
+RestorePurchases	恢復購買
+StatsHidenSeekGamesCrewmateSurvived	捉迷藏遊戲存活次數：\t
+StatsHidenSeekTimesVented	捉迷藏中使用通風口的次數：\t
+StatsTimesPettedPet	撫摸動作：\t
+StatsImpostorKills_HideAndSeek	捉迷藏偽裝者殺人次數：\t
+StatsFastestCrewmateWin_HideAndSeek	捉迷藏船員最快獲勝速度：\t
+StatsFastestImpostorWin_HideAndSeek	捉迷藏偽裝者最快獲勝速度：\t
+StatsHideAndSeekImpostorVictory	捉迷藏偽裝者勝利數：\t
+StatsHideAndSeekCrewmateVictory	捉迷藏船員勝利數：\t
+SeekButton	尋找
+ScrollList	捲動清單
+ScrollNews	捲動新聞
+AmongUsAnnouncements	《Among Us》公告
+Cosmetic.hat_osiris	歐西里斯頭盔
+Cosmetic.hat_maraSov	瑪菈．索夫
+Cosmetic.skin_D2Osiris	歐西里斯防具
+Cosmetic.hat_saint14	聖人-14之盔
+Cosmetic.skin_D2Saint14	聖人-14防具
+Cosmetic.hat_shaxx	薩克斯頭盔
+Cosmetic.skin_D2Shaxx	薩克斯防具
+Cosmetic.hat_titan	泰坦頭盔
+Cosmetic.hat_warlock	術士頭盔
+Cosmetic.hat_hunter	獵人兜帽
+Cosmetic.skin_D2Titan	泰坦防具
+Cosmetic.skin_D2Warlock	術士防具
+Cosmetic.skin_D2Hunter	獵人防具
+Cosmetic.hat_starhorse	星馬
+Cosmetic.hat_savathun	薩瓦森之冠
+Cosmetic.visor_savathun	薩瓦森之眼
+Cosmetic.hat_caiatl	凱亞蒂爾頭盔
+Cosmetic.visor_eliksni	愛利斯基尼族面甲
+Cosmetic.hat_pyramid	金字塔
+Cosmetic.visor_erisBandage	艾瑞絲．摩恩繃帶
+Cosmetic.hat_erisMorn	艾瑞絲．摩恩
+Cosmetic.hat_chalice	卡魯斯聖杯
+Cosmetic.pet_D2PoukaPet	坡卡
+Cosmetic.pet_D2WormPet	蠕蟲
+Cosmetic.pet_D2GhostPet	機靈
+Cosmetic.nameplate_titan	泰坦之傲
+Cosmetic.nameplate_warlock	術士之傲
+Cosmetic.nameplate_hunter	獵人之傲
+Cosmetic.nameplate_lightfall	《光殞年代》
+AnnouncementErrorSubtitle	糟糕！公告遭到破壞了！
+AnnouncementErrorText	似乎發生了問題。請確認遊戲已連線並已更新至最新版本，如此才能取得《Among Us》所有的最新資訊與修正。\n\n如果持續遭遇問題，請透過 support@innersloth.com 傳送支援表單給我們。
+ReadMoreLabel	檢視完整公告！
+ReturnToList	返回清單
+NavigateLinks	瀏覽連結
+HttpErrorContextNone	連接伺服器時發生問題
+HttpErrorContextAuthenticate	進行驗證時發生問題
+HttpErrorContextRequestGameCode	尋找遊戲代碼時發生問題
+HttpErrorContextFindHostServer	尋找主機伺服器時發生問題
+HttpErrorContextRequestGamesList	要求遊戲清單時發生問題
+HttpErrorUnknown	未知錯誤
+HttpErrorBadRequest	錯誤的要求。代碼：400
+HttpErrorUnauthorized	未獲授權。代碼：401
+HttpErrorForbidden	遭禁止。代碼：403
+HttpErrorNotFound	找不到目標。代碼：404
+HttpErrorMethodNotAllowed	不允許的方法。代碼：405
+HttpErrorRequestTimeout	要求逾時。代碼：408
+HttpErrorTooManyRequests	收到太多要求。代碼：429
+HttpErrorInternalServerError	內部伺服器錯誤。代碼：500
+HttpErrorBadGateway	錯誤的閘道。代碼：502
+HttpErrorServiceUnavailable	服務無法使用。代碼：503
+HttpErrorGatewayTimeout	閘道逾時。代碼：504
+AgeVerificationTitle	年齡驗證
+AgeVerificationInfoTitle	什麼是年齡驗證？
+AgeVerificationInfo	存取《Among Us》前必須先進行年齡驗證。我們不會儲存您的生日。
+AgeVerificationMoreInfo	如欲了解關於我們隱私權政策的更多資訊，請前往：\n <link="https://www.innersloth.com/zhtw/privacy-policy-tw/">https://www.innersloth.com/zhtw/privacy-policy-tw/</link>
+EditLabel	編輯
+VerifyAgeText	這個日期是您正確的生日嗎？
+Cosmetic.nameplate_flagMlm	男同志驕傲旗幟
+Cosmetic.nameplate_flagAro	無浪漫傾向驕傲旗幟
+Cosmetic.visor_chimkin	雞嘴
+Cosmetic.hat_rabbitEars	兔耳帽
+Cosmetic.hat_fishCap	魚怕我帽
+Cosmetic.hat_bandanaWBY	包頭巾
+PlayLabel	遊玩
+SettingsLabel	設定
+NewsLabel	新聞
+AccountLabel	我的帳號
+CreditsLabel	製作人員
+ShopLabel	商店
+InventoryLabel	物品庫
+StatsLabel	統計資料
+FriendsLabel	朋友
+Cosmetic.hat_starBalloon	五芒星
+Cosmetic.visor_shuttershadesWhite	炫目墨鏡：白色
+Cosmetic.visor_shuttershadesPink	炫目墨鏡：狂人
+Cosmetic.visor_shuttershadesPurple	炫目墨鏡：紫色
+Cosmetic.visor_shuttershadesBlue	炫目墨鏡：藍色
+Cosmetic.visor_shuttershadesLime	炫目墨鏡：綠色
+Cosmetic.visor_shuttershadesYellow	炫目墨鏡：黃色
+Cosmetic.hat_glowstickPink	徹夜狂歡：粉紅色
+Cosmetic.hat_glowstickYellow	徹夜狂歡：黃色
+Cosmetic.hat_glowstickCyan	徹夜狂歡：青色
+Cosmetic.hat_glowstickOrange	徹夜狂歡：橘色
+Cosmetic.hat_glowstickPurple	徹夜狂歡：紫色
+Cosmetic.pet_Pip	Pip
+Cosmetic.pet_Pusheen	Pusheen
+Cosmetic.pet_Stormy	Stormy
+Cosmetic.nameplate_pusheen_01	單彩虹代表什麼呢
+Cosmetic.nameplate_pusheen_02	草莓園
+Cosmetic.nameplate_pusheen_03	別惹甜甜圈
+Cosmetic.nameplate_pusheen_04	你手上那是什麼？
+Cosmetic.hat_pusheenGreyHat	Pusheen 帽子
+Cosmetic.hat_PusheenicornHat	超級 Pusheenicorn
+Cosmetic.hat_pusheenMintHat	淡綠色 Pusheen
+Cosmetic.hat_pusheenPurpleHat	淡紫色 Pusheen
+Cosmetic.hat_pusheenPinkHat	淡粉色 Pusheen
+Cosmetic.hat_pusheenSitHat	塞得進去就沒問題
+Cosmetic.hat_pusheenSleepHat	瞌睡貓貓
+Cosmetic.hat_SlothHat	Sloth
+Cosmetic.visor_pusheenGorgeousVisor	美麗動人！
+Cosmetic.visor_pusheenKissyVisor	親親小貓
+Cosmetic.visor_pusheenKoolKatVisor	酷酷貓
+Cosmetic.visor_pusheenOmNomNomVisor	好吃好吃
+Cosmetic.visor_pusheenSmileVisor	Pusheen 微笑
+Cosmetic.visor_pusheenYaaaaaayVisor	好耶
+Cosmetic.skin_PusheenGreyskin	Pusheen
+Cosmetic.skin_Pusheenicornskin	超級 Pusheenicorn
+Cosmetic.skin_PusheenMintskin	淡綠色 Pusheen
+Cosmetic.skin_PusheenPinkskin	淡粉色 Pusheen
+Cosmetic.skin_PusheenPurpleskin	淡紫色 Pusheen
+Cosmetic.skin_Slothskin	Sloth
+Cosmetic.hat_bearyCold	博柏利熊熊
+	
+EosAccountSilentMergeFail	在最終化你的《Among Us》帳號時出現問題。請再試一次或繼續使用訪客帳號。所有遊戲進度都會儲存，但我們建議你還是要設定帳號，這樣才能享受到《Among Us》的完整遊戲功能。\n\n是否再次嘗試設定帳號？
+AskForEosAccount	你已經有《Among Us》帳號了嗎？（又稱為Epic Online Services帳號。）\n\n如果你以前曾經使用這個裝置玩過《Among Us》，請選擇「是」。
+KwsCreateFail	喔不！系統在傳送監護人許可的電子郵件時發生錯誤。請再試一次或繼續使用離線模式。\n\n是否要再試一次？
+	
+MissingGuardianEmailText	你的帳號缺少了監護人的電子郵件地址。我們會需要透過電子郵件來徵詢你監護人的同意，只有在徵得監護人的同意後，我們才能繼續前往到下一步。如果監護人表示同意的話，你就能開始使用免費的線上聊天功能並變更你的使用者名稱。還請你要請求大人的協助，請他們來幫助你完成這個步驟喔！
+MiningPit	礦坑
+Jungle	叢林
+BuildSandcastle	堆沙堡
+FishingDock	碼頭
+CatchFish	捕魚
+CollectShells	收集貝殼
+LiftWeights	舉重
+RoastMarshmallow	烤棉花糖
+TestFrisbee	丟飛盤
+CollectSamples	收集樣本
+CollectVegetables	收集蔬菜
+HoistSupplies	囤積補給物資
+MineOres	挖礦石
+ReplaceParts	替換零件
+HelpCritter	協助小動物
+RecRoom	浪濺區
+Lookout	瞭望台
+Beach	海灘
+Highlands	崖壁
+SleepingQuarters	宿舍
+CrankGenerator	起重機發電器
+FixAntenna	修理天線
+TuneRadio	找到訊號
+MushroomMixupSabotage	啟動蘑菇混合機制：{0}
+MushroomMixupName	蘑菇混合
+CollectStick	收集棍子
+MineOresMine	使用鎬
+PolishGem	給寶石拋光
+ExtractFuel	汲取燃料
+MonitorMushroom	觀察蘑菇
+WipeSand	抹去沙子
+PlayVideogame	玩電動
+CookFish	烹飪魚肉
+PrepVegetables	準備蔬菜
+	
+LobbyTimerExpiringTitle	大廳即將逾時失效
+LobbyTimerExpiringMsg	是否要延長遊戲大廳的開立時間？（延長 {0}）
+LobbyTimerExpiringOk	延長
+LobbyTimerExpiringNo	取消
+LobbyTimerExpiringUnit	秒
+LobbyTimerExpiringMsg2	遊戲大廳將在 {0} 後關閉。
+LobbyTimerExpiringHud	本大廳將在 {0} 後逾時失效
+	
+Cosmetic.hat_pickaxe	工安意外
+Cosmetic.hat_anchor	「頭」放船錨
+Cosmetic.hat_antenna	衛星雷達
+Cosmetic.hat_sharkfin	陸行鯊魚
+Cosmetic.hat_lilShroom	蘑菇仔
+Cosmetic.hat_mushbuns	雙生蘑菇
+Cosmetic.hat_bucket	沙堡之王
+Cosmetic.hat_mushroomBeret	貝雷帽
+Cosmetic.hat_fungleFlower	臭臭花
+Cosmetic.hat_fishingHat	天才小釣手
+Cosmetic.hat_killerplant	小親親食人花
+Cosmetic.hat_shovel	小小鏟子挖呀挖
+Cosmetic.hat_beachball	沙灘球
+Cosmetic.hat_bucketHat	桶子帽
+Cosmetic.hat_mysteryBones	怪物骷髏
+Cosmetic.visor_doubleeyepatch	雙重眼罩
+Cosmetic.visor_marshmallow	香烤棉花糖
+Cosmetic.visor_starfish	視線黏著
+Cosmetic.visor_fishhook	勾引視線
+Cosmetic.visor_sunscreenv	防殺係數：0
+Cosmetic.skin_FishSkinskin	魚兒魚兒水中游
+Cosmetic.skin_FishingSkinskin	瀟灑漁夫
+Cosmetic.skin_InnerTubeSkinskin	旱鴨子
+Cosmetic.skin_LifeVestSkinskin	超載必備
+Cosmetic.pet_Creb	螃蟹蟹
+Cosmetic.nameplate_zipline	救命繩索
+Cosmetic.nameplate_grill	炙燒達人
+Cosmetic.nameplate_plant	肉食主義
+Cosmetic.nameplate_sandcastle	是在耍「堡」
+Cosmetic.nameplate_cliffs	反掌峭壁
+	
+ReportNotificationHeader	謝謝你協助《Among Us》維護一個安全且友善的遊戲環境！
+ReportNotificationBody	我們的管理團隊會審核你所提供的資訊，並根據遊戲守則來採取適當的處理措施。
+ErrorClientTimeout	你失去了與伺服器的連線。這可能是因為伺服器問題、網路問題或裝置問題所導致的。請檢查你的網路連線。\n\n如果這個狀況時常發生，代表你的裝置可能過於老舊，或是沒有達到最低系統需求。請嘗試使用另一個裝置進行遊戲。
+ErrorClientTimeoutConsole	你已與伺服器失去連線。這可能是由伺服器或網路連線所導致的問題。請檢查你的網路連線。
+	
+Cosmetic.hat_NewYear2024	2024 新年帽
+	
+Cosmetic.nameplate_Celeste	登高望遠
+Cosmetic.nameplate_flyingStrawberry	天使草莓
+Cosmetic.hat_madeline	Madeline 的頭髮
+Cosmetic.hat_badeline	Badeline 的頭髮
+Cosmetic.visor_theobeard	Theo 的鬍子
+Cosmetic.hat_theohair	Theo 的頭髮
+Cosmetic.hat_bird	Birb
+Cosmetic.skin_Theoskin	Theo 的套裝
+Cosmetic.skin_MadelineSkinskin	Madeline 的套裝
+Cosmetic.skin_BadelineSkinskin	Badeline 的夾克
+Cosmetic.pet_Strawb	飛天草莓
+Cosmetic.pet_napstamate	幽靈船員
+Cosmetic.hat_undyne	正義馬尾
+Cosmetic.hat_floweyGood	你的摯友
+Cosmetic.hat_floweyBad	最可怕的夢魘
+Cosmetic.hat_spear	正義之矛
+Cosmetic.hat_boneUndertale	Bonetrousle
+Cosmetic.hat_duck	想帶上船員的飛鳥
+Cosmetic.nameplate_flowers	很久很久以前
+Cosmetic.nameplate_fight	精彩可期
+Cosmetic.skin_Undyneskin	正義休閒服
+Cosmetic.skin_Sanskin	某個人的帽 T
+Cosmetic.skin_Papyrusskin	CoolSkeleton95
+Cosmetic.nameplate_battlefield	來打架啊
+Cosmetic.nameplate_hominid	劈哩啪啦！
+Cosmetic.hat_castleCrasher	破壞者頭盔
+Cosmetic.hat_hattyHattington	Hatty Hattington 的高帽
+Cosmetic.hat_alienHominid	外星人的觸角
+Cosmetic.hat_king	國王的皇冠
+Cosmetic.visor_hattyHattington	Hatty 的美味眼淚
+Cosmetic.visor_king	國王的莊重
+Cosmetic.visor_alienHominid	外星人的下顎
+Cosmetic.pet_Rammy	Rammy
+Cosmetic.skin_KingSkinskin	國王的長袍
+Cosmetic.skin_HattySkinskin	Hatty 的華麗服裝
+Cosmetic.skin_CrusaderSkinskin	破壞者防具
+Cosmetic.nameplate_hourglass	分秒必爭
+Cosmetic.nameplate_shadows	合約到期
+Cosmetic.hat_hatkid	孩童的帽子
+Cosmetic.hat_conductor	車掌的帽子
+Cosmetic.hat_mustachegirl	鬍鬚女孩的帽兜
+Cosmetic.hat_bowkid	弓箭孩童的弓箭
+Cosmetic.skin_HatKidSkinskin	孩童的披風
+Cosmetic.skin_MoustacheKidSkinskin	鬍鬚女孩的長袍
+Cosmetic.skin_Conductorskin	車掌的制服
+Cosmetic.skin_BowKidskin	弓箭孩童的連身服
+Cosmetic.pet_Crow	瘋鴉
+Cosmetic.visor_mustachegirl	鬍鬚女孩的鬍鬚
+Cosmetic.nameplate_torch	點亮夜空
+Cosmetic.nameplate_dungeonFloor	舞者，至「死」方休
+Cosmetic.hat_shopkeeper	Frederick 的帽子
+Cosmetic.hat_cadence	Cadence 的頭巾
+Cosmetic.hat_nocturna	Nocturna 的馬尾
+Cosmetic.hat_skull	還算熟識吧
+Cosmetic.skin_FrederickSkinskin	Frederick 的服裝
+Cosmetic.skin_CadenceSkinskin	Cadence 的戰袍
+Cosmetic.skin_Nocturnaskin	Nocturna 的翅膀
+Cosmetic.visor_shopkeeper	Frederick 的山羊鬍
+Cosmetic.pet_DancingSkeletonPet	舞棍骷髏
+Cosmetic.nameplate_honk	叭叭
+Cosmetic.nameplate_knife	沒有和平這個選項
+Cosmetic.pet_GoosePet	機車鵝
+Cosmetic.hat_bell	黃金鈴鐺
+Cosmetic.hat_goosefloaty	Untitled Goose 游泳圈
+Cosmetic.hat_gardener	園丁的帽子
+Cosmetic.visor_goose	鵝喙
+Cosmetic.visor_gardenernose	園丁的鼻子
+Cosmetic.visor_wimpglasses	懦夫的眼鏡
+Cosmetic.skin_GardenerSkin1skin	園丁的套裝
+Cosmetic.skin_Wimpskin	可憐小男孩的衣櫃
+Cosmetic.hat_shiitakeHat	打叉的地方
+Cosmetic.hat_mushmuffsHat	Lo-Fi Fungle 高質量耳機
+Cosmetic.hat_shrapnelHat	擁抱地表
+Cosmetic.visor_mushroomeyesVisor	菇菇眼鏡
+Cosmetic.visor_animesunglassesVisor	犀利氣場
+Cosmetic.visor_starsunglassesmintVisor	星星眼鏡－薄荷色
+Cosmetic.visor_heartsunglassesgoldVisor	心心眼鏡－金黃色
+Cosmetic.nameplate_binocularsNameplate	Fungle 巡邏員
+Cosmetic.nameplate_DeadSunsetNameplate	日暮西沉
+Cosmetic.skin_Skins14_5skin	準備嗨翻天
+	
+Cosmetic.hat_lny_soupSpoon	好喝濃湯
+Cosmetic.hat_lny_lantern	明亮璀璨
+Cosmetic.hat_lny_dancerHead	霸氣龍頭
+Cosmetic.hat_lny_dancerBody	龍體安康
+Cosmetic.hat_lny_dancerTail	神龍擺尾
+Cosmetic.nameplate_lny_monkey	猴年吉祥
+Cosmetic.nameplate_lny_tiger	虎年吉祥
+Cosmetic.nameplate_lny_horse	馬年吉祥
+Cosmetic.nameplate_lny_goat	羊年吉祥
+Cosmetic.nameplate_lny_rooster	雞年吉祥
+Cosmetic.nameplate_lny_snake	蛇年吉祥
+Cosmetic.nameplate_lny_dragon	龍年吉祥
+Cosmetic.nameplate_lny_boar	豬年吉祥
+Cosmetic.nameplate_lny_dog	狗年吉祥
+Cosmetic.nameplate_lny_rabbit	兔年吉祥
+Cosmetic.nameplate_lny_ox	牛年吉祥
+Cosmetic.nameplate_lny_cat	貓年吉祥
+Cosmetic.nameplate_lny_rat	鼠年吉祥
+Cosmetic.nameplate_lny_lanterns	張燈結綵
+Cosmetic.nameplate_lny_incense	虔心梵香
+Cosmetic.skin_lny_dragonDancer	舞龍舞獅
+Cosmetic.nameplate_lny_beanDragon	豆龍傳說
+Cosmetic.nameplate_lny_clouds	祥瑞雲霧
+Cosmetic.nameplate_lny_redPackets	錢如雨下
+	
+Cosmetic.pet_lny_dragon	荒谷惡船
+Cosmetic.hat_lny_ox	牛頭人
+Cosmetic.hat_lny_dog	狗狗耳朵
+Cosmetic.hat_lny_horse	馬鬃好碰友
+Cosmetic.hat_lny_pig	豬豬耳朵
+Cosmetic.hat_lny_rat	老鼠耳朵
+Cosmetic.hat_lny_cat	我們一起學貓叫～
+Cosmetic.hat_lny_monkey	非禮勿聽
+Cosmetic.hat_lny_rooster	展翅高飛
+Cosmetic.hat_lny_goat	最強之羊
+Cosmetic.hat_lny_dragon	搶眼龍徽
+Cosmetic.hat_lny_tiger	虎之耳
+Cosmetic.hat_lny_rabbit	十八蘿蔔
+Cosmetic.visor_lny_rat	鼠鼠起司
+Cosmetic.visor_lny_snake	嘶嘶蛇
+Cosmetic.visor_lny_pig	豬豬電台
+Cosmetic.visor_lny_tiger	小虎出擊
+Cosmetic.visor_lny_dragon	夢想之龍
+Cosmetic.nameplate_lny_goldCrewmate	鴻運當頭
+Cosmetic.nameplate_lny_goldImpostor	黃金厄運
+	
+AprilFoolsModeToggle	愚人節模式（限定造型）
+ErrorAuthNonceFailure	有人在搞破壞啊！Among Us 的伺服器在驗證你的身份時碰到了一些問題。請再試一次。\n\n如果問題仍未獲得解決，請開立一份<link="https://innersloth.zendesk.com/hc/en-us/requests/new">客服工單</link>讓我們知道。
+	
+Cosmetic.nameplate_crewmatesBlue	奇葩船員：藍
+Cosmetic.nameplate_crewmatesRed	奇葩船員：紅
+Cosmetic.nameplate_horseHeaven	歡樂小馬
+Cosmetic.nameplate_horsemateField	猶如駿馬在奔馳
+Cosmetic.hat_fluffyHat	黃錐帽
+Cosmetic.hat_topHatMinimate	迷你模型
+Cosmetic.hat_triplePartyHat	三人成行
+Cosmetic.visor_happyMouthNote	笑口常開
+Cosmetic.visor_henry	火柴人
+Cosmetic.visor_thatFace	看得你心底發寒
+	
+Cosmetic.hat_bb1_bucketHatBee	桶子帽：蜜蜂
+Cosmetic.hat_bb1_bucketHatBlack	桶子帽：黑
+Cosmetic.hat_bb1_bucketHatCamo	桶子帽：迷彩
+Cosmetic.hat_bb1_bucketHatFlowers	桶子帽：花
+Cosmetic.hat_bb1_bucketHatWhite	桶子帽：卡其色
+Cosmetic.hat_bb1_bunnyBlack	兔耳帽：黑
+Cosmetic.hat_bb1_sunHatGreen	風光明媚：薄荷
+Cosmetic.hat_bb1_sunHatYellow	風光明媚：黃
+Cosmetic.hat_bb1_lilShroomRed	蘑菇仔：紅
+Cosmetic.hat_bb1_lilShroomBlue	蘑菇仔：藍
+Cosmetic.hat_bb1_lilShroomGlowing	蘑菇仔：亮
+Cosmetic.skin_bb1_rainbowTube	旱鴨子：彩虹
+Cosmetic.skin_bb1_fungleDress	綻放光澤
+Cosmetic.nameplate_bb1_disco	終於到了⋯⋯星期五
+Cosmetic.nameplate_bb1_hackerman	主機，啟動！
+Cosmetic.nameplate_bb1_ram	記憶體
+Cosmetic.nameplate_bb1_rave	螢光棒
+Cosmetic.nameplate_bb1_zen	那～豪～吧！
+	
+ViewLabel	查看大廳設定
+ViewingLabel	正在查看遊戲設定……
+RoomCodeLabel	遊戲室代碼
+RoomCodeCopied	已成功複製遊戲室代碼！
+RoomSettingsLabel	遊戲室設定
+ModeLabel	預設設定
+PrivacyLabel	隱私選項
+CapacityLabel	人數上限
+GameSettingsLabel	遊戲設定
+RoleSettingsLabel	職業設定
+GamePresetsLabel	遊戲預設設定
+GamePresetsDescription	為你的遊戲大廳套用建議設定。
+GamePresetsPopupTitle	警告！
+GamePresetsPopupText	所選的預設設定將會覆蓋掉你對遊戲設定所做的調整！
+GamePresetsPopupContinue	仍要繼續至下一步
+GamePresetsPopupBack	返回
+StandardRulesPresetDescription	沒有區分職業的預設設定，推薦給追求遊戲平衡性的玩家。
+RolesRulesPresetDescription	有職業設定的遊戲大廳，適合給所有玩家遊玩的選項。
+StandardRulesPresetDescriptionHideAndSeek	停用手電筒功能的預設設定，專為捉迷藏模式所安排的設定。
+FlashlightRulesPresetDescription	為船員送上手電筒功能但又不失遊戲平衡性的預設設定。
+GameSettingsDescription	編輯遊戲大廳的個別設定選項。
+RoleSettingsDescription	編輯遊戲大廳的職業設定。
+GameModeStandard	主要設定選項
+GameModeStandardRoles	職業概覽
+GameModeFlashlight	手電筒
+GameModeCustom	自訂
+GameModeStandardSeek	暗夜
+ImpostorsCategory	偽裝者
+RolesCategory	職業
+MeetingsCategory	會議
+PlayersCategory	船員
+TasksCategory	任務
+InfoLabel	資訊
+RoleQuotaLabel	職業數量
+OverviewCategory	總覽
+LobbyChangeSettingNotification	已將 {0} 的設定調整為 {1}。
+LobbyChangeSettingNotificationRole	已將「{0}」的職業人數設定為 {1}，機率：{2}。
+CrewmateRolesHeader	船員職業
+ImpostorRolesHeader	偽裝者職業
+LocalLobbyLabel	本地遊戲大廳
+NumberRoleHeader	# 名
+ChanceRoleHeader	% 的機率
+WaitingForPlayers	正在等候玩家
+FinalHideCategory	最終躲藏
+	
+QCLobbyRoleNoisemakers	警示者？
+QCLobbyRoleTrackers	追蹤者？
+QCLobbyRolePhantoms	魅影？
+QCSelfWasTracking	我剛才在追蹤 {0}
+QCSelfGoingToNoisemaker	我本來是要去找警示者的
+QCSelfSawRoleInLocation	我在 {1} 看見了 {0}
+	
+NoisemakerRole	警示者
+NoisemakerBlurb	警示者在被擊殺的後會發出警告
+NoisemakerBlurbMed	在被擊殺的時候發出警告，\n好讓所有船員知道你的受害位置。
+NoisemakerBlurbLong	警示者可不是普通的船員職業。警示者跟其他的職業不一樣，他們無法使用任何的東西。但警示者在被偽裝者殺死後，會自動發出警告讓大家知道。這樣的警告機制能夠制約偽裝者的下一步行動。這樣一來，其他船員就能立刻衝去命案現場，把偽裝者逮著正著，並為死者償命！
+NoisemakerImpostorAlert	偽裝者也會收到警告通知
+NoisemakerAlertDuration	警告持續時間
+PhantomAbility	隱身
+PhantomAbilityUndo	現身
+PhantomRole	魅影
+PhantomBlurb	魅影能夠隱身
+PhantomBlurbMed	以隱身狀態四處移動，或是在殺人後偷偷離開現場。
+PhantomBlurbLong	魅影能夠隱身，並藉此偷偷靠近另一名船員，或是在殺人後神不知鬼不覺地離開現場。魅影在隱身狀態期間是能夠使用梯子和溜索的，但無法殺人。隱身或現身會在你的身邊產生大範圍的煙霧，所以在隱身或現身前，各位可要多加確認周圍有沒有其他船員在。隱身效果並非永久的，所以你隱身的時間點也很重要。
+PhantomCooldown	隱身冷卻時間
+PhantomDuration	隱身持續時間
+TrackerRole	追蹤者
+TrackerAbility	追蹤
+TrackerAbilityUndo	取消追蹤
+TrackerBlurb	追蹤者能夠使用地圖來追蹤一名船員。
+TrackerBlurbMed	在一名船員身上安裝追蹤裝置，\n並藉此使用地圖來追蹤對方的行蹤。
+TrackerBlurbLong	追蹤者可以在小地圖上面看到追蹤船員的所在位置。在開始進行追蹤以前，你必須要先移動到目標船員的身邊，這樣你才能將追蹤裝置安裝到對方身上。在接近其他船員的時候還請小心，動作不要太明顯，不然你可是會讓對方起疑的。追蹤功能只能持續幾秒鐘的時間，所以還請慎選目標。此外，追蹤者也要小心，可別一直盯著小地圖，不然你很可能會成為偽裝者的下一個目標。
+TrackerCooldown	追蹤冷卻時間
+TrackerDuration	追蹤持續時間
+TrackerDelay	追蹤延遲
+RolesHelp_Noisemaker_01	警示者可不是什麼普通的船員職業。警示者跟其他的職業不一樣，他們無法使用任何的東西。但警示者在被偽裝者殺死後，會自動發出警告讓大家知道。
+RolesHelp_Noisemaker_02	這樣的警告機制能夠制約偽裝者的下一步行動。這樣一來，其他船員就能立刻衝去命案現場，把偽裝者逮著正著，並為死者償命！
+RolesHelp_Tracker_01	追蹤者可以在小地圖上面看到追蹤船員的所在位置。在開始進行追蹤以前，你必須要先移動到目標船員的身邊，這樣你才能將追蹤裝置安裝到對方身上。在接近其他船員的時候還請小心，動作不要太明顯，不然你可是會讓對方起疑的。
+RolesHelp_Tracker_02	追蹤功能只能持續幾秒鐘的時間，所以還請慎選目標。此外，追蹤者也要小心，可別一直盯著小地圖，不然你很可能會成為偽裝者的下一個目標。
+RolesHelp_Phantom_01	魅影能夠隱身，並藉此偷偷靠近另一名船員，或是在殺人後神不知鬼不覺地離開現場。魅影在隱身狀態期間是能夠使用梯子和溜索的，但無法殺人。
+RolesHelp_Phantom_02	隱身或現身會在你的身邊產生大範圍的煙霧，所以在隱身或現身前，各位可要多加確認周圍有沒有其他船員在。隱身效果並非永久的，所以你隱身的時間點也很重要。
+	
+HostYouLabel	（你）
+HostNounLabel	室長：
+RoleSettingsAll	全部
+	
+QCCoreSettings	是否要使用主要預設設定？
+QCRolesGalore	是否要使用職業概覽的預設設定？
+QCPitchDark	是否要使用暗夜的預設設定？
+QCFlashlight	是否要使用手電筒的預設設定？
+QCPleaseWait	請等候遊戲開始
+QCWaitMinute	一分鐘後將開始遊戲
+QCLobbyClosing	大廳即將關閉
+QCChangeCosmetics	我需要變更造型
+QCWaitingPlayers	正在等候更多的玩家⋯⋯
+QCLetsWaitPlayers	是否要等候更多的玩家？
+	
+Cosmetic.hat_nott	Nott 的兜帽
+Cosmetic.hat_chetney	Chetney 的頭帶
+Cosmetic.hat_jester	Jester 的角
+Cosmetic.hat_laudna	Laudna 的頭髮
+Cosmetic.hat_molly	Mollymauk 的角
+Cosmetic.hat_artagan	Artagan 的頭髮
+Cosmetic.hat_fearne	Fearne 的頭髮
+Cosmetic.hat_vax	Vax 的頭髮
+Cosmetic.hat_fcg	FCG 的頭
+Cosmetic.hat_sprinkle	我沒事
+Cosmetic.hat_orthax	Orthax 的邪惡化身
+Cosmetic.hat_scanlan	Scanlan 的手
+Cosmetic.nameplate_eyes	Lucien 的九眼
+Cosmetic.nameplate_cupcake	美味之塵
+Cosmetic.nameplate_moons	Exandria 的月亮
+Cosmetic.nameplate_tea	Caduceus 的下午茶時間
+Cosmetic.pet_Pate	Pâté
+Cosmetic.pet_Mister	Mister
+Cosmetic.skin_Nott	Nott 的斗篷
+Cosmetic.skin_Chetney	Chetney 的運動服
+Cosmetic.skin_Jester	Jester 的連身裙
+Cosmetic.skin_Laudna	Laudna 的連身裙
+Cosmetic.skin_Molly	Mollymauk 的服裝
+Cosmetic.skin_artagan	Artagan 的斗篷
+Cosmetic.skin_Fearne	Fearne 的連身裙
+Cosmetic.skin_Vax	Vax 的鎧甲
+Cosmetic.visor_nott	Nott 的面具
+Cosmetic.visor_chetney	Chetney 的眉毛
+Cosmetic.visor_artagan	Artagan 的神奇眉毛
+	
+GuardianNewPermissionUpdate	自遊戲版本 {0} 開始，基於全新上路的《兒少保護法》法規要求，所有的兒童帳號都需要取得父母或監護人的同意/許可，方能完整地使用遊戲《Among Us》中的一切功能。你的遊戲資料與物品道具不會受到影響，只是你的帳號必須要先經過審核才能繼續暢玩遊戲中的豐富內容。\n\n在你獲得父母或監護人的同意/許可前，你可以暫時先使用功能受限的帳號繼續進行遊戲。如果你的帳號已經有綁定父母或監護人的電子郵件，你便可以在畫面下方找到這些相關資訊。
+	
+Cosmetic.skin_Edgeworth	御劍 怜侍的西裝
+Cosmetic.hat_Edgeworth	御劍 怜侍的頭巾
+	
+Cosmetic.hat_paws_panda	竹林高手
+Cosmetic.hat_paws_spaceDog	山頂狗兄
+Cosmetic.hat_paws_fish	有魚上鉤
+Cosmetic.hat_paws_raccoon	狡詐浣熊
+Cosmetic.hat_paws_turtle	驚駭玄武
+Cosmetic.hat_paws_foxGrey	狐步舞：灰
+Cosmetic.hat_paws_antlers	鹿角架
+Cosmetic.hat_paws_opossum	沼澤貓
+Cosmetic.nameplate_paws_fur	毛茸動物
+Cosmetic.nameplate_paws_jaguar	行蹤暴露
+Cosmetic.nameplate_paws_feathers	飛鳥群體
+Cosmetic.nameplate_paws_scales	扶搖直上
+Cosmetic.skin_paws_opossum	垃圾探掘者
+Cosmetic.skin_paws_parrot	飛行服
+Cosmetic.skin_paws_raccoon	小淘氣
+Cosmetic.skin_paws_foxGrey	全套裝備：灰
+Cosmetic.visor_paws_sacabambaspis	下巴掉地上
+Cosmetic.visor_paws_parrotBeak	嘴佳表現
+Cosmetic.visor_paws_bone	骨頭大餐
+Cosmetic.visor_paws_carrot	靈魂之窗
+Cosmetic.visor_paws_raccoon	垃圾浣熊
+Cosmetic.hat_claws_spaceDog	藍色太空狗
+Cosmetic.hat_claws_frog	井底呱呱
+Cosmetic.hat_claws_moose	駝鹿鹿角
+Cosmetic.hat_claws_dragonRed	神龍擺尾：紅
+Cosmetic.hat_claws_bullHorns	神牛
+Cosmetic.hat_claws_foxOrange	狐步舞：橘
+Cosmetic.hat_claws_squid	魷魚優勢
+Cosmetic.hat_claws_kuduHorns	羚羊請安靜點
+Cosmetic.hat_claws_buffaloHorns	水牛水水牛
+Cosmetic.hat_claws_hippo	河馬假惺惺
+Cosmetic.nameplate_claws_spaceCat	太空貓隊
+Cosmetic.nameplate_claws_spaceDog	太空狗隊
+Cosmetic.nameplate_claws_tigerPrint	你最棒
+Cosmetic.nameplate_claws_lilypad	蓮花划划划
+Cosmetic.pet_claws_spaceCat	太空貓
+Cosmetic.skin_claws_stripes	恐怖對稱
+Cosmetic.skin_claws_squid	身軀觸手
+Cosmetic.skin_claws_dragonRed	神龍降世：紅
+Cosmetic.skin_claws_frogSuit	跳躍前進
+Cosmetic.skin_claws_hoofed	奔蹄
+Cosmetic.skin_claws_foxOrange	全套裝備：橘
+Cosmetic.visor_claws_knife	讓我看看
+Cosmetic.visor_claws_smallMuzzle	會叫不咬人
+Cosmetic.visor_claws_whiskers	貓咪喵喵
+Cosmetic.visor_claws_bullRing	牛鼻環
+	
+Cosmetic.hat_NewYear2025	2025 新年帽

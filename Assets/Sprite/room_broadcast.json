@@ -1,0 +1,449 @@
+{
+	"m_AtlasName": "",
+	"m_AtlasRD": {
+		"m_AlphaTexture": { "m_Collection": "cab-a1828797179c75fbf9033d39ad174438", "m_PathID": 0 },
+		"m_AtlasRectOffset": {
+			"m_X": 0,
+			"m_Y": 0
+		},
+		"m_Bindpose": [
+			
+		],
+		"m_DownscaleMultiplier": 0,
+		"m_IndexBuffer": "",
+		"m_SecondaryTextures": [
+			
+		],
+		"m_SettingsRaw": 0,
+		"m_SubMeshes": [
+			
+		],
+		"m_Texture": { "m_Collection": "cab-a1828797179c75fbf9033d39ad174438", "m_PathID": 0 },
+		"m_TextureRect": {
+			"m_Height": 0,
+			"m_Width": 0,
+			"m_X": 0,
+			"m_Y": 0
+		},
+		"m_TextureRectOffset": {
+			"m_X": 0,
+			"m_Y": 0
+		},
+		"m_UvTransform": {
+			"m_W": 0,
+			"m_X": 0,
+			"m_Y": 0,
+			"m_Z": 0
+		},
+		"m_VertexData": {
+			"m_Channels": [
+				
+			],
+			"m_Data": "",
+			"m_VertexCount": 0
+		}
+	},
+	"m_AtlasTags": [
+		
+	],
+	"m_Bones": [
+		
+	],
+	"m_Border": {
+		"m_W": 0,
+		"m_X": 0,
+		"m_Y": 0,
+		"m_Z": 0
+	},
+	"m_CorrespondingSourceObject": { "m_Collection": "cab-a1828797179c75fbf9033d39ad174438", "m_PathID": 0 },
+	"m_Extrude": 1,
+	"m_HideFlags": 0,
+	"m_IsPolygon": false,
+	"m_Name": "room_broadcast",
+	"m_Offset": {
+		"m_X": 0,
+		"m_Y": 0
+	},
+	"m_PackingTag": "",
+	"m_PhysicsShape": [
+		[
+			{
+				"m_X": 1.295,
+				"m_Y": -2.2549999
+			},
+			{
+				"m_X": 1.3149999,
+				"m_Y": -2.495
+			},
+			{
+				"m_X": 1.505,
+				"m_Y": -2.575
+			},
+			{
+				"m_X": 1.8449999,
+				"m_Y": -2.185
+			},
+			{
+				"m_X": 1.8249999,
+				"m_Y": -2.0049999
+			},
+			{
+				"m_X": 1.675,
+				"m_Y": -1.935
+			},
+			{
+				"m_X": 1.5949999,
+				"m_Y": -1.365
+			},
+			{
+				"m_X": 1.865,
+				"m_Y": -0.73499995
+			},
+			{
+				"m_X": 1.8349999,
+				"m_Y": -0.565
+			},
+			{
+				"m_X": 1.785,
+				"m_Y": -0.505
+			},
+			{
+				"m_X": 1.625,
+				"m_Y": -0.465
+			},
+			{
+				"m_X": 1.625,
+				"m_Y": 0.345
+			},
+			{
+				"m_X": 1.9549999,
+				"m_Y": 0.505
+			},
+			{
+				"m_X": 1.905,
+				"m_Y": 1.305
+			},
+			{
+				"m_X": 1.795,
+				"m_Y": 1.485
+			},
+			{
+				"m_X": 1.8549999,
+				"m_Y": 2.5249999
+			},
+			{
+				"m_X": 2.095,
+				"m_Y": 2.635
+			},
+			{
+				"m_X": 2.115,
+				"m_Y": 2.725
+			},
+			{
+				"m_X": 2.115,
+				"m_Y": 3.145
+			},
+			{
+				"m_X": 2.075,
+				"m_Y": 3.345
+			},
+			{
+				"m_X": 2.065,
+				"m_Y": 3.365
+			},
+			{
+				"m_X": 1.4449999,
+				"m_Y": 3.365
+			},
+			{
+				"m_X": 1.3349999,
+				"m_Y": 3.105
+			},
+			{
+				"m_X": 1.305,
+				"m_Y": 2.885
+			},
+			{
+				"m_X": 1.485,
+				"m_Y": 2.595
+			},
+			{
+				"m_X": 1.495,
+				"m_Y": 1.635
+			},
+			{
+				"m_X": 1.3349999,
+				"m_Y": 1.665
+			},
+			{
+				"m_X": 1.305,
+				"m_Y": 1.5649999
+			},
+			{
+				"m_X": -0.035,
+				"m_Y": 1.615
+			},
+			{
+				"m_X": -0.055,
+				"m_Y": 1.635
+			},
+			{
+				"m_X": -0.205,
+				"m_Y": 1.655
+			},
+			{
+				"m_X": -0.24499999,
+				"m_Y": 1.5649999
+			},
+			{
+				"m_X": -1.745,
+				"m_Y": 1.655
+			},
+			{
+				"m_X": -1.895,
+				"m_Y": 1.535
+			},
+			{
+				"m_X": -1.9649999,
+				"m_Y": 0.935
+			},
+			{
+				"m_X": -2.115,
+				"m_Y": 0.865
+			},
+			{
+				"m_X": -2.115,
+				"m_Y": 0.685
+			},
+			{
+				"m_X": -2.105,
+				"m_Y": 0.645
+			},
+			{
+				"m_X": -1.925,
+				"m_Y": 0.675
+			},
+			{
+				"m_X": -2.0249999,
+				"m_Y": -0.525
+			},
+			{
+				"m_X": -2.115,
+				"m_Y": -0.575
+			},
+			{
+				"m_X": -2.115,
+				"m_Y": -0.745
+			},
+			{
+				"m_X": -1.925,
+				"m_Y": -0.745
+			},
+			{
+				"m_X": -1.985,
+				"m_Y": -1.9449999
+			},
+			{
+				"m_X": -2.115,
+				"m_Y": -2.0349998
+			},
+			{
+				"m_X": -2.115,
+				"m_Y": -2.2549999
+			},
+			{
+				"m_X": -1.9649999,
+				"m_Y": -2.305
+			},
+			{
+				"m_X": -1.9449999,
+				"m_Y": -3.2849998
+			},
+			{
+				"m_X": -1.905,
+				"m_Y": -3.365
+			},
+			{
+				"m_X": -0.125,
+				"m_Y": -3.365
+			},
+			{
+				"m_X": -0.044999998,
+				"m_Y": -3.3049998
+			},
+			{
+				"m_X": -0.035,
+				"m_Y": -2.305
+			}
+		]
+	],
+	"m_Pivot": {
+		"m_X": 0.5,
+		"m_Y": 0.5
+	},
+	"m_PixelsToUnits": 100,
+	"m_PrefabAsset": { "m_Collection": "cab-a1828797179c75fbf9033d39ad174438", "m_PathID": 0 },
+	"m_PrefabInstance": { "m_Collection": "cab-a1828797179c75fbf9033d39ad174438", "m_PathID": 0 },
+	"m_RD": {
+		"m_AlphaTexture": { "m_Collection": "cab-a1828797179c75fbf9033d39ad174438", "m_PathID": 0 },
+		"m_AtlasRectOffset": {
+			"m_X": -1,
+			"m_Y": -1
+		},
+		"m_Bindpose": [
+			
+		],
+		"m_DownscaleMultiplier": 1,
+		"m_IndexBuffer": "QgBBAEAAPwBAAEEAPgBAAD8APAA+AD8APQA+ADwAKwA9ADwAOQArADwALAArADkAOwA6ADkAOAA5ADoALAA5ADgAKAAmADYANwA2ACYANQAkACMAIAAeADMAMgAzAB4ANAAzADIAMQAwAC8ALgAvADAALAAvAC4ALQAsAC4AAQAsAC0AKwAsAAEAJwArAAEAAgAnAAEAKgAnAAIAKQAnACoAJQAnACkAJgAnACUAKAAnACYAJAAmACUABQAkACUAIwAkAAUAIgAjAAUAAwAiAAUADwAiAAMAEAAiAA8AIQAiABAAHQAhABAAIAAhAB0AHgAgAB0AHwAeAB0ADgAZABAAGgAQABkAHAAZAA4AGwAaABkADQAMABcAGAAXAAwABwAIABUAFgAVAAgAFAASABMADwATABIAEQAPABIACgAPABEADgAPAAoAEAAPAA4ADQAOAAoADAANAAoACwAMAAoABwALAAoACQAHAAoABgAHAAkACAAHAAYABQAEAAMAAgABAAAA",
+		"m_SecondaryTextures": [
+			
+		],
+		"m_SettingsRaw": 64,
+		"m_SubMeshes": [
+			{
+				"m_BaseVertex": 0,
+				"m_FirstByte": 0,
+				"m_FirstVertex": 0,
+				"m_IndexCount": 195,
+				"m_LocalAABB": {
+					"m_Center": {
+						"m_X": 0,
+						"m_Y": 0,
+						"m_Z": 0
+					},
+					"m_Extent": {
+						"m_X": 0,
+						"m_Y": 0,
+						"m_Z": 0
+					}
+				},
+				"m_Topology": 0,
+				"m_VertexCount": 67
+			}
+		],
+		"m_Texture": { "m_Collection": "cab-a1828797179c75fbf9033d39ad174438", "m_PathID": -2266286996788415935 },
+		"m_TextureRect": {
+			"m_Height": 673,
+			"m_Width": 423,
+			"m_X": 0,
+			"m_Y": 0
+		},
+		"m_TextureRectOffset": {
+			"m_X": 0,
+			"m_Y": 0
+		},
+		"m_UvTransform": {
+			"m_W": 336.5,
+			"m_X": 100,
+			"m_Y": 211.5,
+			"m_Z": 100
+		},
+		"m_VertexData": {
+			"m_Channels": [
+				{
+					"m_Dimension": 3,
+					"m_Format": 0,
+					"m_Offset": 0,
+					"m_Stream": 0
+				},
+				{
+					"m_Dimension": 0,
+					"m_Format": 0,
+					"m_Offset": 0,
+					"m_Stream": 0
+				},
+				{
+					"m_Dimension": 0,
+					"m_Format": 0,
+					"m_Offset": 0,
+					"m_Stream": 0
+				},
+				{
+					"m_Dimension": 0,
+					"m_Format": 0,
+					"m_Offset": 0,
+					"m_Stream": 0
+				},
+				{
+					"m_Dimension": 2,
+					"m_Format": 0,
+					"m_Offset": 0,
+					"m_Stream": 1
+				},
+				{
+					"m_Dimension": 0,
+					"m_Format": 0,
+					"m_Offset": 0,
+					"m_Stream": 0
+				},
+				{
+					"m_Dimension": 0,
+					"m_Format": 0,
+					"m_Offset": 0,
+					"m_Stream": 0
+				},
+				{
+					"m_Dimension": 0,
+					"m_Format": 0,
+					"m_Offset": 0,
+					"m_Stream": 0
+				},
+				{
+					"m_Dimension": 0,
+					"m_Format": 0,
+					"m_Offset": 0,
+					"m_Stream": 0
+				},
+				{
+					"m_Dimension": 0,
+					"m_Format": 0,
+					"m_Offset": 0,
+					"m_Stream": 0
+				},
+				{
+					"m_Dimension": 0,
+					"m_Format": 0,
+					"m_Offset": 0,
+					"m_Stream": 0
+				},
+				{
+					"m_Dimension": 0,
+					"m_Format": 0,
+					"m_Offset": 0,
+					"m_Stream": 0
+				},
+				{
+					"m_Dimension": 0,
+					"m_Format": 0,
+					"m_Offset": 0,
+					"m_Stream": 0
+				},
+				{
+					"m_Dimension": 0,
+					"m_Format": 0,
+					"m_Offset": 0,
+					"m_Stream": 0
+				}
+			],
+			"m_Data": "PQrHvx+F2z8AAAAACtfzv/YozD8AAAAA7FHIv+xRyD8AAAAAH4W7P7ge1T8AAAAAj8KlP65H0T8AAAAA7FGoPz0Kxz8AAAAA9igEQClcV0AAAAAAZmb2P+xRIEAAAAAA9igEQAAASEAAAAAAXI/yPylcV0AAAAAA9ijsP6RwVUAAAAAA9ijsP5qZIUAAAAAA4XrkP3sUvj8AAAAAKVzfP3E9yj4AAAAAMzPDPylczz4AAAAAhevBP3sUJkAAAAAAMzPDPz0Kp78AAAAA16PAP6RwVUAAAAAAuB61P5qZUUAAAAAArkexP+F6LEAAAAAA4XqkP5qZQUAAAAAAKVwHQLgeLUAAAAAAKVwHQGZmPkAAAAAAuB71P3sUDj8AAAAAFK73Pz0Kpz8AAAAArkfRP3sU7r4AAAAAUrjuP/YoPL8AAAAA9ijsP8P1CL8AAAAAAADQP3E9Cj4AAAAAUrjOP5qZqb8AAAAApHDNP2Zm9r8AAAAAUrjOP9ejwL8AAAAAPQrHPwAAGMAAAAAAj8LFP4/CHcAAAAAAzcy8Px+FI8AAAAAAPQqnPxSuH8AAAAAAj8KlP8P1EMAAAAAArkdhvVyP0j8AAAAAmpmZvcP1EMAAAAAAAAAAvilcV8AAAAAAmpmZvaRwVcAAAAAAhetRvrge1T8AAAAASOF6vuxRyD8AAAAACtfzvylcV8AAAAAAFK73v3E9Kj8AAAAAw/X4vylcbz8AAAAASOECwLgeZT8AAAAAzcwEwHE9Kj8AAAAAKVwHwOxRWD8AAAAAKVwHwM3MLD8AAAAA7FHoP8P1+L8AAAAAj8LlP4/CDcAAAAAAAADwP+F6DMAAAAAAj8KlP/YoFMAAAAAAKVwPvXE9UsAAAAAAKVwPvfYoFMAAAAAAw/X4v+xR+L4AAAAAFK73v65HQb8AAAAAKVwHwMP1CL8AAAAAKVwHwK5HQb8AAAAAFK73vx+F+78AAAAAFK73v6RwVcAAAAAAw/X4v5qZEcAAAAAAzcz8v8P1+L8AAAAA9igEwJqZEcAAAAAAKVwHwHE9AsAAAAAAKVwHwD0KD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+			"m_VertexCount": 67
+		}
+	},
+	"m_Rect": {
+		"m_Height": 673,
+		"m_Width": 423,
+		"m_X": 0,
+		"m_Y": 0
+	},
+	"m_RenderDataKey": {
+		"Key": {
+			"m_Data_0_": 546415280,
+			"m_Data_1_": 1134818400,
+			"m_Data_2_": 1901131701,
+			"m_Data_3_": 179940941
+		},
+		"Value": 21300000
+	},
+	"m_SpriteAtlas": { "m_Collection": "cab-a1828797179c75fbf9033d39ad174438", "m_PathID": 0 },
+	"m_SpriteID": ""
+}

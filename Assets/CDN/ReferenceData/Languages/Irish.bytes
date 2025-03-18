@@ -1,0 +1,2706 @@
+KEY ID	Irish
+LocalButton	Logánta
+OnlineButton	Ar líne
+HowToPlayButton	Treoir imeartha
+FreePlayButton	Cleachtadh
+PublicHeader	Poiblí
+PrivateHeader	Príobháideach
+HostHeader	Óstáil
+ExitButton	Scoir
+BackButton	Siar
+AvailableGamesLabel	Cluichí atá ar Fáil
+CreateGameButton	Cruthaigh Cluiche
+FindGameButton	Cuardaigh Cluiche
+EnterCode	Iontráil an Cód
+GhostIgnoreTasks	Fuair tú bás. Bain sult as an anord.
+GhostDoTasks	Fuair tú bás. Críochnaigh do chuid tascanna chun buachaint.
+TotalTasksCompleted	Líon na dtascanna críochnaithe
+GhostImpostor	Fuair tú bás. Féadfaidh tú fós sabaitéireacht a dhéanamh.
+ImpostorTask	Déan sabaitéireacht agus maraigh gach duine.
+FakeTasks	Bréagthascanna:
+TaskComplete	Tasc Críochnaithe!
+ExileTextSP	Ba é {0} an Fealltóir.
+ExileTextSN	Níorbh é {0} an Fealltóir.
+ExileTextPP	Bhí {0} ina Fhealltóir.
+ExileTextPN	Ní raibh {0} ina Fhealltóir.
+NoExileSkip	Níor eisteilgeadh aon duine. (Léimthe)
+NoExileTie	Níor eisteilgeadh aon duine. (Comhscór)
+ExileTextNonConfirm	Eisteilgeadh {0}.
+ImpostorsRemainS	Tá {0} Fealltóir fágtha.
+ImpostorsRemainP	Tá {0} Fealltóir fágtha.
+Hallway	Halla
+Engines	Innill
+UpperEngine	Inneall Uachtair
+Cafeteria	Caifitéire
+Weapons	Armra
+Reactor	Imoibreoir
+Security	Slándáil
+MedBay	Otharlann
+LifeSupp	O2
+Nav	Stiúradh
+LowerEngine	Inneall Íochtair
+Electrical	Leictreach
+Admin	Riarachán
+Storage	Stóras
+Shields	Sciatha
+Comms	Cumarsáid
+Decontamination	Dí-Éilliúlann
+Launchpad	Ceap Lainseála
+LockerRoom	Taisceadáin
+Laboratory	Saotharlann
+Balcony	Balcóin
+Office	Oifig
+Greenhouse	Teach Gloine
+DivertPowerTo	Seol Cumhacht Chuig {0}
+DivertPower	Atreoraigh Cumhacht
+AcceptDivertedPower	Glac Leis an gCumhacht Sheolta
+SubmitScan	Cuir Isteach Scanadh
+PrimeShields	Prímeáil na Sciatha
+FuelEngines	Cuir Breosla sna hInnill
+ChartCourse	Rianaigh an Cúrsa
+StartReactor	Tosaigh an t-Imoibreoir
+SwipeCard	Svaidhpeáil do Chárta
+ClearAsteroids	Scrios na hAstaróidigh
+DownloadData	Íoslódáil na Sonraí
+UploadData	Uaslódáil na Sonraí
+InspectSample	Scrúdaigh an Sampla
+EmptyChute	Folmhaigh an Fánán
+EmptyGarbage	Folmhaigh an Bruscar
+AlignEngineOutput	Ailínigh Aschur na nInneall
+FixWiring	Deisigh na Sreanga
+FixWiringName	Sreangú
+DoorsName	Doirse
+CalibrateDistributor	Calabraigh an Dáileoir
+UnlockManifolds	Díghlasáil na hIolracháin
+ResetReactor	Róthéifidh an t-Imoibreoir i gCeann
+ResetReactorName	Róthéamh an Imoibreora
+FixLights	Deisigh na Soilse
+FixLightsName	Soilse
+CleanO2Filter	Glan an Scagaire O2
+FixComms	Gabhadh den chumarsáid
+RestoreOxy	Folmhófar an ocsaigin i gceann
+RestoreOxyName	Folmhú na hOcsaigine
+StabilizeSteering	Cobhsaigh an Stiúradh
+AssembleArtifact	Cuir an Déantán le Chéile
+SortSamples	Rangaigh na Samplaí
+MeasureWeather	Tomhais an Aimsir
+EnterIdCode	Iontráil do Dhód ID
+BuyBeverage	Ceannaigh Deoch
+ProcessData	Próiseáil na Sonraí
+NumImpostorsS	Tá <color=#FF1919FF>Fealltóir amháin</color> inár measc
+NumImpostorsP	Tá <color=#FF1919FF>{0} Fealltóirí</color> inár measc
+Crewmate	Leathbhádóir
+Impostor	Fealltóir
+Victory	Bua
+Defeat	Cailleadh
+CrewmatesDisconnected	D'imigh\nformhór na Leathbhádóirí
+ImpostorDisconnected	D'imigh an Fealltóir
+PickAnomaly	Roghnaigh an Aimhrialtacht
+WaterPlantsGetCan	Canna Spréite a Fháil
+AuthOfficeOkay	Oifig CGL
+AuthCommsOkay	Cumarsáid CGL
+AuthOfficeActive	Oifig BEO
+AuthCommsActive	Cumarsáid BEO
+AuthOfficeNotActive	Oifig MÚCHTA
+AuthCommsNotActive	Cumarsáid MÚCHTA
+SecLogEntry	Chuaigh {0} thar an mbraiteoir {1}
+SecLogEntryColorblind	Chuaigh {0} ({1}) thar an mbraiteoir {2}
+LogNorth	Thuaidh
+LogSouthEast	Thoir Theas
+LogSouthWest	Thiar Theas
+EnterName	Iontráil d'Ainm
+SwipeCardPleaseInsert	Iontráil do chárta
+SwipeCardPleaseSwipe	Svaidhpeáil do chárta
+SwipeCardBadRead	Theip ar léamh. Bain triail arís as.
+SwipeCardTooFast	Róthapa! Bain triail arís as.
+SwipeCardTooSlow	Rómhall! Bain triail arís as.
+SwipeCardAccepted	Glacadh leis. Go raibh maith agat.
+ReactorHoldToStop	Coinnigh síos chun an róthéamh a stopadh.
+ReactorWaiting	Ag fanacht le húsáideoir eile
+ReactorNominal	Imoibreoir Ainmniúil
+MeetingWhoIsTitle	Cé hé an Fealltóir?
+MeetingVotingBegins	Tosóidh an Vótáil i gCeann: {0}s
+MeetingVotingEnds	Críochnóidh an Vótáil i gCeann: {0}s
+MeetingVotingResults	Torthaí Vótála
+MeetingProceeds	Ar Aghaidh i gCeann: {0}s
+MeetingHasVoted	Vótáil {0}. Ag fanacht le {1} duine.
+HowToPlayText1	Is cluiche comhoibríoch fealltóireachta Among Us.\n\nIs féidir le himreoir a bheith ina Leathbhádóir nó ina Fhealltóir.
+HowToPlayText2	Imir in éineacht le 4 go 15 imreoir ar líne nó ar an WiFi áitiúil!
+HowToPlayText41	Má tá cuntas Among Us agat ar ardán eile, seans go bhféadfaidh tú nasc a dhéanamh leis an gcuntas sin! Nó de rogha air sin, féadfaidh tú cuntas úrnua a chruthú.
+HowToPlayText42	Ar dtús, roghnaigh cé leis a bhfuil tú chun imirt! \n\nAn bhfuil fonn ort imirt le cairde ar líne? Cuir cluiche príobháideach ar bun agus roinn an cód. \n\nAn bhfuil fonn ort imirt go poiblí ar líne? Roghnaigh cluiche poiblí.
+HowToPlayText43	An bhfuil níos mó tascanna uait? Tuilleadh Fealltóirí? An bhfuil fonn ort rith níos tapúla? Mar an t-óstach, is féidir leat na socruithe seo a athrú! Féach chuige go ndeimhníonn tú na hathruithe le do chomhimreoirí.
+HowToPlayText44	Má bhíonn aon duine míbhéasach nó ag spamáil, féadfaidh an t-óstach é a dhíbirt go sealadach mar fholáireamh nó é a bhacadh ar dul isteach ar chluiche áirithe ar líne.
+HowToPlayTextMap	Tá léarscáil ag gach duine chun a bhealach a dhéanamh tríd an spáslong.
+HowToPlayTextCrew1	Sprioc: Líon Tascbharra an Ghrúpa nó Aimsigh an Fealltóir.
+HowToPlayTextCrew2	Críochnaigh tascanna chun an barra a líonadh.
+HowToPlayTextCrew3	Téigh i nGleic le Sabaitéireacht an Fhealltóra.
+HowToPlayTextCrew4	Cuir cruinniú éigeandála ar bun nuair a thagtar ar an bhFealltóir.
+HowToPlayTextCrew5	Tuairiscigh coirp.
+HowToPlayTextCrew6	Seiceáil Léarscáil an Riaracháin agus an Córas Slándála le haghaidh gníomhaíochta amhrasaí.
+HowToPlayTextImp1	Sprioc: Maraigh an Criú go léir.
+HowToPlayTextImp2	Tit isteach leis an gCriú.
+HowToPlayTextImp3	Éalaigh trí na gaothairí.
+HowToPlayTextImp4	Lig ort féin go bhfuil tú ag déanamh tascanna.
+HowToPlayTextImp5	Déan sabaitéireacht ar an spáslong agus cuir mearbhall ar an gCriú.
+HowToPlayTextImp6	Dún doirse agus sáinnigh íospartaigh.
+HowToPlayTextImp7	Maraigh an Criú idir agaí athnuachana.
+HowToPlayText5	Má tú i mbun cluichíochta le daoine eile san áit chéanna leat, ní cheadaítear caint le go gcoinneofar an cluiche cothrom don Chriú agus don Fhealltóir araon. \n\nMá mharaíonn an Fealltóir imreoir, ní féidir leis-sean labhairt go gcríochnóidh an cluiche. \n\nDéanann Taibhsí a gcuid tascanna chun bua an Chriú a bhaint amach.
+HowToPlayText6	Nuair a thuairiscítear corp nó nuair a chuirtear cruinniú éigeandála ar bun, pléann an Criú an méid atá ar eolas acu faoin bhFealltóir.\n\nIs féidir le himreoirí labhairt gan srian faoin té a cheapann siad arb é an Fealltóir é agus faoin eolas atá acu air. Nuair a imríonn tú in éineacht le daoine eile, ní féidir le Taibhsí labhairt mar go mbíonn a fhios acu cé hé an Fealltóir.\n\nDéanfaidh an Fealltóir iarracht an dallamullóg a chur ar na daoine eile.
+HowToPlayText7	Tar éis an scéal a phlé, vótáil don té a cheapann tú arb é an Fealltóir é.\n\nPé duine a bhaineann tromlach na vótaí amach, eisteilgfear é; vótáil go haireach!\n\nMura bhfuil eolas a dhóthain ann, is féidir leis an gCriú léim thar an bpróiseas vótála chun eistealgan duine neamhchiontach a sheachaint chun seans eile a fháil ar thuilleadh eolais a bhailiú.
+HowToPlayText81	Déan cleachtadh sa mhodh "Cleachtadh"!
+HowToPlayText82	Socraigh do chuid tascanna féin mar Leathbhádóir nó déan cleachtadh ar do chuid straitéisí maraithe mar Fhealltóir!
+SettingsGeneral	Ginearálta
+SettingsControls	Rialtáin
+SettingsSound	Fuaim
+SettingsGraphics	Grafaicí
+SettingsData	Sonraí
+SettingsCensorChat	Cinsireacht Comhrá
+SettingsMusic	Ceol
+SettingsSFX	SFX
+SettingsOn	Ar Siúl
+SettingsOff	Múchta
+SettingsSendTelemetry	Seol Teiliméadracht
+SettingsControlMode	Mód Smachta
+SettingsTouchMode	Tadhall
+SettingsJoystickMode	Luamhán Stiúrtha
+SettingsKeyboardMode	Luchóg+Méarchlár
+SettingsFullscreen	Lánscáileán
+SettingsVSync	VSync
+SettingsResolution	Taifeach
+SettingsApply	Cuir i bhFeidhm
+SettingsPersonalizeAds	Pearsantaigh Fógraí
+SettingsLanguage	Teanga
+SettingsJoystickSize	Méid
+SettingsMouseMode	Luchóg
+SettingsStreamerMode	Modh Sruthaithe
+MatchMapName	Léarscáil
+MatchLanguage	Teanga an Chomhrá
+MatchImpostors	Fealltóirí
+MatchMaxPlayers	Uasimreoirí
+Cancel	Cealaigh
+Confirm	Deimhnigh
+PlayerColor	Dath
+PlayerHat	Hata
+PlayerSkin	Culaith
+PlayerPet	Peata
+GameSettings	Cluiche
+GameRecommendedSettings	Socruithe a Mholtar
+GameCustomSettings	Socruithe Saincheaptha
+GameMapName	Léarscáil
+GameNumImpostors	# Fealltóir
+GameNumMeetings	# Cruinniú Éigeandála
+GameDiscussTime	Am Díospóireachta
+GameVotingTime	Am Vótála
+GamePlayerSpeed	Luas Imreora
+GameCrewLight	Radharc na Leathbhádóirí
+GameImpostorLight	Radharc an Fhealltóra
+GameKillCooldown	Aga Athnuachana (Marú)
+GameKillDistance	Raon Inmharaithe
+GameCommonTasks	Tascanna Comhroinnte
+GameLongTasks	Tascanna Fada
+GameShortTasks	Tascanna Gearra
+GameEmergencyCooldown	Aga Athnuachan Éigeandála
+GameSecondsAbbrev	{0}s
+GameConfirmImpostor	Deimhnigh Eisteilgin
+GameVisualTasks	Tascanna Infheicthe
+GameAnonymousVotes	Vótaí Gan Ainm
+GameTaskBarMode	Uasdátuithe Tascbharra
+SettingNormalTaskMode	I gCónaí
+SettingMeetingTaskMode	Cruinnithe
+SettingInvisibleTaskMode	Choíche
+Limit	Teorainn
+RoomCode	Cód
+RoomCodeInfo	Cliceáil chun cóipeáil
+LeaveGame	Fág an Cluiche
+ReturnToGame	Fill ar an gCluiche
+LocalHelp	Fadhbanna ceangail?\n\n● Cinntigh go bhfuil gach duine ceangailte leis an WiFi céanna\n● Cinntigh go bhfuil an leagan ionann ag gach duine (féach ar an taobh deas thíos)\n● Cinntigh go bhfuil ceangal WiFi láidir agat\n● Scaití, cabhraíonn sé má óstálann duine eile\n● Scaití, cabhraíonn sé má atosaíonn tú an aip... \n● Scaití, cabhraíonn sé má atosaíonn tú d'fhón...\n● Fadhbanna fós agat? Téigh i dteangmháil linn support@innersloth.com
+OnlineHelp	Conas a oibríonn sé?\n\n● Nuair a óstálann tú cluiche, bíonn cód imeartha ar phainéal an tseomra.\n● Roinn an cód le cairde chun cluiche príobháideach a chruthú.\n● Nó cliceáil ar "Príobháideach" chun cluiche poiblí a chruthú.\n● Is féidir leis an óstach imreoirí a dhíbirt nó cosc a chur orthu agus an comhrá ar siúl.\n● An bhfuil fadhbanna fós agat? Téigh i dteangmháil linn support@innersloth.com
+EmergencyCount	\n\n\n\n AN LÍON CRUINNITHE ÉIGEANDÁLA ATÁ FÁGTHA AG LEATHBHÁDÓIR {0}
+EmergencyNotReady	CAITHFIDH AN CRIÚ FANACHT\n\n\n\nGO DTAGA AN CHÉAD CHRUINNIÚ EILE
+EmergencyDuringCrisis	NÍ FÉIDIR LEAT CRUINNIÚ A CHUR AR BUN\nI RITH GEARCHÉIME
+EmergencyRequested	CRUINNIÚ IARRTHA\nAG FANACHT LEIS AN ÓSTACH
+AdPolicyTitle	Polasaí Fógraíochta
+AdPolicyText	An bhfuil cead againn do shonraí pearsanta a úsáid chun fógraí saincheaptha a chruthú duit? Má tá, baileoidh ár gcuid comhpháirtithe fógraíochta ar nós Google AdMob agus Unity Ads do shonraí go huathoibríoch agus úsáidfidh siad fianáin agus aitheantóirí gléis chun fógraí pearsantaithe a chruthú. Mura dtugann tú an cead sin dúinn, seans go bhfeicfidh tú fógraí nach bhfuil curtha in oiriúint duit. Chun fáil réidh leis na fógraí ar fad, ceannaigh an t-uasghrádú atá saor ó fhógraí [httpstore]anseo[], agus ní fheicfidh tú nó do chairde aon fhógraí agus tú i d'óstach! Chun tuilleadh a fhoghlaim faoinár gcleachtais phríobháideachta féin agus faoi chleachtais phríobháideachta ár gcuid comhpháirtithe fógraíochta, féach [https://www.innersloth.com/privacy-policy/]Polasaí Príobháideachta[]. Is féidir do chinneadh a athrú aon uair is mian leat i roghchlár na socruithe faoi "Sonraí". 
+
+Accept	Glac Leis
+RemoveAds	Bain Fógraí
+PlainYes	Tá
+PlainNo	Níl
+PrivacyPolicyTitle	Polasaí Príobháideachta
+PrivacyPolicyText	Próiseálann Innersloth sonraí pearsanta ar mhaithe le Among Us. Léigh ár <link="https://www.innersloth.com/privacy-policy/">bPolasaí Príobháideachta</link> le do thoil chun tuilleadh eolais a fháil faoinár gcleachtas príobháideachta. Is féidir leat socruithe do shonraí pearsanta in Among Us a bhainistiú faoi "Sonraí". Léigh ár <link="https://www.innersloth.com/terms-of-use-for-the-games/">gCoinníollacha Úsáide</link> le do thoil sula n-imrí tú Among Us.
+ManageDataButton	Bainistigh Bailiú Sonraí
+UnderstandButton	Tuigim
+WaterPlants	Uiscigh na plandaí
+WeatherEta	Fad measta: {0}s
+WeatherComplete	Críochnaithe
+RunDiagnostics	Rith Diagnóisicí
+SettingShort	Gearr
+SettingMedium	Meánach
+SettingLong	Fada
+SamplesPress	Brúigh Chun Tosú
+SamplesAdding	Ag Cur Imoibri
+SamplesSelect	Roghnaigh an Aimhrialtacht
+SamplesThanks	Go raibh maith agat!
+SamplesComplete	Tastail Chríochnaithe
+AstDestroyed	Scriosta: {0}
+TaskTestTitle	Tástálaí Taisc 2000
+BeginDiagnostics	Tosaigh Diagnóisicí
+UserLeftGame	D'fhág {0} an cluiche.
+GameStarting	Ag tosú i gceann {0}
+ChatRateLimit	Róthapa. Fan go ceann {0} soicind
+Tasks	Tascanna
+MedscanRequested	Scanadh iarrtha
+MedscanWaitingFor	Ag fanacht le {0}
+MedscanCompleted	Scanadh Críochnaithe!
+MedscanCompleteIn	Críochnaithe i gCeann {0}s
+StatsTitle	Staitisticí
+StatsBodiesReported	Coirp Thuairiscithe:\t
+StatsEmergenciesCalled	Cruinnithe Glaoite:\t
+StatsTasksCompleted	Tascanna Críochnaithe:\t
+StatsAllTasksCompleted	Tascanna Uile Críochnaithe:\t
+StatsSabotagesFixed	Cásanna Sabaitéireachta Deisithe:\t
+StatsImpostorKills	Maruithe mar Fhealltóir:\t\t
+StatsTimesMurdered	Líon na mBásanna:\t
+StatsTimesEjected	Líon na nEisteilgean:\t\t
+StatsCrewmateStreak	Sraith mar Leathbhádóir:\t
+StatsGamesImpostor	Cluichí mar Fhealltóir:\t
+StatsGamesCrewmate	Cluichí mar Leathbhádóir:\t
+StatsGamesStarted	Cluichí Tosaithe:\t
+StatsGamesFinished	Cluichí Críochnaithe:\t
+StatsImpostorVoteWins	Buanna mar Fhealltóir (Vóta):\t
+StatsImpostorKillsWins	Buanna mar Fhealltóir (Marú):\t
+StatsImpostorSabotageWins	Buanna mar Fhealltóir (Sabaitéireacht):\t
+StatsCrewmateVoteWins	Buanna mar Leathbhádóir (Vóta):\t
+StatsCrewmateTaskWins	Buanna mar Leathbhádóir (Tasc):\t
+MonitorOxygen	Coinnigh Súil ar an gCrann
+StoreArtifacts	Stóráil na Déantúsáin
+FillCanisters	Líon na Ceanastair
+InsertKeys	Ionsáigh na hEochracha
+ResetSeismic	Athshocraigh na Cobhsaitheoirí Seismeacha
+SeismicHoldToStop	Coinnigh síos chun an cobhsaitheoir seismeach a chur ar siúl
+SeismicNominal	Gníomhaíocht sheismeach ainmniúil
+ScanBoardingPass	Scan do phas bordála
+FixWeatherNode	Deisigh nód na haimsire
+OpenWaterways	Oscail na huiscebhealaí
+ReplaceWaterJug	Athraigh an crúiscín uisce
+RepairDrill	Deisigh an druilire
+AlignTelescope	Ailínigh an teileascóp
+RecordTemperature	Taifead an teocht
+RebootWifi	Athbhútáil an Wi-Fi
+WifiRebootRequired	Athbhútáil de dhíth
+WifiPleaseWait	Fan linn
+WifiPleaseReturnIn	Fill i gceann {0}
+WifiPleasePowerOn	Cuir ar Siúl
+WifiRebootComplete	Athbhútáil Críochnaithe
+Outside	Lasmuigh
+Dropship	Loingín
+Decontamination2	Dí-Éilliúlann Uachtarach
+Specimens	Seomra Eiseamail
+BoilerRoom	Seomra Coire
+GameOverImpostorDead	De ghnáth bheadh an bua ag an gCriú toisc go bhfuil an Fealltóir marbh. Sa mhodh "Cleachtadh", athbheoitear gach duine.
+GameOverImpostorKills	De ghnáth bheadh an bua ag an bhFealltóir toisc nach bhféidir leis an gcriú buachan a fháil a thuilleadh. Sa mhodh "Cleachtadh", athbheoitear gach duine.
+GameOverTaskWin	De ghnáth bheadh an bua ag an gCriú. Sa mhodh "Cleachtadh", eisímid tascanna nua.
+GameOverSabotage	De ghnáth bheadh an bua ag an bhFealltóir de dheasca na sabaitéireachta criticiúla. Sa gcás seo, ní ghearann muid na hiarmhairtí.
+HowToPlayText2Switch	Imir in éindí le 4 go 15 imreoir le do bhallraíocht\n\nNintendo Switch Online nó ar an WiFi áitiúil!!
+VentDirection	Treo an ghaothaire
+VentMove	Bog tríd an ngaothaire
+MenuNavigate	Stiúir
+NsoError	Níorbh fhéidir ceangal leis an líonra.
+ErrorServerOverload	Tá an iomarca daoine ar na freastalaithe Among Us.\r\n\r\nGabhann muid ár leithscéal! Bain triail as arís níos déanaí!
+ErrorIntentionalLeaving	Ní féidir leat dul isteach i gcluiche eile go ceann {0} nóiméad eile tar éis duit dícheangal d'aon turas.
+ErrorFocusLost	Dícheangalaíodh thú mar gur cuireadh Among Us ar fionraí ag app eile.
+ErrorBanned	Cuireadh cosc ort ó {0}.\r\n\r\nNí féidir leat dul ar ais sa seomra seo.
+ErrorKicked	Díbríodh thú ó {0}.\r\n\r\nIs féidir leat dul ar ais mura bhfuil an seomra tosaithe.
+ErrorBannedNoCode	Cuireadh cosc ort ón seomra.\r\n\r\nNí féidir leat dul isteach sa seomra seo.
+ErrorKickedNoCode	Díbríodh thú ón seomra.\r\n\r\nIs féidir leat dul isteach mura bhfuil an seomra tosaithe.
+ErrorHacking	Cuireadh cosc ort toisc haiceála.\r\n\r\nStop, le do thoil.
+ErrorFullGame	Tá an cluiche a ndearna tú iarracht dul isteach ann lán.\r\n\r\nSeiceáil leis an óstach an féidir leat dul isteach ar an gcéad bhabhta eile.
+ErrorStartedGame	Thosaigh an cluiche a ndearna tú iarracht dul isteach ann cheana féin.\r\n\r\nSeiceáil leis an óstach an féidir leat dul isteach ar an gcéad bhabhta eile.
+ErrorNotFoundGame	Níorbh fhéidir do chluiche a bhí uait a aimsiú.
+ErrorInactivity	Stop freastalaí na gcluichí an cluiche seo. B'fhéidir mar gheall ar neamhghníomhaíocht.
+ErrorGenericOnlineDisconnect	Dícheangalaíodh thú ón bhfreastalaí.\r\nMá tharlaíonn sé seo go minic, seiceáil láidreacht do líonra.\r\nIs féidir go bhfuil an locht ar an bhfreastálaí chomh maith.
+ErrorGenericLocalDisconnect	Dícheangalaíodh thú ón bhfreastalaí.\r\nMá tharlaíonn sé seo go minic, seiceáil láidreacht do WiFi.
+ErrorInvalidName	Dhiúltaigh freastalaí na gcluichí an t-ainm úsáideora: {0}
+ErrorUnknown	Dhícheangal earráid anaithnid thú ón bhfreastalaí.
+ErrorIncorrectVersion	Tá seanleagan den chluiche in úsáid agat.\r\n\r\nUasdátaigh an cluiche chun imirt le daoine eile.
+	
+ServerNA	Meiriceá Thuaidh
+ServerEU	An Eoraip
+ServerAS	An Áise
+ServerSA	Meiriceá Theas
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	Imreoir
+MyTablet	Mo tháibléad
+Headquarters	Ceannáras
+DownloadTestEstTimeS	Fad measta: {0}s
+DownloadTestEstTimeMS	Fad measta: {0}n {1}s
+DownloadTestEstTimeHMS	Fad measta: {0}u {0}n {1}s
+DownloadTestEstTimeDHMS	Fad measta: {0}l {0}u {0}n {1}s
+DownloadComplete	Críochnaithe
+GrabCoffee	FAIGH CAIFE
+TakeBreak	LIG DO SCITH
+DontNeedWait	NIL ORT FANACHT
+DoSomethingElse	DEAN RUD EIGIN EILE
+NodeTB	Nód_TB
+NodeIRO	Nód_IRO
+NodeGI	Nód_GI
+NodePD	Nód_PD
+NodeCA	Nód_CA
+NodeMLG	Nód_MLG
+Vending	Á DHÍOL
+OtherLanguage	Eile
+ImposterAmtAny	1-3
+	
+VitalsORGN	ORST
+VitalsBLUE	GORM
+VitalsRED	DRG
+VitalsBRWN	DONN
+VitalsGRN	GLAS
+VitalsPINK	BNDG
+VitalsWHTE	BÁN
+VitalsYLOW	BUÍ
+VitalsBLAK	DUBH
+VitalsPURP	CRCA
+VitalsCYAN	CIAN
+VitalsLIME	LMA
+ColorOrange	ORÁISTE
+ColorBlue	GORM
+ColorRed	DEARG
+ColorBrown	DONN
+ColorGreen	GLAS
+ColorPink	BÁNDEARG
+ColorWhite	BÁN
+ColorYellow	BUÍ
+ColorBlack	DUBH
+ColorPurple	CORCRA
+ColorCyan	CIAN
+ColorLime	LÍOMA
+ColorMaroon	MARÚN
+ColorRose	RÓS
+ColorBanana	BANANA
+ColorGray	LIATH
+ColorTan	CRÓN
+ColorCoral	COIRÉALACH
+MedID	ID:
+MedC	D:
+MedHT	A:
+MedBT	FG:
+MedWT	M:
+MedETA	Fad measta: {0}
+MedHello	HEILEO!
+LobbySizeWarning	Tá Among Us inimeartha le 4 imreoir, ach moltar 5 imreoir nó níos mó.\n\nCríochnóidh cluichí le 4 imreoir an-tapa agus bíonn an Fealltóir ina bhuaiteoir go minic.
+Okay	CGL
+OkayDontShow	Ceart go leor, ná taispeáin dom é seo
+Nevermind	Is cuma
+CamEast	Thoir
+CamCentral	Lárnach
+CamNortheast	Thoir Thuaidh
+CamSouth	Theas
+CamSouthwest	Thiar Theas
+CamNorthwest	Thiar Thuaidh
+LoadingFailed	Theip ar lódáil:
+PetFailFetchData	Níorbh fhéidir sonraí peata a aisghabháil
+BadResult	EARRÁID
+More	{0} EILE
+Processing	Á phróiseáil
+ExitGame	Scoir
+WaitingForHost	Ag fanacht leis an óstach
+LeftGameError	D'fhág {0} de dheasca earráide.
+PlayerWasBannedBy	Chuir {1} cosc ar {0}
+PlayerWasKickedBy	Dhíbir {1} {0}
+Dummy	Caochadán
+Bad	EARRÁID
+Status	Stádas:
+Fine	GLACTHA LEIS
+OK	CGL
+SecondsAbbv	{0}s
+PetTryOn	Triail rud éigin!
+DataPolicyWhat	Cad a bhailítear?
+	
+VaultRoom	Daingean
+Cockpit	Cró Píolóta
+Armory	Armlann
+Kitchen	Cistin
+ViewingDeck	Deic Féachana
+HallOfPortraits	Halla na bPortráidí
+Medical	Otharlann
+CargoBay	Bá Lastais
+Ventilation	Aeráil
+Showers	Cithfholcadáin
+Engine	Seomra Innill
+Brig	Bruig
+MeetingRoom	Seomra Cruinnithe
+Records	Cartlann
+Lounge	Tolglann
+GapRoom	Nascseomra
+MainHall	Príomh-Halla
+	
+PolishRuby	Snasaigh an Rúibín
+ResetBreakers	Athshocraigh na Scoradáin
+Decontaminate	Dí-Éilligh
+MakeBurger	Réitigh Burgar
+UnlockSafe	Díghlasáil an Taisceadán
+SortRecords	Rangaigh na Taifid
+PutAwayPistols	Cuir na Piostail i dTaisce
+PutAwayRifles	Cuir na Raidhfilí i dTaisce
+FixShower	Deisigh an Cithfholcadán
+CleanToilet	Glan an Leithreas
+DressMannequin	Gléas an Mainicín
+PickUpTowels	Pioc Suas na Tuáillí
+RewindTapes	Cúlchas na Fístéipeanna
+StartFans	Cuir na Gaothráin ar Siúl
+DevelopPhotos	Réal na Grianghraif
+GetBiggolSword	Faigh an Biggol Sword
+StopCharles	Iompaigh Cúrsa Tubaiste
+	
+RevealCode	Nocht an cód
+DirtyHeader	SALACH
+AuthLeftOkay	Taobh Cle CGL
+AuthRightOkay	Taobh Deas CGL
+AuthLeftActive	Taobh Cle BEO
+AuthRightActive	Taobh Deas BEO
+AuthLeftNotActive	Taobh Cle MUCHTA
+AuthRightNotActive	Taobh Deas MUCHTA
+PSXBEngagementScreen	Brúigh aon chnaipe chun tosú
+DeleteButton	Scrios
+QuickChat	Mearchomhrá
+QCBuilderHeader	Déantóir Mearchainte
+QCLocationLaptop	Ríomhaire Glúine
+MapNameSkeld	Skeld
+MapNameMira	Mira
+MapNamePolus	Polus
+MapNameAirship	Airship
+MapNameFungle	Fungle
+QCSystemsStart	Tosaigh
+QCSystemsKick	Díbir
+QCCrewI	Mise
+QCCrewMe	Mé
+QCBuildingPlaceholder	Ag cur abairt le chéile...
+QCCrewDead	Marbh
+QCTagSelf	Mé féin
+QCInputSelf	Mise Mé Féin
+QCTagFavorites	Cinn is Fearr
+QCInputFavorite	Ceann Maith
+QCTagRoles	Róil
+QCInputRole	Ról
+QCTagTasks	Tasc
+QCInputTask	Tascanna
+QCTagSabotages	Córais
+QCInputSabotages	Sabaitéireacht
+QCTagQuickRemarks	Focail Thapa
+QCTagRemarks	Tráchtanna
+QCInputRemark	Trácht
+QCTagAccuse	Éiligh!
+QCInputAccusation	Éileamh
+QCTagDefend	Cosain!
+QCInputDefense	Cosaint
+QCTagQuestionSingular	Ceist
+QCTagQuestion	Ceistigh?
+QCTagLobby	Príomhsheomra
+QCTagImpostor	Fealltóir
+QCTagMeeting	Cruinniú
+QCTagHiding	I bhfolach
+QCTagFlashlight	Tóirse
+QCSelfVoted	Thug mé vóta do {0}
+QCSelfReportedBody	Thuairiscigh mé an corp
+QCSelfCams	Bhí mé ag faire trí na ceamaraí slándála
+QCCrewCams	Bhí {0} ag faire trí na ceamaraí slándála
+QCSelfWasProtected	Bhí mé faoi chosaint
+QCCrewWasProtected	Bhí {0} faoi chosaint
+QCSelfWasntMe	Ní mise faoi deara é
+QCWhoWasAt	Cé a bhí ag {0}?
+QCSelfDoingTask	Bhí mé ag déanamh {0}
+QCWhoIsRole	Cé {0}?
+QCSelfFixedSystem	Dheisigh mé {0}
+QCCrewFixedSystem	Dheisigh {0} {1}
+QCSelfAccAtLocation	Chonaic mé {0} ag marú {1} ag {2}
+QCSelfDidTaskAtLocation	Rinne mé {0} ag {1}
+QCCrewDidTaskAtLocation	Rinne {0} {1} ag {2}
+QCSelfSawCrewVentAtLocation	Chonaic mé {0} ag veinteáil i {1}
+QCSelfDidntVent	Níor veinteáil mé
+QCFollowMe	Lean(aigí) mé
+QCItsNotMe	Ní mise é
+QCSelfDoneWithTasks	Tá mo chúram uaim
+QCGhostsDoYourTasks	Cuirigí bhur dtascanna i gcrích, a thaibhsí
+QCSelfNotTheImpostor	Ní mise an Fealltóir
+QCHello	Heileo
+QCThanks	GRMA
+QCSorry	GML
+QCGG	GG
+QCBye	Slán
+QCWhereWasTheBody	Cá raibh an corp?
+QCSelfReady	Táim réidh
+QCSelfWasRole	Ba {0} mé
+QCWhoWasRole	Cé a bhí ina {0}?
+QCCoolOutfitCrew	Culaith dheas, a {0}!
+QCCrewReportedBody	Thuairiscigh {0} an corp
+QCCrewNoOne	Duine ar Bith
+QCResYes	Tá
+QCResNo	Níl
+QCResDontKnow	Níl a fhios agam
+QCResDontKnowNeg	B'fhéidir
+QCResVote	Vótáil
+QCResVoteNeg	Léim thar vóta
+QCResRip	RIP
+QCResRipNeg	dhíííteáil
+QCResLies	bréaga
+QCResLiesNeg	ceart go leor
+QCQstWhere	cén áit?
+QCQstWho	cén duine?
+QCQstWhoDidTask	Cé a rinne {0}?
+QCQstBodyOrMeeting	Arbh é corp marbh nó cruinniú éigeandála a bhí i gceist?
+QCStaDoubleKill	Marú dúbailte a bhí ann
+QCStaWasSelfReport	Féinthuairisc a bhí ann
+QCStaPleaseDoTasks	Déan do chuid tascanna
+QCStaBodyWasInA	Bhí an corp sa {0}
+QCLocation	Suíomh
+QCSystems	Córais
+QCCrew	Criú
+QCAccusation	Cúiseamh
+QCResponse	Freagra
+QCQuestion	Ceist
+QCStatements	Ráitis
+QCSelfWasUsingBinoculars	Bhí mé ag féachaint trí na gloiní
+QCSelfSawThroughBinoculars	Chonaic mé trí na gloiní
+QCInTheSporeCloud	I Néal na Spór
+QCHiddenBySporeCloud	Ceilte ag Néal na Spór
+CQCrewKilledDeadInSporeCloud	Mharaigh {0} {1} i Néal na Spór
+QCSelfUsingZipline	Bhí mé ag úsáid na Ziplíne
+QCSelfSawWhileUsingZipline	Chonaic mé agus mé ag úsáid na Ziplíne
+QCCrewWasUsingZipline	Bhí {0} ag úsáid na Ziplíne
+QCDuringMushroomMixup	Le Linn Mheascán na mBeacán
+	
+ChatType	Cineál Comhrá
+QuickChatOnly	Mearchomhrá Amháin
+FreeChatOnly	Saorchomhrá Amháin
+FreeOrQuickChat	Saorchomhrá
+DateOfBirth	Dáta Breithe
+DateOfBirthEnter	Iontráil do dháta breithe le do thoil:
+Month	Mí
+Day	Lá
+Year	Bliain
+January	Eanáir
+February	Feabhra
+March	Márta
+April	Aibreán
+May	Bealtaine
+June	Meitheamh
+July	Iúil
+August	Lúnasa
+September	Meán Fómhair
+October	Deireadh Fómhair
+November	Samhain
+December	Mí na Nollag
+Submit	Cuir Isteach
+	
+QCAccAKilledB_QCCrewMe_ANY	Mharaigh mé {1}
+QCAccAKilledB_QCCrewMe_QCCrewNoOne	Níor mharaigh mé aon duine
+QCAccAKilledB_QCCrewMe_QCCrewMe	
+QCAccAKilledB_ANY_QCCrewMe	Mharaigh {0} mé
+QCAccAKilledB	Mharaigh {0} {1}
+QCAccAKilledB_ANY_QCCrewNoOne	Níor mharaigh {0} aon duine
+QCAccAKilledB_QCCrewNoOne_QCCrewMe	Níor mharaigh duine ar bith mé
+QCAccAKilledB_QCCrewNoOne_ANY	Níor mharaigh duine ar bith {1}
+QCAccAKilledB_QCCrewNoOne_QCCrewNoOne	Níor mharaigh duine ar bith aon duine
+QCAccAKilledBNeg_QCCrewMe_ANY	Níor mharaigh mé {0}
+QCAccAKilledBNeg_QCCrewMe_QCCrewNoOne	Níor mharaigh mé aon duine
+QCAccAKilledBNeg_QCCrewMe_QCCrewMe	Níor chuir mé lámh i mo bhás féin
+QCAccAKilledBNeg_ANY_QCCrewMe	Níor mharaigh {0} mé
+QCAccAKilledBNeg	Níor mharaigh {0} {1}
+QCAccAKilledBNeg_ANY_QCCrewNoOne	Níor mharaigh {0} aon duine
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAKilledBNeg_QCCrewNoOne_ANY	
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsSuspicious_QCCrewMe	Tá mé faoi amhras
+QCAccAIsSuspicious	Tá {0} faoi amhras
+QCAccAIsSuspicious_QCCrewNoOne	Níl aon duine faoi amhras
+QCAccAIsSuspiciousNeg_QCCrewMe	Tá mé gan amhras
+QCAccAIsSuspiciousNeg	Tá {0} gan amhras
+QCAccAIsSuspiciousNeg_QCCrewNoOne	Tá chuile dhuine faoi amhras
+QCAccASawBVent_QCCrewMe_ANY	Chonaic mé {0} ag dul i bhfolach sna gaothairí
+QCAccASawBVent_QCCrewMe_QCCrewNoOne	Chonaic mé duine ar bith ag dul i bhfolach sna gaothairí
+QCAccASawBVent_QCCrewMe_QCCrewMe	
+QCAccASawBVent_ANY_QCCrewMe	Chonaic {0} mé ag dul i bhfolach sna gaothairí
+QCAccASawBVent	Chonaic {0} {1} ag dul i bhfolach sna gaothairí
+QCAccASawBVent_ANY_QCCrewNoOne	Chonaic {0} duine ar bith ag dul i bhfolach sna gaothairí
+QCAccASawBVent_QCCrewNoOne_QCCrewMe	Ní fhaca aon duine mé ag dul i bhfolach sna gaothairí
+QCAccASawBVent_QCCrewNoOne_ANY	Ní fhaca aon duine {1} ag dul i bhfolach sna gaothairí
+QCAccASawBVent_QCCrewNoOne_QCCrewNoOne	Ní fhaca aon duine ar bith ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg_QCCrewMe_ANY	Ní fhaca mé riamh {0} ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg_QCCrewMe_QCCrewNoOne	Ní fhaca mé riamh aon duine ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg_QCCrewMe_QCCrewMe	
+QCAccASawBVentNeg_ANY_QCCrewMe	Ní fhaca {0} riamh mé ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg	Ní fhaca {0} riamh {1} ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg_ANY_QCCrewNoOne	Ní fhaca {0} riamh aon duine ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewMe	Ní fhaca aon duine riamh mé ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg_QCCrewNoOne_ANY	Ní fhaca aon duine riamh {1} ag dul i bhfolach sna gaothairí
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewNoOne	Ní fhaca aon duine riamh duine ar bith ag dul i bhfolach sna gaothairí
+QCAccAWasChasingB_QCCrewMe_ANY	Bhí mé ar thóir {0}
+QCAccAWasChasingB_QCCrewMe_QCCrewNoOne	Ní raibh mé ar thóir aon duine
+QCAccAWasChasingB_QCCrewMe_QCCrewMe	
+QCAccAWasChasingB_ANY_QCCrewMe	Bhí {0} ar mo thóir
+QCAccAWasChasingB	Bhí {0} ar thóir {1}
+QCAccAWasChasingB_ANY_QCCrewNoOne	Ní raibh {0} ar thóir aon duine
+QCAccAWasChasingB_QCCrewNoOne_QCCrewMe	Ní raibh duine ar bith ar mo thóir
+QCAccAWasChasingB_QCCrewNoOne_ANY	Ní raibh duine ar bith ar thóir {1)
+QCAccAWasChasingB_QCCrewNoOne_QCCrewNoOne	Ní raibh duine ar bith ar thóir aon duine
+QCAccAWasChasingBNeg_QCCrewMe_ANY	Ní raibh mé ar thóir {0}
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewNoOne	Ní raibh mé ar thóir aon duine
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewMe	
+QCAccAWasChasingBNeg_ANY_QCCrewMe	Ní raibh {0} ar mo thóir
+QCAccAWasChasingBNeg	Ní raibh {0} ar thóir {1}
+QCAccAWasChasingBNeg_ANY_QCCrewNoOne	Ní raibh {0} ar thóir aon duine
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAWasChasingBNeg_QCCrewNoOne_ANY	
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsLying_QCCrewMe	Tá mé ag insint bréaga
+QCAccAIsLying	Tá {0} ag insint bréaga
+QCAccAIsLying_QCCrewNoOne	Níl aon duine ag insint bréaga
+QCAccAIsLyingNeg_QCCrewMe	Tá mé ag insint na fírinne
+QCAccAIsLyingNeg	Tá {0} ag insint na fírinne
+QCAccAIsLyingNeg_QCCrewNoOne	Níl aon duine ag insint na fírinne
+QCAccVoteA_QCCrewMe	vótáil dom
+QCAccVoteA	vótáil do {0}
+QCAccVoteA_QCCrewNoOne	ná vótáil do dhuine ar bith
+QCAccVoteANeg_QCCrewMe	ná vótáil dom
+QCAccVoteANeg	ná vótáil do {0}
+QCAccVoteANeg_QCCrewNoOne	
+QCAccADidntReport_QCCrewMe	Níor thuairiscigh mé an corp
+QCAccADidntReport	Níor thuairiscigh {0} an corp
+QCAccADidntReport_QCCrewNoOne	
+QCResAWas_QCCrewMe	Bhí mé
+QCResAWas	Bhí {0}
+QCResAWas_QCCrewNoOne	Ní raibh aon duine
+QCResAWasNeg_QCCrewMe	Ní raibh mé
+QCResAWasNeg	Ní raibh {0}
+QCResAWasNeg_QCCrewNoOne	
+QCResADid_QCCrewMe	Rinne mé
+QCResADid	Rinne {0}
+QCResADid_QCCrewNoOne	Ní dhearna duine
+QCResADidNeg_QCCrewMe	Ní dhearna mé
+QCResADidNeg	Ní dhearna {0}
+QCResADidNeg_QCCrewNoOne	
+QCResAWasAtB_QCCrewMe_ANY	Bhí mé sa {0}
+QCResAWasAtB	Bhí {0} sa {1}
+QCResAWasAtB_QCCrewNoOne_ANY	Ní raibh duine sa {0}
+QCResAWasAtBNeg_QCCrewMe_ANY	Ní raibh mé sa {0}
+QCResAWasAtBNeg	Ní raibh {0} sa {1}
+QCResAWasAtBNeg_QCCrewNoOne_ANY	
+QCQstWhoWasWith_QCCrewMe	cé a bhí liom?
+QCQstWhoWasWith	cé a bhí le {0}?
+QCQstWhoWasWith_QCCrewNoOne	cé a bhí ina n-aonar?
+QCQstWhatWasADoing_QCCrewMe	
+QCQstWhatWasADoing	céard a bhí ar bun ag {0}?
+QCQstWhatWasADoing_QCCrewNoOne	
+QCQstWhereWasA_QCCrewMe	
+QCQstWhereWasA	cá raibh {0}?
+QCQstWhereWasA_QCCrewNoOne	
+QCStaASawB_QCCrewMe_ANY	Chonaic mé {0}
+QCStaASawB_QCCrewMe_QCCrewNoOne	Ní fhaca mé aon duine
+QCStaASawB_QCCrewMe_QCCrewMe	
+QCStaASawB_ANY_QCCrewMe	Chonaic {0} mé
+QCStaASawB	Chonaic {0} {1}
+QCStaASawB_ANY_QCCrewNoOne	Ní fhaca {0} aon duine
+QCStaASawB_QCCrewNoOne_QCCrewMe	Ní fhaca aon duine mé
+QCStaASawB_QCCrewNoOne_ANY	Ní fhaca aon duine {0}
+QCStaASawB_QCCrewNoOne_QCCrewNoOne	Ní fhaca aon duine duine ar bith
+QCStaAWasWithB_QCCrewMe_ANY	Bhí mé le {0}
+QCStaAWasWithB_QCCrewMe_QCCrewNoOne	Ní raibh mé le haon duine
+QCStaAWasWithB_QCCrewMe_QCCrewMe	
+QCStaAWasWithB_ANY_QCCrewMe	Bhí {0} liom
+QCStaAWasWithB	Bhí {0} le {1}
+QCStaAWasWithB_ANY_QCCrewNoOne	Ní raibh {0} le haon duine
+QCStaAWasWithB_QCCrewNoOne_QCCrewMe	Ní raibh aon duine liom
+QCStaAWasWithB_QCCrewNoOne_ANY	Ní raibh aon duine le {1}
+QCStaAWasWithB_QCCrewNoOne_QCCrewNoOne	Ní raibh aon duine le duine ar bith
+QCStaADidB_QCCrewMe_ANY	Rinne mé an tasc "{0}"
+QCStaADidB	Rinne {0} an tasc "{1}"
+QCStaADidB_QCCrewNoOne_ANY	Ní dhearna aon duine an tasc "{1}"
+QCStaASelfReported_QCCrewMe	Thuairiscigh mé mé féin
+QCStaASelfReported	Thuairiscigh {0} iad féin
+QCStaASelfReported_QCCrewNoOne	Níor thuairiscigh aon duine iad féin
+QCStaACalledMeeting_QCCrewMe	Chuir mé cruinniú ar bun
+QCStaACalledMeeting	Chuir {0} cruinniú ar bun
+QCStaACalledMeeting_QCCrewNoOne	Níor chuir aon duine cruinniú ar bun
+QCMore	NÍOS MÓ
+QCQstWhy	Cén fáth?
+QCCrewSomeone	Duine éigin
+QCResUrWelcome	Tá fáilte romhat
+QCResNp	Ná habair é
+QCResYikes	A thiarcais
+QCResRipCrew	rip {}
+QCResYeetCrew	dhíííteáil {}
+QCSelfWasOnVitals	Bhí mé ag féachaint ar chomharthaí beatha
+QCSawDeadCrewOnVitals	Chonaic mé go bhfuil {0} marbh trí fhéachaint ar chomharthaí beatha
+QCSelfSawTwoCrew	Chonaic mé beirt {}
+QCCrewShapeshifted	Chuir {0} bréagriocht air féin
+QCSelfSawCrewDoVisualTask	Chonaic mé {0} ag déanamh tasc infheicthe
+QCSelfWasOnDoorlogs	Bhí mé ag breathnú ar chuntas na ndoirse
+QCSelfWasOnAdmin	Bhí mé ag breathnú ar chuntas na seomraí
+QCSelfAmVotingCrew	Táim chun vóta a thabhairt do {0}
+QCCrewWasPretendingTasks	Bhí {0} ag ligean air féin go raibh tascanna á dhéanamh aige
+QCCrewWasPretendingSabotage	Bhí {0} ag ligean air féin go raibh sé ag deisiú {1}
+QCLobbyMoreImpostors	Níos Mó Fealltóirí?
+QCLobbyLessImpostors	Níos Lú Fealltóirí?
+QCLobbyConfirmEjects	Deimhniú Eisteilgthe?
+QCLobbyMoreEmergencyMeetings	Níos Mó Cruinnithe Éigeandála?
+QCLobbyLessEmergencyMeetings	Níos Lú Cruinnithe Éigeandála?
+QCLobbyAnonymousVotes	Vótáil Gan Ainm?
+QCLobbyMoreEmergencyCooldownTime	Aga Athnuachan Éigeandála Níos Sia?
+QCLobbyLessEmergencyCooldownTime	Aga Athnuachan Éigeandála Níos Giorra?
+QCLobbyMoreDiscussionTime	Níos Mó Am Díospóireachta?
+QCLobbyLessDiscussionTime	Níos Lú Am Díospóireachta?
+QCLobbyMoreVotingTime	Níos Mó Am Vótála?
+QCLobbyLessVotingTime	Níos Lú Am Vótála?
+QCLobbyFasterPlayerSpeed	Luas Imreora Níos Sciobtha?
+QCLobbySlowerPlayerSpeed	Luas Imreora Níos Moille?
+QCLobbyTaskBarUpdates	Uasdátuithe Tascbharra?
+QCLobbyVisualTasks	Tascanna Infheicthe?
+QCLobbyMoreCrewmateVision	Radharc Níos Sia do na Leathbhádóirí
+QCLobbyLessCrewmateVision	Radharc Níos Giorra do na Leathbhádóirí
+QCLobbyMoreImpostorVision	Radharc Níos Sia do na Fealltóirí
+QCLobbyLessImpostorVision	Radharc Níos Giorra do na Fealltóirí
+QCLobbyMoreKillCooldownTime	Aga Athnuachana Maraithe Níos Sia?
+QCLobbyLessKillCooldownTime	Aga Athnuachana Maraithe Níos Gearr?
+QCLobbyLongerKillDistance	Raon Inmharaithe Níos Sia?
+QCLobbyShorderKillDistance	Raon Inmharaithe Níos Giorra?
+QCLobbyMoreCommonTasks	Níos Mó Tascanna Coiteanna?
+QCLobbyLessCommonTasks	Níos Lú Tascanna Coiteanna?
+QCLobbyMoreLongTasks	Níos Mó Tascanna Fada?
+QCLobbyLessLongTasks	Níos Lú Tascanna Fada?
+QCLobbyMoreShortTasks	Níos Mó Tascanna Gearra?
+QCLobbyLessShortTasks	Níos Lú Tascanna Gearra?
+QCLobbyRoleScientists	Eolaithe?
+QCLobbyRoleGuardianAngels	Aingil Choimhdeachta?
+QCLobbyRoleEngineers	Innealtóirí?
+QCLobbyRoleShapeshifters	Ilchruthaigh?
+QCLobbyRoleNone	Gan róil
+QCResLess	Níos lú
+QCResMore	Níos mó
+QCResNone	Faic
+QCLobbyHNSMoreHideTime	Níos Mó Am Folaithe
+QCLobbyHNSLessHideTime	Níos Lú Am Folaithe
+QCLobbyHNSMoreFinalHideTime	Níos Mó Ama don Fholach Déanach
+QCLobbyHNSLessFinalHideTime	Níos Lú Ama don Fholach Déanach
+QCLobbyHNSFlashlightMode	Modh na dTóirsí
+QCLobbyHNSMoreCrewmateFlashlightSize	Méid Tóirse Níos Mó do na Leathbhádóirí?
+QCLobbyHNSLessCrewmateFlashlightSize	Méid Tóirse Níos Lú do na Leathbhádóirí?
+QCLobbyHNSMoreImpostorFlashlightSize	Méid Tóirse Níos Mó do na Fealltóirí?
+QCLobbyHNSLessImpostorFlashlightSize	Méid Tóirse Níos Lú do na Fealltóirí?
+QCLobbyHNSShowNames	Taispeáin Ainmneacha?
+QCLobbyHNSMoreVents	Níos Mó Gaothairí?
+QCLobbyHNSLessVents	Níos Lú Gaothairí?
+QCLobbyHNSMoreTimeInVent	Níos Mó Am Veinteála?
+QCLobbyHNSLessTimeInVent	Níos Lú Am Veinteála?
+QCLobbyHNSMoreFinalHideImpostorSpeed	Luas Níos Sciothha don Fhealltóra i rith an Fholaigh Dhéanaigh?
+QCLobbyHNSLessFinalHideImpostorSpeed	Luas Níos Moille don Fhealltóra i rith an Fholaigh Dhéanaigh?
+QCLobbyHNSFinalHideSeekMap	Léarscáil Tóraíochta an Fholaigh Dhéanaigh?
+QCLobbyHNSFinalHidePings	Clingeacha an Fholaigh Dhéanaigh?
+QCLobbyHNSMorePingInterval	Eatramh Níos Sia idir Clingeacha?
+QCLobbyHNSLessPingInterval	Eatramh Níos Giorra idir Clingeacha?
+QCResAgree	Aontaím
+QCResDisagree	Ní aontaím
+QCResNice	Go deas
+QCResUhOh	Faraor!
+QCResOops	Hoips
+QCResExclamationMarks	!!!
+QCResQuestionMarks	???
+SecurityLogsSystem	Logaí Slándála
+SecurityCamsSystem	Ceamaraí Slándála
+AdminMapSystem	Léarscáil an Riaracháin
+VitalsSystem	Comharthaí Beatha
+EngagementScreenSignIn	Ag síneáil isteach...
+EngagementScreen	Brúigh aon chnaipe chun tosú
+SaveGameOutOfSpaceMessage	Ar mhaith leat leanúint ort gan sábháil?
+SaveGameOutOfSpaceConfirm	Ar aghaidh
+SaveGameOutOfSpaceCancel	Atriail
+Success	D'éirigh leis!
+Failed	Theip air!
+ErrorCreate	Tharla rud éigin as bealach agus an cuntas á chruthú. Bain triail as arís níos déanaí.
+SuccessCreate	D'éirigh leat cuntas a chruthú!
+Close	Dún
+ErrorLogIn	Níorbh fhéidir ceangal a dhéanamh le do chuntas Among Us.
+SuccessLogIn	D'éirigh leat síneáil isteach i do chuntas!
+AccountInfo	FAISNÉIS CHUNTAIS
+Account	CUNTAS
+UserName	Ainm Úsáideora
+Height	Airde
+Weight	Meáchan
+SignIn	Sínigh Isteach
+CreateAccount	Cruthaigh Cuntas
+RequestPermission	Iarr ar Chead
+RandomizeName	Randamaigh Ainm
+AccountLinking	Nascadh Cuntais
+ChangeName	Athraigh Ainm
+LogOut	Logáil Amach
+GuardianWait	Caithfidh tú fanacht le do chaomhnóir cead a thabhairt duit le húsáid a bhaint as an saorchomhrá agus le d'ainm úsáideora a athrú.
+EmailEdit	Cuir ríomhphost in eagar
+EmailResend	Athsheol ríomhphost
+GuestContinue	Lean ort mar Chuairteoir
+GuardianEmailSent	Ríomhphost caomhnóra seolta
+GuardianCheckEmail	Ná déan dearmad iarraidh ar do chaomhnóir a ríomhphost a sheiceáil le gnéithe an chluiche uilig a gnothú
+EditName	Cuir Ainm in Eagar
+Name	Ainm
+CreateAccountQuestion	Cruthaigh Cuntas?
+DoYouWantCreate	An bhfuil fonn ort cuntas a chruthú?
+PermissionRequired	Cead de Dhíth
+NeedPermissionText	Beidh orainn cead a iarradh ar do chaomhnóir (trí ríomhphost) sula leanóidh tú ort. Má thugann siad cead, beidh tú in ann úsáid a bhaint as saorchomhrá agus d'ainm úsáideora a athrú. Iarr ar dhuine fásta chun cabhrú leat!
+GuardianEmailTitle	Ríomhphost caomhnóra
+Send	Seol
+Undo	Cealaigh
+Clear	Glan
+NewEmail	Ríomhphost nua
+ConfirmEmail	Deimhnigh ríomhphost
+EditEmail	Cuir ríomhphost in eagar
+Loading	Á lódáil
+Welcome	FÁILTE
+GuardianEmail	[r-phost do chaomhnóra]
+	
+BanButton	Coisc
+KickButton	Díbir
+ReportButton	Tuairisc
+ReportConfirmation	D'éirigh leat an t-úsáideoir a leanas a thuairisciú.
+ReportBadName	Ainm Úsáideora Neamhoiriúnach
+ReportBadChat	Teachtaireacht Neamhoiriúnach
+ReportHacking	Hacáil/Caimiléireacht
+ReportHarassment	Ciapadh/Mí-iompar
+ReportWhy	Cén fáth a bhfuil tú ag tuairisciú an úsáideora seo?
+DLLNotFoundAccountError	Tharla rud éigin as bealach agus tú ag ceangal le seirbhísí ar líne. Go dtí go mbeidh caoi air, ní féidir leat ach dul sa mhodh "Áitiúil" nó sa mhodh "Cleachtadh". Bain triail as níos déanaí.
+ContinueOffline	Imir as líne
+WantToLogIn	Níl tú logáilte isteach i gcuntas ar bith
+GoOffline	Téigh as Líne
+PlayAsGuest	Imir mar Chuairteoir
+LogInTitle	Sínigh Isteach
+LogInInfoText	Sínigh isteach nó cruthaigh cuntas Among Us chun na rudaí seo a leanas (agus tuilleadh!) a dhéanamh:\n\n- Do dhul chun cinn trasimeartha a chaomhnú\n- Saorchomhrá\n- Cosmaidí a cheangal\n\n Ní mór cead a fháil ó thuismitheoir nó ó chaomhnóir chun rudaí áirithe a dhéanamh, ag brath ar an saghas cuntais atá i gceist.
+LogInInfoTextSwitch	Má shíneálann tú isteach i gcuntas ceart, is féidir leat síneáil isteach níos déanaí. Mura bhfuil cuntas agat, déanfar ceann go huathoibríoch duit.
+ControllerDisconnectedMessage	Dícheanglaíodh an Rialtán
+FollowUs	Lean muid!
+	
+QuickChatInstructionsStart	Tá do chuid socruithe chomhrá ionchluiche socraithe ar Mhearchomhrá Amháin.
+QuickChatInstructionsChild	Ní mór duit cead iarradh ar do thuiste nó caomhnóir le Lánchomhrá a rochtain.
+QuickChatInstructionsGuest	Sínigh isteach chun é seo a athrú
+QuickChatInstructionsFull	Féadfaidh tú é seo a athrú sa roghchlár Socruithe
+	
+SwitchEShopBrowseAll	Brabhsáil na hearraí uile ar Nintendo eShop
+	
+Download	Íoslódáil
+Upload	Uaslódáil
+pk05_davehat	Hata Dave
+pk05_Ellie	Ellie
+pk05_Svenhat	Hata Sven
+pk05_Burthat	Hata Burt
+pk05_Ellryhat	Mohawk Ellry
+pk05_monocles	Leathspéacla Dúbáilte
+pk05_cheesetoppat	Hata Ard Cáise
+pk05_Macbethhat	Hata Ard an Uasail Mhic Bheatha
+pk05_HenryToppat	Hata Ard Anraoi
+pk05_EllieToppat	Hata Ard Ellie
+pk05_GeoffreyToppat	Hata Ard Geoffrey
+	
+InsufficientStorageError	Ní raibh do dhóthain stórais agat leis an bpaca acmhainne a íoslódáil. Cuir spás stóráis ar fáil ar do ghléas agus bain triail as arís le do thoil.
+NetworkError	Earráid líonra. Déan seic ar do shocruithe líonraí agus bain triail as arís
+OtherDownloadError	Earráid: {0}
+DownloadingLabel	Ag íoslódáil {0}
+DownloadSizeLabel	Méid an íoslódála: {0}MB
+	
+TimeRemaining	Am fágtha: {0}
+DeadLabel	MARBH
+	
+InviteFriends	Tabhair cuireadh do chairde
+	
+NutriLabel	BEATHAÍ
+CO2Label	CO2
+RADLabel	RAD
+WaterLabel	UISCE
+	
+DoorlogLabel	LOGA DORAIS
+VitalsLabel	BEOCHT
+OptionsLabel	SAINCHEAP
+ProceedLabel	LEAN ORT
+StartLabel	TOSAIGH
+UseLabel	ÚSÁID
+PlayAgain	IMIR ARÍS
+QuitLabel	SCOIR
+ReportLabel	TUAIRISCIGH
+SabotageLabel	SABAITÉIREACHT
+VentLabel	Veinteáil
+KillLabel	MARAIGH
+DiscussLabel	PLÉIGÍ!
+SkippedVoting	VÓTA LÉIMTHE
+SkipVoteLabel	LÉIM AN VÓTA
+EmergencyMeeting	CRUINNIÚ ÉIGEANDÁLA
+BodyReported	CORP MARBH TUAIRISCITHE
+SkinLabel	CULTACHA
+HatLabel	HATAÍ
+PetLabel	PEATAÍ
+AnnouncementLabel	FÓGRAÍ
+	
+UploadingLabel	Á UASLÓDÁIL
+ConnectionLabel	Ceangal:
+NoneLabel	TADA
+PoorLabel	BOCHT
+GoodLabel	GO MAITH
+LogLabel	LOGA
+ReadingLabel	Á LÉAMH
+WeatherDataDownload	ÍOSLÓDÁIL SONRAÍ AIMSIRE
+MiraBundle	Beart MIRA HQ
+MiraSkinBundle	Beart Chulaith MIRA HQ
+PolusBundle	Beart Polus
+PolusSkinBundle	Beart Chulaith Polus
+AirshipBundle	Beart Airship
+PetAlien1	Beart Peata an Smugairle Cinn
+PetCrewmate	Beart Peata an Leathbhádóirín
+PetAnimal	Beart Peata an Hamstair
+PetAlien2	Beart Peata an Phortáin Leapa
+PetStickmin	Beart Peata Stickmin
+PrisonerSkin	Príosúnach
+Cyborg_RHM	Cyborg RHM
+CCC_Officer	CCC
+BeginLabel	TOSAIGH
+QuietLabel	FUISTTTTTT!
+VentCleaning	Glan an Gaothaire
+CleanUp	Glan Suas
+ProgressLabel	Dul Chun Cinn:
+TermsOfUseTitle	Coinníollacha Úsáide
+PPAndToUTitle	Polasaí Príobháideachta agus Coinníollacha Úsáide
+	
+ErrorNotAuthenticated	Ní féidir le freastalaithe Among Us thu a dheimhniú.\r\n\nNí mór duit cuntas Among Us a fháil chun imirt ar líne.
+ComePlayDiscord	Gabh i leith uait agus imir Among us liom!
+ShowAccountSupportID5	Taispeáin ID Tacaíochta Cuntais
+ShowAccountSupportID4	Brúigh 4 huair eile le taispeáint
+ShowAccountSupportID3	Ná scaip an ID seo (3)
+ShowAccountSupportID2	Ná taispeáin agus tú ag sruthú (2)
+ShowAccountSupportID1	Taispeáin dom an ID seo go deimhin (1)
+SupportIDLabel	ID Tacaíochta: {0}
+YouAreNotOnline	Níl tú ar líne.
+NoDeadBodiesFound	Níor aimsíodh aon chorp marbh
+SupportEmail	Déan teagmháil le support@innersloth.com i gcás aon fhiosrúcháin tacaíochta.
+PerfectLabel	FOIRFE
+PSNErrorSessionFailed	Tharla rud eicint as bealach sa séisiún cluiche seo
+PSNErrorSessionJoinFailed	Theip ar dhul isteach sa séisiún cluiche
+PSNErrorSessionGetInfoFailed	Theip ar shonraí séisiún cluiche a fháil
+PSNErrorPSNConnectionLost	Ceangal le PlayStation™Network caillte
+PSNErrorUserSignedOut	Shínigh an t-úsáideoir amach
+	
+CrossPlayTitle	Trasimirt
+CrossPlayAllPlatforms	Chuile Ardáin
+CrossPlaySamePlatform	Ardán Céanna
+CrossPlayEnabledWarning	Trasimirt Curtha i bhFeidhm: Seans go mbuailfidh tú le himreoirí trascheangail.
+	
+TimeOutText	Is cosúil go bhfuil sé ag tógáil tamaill fhada síniú isteach. Fonn ort síniú isteach sa mód as líne?
+RetryText	Fan tamaillín eile
+Continue	Ar aghaidh
+GameComplete	Cluiche críochnaithe
+LevelShorthand	Lbhl {0}
+MaxLevel	UasLbhl
+Cosmetic.hat_AbominalHat	Ceann Gráiniúil
+Cosmetic.hat_Antenna_Black	Droch-cheangal - Dubh
+Cosmetic.hat_Astronaut-Blue	Siúlóid Spáis - Gorm
+Cosmetic.hat_Astronaut-Cyan	Siúlóid Spáis - Gealghorm
+Cosmetic.hat_Astronaut-Orange	Siúlóid Spáis - Oráiste
+Cosmetic.hat_Bandana_Blue	Greh - Gorm
+Cosmetic.hat_Bandana_Green	Greh - Glas
+Cosmetic.hat_Bandana_Pink	Greh - Bándearg
+Cosmetic.hat_Bandana_Red	Greh - Dearg
+Cosmetic.hat_Bandana_White	Greh - Bán
+Cosmetic.hat_Bandana_Yellow	Greh - Buí
+Cosmetic.hat_baseball_Black	An Cluiche Breá Liathróide - Dubh
+Cosmetic.hat_baseball_Green	An Cluiche Breá Liathróide - Glas
+Cosmetic.hat_baseball_Lightblue	An Cluiche Breá Liathróide - Geallghorm
+Cosmetic.hat_baseball_LightGreen	An Cluiche Breá Liathróide - Geallghlas
+Cosmetic.hat_baseball_Lilac	An Cluiche Breá Liathróide - Liathchorcra
+Cosmetic.hat_baseball_Orange	An Cluiche Breá Liathróide - Oráiste
+Cosmetic.hat_baseball_Pink	An Cluiche Breá Liathróide - Bándearg
+Cosmetic.hat_baseball_Purple	An Cluiche Breá Liathróide - Corcra
+Cosmetic.hat_baseball_Red	An Cluiche Breá Liathróide - Dearg
+Cosmetic.hat_baseball_White	An Cluiche Breá Liathróide - Bán
+Cosmetic.hat_baseball_Yellow	An Cluiche Breá Liathróide - Buí
+Cosmetic.hat_Basketball	Poll d'Aon Bhuille
+Cosmetic.hat_Beanie_Black	Bairéidín - Dubh
+Cosmetic.hat_Beanie_Blue	Bairéidín - Gorm
+Cosmetic.hat_Beanie_Green	Bairéidín - Glas
+Cosmetic.hat_Beanie_Lightblue	Bairéidín - Bánghorm
+Cosmetic.hat_Beanie_LightGreen	Bairéidín - Bánghlas
+Cosmetic.hat_Beanie_LightPurple	Bairéidín - Bánbhándearg
+Cosmetic.hat_Beanie_Pink	Bairéidín - Bándearg
+Cosmetic.hat_Beanie_Purple	Bairéidín - Corcra
+Cosmetic.hat_Beanie_White	Bairéidín - Bán
+Cosmetic.hat_Beanie_Yellow	Bairéidín - Buí
+Cosmetic.hat_Bowlingball	Buille
+Cosmetic.hat_Chocolate	Scúp Seacláide
+Cosmetic.hat_CuppaJoe	Fairtheoir Joe
+Cosmetic.hat_Deitied	Scrín na nDéithe
+Cosmetic.hat_Doc_black	Cén scéal, a Doc? - Dubh
+Cosmetic.hat_Doc_Orange	Cén scéal, a Doc? - Oráiste
+Cosmetic.hat_Doc_Purple	Cén scéal, a Doc? - Corcra
+Cosmetic.hat_Doc_Red	Cén scéal, a Doc? - Dearg
+Cosmetic.hat_Doc_White	Cén scéal, a Doc? - Bán
+Cosmetic.hat_Dodgeball	Bata agus Bóthar duit!
+Cosmetic.hat_Dorag_Black	Maol Ghráinne Mhaol - Gual
+Cosmetic.hat_Dorag_Desert	Maol Ghráinne Mhaol - Fásach
+Cosmetic.hat_Dorag_Jungle	Maol Ghráinne Mhaol - Foraois
+Cosmetic.hat_Dorag_Purple	Maol Ghráinne Mhaol - Corcra
+Cosmetic.hat_Dorag_Sky	Maol Ghráinne Mhaol - Néalta
+Cosmetic.hat_Dorag_Snow	Maol Ghráinne Mhaol - Sneachta
+Cosmetic.hat_Dorag_Yellow	Maol Ghráinne Mhaol - Citreas
+Cosmetic.hat_DrillMetal	Druilire
+Cosmetic.hat_DrillStone	Druilire - Cloch
+Cosmetic.hat_DrillWood	Druilire - Adhmad
+Cosmetic.hat_EarmuffGreen	Mufaí Cluas - Glas
+Cosmetic.hat_EarmuffsPink	Mufaí Cluas - Bándearg
+Cosmetic.hat_EarmuffsYellow	Mufaí Cluas - Buí
+Cosmetic.hat_EarnmuffBlue	Mufaí Cluas
+Cosmetic.hat_Goggles_Black	Gloiní Cosanta - Dubh
+Cosmetic.hat_Goggles_Chrome	Gloiní Cosanta - Cróm
+Cosmetic.hat_GovtDesert	Míleatach - Fásach
+Cosmetic.hat_GovtHeadset	Gléas Cinn den Scoth
+Cosmetic.hat_Hardhat_black	OHSA Comhlíontach - Dubh
+Cosmetic.hat_Hardhat_Blue	OHSA Comhlíontach - Gorm
+Cosmetic.hat_Hardhat_Green	OHSA Comhlíontach - Glas
+Cosmetic.hat_Hardhat_Orange	OHSA Comhlíontach - Oráiste
+Cosmetic.hat_Hardhat_Pink	OHSA Comhlíontach - Bándearg
+Cosmetic.hat_Hardhat_Purple	OHSA Comhlíontach - Corcra
+Cosmetic.hat_Hardhat_Red	OHSA Comhlíontach - Dearg
+Cosmetic.hat_Hardhat_White	OHSA Comhlíontach - Bán
+Cosmetic.hat_HardtopHat	Oibritheoir Craenach
+Cosmetic.hat_headslug_Purple	Smugairle Cinn - Corcra
+Cosmetic.hat_headslug_Red	Smugairle Cinn - Dearg
+Cosmetic.hat_headslug_White	Smugairle Cinn - Bán
+Cosmetic.hat_headslug_Yellow	Smugairle Cinn - Buí
+Cosmetic.hat_Heart	Mo <3 Thú
+Cosmetic.hat_Helmet	Ridire Déanta
+Cosmetic.hat_Herohood_Black	Hata Lucharacháin - Dubh
+Cosmetic.hat_Herohood_Blue	Hata Lucharacháin - Gorm
+Cosmetic.hat_Herohood_Pink	Hata Lucharacháin - Bándearg
+Cosmetic.hat_Herohood_Purple	Hata Lucharacháin - Corcra
+Cosmetic.hat_Herohood_Red	Hata Lucharacháin - Dearg
+Cosmetic.hat_Herohood_White	Hata Lucharacháin - Bán
+Cosmetic.hat_Herohood_Yellow	Hata Lucharacháin - Buí
+Cosmetic.hat_Janitor	Haunted Hotel
+Cosmetic.hat_MilitaryWinter	Míleatach - Geimhreadh
+Cosmetic.hat_MinerBlack	Hata Mianadóra - Dubh
+Cosmetic.hat_MinerYellow	Hata Mianadóra - Buí
+Cosmetic.hat_mira_bush	Tor Faiseanta
+Cosmetic.hat_mira_case	Is Crua mo Chás
+Cosmetic.hat_mira_cloud	Ceann sa Spéir
+Cosmetic.hat_mira_flower	Bláth Galánta
+Cosmetic.hat_mira_flower_red	Bláth Galánta
+Cosmetic.hat_mira_gem	Eiseamal faoi Leith
+Cosmetic.hat_mira_headset_blue	Gléas Cinn den Scoth - Gorm
+Cosmetic.hat_mira_headset_pink	Gléas Cinn den Scoth - Bándearg
+Cosmetic.hat_mira_headset_yellow	Gléas Cinn den Scoth - Buí
+Cosmetic.hat_mira_leaf	Adharca Féithleoige
+Cosmetic.hat_mira_milk	Sú Péitseoige
+Cosmetic.hat_mira_sign_blue	Fainic an Sleamhnófá - Gorm
+Cosmetic.hat_NewYears2018	Athbhliain 2019
+Cosmetic.hat_NoHat	Tada
+Cosmetic.hat_Paperhat_Black	Fillte - Dubh
+Cosmetic.hat_Paperhat_Blue	Fillte - Gorm
+Cosmetic.hat_Paperhat_Cyan	Fillte - Turcaid
+Cosmetic.hat_Paperhat_Lightblue	Fillte - Spéir
+Cosmetic.hat_Paperhat_Pink	Fillte - Bándearg
+Cosmetic.hat_Paperhat_Yellow	Fillte - Buí
+Cosmetic.hat_astronaut	Siúlóid Spáis
+Cosmetic.hat_pk01_BaseballCap	An Cluiche Breá Liathróide
+Cosmetic.hat_brainslug	Smugairle Cinn
+Cosmetic.hat_bushhat	Crogall Dhún Daighe
+Cosmetic.hat_captain	Caipín
+Cosmetic.hat_doubletophat	CeannToppat
+Cosmetic.hat_flowerpot	Planda
+Cosmetic.hat_goggles	Gloiní Cosanta
+Cosmetic.hat_hardhat	OHSA Comhlíontach
+Cosmetic.hat_military	Míleatach
+Cosmetic.hat_paperhat	Fillte
+Cosmetic.hat_partyhat	Hata Cóisire
+Cosmetic.hat_police	Póilín
+Cosmetic.hat_stethescope	Cén scéal, a Doc?
+Cosmetic.hat_tophat	Bunsaighdiúir Toppat
+Cosmetic.hat_towelwizard	Coróin Folctha
+Cosmetic.hat_russian	Wall Ushanka
+Cosmetic.hat_viking	Lochlannach
+Cosmetic.hat_wallcap	Caipín the Wall
+Cosmetic.hat_whitetophat	Toppat (Eagrán Bán)
+Cosmetic.hat_pk02_Crown	A Mhórgacht
+Cosmetic.hat_pk02_Eyebrows	Fabhraí Stickmin
+Cosmetic.hat_pk02_HaloHat	Saontacht
+Cosmetic.hat_pk02_HeroCap	Hata Lucharacháin
+Cosmetic.hat_pk02_PipCap	Jimín
+Cosmetic.hat_pk02_PlungerHat	Plúchta
+Cosmetic.hat_pk02_ScubaHat	Fearas Uisce
+Cosmetic.hat_pk02_StickminHat	Stickmin sa bhFaopach
+Cosmetic.hat_pk02_StrawHat	Hata Safari
+Cosmetic.hat_pk02_TenGallonHat	Deich nGalún
+Cosmetic.hat_pk02_ThirdEyeHat	An Triú Súil
+Cosmetic.hat_pk02_ToiletPaperHat	An Chuimilt Dheiridh
+Cosmetic.hat_pk02_Toppat	An Taoiseach Nua
+Cosmetic.hat_pk03_Fedora	Fedora
+Cosmetic.hat_pk03_Goggles	Aire Scaití
+Cosmetic.hat_pk03_Headphones	Gléas Cinn den Scoth
+Cosmetic.hat_pk03_Security1	Slándáil Daingnithe
+Cosmetic.hat_pk03_StrapHat	Hata Garraíodóra
+Cosmetic.hat_pk03_Traffic	Tranglam Tráchta
+Cosmetic.hat_traffic_purple	Tranglam Tráchta
+Cosmetic.hat_pk04_Antenna	Droch-cheangal
+Cosmetic.hat_pk04_Archae	Séamas na Sibéire
+Cosmetic.hat_pk04_Balloon	Snámh ar éigean
+Cosmetic.hat_pk04_Banana	Scafa
+Cosmetic.hat_pk04_Bandana	Greh
+Cosmetic.hat_pk04_Beanie	Bairéidín
+Cosmetic.hat_pk04_Bear	Cluasa Béir
+Cosmetic.hat_pk04_BirdNest	Péire Uibheacha i Neid
+Cosmetic.hat_pk04_CCC	Anord faoi Shrian
+Cosmetic.hat_pk04_Chef	Mise Chef
+Cosmetic.hat_pk04_DoRag	Maol Ghráinne Mhaol
+Cosmetic.hat_pk04_Fez	Fez
+Cosmetic.hat_pk04_GeneralHat	Hata an Ghinearáil
+Cosmetic.hat_pk04_HunterCap	Nimrod
+Cosmetic.hat_pk04_JungleHat	Clogad Saighdiúra
+Cosmetic.hat_pk04_MinerCap	Hata Mianadóra
+Cosmetic.hat_pk04_MiniCrewmate	Leathbhádóirín
+Cosmetic.hat_pk04_Pompadour	Gruaig Phoimpéiseach
+Cosmetic.hat_pk04_RamHorns	An Reithe
+Cosmetic.hat_pk04_Slippery	Fainic an Sleamhnófá
+Cosmetic.hat_pk04_Snowman	Leaid Sneachta
+Cosmetic.hat_pk04_Vagabond	Fánaí Rúnda
+Cosmetic.hat_pk04_WinterHat	Hata Geimhridh
+Cosmetic.hat_pk05_Burthat	Mise Burt
+Cosmetic.hat_pk05_Cheese	Cáisiúil
+Cosmetic.hat_pk05_cheesetoppat	Muenster
+Cosmetic.hat_pk05_Cherry	Silín ar Barr
+Cosmetic.hat_pk05_davehat	Slándálaí Iarsmalainne
+Cosmetic.hat_pk05_Egg	Ubhásach
+Cosmetic.hat_pk05_Ellie	Meirleach Rua
+Cosmetic.hat_pk05_EllieToppat	Ellie Earcaithe
+Cosmetic.hat_pk05_Ellryhat	Comhleá Craiceáilte
+Cosmetic.hat_pk05_Fedora	Oíche Noire
+Cosmetic.hat_pk05_Flamingo	Lasairéan Luasctha
+Cosmetic.hat_pk05_FlowerPin	Daisy Me Rollin'
+Cosmetic.hat_pk05_GeoffreyToppat	Ollhata Ollmhór
+Cosmetic.hat_pk05_Helmet	Ridire Déanta
+Cosmetic.hat_pk05_HenryToppat	Henry Earcaithe
+Cosmetic.hat_pk05_Macbethhat	An tUasal Mac Beatha
+Cosmetic.hat_pk05_Plant	Péacán Óg
+Cosmetic.hat_pk05_Svenhat	Sven Svensson
+Cosmetic.hat_pk05_Wizardhat	Hata Asarlaí
+Cosmetic.hat_pk06_Candycanes	Cána Can'tdaí
+Cosmetic.hat_pk06_ElfHat	Síog na Nollag
+Cosmetic.hat_pk06_Lights	Maisiúcháin Nollag
+Cosmetic.hats_newyears2018	Athbhliain 2019
+Cosmetic.hat_pk06_Present	Bronntanas
+Cosmetic.hat_pk06_Reindeer	A Mhaighdean, an Fhearthainn
+Cosmetic.hat_pk06_Santa	Dadaí na Nollag
+Cosmetic.hat_pk06_Snowman	Fear Sneachta
+Cosmetic.hat_pk06_tree	Síorghlas
+Cosmetic.hat_pkHW01_BatWings	Ialtógach
+Cosmetic.hat_pkHW01_CatEyes	Catman
+Cosmetic.hat_pkHW01_Horns	By Deaid!
+Cosmetic.hat_pkHW01_Machete	Gríscín Gearrtha
+Cosmetic.hat_pkHW01_Mohawk	MóhRac
+Cosmetic.hat_pkHW01_Pirate	Píoradaíocht
+Cosmetic.hat_pkHW01_Pumpkin	Puimcín
+Cosmetic.hat_pkHW01_ScaryBag	An Masc Arrachta
+Cosmetic.hat_pkHW01_Witch	Hata an Chailligh
+Cosmetic.hat_pkHW01_Wolf	Ceann-riocht
+Cosmetic.hat_Plunger_Blue	Suncaire - Gorm
+Cosmetic.hat_Plunger_Yellow	Suncaire - Dubh Buí
+Cosmetic.hat_Ponytail	Blondie
+Cosmetic.hat_Pot	Caipín Casaróil
+Cosmetic.hat_Prototype	Clogad Fréamhshamhla
+Cosmetic.hat_Ramhorn_Black	An Reithe - Dubh
+Cosmetic.hat_Ramhorn_Red	An Reithe - Dearg
+Cosmetic.hat_Ramhorn_White	An Reithe - Bán
+Cosmetic.hat_Records	Taifeadán Taifid
+Cosmetic.hat_RockIce	Oighearchaipín
+Cosmetic.hat_RockLava	Brúchtach
+Cosmetic.hat_Rubberglove	Álainn an Lámhainn
+Cosmetic.hat_Rupert	Rupert
+Cosmetic.hat_SnowbeanieGreen	Teacht an Gheimhridh - Glas
+Cosmetic.hat_SnowbeanieOrange	Teacht an Gheimhridh - Oráiste
+Cosmetic.hat_SnowBeaniePurple	Teacht an Gheimhridh - Corcra
+Cosmetic.hat_SnowbeanieRed	Teacht an Gheimhridh
+Cosmetic.hat_Soccer	Buille Cinn
+Cosmetic.hat_TenGallon_Black	Deich nGalún - Dubh
+Cosmetic.hat_TenGallon_White	Deich nGalún - Bán
+Cosmetic.hat_ThomasC	Barréidin Thomas
+Cosmetic.hat_ToppatHair	Katie Breá
+Cosmetic.hat_Traffic_Blue	Cón Tráchta - Gorm
+Cosmetic.hat_Traffic_Red	Cón Tráchta - Dearg
+Cosmetic.hat_Traffic_Yellow	Cón Tráchta - Buí
+Cosmetic.hat_Unicorn	Aonbheannach
+Cosmetic.hat_Visor	Cealtair
+Cosmetic.hat_Voleyball	Eitpheil
+Cosmetic.hat_WilfordIV	Sir Wilford IV
+Cosmetic.hat_Winston	Oifigeach Saofa
+Cosmetic.hat_WinterGreen	Hata Geimhridh - Glas
+Cosmetic.hat_WinterHelmet	Clogad Saighdiúra - Geimhreadh
+Cosmetic.hat_WinterRed	Hata Geimhridh - Dearg
+Cosmetic.hat_WinterYellow	Hata Geimhridh - Buí
+Cosmetic.hat_Zipper	Culaith Leathbhádóra
+Cosmetic.nameplate_airship_CCC	CCC
+Cosmetic.nameplate_airship_Diamond	Diamaint!
+Cosmetic.nameplate_airship_Emerald	Smaragaidí!
+Cosmetic.nameplate_airship_Gems	An Taisce Thuas
+Cosmetic.nameplate_airship_government	An t-Ainmchlár Is Fearr
+Cosmetic.nameplate_Airship_Hull	Cabhail Airship
+Cosmetic.nameplate_airship_Ruby	Rúibíní!
+Cosmetic.nameplate_airship_Sky	Os Cionn na Néalta!
+Cosmetic.nameplate_airship_Toppat	Aerlong Toppat
+Cosmetic.nameplate_is_dig	Dig2China
+Cosmetic.nameplate_is_game	SPÓIRT
+Cosmetic.nameplate_is_ghost	Túr Taibhsiúil
+Cosmetic.nameplate_is_green	Faiche Dé
+Cosmetic.nameplate_is_sand	Beannú na nDéithe
+Cosmetic.nameplate_is_trees	Crainn
+Cosmetic.nameplate_is_yard	Láithreán Tochailte
+Cosmetic.nameplate_Mira_Cafeteria	Biachlár an Lae: Sú Píotsa
+Cosmetic.nameplate_Mira_Glass	An Spéir Thíos
+Cosmetic.nameplate_Mira_Tiles	An Choirceog Armtha
+Cosmetic.nameplate_Mira_Vines	Féitheacha
+Cosmetic.nameplate_Mira_Wood	Bloc Adhmaid
+	
+Cosmetic.nameplate_NoPlate	Tada
+Cosmetic.nameplate_Polus_Colors	Pailéad Polus
+Cosmetic.nameplate_Polus_DVD	Deilín Stan
+Cosmetic.nameplate_Polus_Ground	Pláinéad Corcra
+Cosmetic.nameplate_Polus_Lava	Leaibhe-lách
+Cosmetic.nameplate_Polus_Planet	Pláinéad Polus
+Cosmetic.nameplate_Polus_Snow	Tailte Sneachtúla
+Cosmetic.nameplate_Polus_SpecimenBlue	Eiseamal - Gorm
+Cosmetic.nameplate_Polus_SpecimenGreen	Eiseamal - Glas
+Cosmetic.nameplate_Polus_SpecimenPurple	Eiseamal - Corcra
+Cosmetic.nameplate_Polus-Skyline	Léaslíne Polus
+Cosmetic.nameplate_Polus-Snowmates	Leaids Sneachta Polus
+Cosmetic.pet_Alien	Smugairle Cinn
+Cosmetic.pet_Bedcrab	Portán Leapa
+Cosmetic.pet_Bush	Féithleog
+Cosmetic.pet_Charles	Captar Charles
+Cosmetic.pet_Charles_Red	Captar Toppat
+Cosmetic.pet_Crewmate	Leathbhádóirín
+Cosmetic.pet_Cube	Boc Diaga
+Cosmetic.pet_Doggy	Madraín
+Cosmetic.pet_Ellie	E. Rose
+Cosmetic.pet_EmptyPet	Tada
+Cosmetic.pet_test	Glitch
+Cosmetic.pet_Hamster	Hampton
+Cosmetic.pet_Lava	Laibheadóir
+Cosmetic.pet_Robot	Rób4t
+Cosmetic.pet_Snow	Liathróid Sneachta
+Cosmetic.pet_Squig	Squig
+Cosmetic.pet_Stickmin	H. Stickmin
+Cosmetic.pet_UFO	UFO
+Cosmetic.skin_Abominalskin	Leaid Sneachta Gráiniúil
+Cosmetic.skin_Archae	Iontais na Seandálaíochta
+Cosmetic.skin_Astro	Spásaire
+Cosmetic.skin_Astro_blue	Spásaire Gorm
+Cosmetic.skin_Astro_cyan	Spásaire Cian
+Cosmetic.skin_Astro_orange	Spásaire Oráiste
+Cosmetic.skin_Bling	Péacacht agus Gáifeacht
+Cosmetic.skin_Bushskin	Sleamhain
+Cosmetic.skin_BusinessFem-Aquaskin	Sciorta Gnó - Muirghorm
+Cosmetic.skin_BusinessFemskin	Sciorta Gnó
+Cosmetic.skin_BusinessFem-Tanskin	Sciorta Gnó - Crón
+Cosmetic.skin_Capt	Ceadúnas Píolóta
+Cosmetic.skin_CCC	Leathbhádóir CCC
+Cosmetic.skin_D2Cskin	Mianadóir Beag
+Cosmetic.skin_General	Ginearál Galeforce
+Cosmetic.skin_Hazmat	Ábhar Guaiseach
+Cosmetic.skin_Hazmat-Blackskin	Ábhar Guaiseach - Dubh
+Cosmetic.skin_Hazmat-Blueskin	Ábhar Guaiseach - Gorm
+Cosmetic.skin_Hazmat-Greenskin	Ábhar Guaiseach - Glas
+Cosmetic.skin_Hazmat-Pinkskin	Ábhar Guaiseach - Bándearg
+Cosmetic.skin_Hazmat-Redskin	Ábhar Guaiseach - Dearg
+Cosmetic.skin_Hazmat-Whiteskin	Ábhar Guaiseach - Bán
+Cosmetic.skin_JacketGreenskin	Feistígí! - Glas
+Cosmetic.skin_JacketPurpleskin	Feistígí! - Corcra
+Cosmetic.skin_JacketYellowskin	Feistígí! - Buí
+Cosmetic.skin_Janitorskin	Fear Faire
+Cosmetic.skin_Mech	Deisitheoir
+Cosmetic.skin_MechanicRed	Meicneoir Airship
+Cosmetic.skin_Military	Feisteas Oifigigh
+Cosmetic.skin_MilitaryDesert	Oifigeach - Fásach
+Cosmetic.skin_MilitarySnowskin	Oifigeach - Sneachta
+Cosmetic.skin_Miner	Mianadóir
+Cosmetic.skin_MinerBlackskin	Mianadóir
+Cosmetic.skin_None	Tada
+Cosmetic.skin_Police	Póilín
+Cosmetic.skin_prisoner	Cime 2112
+Cosmetic.skin_PrisonerBlue	Cime 2112 - Gorm
+Cosmetic.skin_PrisonerTanskin	Cime 2112 - Crón
+Cosmetic.skin_rhm	Right Hand Man: Athbheoite
+Cosmetic.skin_RockIceskin	Culaith Oighir
+Cosmetic.skin_RockLavaskin	Chomh Buan Le Chloich
+Cosmetic.skin_Science	Teoiric Eolaíoch
+Cosmetic.skin_Scientist-Blueskin	Dochtúir
+Cosmetic.skin_Scientist-Darkskin	Eolaí Dorcha
+Cosmetic.skin_Security	Slán Sábháilte
+Cosmetic.skin_Skin_SuitRedskin	Culaith Toppat
+Cosmetic.skin_SportsBlueskin	Foireann Spóirt GORM
+Cosmetic.skin_SportsRedskin	Foireann Spóirt DEARG
+Cosmetic.skin_SuitB	Gléasta Cóirithe
+Cosmetic.skin_SuitW	Feiceálach
+Cosmetic.skin_SweaterBlueskin	Geansaí Teolaí - Gorm
+Cosmetic.skin_SweaterPinkskin	Geansaí Teolaí - Bándearg
+Cosmetic.skin_Sweaterskin	Geansaí Teolaí
+Cosmetic.skin_SweaterYellowskin	Geansaí Teolaí - Buí
+Cosmetic.skin_Tarmac	Tuirling Anseo
+Cosmetic.skin_ToppatSuitFem	Sciorta Toppat
+Cosmetic.skin_ToppatVest	Suim Churtha
+Cosmetic.skin_Wall	Garda the Wall
+Cosmetic.skin_Winter	Feistígí!
+Cosmetic.visor_BillyG	An tUasal G
+Cosmetic.visor_Blush	Seo Anois!
+Cosmetic.visor_Bomba	Bladhmannach
+Cosmetic.visor_Carrot	úbhú :3
+Cosmetic.visor_Crack	Among Us Scoilte 2021
+Cosmetic.visor_D2CGoggles	Tochail Síos
+Cosmetic.visor_Dirty	Nigh Mé
+Cosmetic.visor_Dotdot	ponc ponc ponc
+Cosmetic.visor_EmptyVisor	Tada
+Cosmetic.visor_EyepatchL	Paiste Súile
+Cosmetic.visor_EyepatchR	Paiste Súile
+Cosmetic.visor_Galeforce	Guairí Galeforce
+Cosmetic.visor_is_beard	Feasóg
+Cosmetic.visor_JanitorStache	Croiméal Taibhsiúil
+Cosmetic.visor_Krieghaus	Krieghaus
+Cosmetic.visor_Lava	Fondú Clogaid
+Cosmetic.visor_LolliBlue	Líreacán - Gorm
+Cosmetic.visor_LolliBrown	Líreacán - Donn
+Cosmetic.visor_LolliOrange	Líreacán - Oráiste
+Cosmetic.visor_LolliRed	Líreacán
+Cosmetic.visor_mira_card_blue	Pas - Gorm
+Cosmetic.visor_mira_card_red	Pas - Dearg
+Cosmetic.visor_mira_glasses	Spéaclaí
+Cosmetic.visor_mira_mask_black	Antatocsain - Dubh
+Cosmetic.visor_mira_mask_blue	Antatocsain - Gorm
+Cosmetic.visor_mira_mask_green	Antatocsain - Glas
+Cosmetic.visor_mira_mask_purple	Antatocsain - Corcra
+Cosmetic.visor_mira_mask_red	Antatocsain - Dearg
+Cosmetic.visor_mira_mask_white	Antatocsain - Bán
+Cosmetic.visor_Mouth	Craosaire
+Cosmetic.visor_PiercingL	Pollta
+Cosmetic.visor_PiercingR	Pollta
+Cosmetic.visor_pk01_AngeryVisor	>:[-ach
+Cosmetic.visor_pk01_DumStickerVisor	Nóta Chugam Féin
+Cosmetic.visor_pk01_FredVisor	An 17ú Dé hAoine
+Cosmetic.hat_geoff	My Name Geoff
+Cosmetic.visor_pk01_HazmatVisor	Antatocsain
+Cosmetic.visor_pk01_MonoclesVisor	Leathspéacla Dúbáilte
+Cosmetic.visor_pk01_PaperMaskVisor	An tSláinte > Na Táinte
+Cosmetic.visor_pk01_PlagueVisor	An Dr. Plá
+Cosmetic.visor_pk01_RHMVisor	Right Hand Stache
+Cosmetic.visor_pk01_Security1Visor	Spéaclaí Gréine
+Cosmetic.visor_polus_ice	Deora Reo
+Cosmetic.visor_Reginald	Croiméal Reginald
+Cosmetic.visor_Scar	Coilm
+Cosmetic.visor_SciGoggles	Aire i gCónaí
+Cosmetic.visor_shopglasses	Níl Caill Orm
+Cosmetic.visor_SkiGoggleBlack	Chun na bhFánaí Linn - Dubh
+Cosmetic.visor_SKiGogglesOrange	Chun na bhFánaí Linn - Oráiste
+Cosmetic.visor_SkiGogglesWhite	Chun na bhFánaí Linn
+Cosmetic.visor_SmallGlasses	Mionspéaclaí
+Cosmetic.visor_SmallGlassesBlue	Mionspéaclaí - Gorm
+Cosmetic.visor_SmallGlassesRed	Mionspéaclaí - Dearg
+Cosmetic.visor_Stickynote_Cyan	Nóta Chugam Féin - Cian
+Cosmetic.visor_Stickynote_Green	Nóta Chugam Féin - Glas
+Cosmetic.visor_Stickynote_Orange	Nóta Chugam Féin - Oráiste
+Cosmetic.visor_Stickynote_Pink	Nóta Chugam Féin - Bándearg
+Cosmetic.visor_Stickynote_Purple	Nóta Chugam Féin - Corcra
+Cosmetic.visor_Straw	Tuí Choganta
+Cosmetic.visor_WinstonStache	Croiméal Cosanta
+Visor	Cealtair
+EquipLabel	Roghnaigh
+NamePlate	Ainmchlár
+Visors	Cealtracha
+NamePlates	Ainmchláir
+Cosmicube	Cosmicube
+Cosmicubes	Cosmicubes
+Activate	Cumasaigh
+Deactivate	Díchumasaigh
+Owned	I seilbh
+Purchase	Ceannaigh
+CosmicubeProgression	{0}% críochnaithe
+ViewCube	Breathnaigh ar chiúb
+ConfirmPurchaseHeader	Deimhnigh ceannach
+ConfirmPurchaseText	Ar mhaith leat an ghéag a leannas a cheannach ar an {0}?
+DeactivateCube	Díchumasaigh
+ActivateCube	Cumasaigh
+Bundles	Bearta
+Stars	Réaltaí
+Wardrobe	Vardrús
+PlayerLevel	Leibhéal
+PlayerXp	XP
+PlayerLevelExtremeShorthand	Lbhl
+Max	Uas
+Colors	Dathanna
+CopiedText	Téacs cóipeáilte!
+LinkAccount	Nasc Cuntas
+CreateNewAccount	Cruthaigh Cuntas Nua
+LinkExistingAccount	Nasc Cuntas Eile
+LinkAccountExplanation	Má tá cuntas Among Us agat cheana féin ar ardán eile, féadfaidh tú nascadh leis an gcuntas sin!\n Nó de rogha air sin is féidir leat cuntas úr nua a chruthú.
+LinkAccountCode	Iontráil an cód seo a leannas ag <link="{0}">{1}</link> \n<size=+2>{2}</size>
+ErrorLink	Tharla rud eicint as bealach agus do chuntas á nascadh. Bain triail as níos déanaí le do thoil.
+UnlinkAccount	Dínasc cuntas
+ConfirmUnlinkAccount	Deimhnigh dínascadh cuntais
+UnlinkAccountExplain	Scriosfar do chuid sonraí agus cruthófar cuntas {0} nua nuair a dhínascann tú do chuntas {0}.\n- Caillfidh tú aon earra a fuair tú nó a dhíghlasáil tú ar do chuntas {0}.\n- Beidh ort tosú as an nua ar leibhéal a 1 agus 0 XP.
+UnlinkAccountExplainConfirm	Sábháil an ID seo le haghaidh tagartha le do thoil:\n\n{0}\n\nMá dhínascann tú do chuntas gan an ID sin a bheith agat, ní bheidh muid in ann do chuid foráis a shlánú ná cúnamh a thabhairt duit má tharlaíonn earráid.
+UnlinkError	Tharla rud eicint as bealach agus do chuntas á dhínascadh. Bain triail as níos déanaí le do thoil.
+UnlinkSuccess	D'éirigh leat {0} a dhínascadh ó do phríomhchuntas Among Us!
+ConfirmLinkExistingAccount	Deimhnigh nascadh le cuntas eile
+LinkExistingAccountExplain	Forscríobhfar na sonraí go léir ar an ardán seo má nascann tú le cuntas difriúil. Is éard a tharlófar ná go gcuirfear an cuntas eile in áit do chuntais Among Us {0}. Forscríobhfar aon earraí a dhíghlasáil tú ar do chuntas {0}.\n- Forscríobhfar aon XP a ghnóthaigh tú ar do chuntas {0}.\n- Forscríobhfar gach Bean, gach Pod agus gach Réalta.
+LinkExistingAccountExplainConfirm	A luaithe a dheimhníonn tú, athshocróidh muid do chuntas Among Us {0} le hiompórtáil na sonraí ar do chuntas eile a ullmhú.\n\n<color=#{1}>FAINIC: DÉAN CINNTE DÓ GO BHFUIL CUNTAS EILE AGAT AR MHAITH LEAT É A NASCADH LEIS AN GCUNTAS SEO SULA LEANFAIDH TÚ ORT.</color>\n\nDéanfar nialasach de XP, Beans, Pods agus earraí ar athshocrú do chuntas {0}. Ní bheidh aon dul siar air seo.
+ResetAccount	Athshocraigh Cuntas
+	
+PurchasingLabel	Earra á cheannach
+	
+ErrorInternalServer	Éarráid Freastalaí Inmheánaigh (Cód {0})
+ErrorPlatformLock	Cead isteach acu siúd atá ar comh-ardán le cruthaitheoir an tseomra.
+ErrorLobbyInactivity	Dhún an freastalaí an seomra de dheasca neamhghníomhaíochta
+ErrorMatchmakerInactivity	Dhícheangail an freastalaí thú de dheasca neamhghníomhaíochta
+ErrorInvalidGameOptions	Bhí na roghanna cluiche a frítheadh neamhbhailí. Is féidir go mbeadh ort do chuid sonraí sábhála a scriosadh agus an cluiche a atosú.
+ErrorNoServersAvailable	Ár leithscéal ach níl freastalaí ar bith ar fáil. Bain triail as níos déanaí.
+ErrorQuickmatchDisabled	Níl MearChluiche ar fáil faoi láthair. Bain triail as a dhul isteach i gcluiche le do thoil.
+ErrorTooManyGames	Tá an iomarca cluiche ann. Bain trial as a dhul isteach i gcluiche amháin le do thoil.
+Bundle.hat_holiday2018	Beart Hata Saoire 2018
+Bundle.hats_bundle2	Beart Hata an Mhilliúnú Íoslódáil
+Bundle.hats_halloween2019	Hata Oíche Shamhna 2019
+Bundle.hats_newyears2018	Beart Hata na hAthbhliana 2018
+Bundle.map_airship	Beart Airship
+Bundle.map_mira	Beart MIRA
+Bundle.map_polus	Beart Polus
+Bundle.pet_alien1	Irish: Beart Peata an Smugairle Cinn
+Bundle.pet_alien2	Beart Peata an Phortáin Leapa
+Bundle.pet_animal	Beart Peata Ainmhithe
+Bundle.pet_crewmate	Beart Peata Leathbhádóra
+Bundle.pet_stickmin	Beart Peata Stickmin
+StoreComingSoon	Ag teacht go luath...
+	
+StartCosmicubeLabel	TOSAIGH
+Bundle.star_bundle	Beart réaltaí
+ErrorPlatformParentalControlsBlock	Níl cead imeartha le chéile agat de réir do chuid Parental Controls, nó Parental Controls de chuid an imreora ar bhain tú triail as a imirt leo.
+ErrorPlatformParentalControlsBlockPS	Níl cead imeartha le chéile agat de réir do chuid rialúchán tuismitheoirí, nó rialúcháin tuismitheoirí de chuid an imreora ar bhain tú triail as a imirt leo.
+FailPurchase	Tharla rud eicint as bealach leis an idirbheart seo. Bain triail as arís níos déanaí le do thoil.
+FailPurchaseUnknown	Cód earráide {0}
+FailPurchaseAlreadyOwn	Is leatsa an t-earra seo cheana féin.
+FailPurchaseCurrency	Níl do dhóthain airgeadra agat atá de dhíth leis an earra seo ceannach.
+FailPurchaseCubeOwn	Ní leatsa an Cosmicube seo.
+Locked	GLASÁILTE
+	
+Active	BEO
+Crewmates	Leathbhádóirí
+XpGainedValue	{0} XP
+	
+XboxShopBrowseAll	Brabhsáil na hearraí uile ar Microsoft Store
+PSShopBrowseAll	Brabhsáil na hearraí uile ar PlayStation™Store
+Equipped	Roghnaithe
+	
+MouseMovement	Gluaiseacht Luchóige
+KeyboardOptions	Socruithe Méarchláir
+RemapBindings	Athraigh Naisc Mhéarchláir
+KeyboardBindingsHeader	Naisc Mhéarchláir
+HowToPlayText_Consoles	Imir in éindí le 4 go 15 imreoir ar líne!
+	
+StarDisclaimer	Ceannaigh ## Réalta Among Us chun réaltra mór nua de roghanna cur in oiriúint a dhíghlasáil! Caith Réaltaí sa siopa ionchluiche chun cosmaidí eisiacha agus Ciúbanna Cosmacha ar leith a fháil. Ní féidir Réaltaí a cheannaítear anseo a úsáid ná a fhuascailt ar PlayStation® ná ar Nintendo Switch™.
+	
+Commsdisabled	[CUMARSÁID DÍCHUMASAITHE]
+ErrorQuickChatMode	Mód Comhrá Neamhcheart: Deineadh an seomra seo don socrú {0}. Tá {1} mar shocrú agat.
+	
+ErrorLobbyUsersBlocked	Theip ar dhul isteach: Tá duine a bhfuil cosc agat air nó duine a bhfuil cosc aige ort sa chluiche. Bain triail as dul isteach i gceann eile le do thoil.
+SteamNotInitialized	Níor tosaíodh Steam mar is ceart. Atosaigh an cluiche in Steam agus bain triail eile as.
+LoggedInErrorStarPurchase	Caithfidh tú logáil isteach ar do chuntas le Réaltaí a cheannach
+ErrorDisconnectPacket	Dícheangalaíodh ón bhfreastalaí thú.
+AndroidAssetBundleWarning	Caithfidh Among Us inneachar breise a íoslódáil leis an suiteáil a chríochnú. Brúigh "Glacaim Leis" le leanúint ar aghaidh.
+ItchNoStars	Faraor, ní féidir Réaltaí a cheannach ar itch.io. Bíodh sin mar atá, má nascann tú do chuntas itch.io le hardán eile (.i. le leaganacha eile PC), beidh tú ábalta Réaltaí a cheannach leis an gcuntas sin! Tabhair faoi deara nach féidir Réaltaí a cheannaíonn tú ar Nintendo Switch™ a úsáid ar ardáin eile.
+Roles	Róil
+RolesSettings	Socruithe Róil
+ScientistRole	Eolaí
+EngineerRole	Innealtóir
+GuardianAngelRole	Aingeal Coimhdeachta
+ShapeshifterRole	Ilchruthach
+ScientistBlurb	Féach ar chomharthaí beatha pé uair is mian leat
+EngineerBlurb	Is féidir leis veinteáil (úsáid a bhaint as na gaothairí)
+GuardianAngelBlurb	Cosain na Leathbhádóirí a mhaireann
+ShapeshifterBlurb	Cuir bréagriocht ort féin
+CrewmateBlurb	Déan do chuid tascanna
+ImpostorBlurb	Maraigh agus déan sabaitéireacht
+RolesHelp_CrewmateRole	Ról Leathbhádóra: {0}
+RolesHelp_ImpostorRole	Ról Fealltóra: {0}
+RolesHelpIntro_01	Cuireann na róil le straitéis an chluiche agus tugann siad deis do dhaoine daoine eile a chur amú!
+RolesHelpIntro_02	Is féidir róil a chur ar Leathbhádóirí agus ar Fhealltóirí araon ar bhonn fánach, ag brath ar na socruithe a roghnaíonn an t-óstach.
+RolesHelp_Scientist_01	Féadann an tEolaí painéil comharthaí beatha a úsáid aon áit chun stádas an chriú a sheiceáil. 
+RolesHelp_Scientist_02	Mar sin féin, caithfidh an painéal a bheith luchtaithe agus mar sin beidh ar an Eolaí tascanna a chríochnú chun é sin a bhaint amach.
+RolesHelp_Engineer_01	Is Leathbhádóir an tInnealtóir atá ábalta ar veinteáil thart go tapa, agus ar na Fealltóirí a fheiceáil agus iad i mbun veinteála.
+RolesHelp_Engineer_02	Ní féidir fanacht sna gaothairí i bhfad, áfach, agus tarraingeoidh sé amhras ort, mar sin bí aireach ar cé atá timpeall agus tú ag veinteáil...
+RolesHelp_GuardianAngel_01	Is taibhse Leathbhádóra an tAingeal Coimhdeachta. Is féidir leis Leathbhádóirí a chosaint ó bhás go sealadach.
+RolesHelp_GuardianAngel_02	Déan amhlaidh san am ceart agus sáróidh tú na Fealltóirí. Nach maith é!
+RolesHelp_Shapeshifter_01	Féadann an tIlchruthach a riocht a athrú trí bhréagriocht Leathbhádóirí eile a chur air féin. Sáinnigh Leathbhádóirí eile agus cothaigh anord!
+RolesHelp_Shapeshifter_02	Ach seachain - ní mhaireann an bréagriocht go deo agus beidh dríodar ina dhiaidh.
+RolesHelpOutro_01	Is féidir na róil a chur in oiriúint! Bíonn óstach an chluiche ábalta ar roghnú cá mhéad uair is féidir le hInnealtóir veinteáil, nó cá fhad a mhairfidh aga athnuachana bréagreachta, srl. Ina theannta sin, is féidir leis roghnú an seans go mbeidh ról áirithe sa chluiche. Is féidir a fheiceáil an bhfuil ról áirithe i bhfeidhm i socruithe sheomra an chluiche!
+RolesHelpOutro_02	Bain triail as socruithe éagsúla chun go gcuirfidh tú feabhas ar do sheomra feithimh, nó téigh isteach i seomra eile chun anord a chruthú. Seans go gcuirfimid róil eile leis an gcluiche amach anseo, mar sin ná bíodh drogall ort súil a chaitheamh ar an áit seo arís. Bain súp as!
+YourRoleIs	Is éard atá ionat ná
+ShapeshiftAbility	Bréagriocht
+VitalsAbility	Comharthaí Beatha
+ProtectAbility	Cosain
+VentAbility	Veinteáil
+ShapeshiftAbilityUndo	Fíor-riocht
+RoleChanceAndQuantity	{0} le seans {1}%
+CheckingPurchasesLabel	Ag Deimhniú Ceannachán...
+ProtectedRecently	Chosain an tAingeal Coimhdeachta duine le gairid...
+ScientistBlurbMed	Féach ar chomharthaí beatha pé uair is mian leat.\nDéan do chuid tascanna chun an cadhnra a luchtú.
+ScientistBlurbLong	Féadann an tEolaí painéil comharthaí beatha a úsáid aon áit chun stádas an chriú a sheiceáil. Mar sin féin, caithfidh an painéal a bheith luchtaithe agus mar sin beidh ar an Eolaí tascanna a chríochnú chun é sin a bhaint amach.
+EngineerBlurbMed	Is féidir leis veinteáil (úsáid a bhaint as na gaothairí).
+EngineerBlurbLong	Is Leathbhádóir é an tInnealtóir atá ábalta veinteáil thart go sciobtha, agus na Fealltóirí a fheiceáil agus iad ag veinteáil. Ní féidir fanacht ann i bhfad, áfach, mar sin bí aireach ar cé atá timpeall agus tú ag veinteáil...
+GuardianAngelBlurbMed	Cuir na Leathbhádóirí faoi do choimirce.
+GuardianAngelBlurbLong	Is é an tAingeal Coimhdeachta ná an chéad Leathbhádóir a fhaigheann bás. Is féidir leis Leathbhádóirí a chosaint ó bhás go sealadach. Nach maith duit é!
+ShapeshifterBlurbMed	Cuir bréagriocht ort féin trí chuma Leathbhádóirí\neile a chur ort.
+ShapeshifterBlurbLong	Féadann an tIlchruthach a chuma a athrú trí bhréagriocht Leathbhádóirí eile a chur air féin. Sáinnigh Leathbhádóirí eile agus cothaigh anord. Fainic - ní mhaireann an bréagriocht go deo agus beidh dríodar ina dhiaidh.
+RoleHint	Leid
+ScientistBatteryCharge	Fad Cadhnra
+ScientistCooldown	Aga Athnuachana Comharthaí Beatha
+ShapeshifterCooldown	Aga Athnuachana Bréagreachta
+ShapeshifterDuration	Fad Bréagreachta
+ShapeshifterLeaveSkin	Fág Dríodar Bréagreachta
+EngineerCooldown	Aga Athnuachana Veinteála
+EngineerInVentCooldown	Teorainn Ama Veinteála
+GuardianAngelCooldown	Aga Athnuachana Cosanta
+GuardianAngelDuration	Fad Cosanta
+OracleRole	Aitheascal
+OracleBlurb	Bíonn a fhios aige nach bhfuil Leathbhádóir áirithe ina Fhealltóir
+OracleBlurbMed	Bíonn a fhios aige nach bhfuil Leathbhádóir áirithe ina Fhealltóir.
+OracleBlurbLong	Is Leathbhádóir é an tAitheascal a bhíonn a fhios aige nach bhfuil Leathbhádóir áirithe ina Fhealltóir
+Cosmetic.hat_heim	Gruaig Heimerdinger
+Cosmetic.hat_enforcer	Clogad Feidhmitheora
+Cosmetic.hat_caitlin	Caipín Caitlyn
+Cosmetic.hat_clagger	Gloiní Claggor
+Cosmetic.hat_vi	Gruaig Vi
+Cosmetic.hat_jinx	Gruaig Jinx
+Cosmetic.hat_jayce	Gruaig Jayce
+Cosmetic.hat_comper	Chomper
+Cosmetic.visor_heim	Croiméal Heimerdinger
+Cosmetic.visor_jinx	Gloiní Jinx
+Cosmetic.skin_heim	Culaith Heimerdinger
+Cosmetic.skin_jayce	Culaith Chomhairle Jayce
+Cosmetic.skin_enforcer	Cathéide Feidhmitheora
+Cosmetic.skin_caitlin	Éide Caitlyn
+Cosmetic.skin_jinx	Éadaí Jinx
+Cosmetic.skin_vi	Éadaí Vi
+Cosmetic.pet_poro	Poro Heimerdinger
+RedeemPurchasedItemsTitle	Fuascail Earraí a Cheannaigh Tú
+RedeemPurcahsedItemsExplain	Tá córas fardalach nua againn agus féadfaidh tú do chuid ceannachán a fheiceáil ar pé ardán! Aon earraí a cheannaigh tú ar an ardán seo cheana féin, féadfaidh tú iad a bhogadh UAIR AMHÁIN go dtí ár gcóras nua.\nCinntigh gurb é seo an cuntas Among Us ar mhaith leat na hearraí a cheannaigh tú a iompórtáil ann sula leanfaidh tú ar aghaidh.\n\nID Cuntais: {0}
+RedeemProceed	Lean ar aghaidh
+RedeemNotYet	Ná Fuascail faoi Láthair
+RedeemNever	Ná Luaigh Arís Sin
+AccountIDDisplay	ID Cuntais: {0}
+Cosmetic.hat_witch_white	Hata Caillí - Bán
+Cosmetic.hat_witch_pink	Hata Caillí - Bándearg
+Cosmetic.hat_witch_murky	Hata Caillí - Téal
+Cosmetic.hat_witch_green	Hata Caillí - Glas
+Cosmetic.hat_papermask	Aghaidh Fidil - Geal
+Cosmetic.hat_mohawk_rainbow	Móhácach - Bogha Báistí
+Cosmetic.hat_mohawk_purple_green	Móhácach - Corcra-ghlas
+Cosmetic.hat_mohawk_bumblebee	Móhácach - Bumbóg
+Cosmetic.hat_devilhorns_yellow	Diabhailín - Ór
+Cosmetic.hat_devilhorns_white	Diabhailín - Bán
+Cosmetic.hat_devilhorns_murky	Diabhailín - Téal
+Cosmetic.hat_devilhorns_green	Diabhailín - Glas
+Cosmetic.hat_devilhorns_crewcolor	Diabhailín - Do Dhath
+Cosmetic.hat_devilhorns_black	Diabhailín - Dubh
+Cosmetic.hat_cat_grey	Pangur - Liath
+Cosmetic.hat_cat_snow	Pangur - Bánghorm
+Cosmetic.hat_cat_pink	Pangur - Bándearg
+Cosmetic.hat_cat_orange	Pangur - Oráiste
+Cosmetic.hat_wolf_grey	Laignech Fáelad - Liath
+Cosmetic.hat_wolf_murky	Laignech Fáelad - Téal
+Cosmetic.hat_bat_ice	An Bás Dorcha - Bánghorm
+Cosmetic.hat_bat_green	An Bás Dorcha  - Glas
+Cosmetic.hat_bat_crewcolor	An Bás Dorcha - Do Dhath
+Cosmetic.skin_mummy	Taiséadach - Culaith
+Cosmetic.visor_mummy	Taiséadach - Cealtair
+Cosmetic.hat_mummy	Taiséadach - Hata
+Cosmetic.hat_candycorn	Adharca Milse
+Cosmetic.hat_clown_purple	Gruaig Bobaide
+Cosmetic.hat_fairywings	Féileacán Síofrach
+Cosmetic.hat_fishhed	Ceann Éisc
+Cosmetic.hat_frankenbolts	Boltaí Frankenstein
+Cosmetic.hat_frankenbride	Brídeach Frankenstein
+Cosmetic.visor_clownnose	Srón Nua
+Cosmetic.visor_masque_blue	Masc - Gorm
+Cosmetic.visor_masque_green	Masc - Glas
+Cosmetic.visor_masque_red	Masc - Dearg
+Cosmetic.visor_masque_white	Masc - Bán
+Cosmetic.nameplate_hw_pumpkin	Puimcín
+Cosmetic.nameplate_hw_candy	Milseáin le hIthe
+Cosmetic.nameplate_hw_woods	Coill Dhiamhair
+Cosmetic.hat_axe	Ceann Tua
+Cosmetic.visor_eyeball	An Drochshúil
+Cosmetic.hat_tombstone	Ar Shlí na Fírinne
+Cosmetic.hat_bone	Cnámha Spairne
+Cosmetic.hat_arrowhead	Caite le Saighead
+Cosmetic.hat_glowstick	Réabhaire
+Cosmetic.skin_clown	Culaith Bobaide
+Cosmetic.skin_fairy	Gúna Síofrach
+Cosmetic.skin_fishmonger	An Ceannaí Éisc
+Cosmetic.skin_pumpkin	Tútú Puimcín
+Cosmetic.skin_vampire	Súmaire Fola
+Cosmetic.skin_witch	Culaith Caillí
+Cosmetic.pet_frankendog	Maidrín Frankenstein
+Cosmetic.hat_mohawk_bubblegum	Móhácach - Guma Bolgóideach
+AvailableFor	Ar fáil go ceann\n{0}l {1}u {2}n {3}s eile
+GuardianAngelImpostorSeeProtect	Beidh an chosaint le feiceáil ag na Fealltóirí
+Cosmetic.hat_pkHW01_PlagueHat	An Dr. Plá
+	
+QCAccIsRole	Is {1} é {0}
+QCAccIsRole_QCCrewMe_ANY	Is {0} mé
+QCAccIsRoleNeg	Níl {0} ina {1}
+QCAccIsRoleNeg_QCCrewMe_ANY	Nílim i mo {0}
+QCAccIsRoleNeg_QCCrewNoOne_ANY	Níl duine ar bith ina {1}
+QCAccShapeshited	Bhí bréagriocht {1} ar {0}
+QCAccShapeshited_QCCrewMe_ANY	Bhí bréagriocht {1} orm
+QCStaShapeshifterSkin	Fuarthas bréagriocht ilchruthaigh in {0}
+QCResIsBeingFramed	Tá {0} á sháinniú
+QCResIsBeingFramed_QCCrewMe	Tá mé do mo sháinniú
+QCResCloseTo	Bhí {0} gar do {1}
+QCResCloseTo_QCCrewMe_ANY	Bhí mé gar do {0}
+QCResCloseTo_ANY_QCCrewMe	Bhí {0} gar dom
+QCResIsRoleMaybe	Seans go bhfuil {0} ina {1}
+QCResIsRoleMaybe_QCCrewMe_ANY	Seans go bhfuil mé i mo {1}
+QCResProtected	Chosain {0} {1}
+QCResProtected_QCCrewMe_ANY	Chosain mé {1}
+QCResProtected_ANY_QCCrewMe	Chosain {0} mé
+QCRoles	Róil
+GuestProgressionWarning	Tá tú logáilte isteach mar ‘Cuairteoir’! \n\nBeidh gach aon XP, Pods agus Beans saothraithe agat ceangailte leis an gcuntas seo. Tá do chuntas cuairteora nascaithe le do ghléas fisiciúil agus mar sin, caillfear iad má athraíonn tú do ghléas go ceann eile. \n\nChun cinntiú go bhfuil slí isteach agat do d’airgeadra agus do cheannacháin, oscail an táb sa phríomh-roghchlár agus sínigh isteach i do chuntas féin.
+	
+ErrorFailedToCreateGame	Theip ort cluiche a chruthú. Bain triail as arís níos déanaí!
+ErrorFailedToJoinCreatedGame	Theip ort dul isteach i gcluiche féinchruthaithe. Bain triail as arís níos déanaí!
+ErrorDisconnectBeforeJoining	Dícheangalaíodh thú sula logáil tú isteach sa seisiún cluichíochta.
+	
+PSEULA_SIEA	
+PSEULA_SIEE	
+ErrorCrossPlatformCommunication	Ní ligfidh do chuid socruithe cumarsáide duit dul isteach sa chluiche. Cuir cumarsáid trasimeartha i bhfeidhm chun dul isteach.
+ErrorCrossPlat	Is seomra trasardáin é seo, ach níl imirt trasardáin curtha i bhfeidhm agat sna socruithe logánta.
+ErrorDuplicateConnection	Aimsíodh logáil isteach dhúblach.
+ErrorLobbyFailedGettingBlockedUsers	Theip ar dhul isteach: Tharla earráid freastalaí agus an bacliosta á lorg
+	
+MaxVentUses	Uasusáid veinteála
+MaxTimeInVent	Uasam sna gaothairí
+MinCrewmatesForVitals	Líon Leathbhádóirí is gá a bheith beo le comharthaí beatha a dhíghlasáil
+ShowAccountID	Taispeáin ID Cuntais
+HideAccountID	Cuir ID Cuntais i bhFolach
+HiddenAccountID	[Cuireadh ID Cuntais i bhFolach]
+AllTasksComplete	Tascanna uile críochnaithe!
+EscapePrompt	Leathbhádóirí ag éalú i gceann:
+FlashlightFov	Réimse Radhairc ón Tóirse
+SteamOverlayDisabled	Caithfidh d’fhorleagan Steam a bheith i bhfeidhm chun Bearta Réalta a cheannach. Cuir d’fhorleagan ionchluiche i bhfeidhm agus déan an cluiche a atosú.
+Cosmetic.hat_pk05_RHM	Right Hand Hat
+	
+Cosmetic.skin_w21_deer	Réinfhia
+Cosmetic.skin_w21_elf	Déantóir na mBréagán
+Cosmetic.skin_w21_msclaus	Mamaí na Nollag
+Cosmetic.skin_w21_nutcracker	An Cnóire
+Cosmetic.skin_w21_santa	Seo é Saintí!
+Cosmetic.skin_w21_snowmate	Mise an Fear Sneachta
+Cosmetic.hat_w21_snowman	An Seanhata Ard a Fuair Muid
+Cosmetic.hat_w21_gingerbread	Leathbhádóir Sinséir
+Cosmetic.hat_w21_holly	Cú Cuilinn
+Cosmetic.hat_w21_krampus	Krampus
+Cosmetic.hat_w21_log	Bloc Nollag
+Cosmetic.hat_w21_mistletoe	Pógaire Tiomanta
+Cosmetic.hat_w21_mittens	Adharca Mitín
+Cosmetic.hat_w21_nutcracker	Hata an Chnóire
+Cosmetic.hat_w21_pinecone	Buaircín Giúise
+Cosmetic.hat_w21_winterpuff	Te Teolaí
+Cosmetic.hat_w21_snowflake	Calóg Shneachta
+Cosmetic.visor_w21_carrot	Srón Cairéid
+Cosmetic.visor_w21_nutstache	Croiméal an Chnóire
+Cosmetic.visor_w21_santabeard	Féasóg Shaintí
+Cosmetic.nameplate_w21_snow	Sneachta ag Glioscarnach
+Cosmetic.nameplate_w21_tree	Tá na Réaltaí ag Taitneamh go Geal
+Cosmetic.nameplate_w21_fireplace	I gClúid na Tine go hAireach
+Cosmetic.visor_w21_nye	ATHBHLIAIN FAOI MHAISE - 2021
+Cosmetic.hat_w21_elf_pink	Hata an Déantóra - Bándearg
+Cosmetic.hat_w21_elf_swe	Hata an Déantóra - Gorm
+Cosmetic.hat_w21_lights_white	Soilse Nollag - Bán
+Cosmetic.hat_w21_lights_yellow	Soilse Nollag - Buí
+Cosmetic.hat_w21_present_evil	Bronntanas - Dearg/Dubh
+Cosmetic.hat_w21_present_redwhite	Bronntanas - Dearg/Bán
+Cosmetic.hat_w21_present_whiteblue	Bronntanas - Bán/Gorm
+Cosmetic.hat_w21_santa_evil	Dadaí na Nollag Dána
+Cosmetic.hat_w21_santa_yellow	Dadaí na Nollag Óir
+Cosmetic.hat_w21_santa_green	Dadaí na Nollag Dúghlas
+Cosmetic.hat_w21_santa_mint	Dadaí na Nollag Bánghlas
+Cosmetic.hat_w21_santa_pink	Dadaí na Nollag Bándéarg
+Cosmetic.hat_w21_santa_white	Dadaí na Nollag Bánghorm
+Cosmetic.hat_w21_snowman_swe	Sioctha - Gorm/Buí
+Cosmetic.hat_w21_snowman_evil	Sioctha - Dána
+Cosmetic.hat_w21_snowman_greenred	Sioctha - Glas
+Cosmetic.hat_w21_snowman_redgreen	Sioctha - Dearg/Glas
+Cosmetic.hat_w21_present_greenyellow	Bronntanas - Glas/Buí
+Cosmetic.hat_w21_candycane_blue	Maide Milis - Fraochán Gorm
+Cosmetic.hat_w21_candycane_bubble	Maide Milis Guma Bholgóidigh
+Cosmetic.hat_w21_candycane_chocolate	Maide Milis Seacláide Miontais
+Cosmetic.hat_w21_candycane_mint	Maide Milis Miontais
+Cosmetic.skin_w21_tree	Sciorta Nollag
+StatsRoleWins	An Líon Buanna mar {0}:\t
+StatsEngineerVents	Líon Uaireanta a Veinteáil tú mar an Innealtóir:\t
+StatsScientistChargesGained	Líon Luchtanna an Chadhnra mar an Eolaí:\t
+StatsGuardianAngelCrewmatesProtected	Líon Cosantaí Rathúla: \t
+StatsShapeshifterShiftedKills	Líon Daoine a Mharaigh tú agus Bréagriocht ort:\t
+QCOnlyInfo	Ní bheidh tú in ann ach Mearchomhrá a úsáid agus tú ag imirt, agus ní imreoidh tú ach le daoine eile nach bhfuil in ann ach Mearchomhrá a úsáid.
+FreeChatInfo	Beidh tú in ann Saorchomhrá agus Méarchomhrá a úsáid agus tú ag imirt, agus ní imreoidh tú ach le daoine eile atá in ann Saorchomhrá a úsáid.
+FreeChatWarning	Caithfidh tú a bheith sínithe isteach chun Saorchomhrá a úsáid. Má tá tú sínithe isteach ar chuntas mionaoiseach, faigh cead ó chaomhnóir leat leis an gCluaisín Cuntais le Saorchomhrá a chur i bhfeidhm.
+FreeChatLinkWarning	Ní cheadaítear URLeanna a sheoladh! Níor seoladh an teachtaireacht.
+ScreenShakeOption	Crith an Scáileáin
+StreamingTwitch	Streamáil ar Twitch
+AnnouncementFailFetchData	Theip ar an bhfógra a fháil.
+AnnouncementFailFetchData_LastKnown	Theip ar an bhfógra a fháil. Seo an ceann is deireanaí a fuarthas:
+	
+Cosmetic.pet_clank	Clank
+Cosmetic.pet_GuiltySpark	Splanc Ciontachta
+Cosmetic.hat_halospartan	Clogad Spartach
+Cosmetic.hat_ratchet	Caipín Ratchet
+Cosmetic.skin_halospartan	Cathéide Spartach
+Cosmetic.skin_ratchet	Culaith Aonphíosa Ratchet
+Cosmetic.skin_screamghostface	Róba Scream
+Cosmetic.hat_screamghostface	Púicín Scream
+	
+AmongUsFriends	Cairde ar Among Us
+FriendsGuestWarning	Logáil isteach chun an ghné sin a úsáid.
+PlatformFriends	Cairde Ardáin
+BlockedPlayers	Imreoirí Faoi Chosc
+RecentPlayers	Comhimreoirí Déanacha
+LobbyLabel	Forsheomra
+FriendCodeExplanation	Tá Liosta Cairde ag Among Us! Roghnaigh Cód Cairdis le hiarratais a sheoladh agus a fháil.\n\n Ní féidir é a athrú tar éis duit é a roghnú.
+FriendCodeSuccess	Is é {0} do Chód Cairdis
+FriendRequestReceived	Iarratas Cairdis Faighte
+FriendRequestSent	Iarratas Cairdis Seolta
+GameLobbyInviteSent	Cuireadh Cluiche Seolta
+GameLobbyInviteReceived	Cuireadh Cluiche Faighte
+BlockPlayerConfirm	Cuir Cosc Air?
+RemoveFriendConfirm	Cuir deireadh le cairdeas?
+InviteToLobbyConfirm	Seol Cuireadh Cluiche?
+FriendCodeLabel	Cód Cairdis
+FriendCodeCreationTitle	Roghnaigh Cód Cairdis
+FriendRequestSentFailed	Theip ar an Iarratas Cairdis
+ErrorBadUsername	Níl struchtúr an Chóid Cairdis i gceart. Cuir isteach arís é le triail eile a bhaint as (msh. SmallBeans#0001)
+ErrorUserNotFound	Níl an Cód Cairdis seo ann
+ErrorPlatformFriends	Theip ar do chairde ardáin a fháil
+ErrorThisIsYou	Ní féidir leat thú féin a chur ar an liosta cairde, faraor.
+ErrorFriendRequestExists	Sheol tú iarratas cairdis chuig an duine seo cheana féin
+ErrorAlreadyFriends	Tá tú i do chara leis an duine seo cheana féin.
+GameLobbyInviteSentFailed	Theip ar Chuireadh Cluiche a sheoladh
+BlockedPlayerFailed	Theip ar chosc a chur ar an imreoir
+BlockedPlayer	Faoi Chosc
+AlreadyBlocked	Cuireadh cosc ar an imreoir seo cheana féin
+FriendList	Liosta Cairde
+NoNewRequests	Níl iarratais nua ar bith ann
+AddFriendPrompt	Seol iarratas cairdis le cód
+NewRequests	Líon iarratas nua: {0}
+Requests	Iarratais
+AddFriend	Seol iarratas cairdis
+StreamWarning	Ná taispeáin é seo go poiblí mura bhfuil uait do Chód Cairdis a bheith ar eolas ag cách!
+FriendsListPermissionsWarning	Caithfidh do chaomhnóir cead a thabhairt duit le húsáid a bhaint as an ghné seo.
+AddFriendConfirm	Seol iarratas cairdis chuig {0}?
+UnfriendConfirm	Cuir deireadh le cairdeas {0}?
+UnblockConfirm	Bain bac de {0}?
+SettingsEnableFriendInvites	Iarratais Chairdis & Iarratais Forsheomra
+ErrorTooManyRequests	Tá an iomarca iarratais ann. Fan cúpla nóiméad.
+TempDisabled	As Feidhm
+TempDisabledLinkExplain	Tá cuntais á n-athrú. Chuireamar bac sealadach ar chuntais a cheangal le chéile. Ní fada go gcuirfear gach rud i gceart le huasdátú eile.
+RedeemPopup	Seo bronntanas duit ón gcriú!\n{0}.
+RedeemButton	Fuascail
+ErrorMaxFriends	Tá do liosta cairdis lán.
+ErrorPlayerBlockedYou	Earráid: Tá bac agat ar an úsáideoir seo nó tá bac aigesean ortsa.
+ErrorRecipientMaxFriendRequests	Earráid: Ní féidir leis an úsáideoir seo tuilleadh cuirí cairdis a fháil.
+ErrorSenderMaxFriendRequests	Earráid: Sheol tú iomad cuirí cairdis cheana féin.
+ErrorRecipientMaxFriends	Earráid: Tá liosta cairdis an úsáideora seo lán.
+ViewRequests	Féach ar iarratais
+ParentPortalButton	Iarr Cead
+FriendsListEmailSent	Chuir muid ríomhphost chuig do thuismitheoir nó do chaomhnóir ach ag iarraidh na gceadanna liostaí cairde breise. Bíodh tú ag seiceáil a r-phost.
+Decontamination3	Dí-Éilliúlann Íochtarach
+ErrorCommunications	Tá do chuid socruithe cumarsáide do do chosc. Chun a bheith páirteach sa chluiche seo, cuir comhrá le daoine eile i bhfeidhm.
+SettingsColorblind	Modh Dathdhaille
+MergeGuestAccountText	Tá <link="https://www.innersloth.com/merging-guest-accounts/">cuntas cuairteora</link> ar an ngléas seo! Ní féidir linn a leithéid a chur ar fáil a thuilleadh, mar sin ceanglófar na hearraí agus na haireagadraí agus an dul chun cinn a bhaineann leis an gcuntas sin leis an gcuntas {0}.\n\nMá bhaineann daoine eile úsáid as an ngléas seo (bíodh sé ina ríomhaire nó ina fhón, srl.), ná déan dearmad gur le gach duine acu an cuntas sin. Mar sin, ní bheidh siad ábalta an cuntas cuairteora sin a chumasc le cuntas eile má leanann tú ar aghaidh. Ní fhéadfaidh tú an cumascseo a dhéanamh ach uair amháin. Ní bheidh tú ábalta na hearraí ná na hairgeadraí ná an dul chun cinn a bhaineann leis an gcuntas a cheangal le ceann eile arís.\n\nDeimhnigh, le do thoil, gur mhaith leat an cuntas cuairteora a chumasc leis an gcuntas {0}.
+MergeGuestAccountTitle	Comhcheangail Cuntas Cuairteora
+ManageAccountTitle	Bainistigh Cuntas
+ManageAccountText	Téigh go <link="https://accounts.innersloth.com/">https://accounts.innersloth.com</link> leis an gcuntas a bhainistiú, a chumasc nó má tá fadhb ar bith eile agat.
+CurrencyBeans	Pónairí
+CurrencyPods	{MapName} Pods
+	
+Cosmetic.visor_BaconVisor	Nach Ormsa an t-Áthas
+Cosmetic.hat_Baguette	Níl Ann Ach Baguette
+Cosmetic.skin_Bananaskin	Peanut Butter Jelly Time
+Cosmetic.visor_BananaVisor	Faire: Sleamhain
+Cosmetic.nameplate_BlimeyPlate	An Líomóid Ghorm
+Cosmetic.skin_BlueApronskin	Cad atá uait? - Éascaíocht
+Cosmetic.skin_BlueSuspskin	Fear an Fhraocháin
+Cosmetic.hat_BreadLoaf	Arán na bhFiann
+Cosmetic.nameplate_BreadPlate	An tArán is Fearr
+Cosmetic.pet_BredPet	Builínín
+Cosmetic.visor_BubbleBumVisor	Ná Pléasc É!
+Cosmetic.hat_Butter	Suaite in Im
+Cosmetic.skin_ChefBlackskin	Céard atá ar Bun? - Dubh
+Cosmetic.pet_ChewiePet	An Righneach
+Cosmetic.visor_CucumberVisor	Ag Codladh go Sámh
+Cosmetic.nameplate_EggPlate	Ubhú!
+Cosmetic.pet_HamPet	Liamháisín
+Cosmetic.skin_Hotdogskin	Brocaire Te
+Cosmetic.visor_IceCreamChocolateVisor	Ar m'Aghaidh - Seacláid
+Cosmetic.visor_IceCreamMintVisor	Ar m'Aghaidh - Miontais
+Cosmetic.visor_IceCreamStrawberryVisor	Ar m'Aghaidh - Sú Talún
+Cosmetic.visor_IceCreamUbeVisor	Ar m'Aghaidh - Ube
+Cosmetic.hat_OrangeHat	Beidh Cuimhne go Deo ag Cleimintín Air Sin
+Cosmetic.skin_OrangeSuspskin	Léine Tháinséirín
+Cosmetic.hat_PancakeStack	Mullóg Pancóg
+Cosmetic.hat_Pineapple	Dar m'Anann!
+Cosmetic.skin_PinkApronskin	Cad atá uait? - Borróg
+Cosmetic.nameplate_PinkPlate	An tSeadóg Mhór
+Cosmetic.nameplate_PizzaPlate	Píotsa
+Cosmetic.hat_PizzaSliceHat	Pizza Hat
+Cosmetic.visor_PizzaVisor	Déanfaidh mé slisiní díot.
+Cosmetic.nameplate_PlatePlate	An Pláta Mór
+Cosmetic.hat_StrawberryLeavesHat	Caor Cinn
+Cosmetic.hat_ToastButterHat	Arán agus Im
+Cosmetic.visor_ToastVisor	Déan Deifir!
+Cosmetic.skin_YellowApronskin	Cad atá uait? - Beár
+Cosmetic.skin_YellowSuspskin	Girseach Líomóide
+Cosmetic.skin_PinkSuspskin	Éide Seadóige
+	
+Cosmetic.hat_BananaGreen	Scafa - Réamhaibí
+Cosmetic.hat_BananaPurple	Scafa - Fungushia
+Cosmetic.hat_cheeseBleu	Cáis - Bleu
+Cosmetic.hat_cheeseMoldy	Cáis - Bréana
+Cosmetic.hat_cheeseSwiss	Cáis - Swiss
+Cosmetic.hat_ChefWhiteBlue	Mise Chef - Culaith Cócaire
+Cosmetic.hat_cherryOrange	Silín in Airde- Rainier
+Cosmetic.hat_cherryPink	Silín in Airde - Bándearg
+Cosmetic.hat_chocolateCandy	Scúp - Guma Bolgóideach
+Cosmetic.hat_chocolateMatcha	Scúp - Matcha
+Cosmetic.hat_chocolateVanillaStrawb	Scúp - Sú Talún 's Fanaile
+Cosmetic.hat_croissant	Croissant Brioscánach
+Cosmetic.hat_eggGreen	Ubh Fhriochta - Glas
+Cosmetic.hat_eggYellow	Ubh Fhriochta
+Cosmetic.skin_ApronGreen	Cad atá uait? - Latte
+Cosmetic.skin_ChefBlue	Céard atá ar Bun? - Gorm
+Cosmetic.skin_ChefRed	Céard atá ar Bun?
+Cosmetic.hat_IceCreamMatcha	Dhá Scúp - Matcha
+Cosmetic.hat_IceCreamMint	Dhá Scúp - Miontais
+Cosmetic.hat_IceCreamNeo	Dhá Scúp - Napóileach
+Cosmetic.hat_IceCreamStrawberry	Dhá Scúp - Sú Talún
+Cosmetic.hat_IceCreamUbe	Dhá Scúp - Ube
+Cosmetic.hat_IceCreamVanilla	Dhá Scúp - Fanaile
+Cosmetic.visor_lollipopCrew	Líreacán - Dath an Chriú
+Cosmetic.visor_lollipopLemon	Líreacán - Anann
+Cosmetic.visor_lollipopLime	Líreacán - Úll Géar
+Cosmetic.nameplate_Croissant	Mo Croissant!
+Cosmetic.nameplate_Lemon	Líomóidí go Deo
+Cosmetic.nameplate_Orange	Oráiste Sásta
+Cosmetic.hat_sausage	Ina Thranglam
+SignInIssueTitle	Earráid Chuntais {0}
+SignInIssueText	Faraor, ní féidir cuntas a chruthú le do {0} de dheasca srianta cuntais. Déan iarracht eile le {1} eile, le do thoil.\n\nIs féidir leat leanúint ar aghaidh ag imirt Among Us leis an ngléas seo, ach ní bheidh gach rud ar fáil, na rudaí seo a leanas san áireamh: nascadh cuntais, ceannacháin Réaltaí agus aistriú earraí go gléas eile. Má tá ceist ar bith agat, cuir ríomhphost chun support@innersloth.com
+FriendListUnavailable	Níl an Liosta Cairde le Fáil
+	
+ErrorSanction	Cuireadh cosc ar do chuntas {1} mar {0}.
+SanctionDuration	go dtí {0}
+SanctionPermanent	go deo
+SanctionConduct	\r\nTóg an t-am seo chun smaoineamh agus machnamh ar ár <link="https://www.innersloth.com/code-of-conduct/">gCód Iompair</link>
+SanctionSexualMisconduct	gheall ar mhí-iompar gnéis
+SanctionDoxing	gheall ar sheoladh nó ar bhagairt sheoladh eolais pearsanta nó ar dhoxáil
+SanctionIllegalActivity	ghlac tú páirt i ngníomhaíocht mhídhleathach nó chuir tú a leithéid chun cinn
+SanctionHarassment	sheol tú teachtaireachtaí a bhí fuafar nó idirdhealaitheach nó dímheasúil
+SanctionSelfHarmPromotion	chuir tú féindochar nó féinmharú chun cinn
+SanctionCheatingHacking	gheall ar chaimiléireacht/haiceáil
+SanctionSpamming	gheall ar spamáil
+SanctionUnsportsmanlikeConduct	gheall ar iompar míspórtúil
+SanctionInappropriateChatDating	gheall ar chaint mhíchuí
+SanctionBullying	gheall ar bhulaíocht
+SanctionInappropriateChatPersonalInfo	gheall ar chaint mhíchuí
+SanctionImpersonationDevelopers	bhí tú ag ligean ort go raibh tú ar dhuine de na forbróirí
+SanctionImpersonationCeleb	bhí tú ag ligean ort gur dhuine cáiliúil áirithe thú
+SanctionWeaponizingRules	rinne tú arm as na rialacha
+SanctionInappropriateNameDerogatory	gheall ar ainm míchuí
+SanctionInappropriateNameNsfw	gheall ar ainm míchuí
+SanctionInappropriateNameUnsportsmanlike	gheall ar ainm míchuí
+SanctionRepeatOffender3	gheall ar choir agus ar athchoir
+SanctionRepeatOffender10	gheall ar choir agus ar athchoir
+SanctionUnknown	sháraigh tú ár gCód Iompair
+	
+FeaturedItems	Earraí Aibhsithe
+FeaturedBundles	Bearta Aibhsithe
+FeaturedCubes	Ciúbanna Cosmacha Aibhsithe
+	
+AbbreviatedDay	{0} l
+AbbreviatedHour	{0} u
+AbbreviatedMinute	{0} n
+AbbreviatedSecond	{0} s
+	
+BugReportCategoryGeneral	Ceist Ghinearálta
+BugReportCategoryAccountManagement	Bainistíocht Cuntais
+BugReportCategoryGameplayIssue	Fadhb Leis an gCluiche
+BugReportCategoryServerIssues	Fadhbanna Freastalaí
+BugReportCategoryBilling	Cúnamh le Billeáil agus le hÍocaíocht
+BugReportPopUpSubmittedText	Go raibh maith agat! Glacadh le d'aiseolas.
+BugReportPopUpSubmissionFailedText	Sheol tú aiseolas le déanaí. Triail ar ball é.
+BugReportPopUpCategoryLabel	Catagóir
+BugReportPopUpDescriptionLabel	Cuir síos go cruinn céard a bhí ar bun agat nuair a thosaigh an deacracht. Má tá tuilleadh cúnaimh uait, seol ríomhphost chuig support@innersloth.com
+BugReportPopUpTitle	Húps! Tharla earráid!
+BugReportIssueButton	Cuir Deacracht inár Láthair
+BugReportPopUpAttachScreenshotLabel	Glac Seat Scáileáin
+BugReportPopUpAttachScreenshotDesc	Glacfar seat scáileáin den scáileán mar atá sa chluiche faoi láthair (seachas an cluaisín “Cabhair”) agus seolfar leis an aiseolas é.
+Email	Ríomhphost
+SettingsHelp	Cabhair
+UserIdTokenError	D'éag Fíordheibhniú Úsáideora. Atosaigh an cluiche má mhaireann an fhadhb seo.
+	
+Cosmetic.hat_hl_korone	Hata Inugami Korone
+Cosmetic.hat_hl_okayu	Hata Nekomata Okayu
+Cosmetic.hat_hl_gura	Hata Gawr Gura
+Cosmetic.hat_hl_mio	Hata Ookami Mio
+Cosmetic.hat_hl_fubuki	Hata Shirakami Fubuki
+Cosmetic.hat_hl_risu	Hata Ayunda Risu
+Cosmetic.hat_hl_moona	Hata Moona Hoshinova
+Cosmetic.hat_hl_pekora	Hata Usada Pekora
+Cosmetic.hat_hl_marine	Hata Houshou Marine
+Cosmetic.hat_hl_watson	Hata Watson Amelia
+Cosmetic.skin_hl_korone	Culaith Inugami Korone
+Cosmetic.skin_hl_okayu	Culaith Nekomata Okayu
+Cosmetic.skin_hl_gura	Culaith Gawr Gura
+Cosmetic.skin_hl_mio	Culaith Ookami Mio
+Cosmetic.skin_hl_fubuki	Culaith Shirakami Fubuki
+Cosmetic.skin_hl_risu	Culaith Ayunda Risu
+Cosmetic.skin_hl_moona	Culaith Moona Hoshinova
+Cosmetic.skin_hl_pekora	Culaith Usada Pekora
+Cosmetic.skin_hl_marine	Culaith Houshou Marine
+Cosmetic.skin_hl_watson	Culaith Watson Amelia
+Cosmetic.visor_hl_nothoughts	Gan Smaointe
+Cosmetic.visor_hl_sweepy	Codlatach
+Cosmetic.visor_hl_smug	Mothú Sotalach
+Cosmetic.visor_hl_ah	Ah.
+Cosmetic.visor_hl_hmph	Hmph!
+Cosmetic.visor_hl_teehee	Teehee!
+Cosmetic.visor_hl_bored	Leamh anois
+Cosmetic.visor_hl_nudge	Sonc-Sonc
+Cosmetic.visor_hl_marine	Paiste súl Marine
+Cosmetic.visor_hl_wrong	Haha Cad a D'fhéadfadh a bheith Mícheart?
+	
+AccountDeleteHelp	Ar bhrú CONFIRM, tá tú ag iarraidh go scriosfaidh gach cuid de do dhalaí Among Us. Tógfaidh an t-iarratas seo idir 7 - 14 lá agus mar sin beidh do Réalta, do Phónairí, do Phods agus an stuif a cheannaigh tú scriosta. Agus an cuntas scriosta, ní féidir linn é a thabhairt ar ais. Beidh do chuntas ag oibriú mar is iondúil go dtí go bhfuil an próiseas seo críochnaithe.\n\nMá tá earráid ar bith, téigh i dteangmháil le support@innersloth.com
+DeleteAccount	Scrios Cuntas
+DoNotDeleteAccount	Stad Scriosadh Cuntais
+AccountUnDeleteHelp	Ar bhrú CONFIRM, stopfaidh scriosadh do chuntais. Má tá tú ag iarraidh an cuntas a scríosadh, caithfidh tú iarratas a chuir isteach arís.\n\nMá tá earráid ar bith ann, téigh i dteangmháil le support@innersloth.com
+ConfirmDelete	Clóscríobh DELETE le deibhniú
+ConfirmDeleteAccounts	Brúigh an bosca seo le deibhniú go dtuigeann tú go scriosfar an cuntas seo agus na cinn atá ceangailte leis ({0}).
+ConfirmDeleteAccountsEmpty	Brúigh an bosca seo le deibhniú go dtuigeann tú go scriosfar an cuntas seo agus na cinn atá ceangailte leis.
+AccountRequestDelete	Scriosadh Cuntais ar Feitheamh
+	
+UserVersionError	Eagrán Mícheart : Rinneadh an seomra seo le Among Us {0}
+Cosmetic.visor_vr_Vr-Black	VR - Dubh
+Cosmetic.visor_vr_Vr-White	VR - Bán
+	
+GameType	Saghas Cluiche
+GameTypeError	Earráid!
+GameTypeClassic	Clasaiceach
+GameTypeHideAndSeek	Folach Bíog
+	
+ShowCrewmateNames	Taispeáin na hAinmneacha
+	
+HideActionButton	Téigh i bhFolach
+HasBeenKilled	Marbh
+Random	Randamach
+Ghost	Taibhse
+CurrentlyHaunting	ag Gnáthú:
+RoundRobin	Comórtas Ciorclach
+RuleOneCrewmates	Mair go dtí go mbeidh an t-am thart.\n Críochnaigh tascanna le go mbeidh an t-am thart níos sciobtha.
+RuleTwoCrewmates	Úsáid na gaothairí agus an Danger Meter le dul i bhfolach ag an am ceart.
+RuleThreeCrewmates	Nuair a bhíonn an t-am thart, is féidir leis an bhFealltóir do lorg a leanúint!
+RuleOneImpostor	Maraigh gach Maraigh gach sula mbeidh an t-am thart!
+RuleTwoImpostor	Bí sciobtha - níl radharc maith agat agus ní féidir leat veinteáil.
+RuleThreeImpostor	Ag deireadh an chluiche, beidh tú níos sciobtha agus beidh leideanna lorgaireachta agat!
+RuleOneCrewmatesTitle	Déan do chuid tascanna
+RuleTwoCrewmatesTitle	Téigh i bhfolach
+RuleThreeCrewmatesTitle	An Folach Déanach
+RuleOneImpostorTitle	Maraigh go sciobtha
+RuleTwoImpostorTitle	Bí ar a dtóir
+PetAction	Muirnigh
+EscapeTime	Am roimh an bhFolach Déanach
+FinalEscapeTime	Am an Fholaigh Dhéanaigh
+UseFlashlight	Modh Tóirse
+CrewmateFlashlightSize	Méid Thóirse na Leathbhádóirí
+ImpostorFlashlightSize	Méid Thóirse na bhFealltóirí
+SeekerFinalSpeed	Luas an Fhealltóra i rith an Fholaigh Dhéanaigh
+SeekerFinalMap	Léarscáil Tóraíochta an Fholaigh Dhéanaigh
+SeekerPings	Clingeacha an Fholaigh Dhéanaigh
+MaxPingTime	Eatramh idir Clingeacha
+TagsTitle	Clibeanna
+FiltersTitle	Scagairí
+TagFiltersTitle	Scagairí
+FiltersAppliedSingular	{0} Clib i bhFeidhm
+FiltersAppliedPlural	{0} Clib i bhFeidhm
+TagsFilteredSingular	Tá Clib {0} de Dhíth
+TagsFilteredPlural	Tá Clibeanna {0} de Dhíth
+TagsAppliedSingular	Cuireadh Clib {0} i bhFeidhm
+TagsAppliedPlural	Cuireadh Clibeanna {0} i bhFeidhm
+DefaultFilterTag_FirstTime	Tosaitheoir
+DefaultFilterTag_Casual	Réchúiseach
+DefaultFilterTag_Serious	Dáiríre
+DefaultFilterTag_Expert	Saineolaí
+TagFiltersHelpFindGame	Féadfaidh tú clib a chur ar do chluiche le scagairí ón liosta. Luífidh na torthaí cuardaigh leis na scagairí a roghnóidh tú.\n\nMar shampla: Má roghnaíonn tú <b>"Réchúiseach"</b> agus <b>"Saineolaí"</b> ní fheicfidh tú ach na cluichí ag a bhfuil na scagairí sin araon.
+TagFiltersHelpCreate	Féadfaidh tú clib a chur ar do chluiche le scagairí ionas go mbeidh cluichirí eile ábalta do chluiche a fheiceáil. Luífidh na torthaí cuardaigh leis na scagairí a roghnóidh tú.\n\nMar shampla: Má roghnaíonn tú <b>"Réchúiseach"</b> agus <b>"Saineolaí"</b> ní bheidh an cluiche le feiceáil ach ag daoine a dhéanfaidh cuardach ar na scagairí sin araon.
+MapFiltersSelected	{0} Léarscáil Roghnaithe
+FindGameNeedsRefresh	Athraíodh socruithe na scagairí\n\nAthnuaigh an leathanach, le do thoil
+CreateLabel	Cruthaigh
+NewGameMode	Modh Cluiche Nua!
+NewModeInfo	Bíonn cuid mhór i ngeall sa mhodh seo. \n<i>Ach seachain thú féin, ní gnáthfholach bíog é...</i>
+HideSeekHowToPlayCaptionOne	Tá sé simplí!
+HideSeekHowToPlayCaptionTwo	Leathbhádóirí!
+HideSeekHowToPlayCaptionThree	Fealltóirí!
+HideSeekHowToPlayPageOne	<color=#38F25D><b>Leathbhádóirí:</b></color> Críochnaigh do chuid tascanna chun an cluiche a chiorrú, seachain an Fealltóir agus fan i do bheatha go dtiocfaidh an cluiche chun deiridh. \n\n<color=#FF3131><b>An Fealltóir:</b></color> Faigh na Leathbhádóirí agus maraigh gan trua iad!
+HideSeekHowToPlaySubtextOne	Níl aon tátal sóisialta anseo. Níl ann ach scréacha uafáis.
+HideSeekHowToPlayCrewmateInfoOne	Faigh máistreacht ar dhul i bhfolach agus ar éalú araon chun go mairfidh tú.
+HideSeekHowToPlayCrewmateInfoTwo	Is féidir veinteáil sa mhodh seo agus ina theannta san tá Méadar Contúirte le fáil a chuireann teacht an Fhealltóra in iúl duit. Níl ach gearr-radharc ag an bhFealltóir, mar sin, bain úsáid éifeachtúil as do chumas, as na gaothairí agus cealtracha lena sheachaint!
+HideSeekHowToPlayImpostorInfoOne	Ní féidir le Fealltóirí veinteáil sa mhodh seo, mar sin beidh ort a bheith tapa chun breith ar do chreach. Tá sé dorcha! Ar ámharaí an tsaoil tá Tóirse agat i gcomhair íospartaigh a fháil.
+HideSeekHowToPlayFinalHide	Bíonn tuilleadh cumhachta ag an bhFealltóir nuair a bhíonn an cluiche ag teacht chun deiridh - bíonn sé níos tapa, bíonn léarscáil tóraíochta aige ag a bhfuil cling threorach a thaispeánann treo na Leathbhádóirí atá fós ina mbeatha.\n\nSmaoinigh ar an toirt agus teith ar bhonn straitéiseach chun an bua a fháil!
+HideSeekHowToPlayFlashlightMobile	Bain úsáid as luamhán stiúrtha an Tóirse atá ar an taobh deas den scáileán chun an gá a dhíriú agus maraigh gach Leathbhádóir ar féidir leat a fháil!
+HideSeekHowToPlayFlashlightDefault	Úsáid do luchóg chun an Tóirse a dhíriú ar na Leathbhádóirí agus úsáid é chun gach aon Leathbhádóir a mharú.
+HideSeekHowToPlayFlashlightConsoles	Úsáid do luamhán stiúrtha deas chun an Tóirse a dhíriú agus maraigh gach Leathbhádóir a fheicfidh tú!
+HideSeekHowToPlayFlashlightPlayStation	Úsáid do luamhán stiúrtha deas chun an Tóirse a dhíriú agus maraigh gach Leathbhádóir a fheicfidh tú!
+HideSeekHowToPlayFlashlightSwitch	Úsáid do Right Stick deas chun an Tóirse a dhíriú agus maraigh gach Leathbhádóir a fheicfidh tú!
+OptionUnavailablePublicLobby	Níl sé seo le fáil sna forsheomraí poiblí
+Cosmetic.nameplate_ballPit	Níos Mó Spraoi
+Cosmetic.nameplate_cafeteria	Am Lóin
+Cosmetic.nameplate_deadbodyfound	Tuairiscithe!
+Cosmetic.nameplate_ejected	An Spás Folamh Fuar
+Cosmetic.nameplate_flagAce	Bratach Bróid Éighnéasaigh
+Cosmetic.nameplate_flagAgend	Bratach Bróid Éi-insceanaigh
+Cosmetic.nameplate_flagBi	Bratach Bróid Déghnéasaigh
+Cosmetic.nameplate_flagGendF	Bratach Bróid Inscnesholúbachta
+Cosmetic.nameplate_flagGendQ	Bratach Bróid Inscne-aitigh
+Cosmetic.nameplate_flagNonbinary	Bratach Bróid Neamhdhénárthachta
+Cosmetic.nameplate_flagPan	Bratach Bróid Panghnéasaigh
+Cosmetic.nameplate_flagPride	Bratach Bróid Iniataigh
+Cosmetic.nameplate_flagLesbian	Brat Bróid Leispiaigh
+Cosmetic.nameplate_flagRainbow	Bratach Bróid Aeraigh
+Cosmetic.nameplate_flagTrans	Bratach Bróid Trasinscneaigh
+Cosmetic.nameplate_flashlight	Cé Atá Ann?
+Cosmetic.nameplate_impostor	Gníomh Sabaitéireachta
+Cosmetic.nameplate_ninjas	I nDorchadas na hOíche
+Cosmetic.nameplate_polus	Fáilte Fhuar
+Cosmetic.nameplate_reactor	Imoibriú Ceimiceach
+Cosmetic.nameplate_ripple	Cuilithíní
+Cosmetic.nameplate_seeker	Gan Aon Amhras
+Cosmetic.nameplate_shhh	Fuist!
+Cosmetic.pet_nuggetPet	An Cnaipín
+	
+Cosmetic.visor_Candycane	Maide Milis
+Cosmetic.nameplate_candyCanePlate	Steotar
+Cosmetic.pet_coaltonpet	Mo Ghualaín
+Cosmetic.skin_greedygrampaskin	Duine de na hUaisle
+Cosmetic.visor_IceBeard	Féasóg Reoite
+Cosmetic.hat_Igloo	Caipín Íoglú
+Cosmetic.hat_Present	Féirín Beag
+Cosmetic.skin_presentskin	Féirín Mór
+Cosmetic.visor_Rudolph	Gaosán Geal
+Cosmetic.skin_scarfskin	Scaif Thiubh
+Cosmetic.hat_Scrudge	Féach, a Mhic!
+Cosmetic.hat_Snowman	Ceann Sneachta
+Cosmetic.nameplate_SnowmiesPlate	Criú Sneachta
+Cosmetic.hat_StarTopper	Mise an Réalta
+Cosmetic.skin_uglysweaterskin	Geansaí Gránna
+Cosmetic.nameplate_winterForestPlate	Crann Péine
+Cosmetic.nameplate_WrappingPaperPlate	Dathanna na Nollag
+Cosmetic.hat_crownBean	Barún na Pónaire
+Cosmetic.hat_crownDouble	Coróin le Coróin
+Cosmetic.hat_crownTall	Ardrí
+Cosmetic.hat_wigJudge	Bolgán Mór Béice
+Cosmetic.hat_wigTall	Na hUaisle
+Cosmetic.hat_cashHat	Airgead Mór
+Cosmetic.hat_tinFoil	Tá uisce faoi thalamh ann!
+Cosmetic.hat_mareLwyd	An tEach Taibhsiúil
+Cosmetic.hat_schnapp	Schnappviecher
+Cosmetic.hat_Sorry	Mo Leithscéal
+Cosmetic.visor_wash	Salach
+Cosmetic.visor_anime	Úbhú
+Cosmetic.visor_teary	Ní Mise Faoi Deara É
+Cosmetic.visor_tvColorTest	Deireadh an Chraolta
+Cosmetic.visor_beautyMark	Ball Seirce
+Cosmetic.visor_Stealthgoggles	Déshúiligh Oíche
+Cosmetic.visor_Plsno	Lig dom :(
+	
+Cosmetic.hat_NewYear2023	Athbhliain 2023
+Cosmetic.pet_HolidayHamPet	Liamhás na Nollag
+Cosmetic.pet_YuleGoatPet	An Poc ar Buile
+	
+Cosmetic.skin_Box1skin	Carachtar Cairtchláir
+Cosmetic.skin_BubbleWrapskin	Sobhriste
+Cosmetic.skin_Burlapskin	Burlap Chic
+Cosmetic.skin_BushSign1skin	Níl Ann Ach Tor
+Cosmetic.skin_Horse1skin	Fallaing an Eich Thaibhsiúil
+Cosmetic.skin_Sack1skin	Mála Prátaí
+Cosmetic.skin_benoit	Benoit Blanc
+Cosmetic.hat_babybean	Páiste Pónaire
+Cosmetic.skin_Astronaut-Blueskin	Spásaire - Gorm
+Cosmetic.skin_Astronaut-Cyanskin	Spásaire - Bánghorm
+Cosmetic.skin_Astronaut-Orangeskin	Spásaire - Oráiste
+HauntAbilityName	Gnáthaigh
+	
+RestorePurchases	Aisig do Chuid Ceannachán
+StatsHidenSeekGamesCrewmateSurvived	Líon na gCluichí as ar Tháinig Tú Slán sa Mhodh Folach Bíog:\t
+StatsHidenSeekTimesVented	Líon an Veinteála agus Tú sa Mhodh Folach Bíog:\t
+StatsTimesPettedPet	Líon an Mhuirnithe:\t
+StatsImpostorKills_HideAndSeek	An Líon Daoine a Mharaigh Tú sa Mhodh Folach Bíog:\t
+StatsFastestCrewmateWin_HideAndSeek	An Bua is Sciobtha mar Chriú sa Mhodh Folach Bíog:\t
+StatsFastestImpostorWin_HideAndSeek	An Bua is Sciobtha mar Fhealltóir sa Mhodh Folach Bíog:\t
+StatsHideAndSeekImpostorVictory	Líon na gCluichí a Bhuaigh Tú na Fealltóirí sa Mhodh Folach Bíog:\t
+StatsHideAndSeekCrewmateVictory	Líon na gCluichí a Bhuaigh an Criú sa Mhodh Folach Bíog:\t
+SeekButton	Bí ar a dtóir
+ScrollList	Scrolláil tríd an Liosta
+ScrollNews	Scrolláil tríd an Nuacht
+AmongUsAnnouncements	Fógraí Among Us
+Cosmetic.hat_osiris	Clogad Osiris
+Cosmetic.hat_maraSov	Mara Sov
+Cosmetic.skin_D2Osiris	Cathéide Osiris
+Cosmetic.hat_saint14	Clogad Saint-14
+Cosmetic.skin_D2Saint14	Cathéide Saint-14
+Cosmetic.hat_shaxx	Clogad Shaxx
+Cosmetic.skin_D2Shaxx	Cathéide Shaxx
+Cosmetic.hat_titan	Clogad Titan
+Cosmetic.hat_warlock	Clogad Warlock
+Cosmetic.hat_hunter	Cochall Hunter
+Cosmetic.skin_D2Titan	Cathéide Titan
+Cosmetic.skin_D2Warlock	Cathéide Warlock
+Cosmetic.skin_D2Hunter	Cathéide Hunter
+Cosmetic.hat_starhorse	Starhorse
+Cosmetic.hat_savathun	Coróin Savathûn
+Cosmetic.visor_savathun	Súile Savathûn
+Cosmetic.hat_caiatl	Clogad Caiatl
+Cosmetic.visor_eliksni	Pláta Fásála Eliksni
+Cosmetic.hat_pyramid	Pirimidí
+Cosmetic.visor_erisBandage	Bindealán Eris Morn
+Cosmetic.hat_erisMorn	Eris Morn
+Cosmetic.hat_chalice	Cailís Calus
+Cosmetic.pet_D2PoukaPet	Pouka
+Cosmetic.pet_D2WormPet	Péist
+Cosmetic.pet_D2GhostPet	Taibhse
+Cosmetic.nameplate_titan	Bród Titan
+Cosmetic.nameplate_warlock	Bród Warlock
+Cosmetic.nameplate_hunter	Bród Hunter
+Cosmetic.nameplate_lightfall	Lightfall
+AnnouncementErrorSubtitle	Och! Deineadh sabaitéireacht ar an bhfógairt!
+AnnouncementErrorText	Tharla earráid. Bí cinnte go bhfuil tú ar líne agus go bhfuil an leagan is déanaí agat le go bhfaighfidh tú gach eolas agus gach ceartúchán ó Among Us. \n\nMá tá fadhbanna agat fós, seol teachtaireacht chugainn ag support@innersloth.com.
+ReadMoreLabel	chun an fógra a fheiceáil ina iomláine!
+ReturnToList	Fill ar an liosta
+NavigateLinks	Roghnaigh naisc
+HttpErrorContextNone	Theip ar dhul i dteagmháil leis an bhfreastalaí
+HttpErrorContextAuthenticate	Theip ar an bhfíordheimhniú
+HttpErrorContextRequestGameCode	Theip ar chód cluiche a fháil
+HttpErrorContextFindHostServer	Theip ar fhreastalaí óstaigh a fháil
+HttpErrorContextRequestGamesList	Theip ar liosta na gcluichí a fháil
+HttpErrorUnknown	Tharla earráid anaithnid
+HttpErrorBadRequest	Drochiarratas. Cód: 400
+HttpErrorUnauthorized	Iarratas neamhúdaraithe. Cód: 401
+HttpErrorForbidden	Coiscthe. Cód: 403
+HttpErrorNotFound	Níl teacht air. Cód: 404
+HttpErrorMethodNotAllowed	Modh nach bhfuil ceadaithe. Cód: 405
+HttpErrorRequestTimeout	Iarratas gan freagra. Cód: 408
+HttpErrorTooManyRequests	An iomad iarratas. Cód: 429
+HttpErrorInternalServerError	Earráid freastalaí inmheánach. Cód: 500
+HttpErrorBadGateway	Drochgheata. Cód: 502
+HttpErrorServiceUnavailable	Níl teacht ar an tseirbhís. Cód: 503
+HttpErrorGatewayTimeout	Geata gan freagra. Cód: 504
+AgeVerificationTitle	Aoisdeimhniú
+AgeVerificationInfoTitle	Cad is aoisdeimhniú ann?
+AgeVerificationInfo	Caithfidh tú d'aois a dheimhniú sular féidir leat Among Us a imirt. Ní choinneoidh muid lá do bhreithe i gcuimhne.
+AgeVerificationMoreInfo	Le tuilleadh eolais a fháil maidir lenár nósanna príobháideachta, féach ar <link="https://www.innersloth.com/privacy-policy/">https://www.innersloth.com/privacy-policy/</link>
+EditLabel	Cuir in Eagar
+VerifyAgeText	An é seo lá do bhreithe?
+Cosmetic.nameplate_flagMlm	Brat MLM
+Cosmetic.nameplate_flagAro	Brat Éarómansúil
+Cosmetic.visor_chimkin	Sicín, Sicín
+Cosmetic.hat_rabbitEars	Coiníní
+Cosmetic.hat_fishCap	Tá mé ar thóir éisc
+Cosmetic.hat_bandanaWBY	Ban-dána
+PlayLabel	Imir
+SettingsLabel	Socruithe
+NewsLabel	Nuacht
+AccountLabel	Mo Chuntas
+CreditsLabel	Creidiúintí
+ShopLabel	Siopa
+InventoryLabel	Fardal
+StatsLabel	Staitisticí
+FriendsLabel	Cairde
+Cosmetic.hat_starBalloon	Réaltbhalún
+Cosmetic.visor_shuttershadesWhite	Spéaclaí Comhla - Bán
+Cosmetic.visor_shuttershadesPink	Spéaclaí Comhla – Radman
+Cosmetic.visor_shuttershadesPurple	Spéaclaí Comhla - Corcra
+Cosmetic.visor_shuttershadesBlue	Spéaclaí Comhla - Gorm
+Cosmetic.visor_shuttershadesLime	Spéaclaí Comhla - Glas
+Cosmetic.visor_shuttershadesYellow	Spéaclaí Comhla - Buí
+Cosmetic.hat_glowstickPink	Oíche Réabh - Bándearg
+Cosmetic.hat_glowstickYellow	Oíche Réabh - Buí
+Cosmetic.hat_glowstickCyan	Oíche Réabh - Cian
+Cosmetic.hat_glowstickOrange	Oíche Réabh - Oráiste
+Cosmetic.hat_glowstickPurple	Oíche Réabh - Corcra
+Cosmetic.pet_Pip	Pip
+Cosmetic.pet_Pusheen	Pusheen
+Cosmetic.pet_Stormy	Stormy
+Cosmetic.nameplate_pusheen_01	Bogha Ceatha
+Cosmetic.nameplate_pusheen_02	Sútha Talún
+Cosmetic.nameplate_pusheen_03	Taoschnónna
+Cosmetic.nameplate_pusheen_04	Tabhair Dom É
+Cosmetic.hat_pusheenGreyHat	Hata Pusheen
+Cosmetic.hat_PusheenicornHat	Pusheenicorn Iontach
+Cosmetic.hat_pusheenMintHat	Pusheen Bánghlas Pastalach
+Cosmetic.hat_pusheenPurpleHat	Pusheen Liathchorcra Pastalach
+Cosmetic.hat_pusheenPinkHat	Pusheen Bándearg Pastalach
+Cosmetic.hat_pusheenSitHat	Cat ina Shuí
+Cosmetic.hat_pusheenSleepHat	Néal Catlata
+Cosmetic.hat_SlothHat	Sloth
+Cosmetic.visor_pusheenGorgeousVisor	Go hÁlainn!
+Cosmetic.visor_pusheenKissyVisor	Pógaire
+Cosmetic.visor_pusheenKoolKatVisor	Cealtair Chúláilte
+Cosmetic.visor_pusheenOmNomNomVisor	Cealtair Chraosach
+Cosmetic.visor_pusheenSmileVisor	Miongháire Pusheen
+Cosmetic.visor_pusheenYaaaaaayVisor	Go hIontach!
+Cosmetic.skin_PusheenGreyskin	Pusheen
+Cosmetic.skin_Pusheenicornskin	Pusheenicorn Iontach
+Cosmetic.skin_PusheenMintskin	Pusheen Bánghlas Pastalach
+Cosmetic.skin_PusheenPinkskin	Pusheen Bándearg Pastalach
+Cosmetic.skin_PusheenPurpleskin	Pusheen Liathchorcra Pastalach
+Cosmetic.skin_Slothskin	Sloth
+Cosmetic.hat_bearyCold	Teidí
+	
+EosAccountSilentMergeFail	Theip ar do chuntas Among Us a thabhairt chun críche. Bain triail eile as nó lean ar aghaidh trí aoichuntas. Déanfar an dul chun cinn a shábháil, ach molaimid duit cuntas a shocrú i gceart chun taitneamh a bhaint as gach gné de Among Us. \n\nAn bhfuil tú chun triail eile a bhaint as?
+AskForEosAccount	An bhfuil cuntas Among Us agat cheana féin? (Tugtar cuntas Epic Online Services ar a leithéid leis.)\n\nMá imir tú Among Us tríd an ngléas seo roimhe seo, roghnaigh 'Tá'.
+KwsCreateFail	Och! Theip ar an ríomhphost ceada a sheoladh. Bain triail eile as nó lean ar aghaidh sa mhodh as líne.\n\nAn bhfuil tú chun triail eile a bhaint as?
+	
+MissingGuardianEmailText	Tá seoladh ríomhphoist caomhnóra in easnamh ar do chuntas. Tá orainn cead a iarraidh ar do chaomhnóir (trí ríomhphost) roimh dhul ar aghaidh. Má thugann sé cead, beidh tú in ann úsáid a bhaint as saorchomhrá ar líne agus d'ainm úsáideora a athrú. Iarr ar dhuine fásta chun cabhrú leat!
+MiningPit	An Poll Mianadóireachta
+Jungle	An Dufair
+BuildSandcastle	Déan Caisleán Gainimh
+FishingDock	An Duga
+CatchFish	Déan Iascach
+CollectShells	Bailigh Sliogáin
+LiftWeights	Tógáil Meáchain
+RoastMarshmallow	Tóstáil Leamhachán
+TestFrisbee	Caith an Friosbaí
+CollectSamples	Bailigh Samplaí
+CollectVegetables	Bailigh Glasraí
+HoistSupplies	Ardaigh Soláthairtí
+MineOres	Bain Mianta
+ReplaceParts	Cuir Páirteanna in Ionad Páirteanna Eile
+HelpCritter	Cabhraigh Créatúirín
+RecRoom	Ceantar na Steallóg
+Lookout	An tIonad Faire
+Beach	An Trá
+Highlands	Na hAillte
+SleepingQuarters	An Suanlios
+CrankGenerator	Tabhair Casadh don Ghineadóir
+FixAntenna	Ceartaigh an Aeróg
+TuneRadio	Faigh an Comhartha
+MushroomMixupSabotage	Meascán na mBeacán Curtha i bhFeidhm ar Feadh {0}
+MushroomMixupName	Meascán na mBeacán
+CollectStick	Bailigh Maide
+MineOresMine	Úsáid Piocóid
+PolishGem	Cuir Snas ar Gheam
+ExtractFuel	Bain Ábhar As
+MonitorMushroom	Coimeád Súil ar Bheacán
+WipeSand	Glan an Gaineamh
+PlayVideogame	Imir Físchluiche
+CookFish	Cócaráil Iasc
+PrepVegetables	Réitigh Glasraí
+	
+LobbyTimerExpiringTitle	Tá an Príomhsheomra ag Dul in Éag
+LobbyTimerExpiringMsg	Ar mhaith leat síneadh ama {0} a chur leis an seomra?
+LobbyTimerExpiringOk	Ba mhaith
+LobbyTimerExpiringNo	Níor mhaith
+LobbyTimerExpiringUnit	s
+LobbyTimerExpiringMsg2	Dúnfar an seomra i gceann {0}.
+LobbyTimerExpiringHud	Rachaidh an príomhsheomra in éag i gceann {0}
+	
+Cosmetic.hat_pickaxe	Faoin Tua
+Cosmetic.hat_anchor	In Anchor
+Cosmetic.hat_antenna	An Chéadteagmháil 
+Cosmetic.hat_sharkfin	Ball Siorca
+Cosmetic.hat_lilShroom	Beacáinín
+Cosmetic.hat_mushbuns	Gleoiteog na mBeacán
+Cosmetic.hat_bucket	Rí an Chaisleáin Ghainimh
+Cosmetic.hat_mushroomBeret	Beiré Beacáin
+Cosmetic.hat_fungleFlower	Nach Bréan an Boladh?
+Cosmetic.hat_fishingHat	Ní Lia Tír ná Faisean
+Cosmetic.hat_killerplant	Blasta
+Cosmetic.hat_shovel	Sluasaid
+Cosmetic.hat_beachball	Ar Mheá Chothrom
+Cosmetic.hat_bucketHat	Duine Mór Faisin
+Cosmetic.hat_mysteryBones	Cnámh Spairne
+Cosmetic.visor_doubleeyepatch	Tadhg an Dá Thaoibhín
+Cosmetic.visor_marshmallow	Leamhachán Tóstáilte
+Cosmetic.visor_starfish	Crosóg Mhara
+Cosmetic.visor_fishhook	Sionnach ar do Dhuán
+Cosmetic.visor_sunscreenv	SPF 0
+Cosmetic.skin_FishSkinskin	Culaith Éisc
+Cosmetic.skin_FishingSkinskin	Bímse Féin ag Iascaireacht
+Cosmetic.skin_InnerTubeSkinskin	Gan Snámh
+Cosmetic.skin_LifeVestSkinskin	Dul thar Bord
+Cosmetic.pet_Creb	Portán
+Cosmetic.nameplate_zipline	Deireadh a Líne
+Cosmetic.nameplate_grill	Gríoscóir
+Cosmetic.nameplate_plant	Planda Craosach
+Cosmetic.nameplate_sandcastle	Caisleán Gainimh
+Cosmetic.nameplate_cliffs	Uair na hAille
+	
+ReportNotificationHeader	Go raibh maith agat as cúnamh a thabhairt dúinn Among Us a choimeád ina áit shlán shábháilte fháilteach!
+ReportNotificationBody	Déanfaidh an fhoireann mhodhnóireachta athbhreithniú ar an eolas a thuairiscigh tú agus 
+déanfaidh siad beart de réir an chóid iompair.
+ErrorClientTimeout	Dícheanglaíodh thú ón bhfreastalaí. B’fhéidir gur fabht faoi deara é a bhaineann le freastalaí nó le líonra nó le gléas. Seiceáil láidreacht do líonra.\n\nMá tharlaíonn sé seo go minic, seans go bhfuil do ghléas róshean nó nach bhfuil sé cumhachtach a dhóthain. Bain triail as an gcluiche a imirt le gléas eile.
+ErrorClientTimeoutConsole	Dícheanglaíodh thú ón bhfreastalaí. B’fhéidir gur fabht faoi deara é a bhaineann le freastalaí nó le líonra. Seiceáil láidreacht do líonra.
+	
+Cosmetic.hat_NewYear2024	Athbhliain 2024
+	
+Cosmetic.nameplate_Celeste	Éirí in Airde
+Cosmetic.nameplate_flyingStrawberry	Beir Orm gan Mhoill
+Cosmetic.hat_madeline	Gruaig Madeline
+Cosmetic.hat_badeline	Gruaig Badeline
+Cosmetic.visor_theobeard	Féasóg Theo
+Cosmetic.hat_theohair	Gruaig Theo
+Cosmetic.hat_bird	An tÉan
+Cosmetic.skin_Theoskin	Trealamh Theo
+Cosmetic.skin_MadelineSkinskin	Trealamh Madeline
+Cosmetic.skin_BadelineSkinskin	Seaicéad Badeline
+Cosmetic.pet_Strawb	Eitilt na Sú Talún
+Cosmetic.pet_napstamate	An Taibhse
+Cosmetic.hat_undyne	Pónaí an Chirt
+Cosmetic.hat_floweyGood	An Cara is Ansa Leat
+Cosmetic.hat_floweyBad	Crá do Chroí
+Cosmetic.hat_spear	Sleá an Chirt
+Cosmetic.hat_boneUndertale	Bonetrousle
+Cosmetic.hat_duck	An tÉan a Iompraíonn an Criú
+Cosmetic.nameplate_flowers	Fadó, Fadó
+Cosmetic.nameplate_fight	Beidh Am de Shaghas Éigin Agat
+Cosmetic.skin_Undyneskin	Culaith Undyne
+Cosmetic.skin_Sanskin	Húdaí Duine Éigin
+Cosmetic.skin_Papyrusskin	CoolSkeleton95
+Cosmetic.nameplate_battlefield	Bíodh Troid Eadrainn
+Cosmetic.nameplate_hominid	ZAP!
+Cosmetic.hat_castleCrasher	Clogad an Chraiseálaí
+Cosmetic.hat_hattyHattington	Hata Hatty Hattington
+Cosmetic.hat_alienHominid	Adharcáin Eachtráin
+Cosmetic.hat_king	An Choróin
+Cosmetic.visor_hattyHattington	Deora Blasta Hatty
+Cosmetic.visor_king	Ceannaithe Ríoga
+Cosmetic.visor_alienHominid	Giall Íochtair Eachtráin
+Cosmetic.pet_Rammy	An Poc ar Buile
+Cosmetic.skin_KingSkinskin	Éide an Rí
+Cosmetic.skin_HattySkinskin	Culaith Dheas Hatty
+Cosmetic.skin_CrusaderSkinskin	Cathéide an Chraiseálaí
+Cosmetic.nameplate_hourglass	Le hImeacht Aimsire
+Cosmetic.nameplate_shadows	Tá an Conradh as Feidhm
+Cosmetic.hat_hatkid	Hata Páiste
+Cosmetic.hat_conductor	Caipín an Stiúrthóra
+Cosmetic.hat_mustachegirl	Cochall Chailín an Chroiméil
+Cosmetic.hat_bowkid	Bogha Leanbh an Bhogha
+Cosmetic.skin_HatKidSkinskin	Brádóg Leanbh an Hata
+Cosmetic.skin_MoustacheKidSkinskin	Éide Chailín an Chroiméil
+Cosmetic.skin_Conductorskin	Culaith an Stiúrthóra
+Cosmetic.skin_BowKidskin	Gúna Leanbh an Bhogha
+Cosmetic.pet_Crow	Préachán ar Mire
+Cosmetic.visor_mustachegirl	Croiméal Chailín an Chroiméil
+Cosmetic.nameplate_torch	Lóchrann Mór
+Cosmetic.nameplate_dungeonFloor	Urlár Rince an Bháis
+Cosmetic.hat_shopkeeper	Hata Frederick
+Cosmetic.hat_cadence	Bandána Cadence
+Cosmetic.hat_nocturna	Pónaí Nocturna
+Cosmetic.hat_skull	Bhí Leathaithne Agam Orthu
+Cosmetic.skin_FrederickSkinskin	Culaith Frederick
+Cosmetic.skin_CadenceSkinskin	Tabard Cadence
+Cosmetic.skin_Nocturnaskin	Sciatháin Nocturna
+Cosmetic.visor_shopkeeper	Meigeall Frederick
+Cosmetic.pet_DancingSkeletonPet	Croiteoir Cnámh
+Cosmetic.nameplate_honk	HONC
+Cosmetic.nameplate_knife	Ní Raibh an tSíocháin i gCeist Riamh
+Cosmetic.pet_GoosePet	Gé
+Cosmetic.hat_bell	Clog Órga
+Cosmetic.hat_goosefloaty	Hata na Gé
+Cosmetic.hat_gardener	Caipín an Gharraíodóra
+Cosmetic.visor_goose	Gob Gé
+Cosmetic.visor_gardenernose	Ná Bí Chomh Srónach Sin!
+Cosmetic.visor_wimpglasses	Spéaclaí an Chladhaire
+Cosmetic.skin_GardenerSkin1skin	Trealamh an Gharraíodóra
+Cosmetic.skin_Wimpskin	Culaith an Chladhaire
+Cosmetic.hat_shiitakeHat	Taispeánann X an Áit
+Cosmetic.hat_mushmuffsHat	Ceol Funglach
+Cosmetic.hat_shrapnelHat	Srapnal
+Cosmetic.visor_mushroomeyesVisor	Spórclaí
+Cosmetic.visor_animesunglassesVisor	Beanna an Fhaisin
+Cosmetic.visor_starsunglassesmintVisor	Spéaclaí Réaltacha - Bánghlas
+Cosmetic.visor_heartsunglassesgoldVisor	Deas Thú a Fheiceáil - Buí
+Cosmetic.nameplate_binocularsNameplate	Patról an Fungle
+Cosmetic.nameplate_DeadSunsetNameplate	Tar Éis an tSaoil
+Cosmetic.skin_Skins14_5skin	Réidh le Fungle
+	
+Cosmetic.hat_lny_soupSpoon	Anraith An-Mhaith
+Cosmetic.hat_lny_lantern	An Lóchrann
+Cosmetic.hat_lny_dancerHead	Chun Tosaigh
+Cosmetic.hat_lny_dancerBody	I Lár Baill
+Cosmetic.hat_lny_dancerTail	Ar Chúl
+Cosmetic.nameplate_lny_monkey	Bliain an Mhoncaí
+Cosmetic.nameplate_lny_tiger	Bliain an Tíogair
+Cosmetic.nameplate_lny_horse	Bliain an Chapaill
+Cosmetic.nameplate_lny_goat	Bliain an Ghabhair
+Cosmetic.nameplate_lny_rooster	Bliain an Choiligh
+Cosmetic.nameplate_lny_snake	Bliain na Nathrach
+Cosmetic.nameplate_lny_dragon	Bliain an Dragain
+Cosmetic.nameplate_lny_boar	Bliain an Toirc
+Cosmetic.nameplate_lny_dog	Bliain an Mhadra
+Cosmetic.nameplate_lny_rabbit	Bliain an Choinín
+Cosmetic.nameplate_lny_ox	Bliain an Daimh
+Cosmetic.nameplate_lny_cat	Bliain an Chait
+Cosmetic.nameplate_lny_rat	Bliain an Fhrancaigh
+Cosmetic.nameplate_lny_lanterns	Teacht chun Solais
+Cosmetic.nameplate_lny_incense	Túis Mhaith, Leath na hOibre
+Cosmetic.skin_lny_dragonDancer	Damhsa an Dragain
+Cosmetic.nameplate_lny_beanDragon	Leathbhádóir Dragain
+Cosmetic.nameplate_lny_clouds	Scamallach
+Cosmetic.nameplate_lny_redPackets	Teacht an tSaibhris
+	
+Cosmetic.pet_lny_dragon	An Dragainín
+Cosmetic.hat_lny_ox	Hata Tairbh
+Cosmetic.hat_lny_dog	Cluasa Madra
+Cosmetic.hat_lny_horse	Hata Capaill
+Cosmetic.hat_lny_pig	Cluasa Muice
+Cosmetic.hat_lny_rat	Cluasa Luiche
+Cosmetic.hat_lny_cat	Cluasa Cait
+Cosmetic.hat_lny_monkey	Cluasa Moncaí
+Cosmetic.hat_lny_rooster	Caipín Sicín
+Cosmetic.hat_lny_goat	Cuir Síoda ar Ghabhar...
+Cosmetic.hat_lny_dragon	Hata an Dragain
+Cosmetic.hat_lny_tiger	Cluasa Tíogair
+Cosmetic.hat_lny_rabbit	Damhsa na gCoiníní
+Cosmetic.visor_lny_rat	Srón Luiche
+Cosmetic.visor_lny_snake	Teanga Nathrach
+Cosmetic.visor_lny_pig	Srón Muice
+Cosmetic.visor_lny_tiger	Ar Aghaidh Leat, a Thíogair
+Cosmetic.visor_lny_dragon	Sprochaillí Dragain
+Cosmetic.nameplate_lny_goldCrewmate	An Ceiliúradh
+Cosmetic.nameplate_lny_goldImpostor	Teacht an Donais
+	
+AprilFoolsModeToggle	Modh Amadán Aibreáin (Raon Teoranta Cosmaidí)
+ErrorAuthNonceFailure	Sabaitéireacht! Tharla earráid agus freastalaithe Among Us ag iarraidh thú a dheimhniú. Triail arís é.\n\nMá thiteann an rud céanna amach arís, déan <link="https://innersloth.zendesk.com/hc/en-us/requests/new">ticéad tacaíochta a chur isteach</link>.
+	
+Cosmetic.nameplate_crewmatesBlue	Criú Funcaí - Gorm
+Cosmetic.nameplate_crewmatesRed	Criú Funcaí - Dearg
+Cosmetic.nameplate_horseHeaven	Ar Iompú na nEach...
+Cosmetic.nameplate_horsemateField	Mair, a Chapaill...
+Cosmetic.hat_fluffyHat	Hata Clúmhach an Bhobaide
+Cosmetic.hat_topHatMinimate	Leathbhádóirín Uasal
+Cosmetic.hat_triplePartyHat	Is Leor Triúr
+Cosmetic.visor_happyMouthNote	Spraoi
+Cosmetic.visor_henry	Anraí Sotalach
+Cosmetic.visor_thatFace	H A I G H
+	
+Cosmetic.hat_bb1_bucketHatBee	Faisean a Thugtar Air - Beach
+Cosmetic.hat_bb1_bucketHatBlack	Faisean a Thugtar Air - Dubh
+Cosmetic.hat_bb1_bucketHatCamo	Faisean a Thugtar Air - Duaithníocht
+Cosmetic.hat_bb1_bucketHatFlowers	Faisean a Thugtar Air - Bláthach
+Cosmetic.hat_bb1_bucketHatWhite	Faisean a Thugtar Air - Caicí
+Cosmetic.hat_bb1_bunnyBlack	Séasúr na gCoiníní - Dubh
+Cosmetic.hat_bb1_sunHatGreen	Ar Theacht an tSamhraidh - Bánghlas
+Cosmetic.hat_bb1_sunHatYellow	Ar Theacht an tSamhraidh - Buí
+Cosmetic.hat_bb1_lilShroomRed	Beacáinín - Dearg
+Cosmetic.hat_bb1_lilShroomBlue	Beacáinín - Gorm
+Cosmetic.hat_bb1_lilShroomGlowing	Beacáinín - Lonrach
+Cosmetic.skin_bb1_rainbowTube	Níl Snámh Agam - Ildathach
+Cosmetic.skin_bb1_fungleDress	Faoi Bhláth
+Cosmetic.nameplate_bb1_disco	Tá an Aoine Linn faoi Dheireadh
+Cosmetic.nameplate_bb1_hackerman	Slí Isteach sa Mhór-Ríomhaire
+Cosmetic.nameplate_bb1_ram	Cuimhne Randamrochtana
+Cosmetic.nameplate_bb1_rave	Réabh Ceart
+Cosmetic.nameplate_bb1_zen	Bhuel, Zen!
+	
+ViewLabel	Féach
+ViewingLabel	Socruithe Imeartha...
+RoomCodeLabel	Cód an tSeomra
+RoomCodeCopied	Cóipeáladh Cód an tSeomra!
+RoomSettingsLabel	Socruithe an tSeomra
+ModeLabel	Réamhshocrú
+PrivacyLabel	Príobháideacht
+CapacityLabel	Líon
+GameSettingsLabel	Socruithe an Chluiche
+RoleSettingsLabel	Socruithe an Róil
+GamePresetsLabel	Réamhshocruithe an Chluiche
+GamePresetsDescription	Déan na socruithe a mholtar a chur i bhfeidhm i seomra an chluiche.
+GamePresetsPopupTitle	Rabhadh!
+GamePresetsPopupText	Forscríobhfar na hathruithe go léir leis an réamhshocrú seo!
+GamePresetsPopupContinue	Lean ar Aghaidh
+GamePresetsPopupBack	Siar
+StandardRulesPresetDescription	Réamhshocrú cothrom gan ról ar bith.
+RolesRulesPresetDescription	Na socruithe a mholtar má tá róil i bhfeidhm.
+StandardRulesPresetDescriptionHideAndSeek	Na socruithe is fearr a oireann don mhodh “Folach Bíog” gan tóirsí.
+FlashlightRulesPresetDescription	Réamhshocrú cothrom le tóirsí.
+GameSettingsDescription	Déan socruithe a chur in eagar i seomra an chluiche.
+RoleSettingsDescription	Déan socruithe ról a chur in eagar i seomra an chluiche.
+GameModeStandard	Bunsocruithe
+GameModeStandardRoles	Róil go Leor
+GameModeFlashlight	Tóirsí
+GameModeCustom	Saincheaptha
+GameModeStandardSeek	Dubh Dorcha
+ImpostorsCategory	Fealltóirí
+RolesCategory	Róil
+MeetingsCategory	Cruinnithe
+PlayersCategory	Leathbhádóirí
+TasksCategory	Tascanna
+InfoLabel	Eolas
+RoleQuotaLabel	Líonta Ról
+OverviewCategory	Léargas
+LobbyChangeSettingNotification	{0} - {1}.
+LobbyChangeSettingNotificationRole	{0} - {1}, Dóchúlacht: {2}.
+CrewmateRolesHeader	Róil na Leathbhádóirí
+ImpostorRolesHeader	Róil na bhFealltóirí
+LocalLobbyLabel	Seomra Logánta
+NumberRoleHeader	Líon
+ChanceRoleHeader	Dóchúlacht (%)
+WaitingForPlayers	Ag Fanacht le hImreoirí
+FinalHideCategory	An Folach Déanach
+	
+QCLobbyRoleNoisemakers	Fothramálaithe
+QCLobbyRoleTrackers	Lorgairí
+QCLobbyRolePhantoms	Scáileanna?
+QCSelfWasTracking	Bhí mé ag rianú {0}
+QCSelfGoingToNoisemaker	Bhí mé ag dul faoi dhéin an Fhothramálaí
+QCSelfSawRoleInLocation	Chonaic me {0} in {1}
+	
+NoisemakerRole	Fothramálaí
+NoisemakerBlurb	Tabhair foláireamh nuair a fhaigheann tú bás
+NoisemakerBlurbMed	Tabhair foláireamh a thabharfaidh le fios an áit\na raibh tú nuair a maraíodh thú.
+NoisemakerBlurbLong	Ní gnáthról an Fothramálaí. Níl cumas ar leith aige murab ionann is na róil eile. Ina ionad sin, tugtar foláireamh nuair a mharaíonn fealltóir é. Is réidh a chuireann an foláireamh scaoll san fhealltóir. Féach agus na leathbhádóirí eile ag brostú chun láthair na coire i gcomhair breith ar an marfóir agus díoltas a imirt air!
+NoisemakerImpostorAlert	Faigheann fealltóirí an foláireamh
+NoisemakerAlertDuration	Fad an Fholáirimh
+PhantomAbility	Téigh ó Radharc
+PhantomAbilityUndo	Tar i Radharc
+PhantomRole	Scáil
+PhantomBlurb	Téigh ó radharc
+PhantomBlurbMed	Téigh as radharc chun éalú thart nó imeacht\ngan fhios i ndiaidh duine a mharú.
+PhantomBlurbLong	Is féidir leis an Scáil dul as radharc na súl i gcomhair éalú suas ar leathbhádóir nó imeacht gan fhios i ndiaidh leathbhádóir a mharú. Ní féidir leis aon duine a mharú agus é as radharc, ach is féidir leis dréimirí a dhreapadh agus ziplínte a úsáid. Nuair a théann an Scáil as radharc, déantar múr mór deataigh, mar sin, ba chóir dó bheith deimhin de nach bhfuil aon leathbhádóir cóngarach dó nuair a dhéanann sé amhlaidh! Ní féidir leis an Scáil fanacht as radharc go deo, mar sin déan cinnte de go dtéann tú as radharc in am trátha.
+PhantomCooldown	Aga Athnuachana an Dul as Radharc
+PhantomDuration	Fad a Fhanfar as Radharc
+TrackerRole	Lorgaire
+TrackerAbility	Rianaigh
+TrackerAbilityUndo	Ná Rianaigh
+TrackerBlurb	Déan leathbhádóir a lorg leis an léarscáil
+TrackerBlurbMed	Bain úsáid as rianaire chun leathbhádóir a lorg leis\nan léarscáil
+TrackerBlurbLong	Is féidir leis an Lorgaire leathbhádóir a fheiceáil ar an léarscáil. Ní féidir leis rianaire a chur ar leathbhádóir gan a bheith ina aice. Déan cinnte de gan cuma ró-amhrasach a bheith ort agus tú ag dul faoi dhéin leathbhádóra. Ní mhaireann an rianú ach roinnt soicindí, mar sin, déan rogha chiallmhar agus ná féach ar an léarscáil rófhada mar beidh tú somharaithe!
+TrackerCooldown	Aga Athnuachana an Rianaithe
+TrackerDuration	Fad an Rianaithe
+TrackerDelay	Aga Moille an Rianaithe
+RolesHelp_Noisemaker_01	Ní gnáthról an Fothramálaí. Níl cumas ar leith aige murab ionann is na róil eile. Ina ionad sin, tugtar foláireamh nuair a mharaíonn fealltóir é.
+RolesHelp_Noisemaker_02	Is réidh a chuireann an foláireamh scaoll san fhealltóir. Féach agus na leathbhádóirí eile ag brostú chun láthair na coire i gcomhair breith ar an marfóir agus díoltas a imirt air!
+RolesHelp_Tracker_01	Is féidir leis an Lorgaire leathbhádóir a fheiceáil ar an léarscáil. Ní féidir leis rianaire a chur ar leathbhádóir gan a bheith ina aice. Déan cinnte de gan cuma ró-amhrasach a bheith ort agus tú ag dul faoi dhéin leathbhádóra.
+RolesHelp_Tracker_02	Ní mhaireann an rianú ach roinnt soicindí, mar sin, déan rogha chiallmhar agus ná féach ar an léarscáil rófhada mar beidh tú somharaithe!
+RolesHelp_Phantom_01	Is féidir leis an Scáil dul as radharc na súl i gcomhair éalú suas ar leathbhádóir nó imeacht gan fhios i ndiaidh leathbhádóir a mharú. Ní féidir leis aon duine a mharú agus é as radharc, ach is féidir leis dréimirí a dhreapadh agus ziplínte a úsáid.
+RolesHelp_Phantom_02	Nuair a théann an Scáil as radharc, déantar múr mór deataigh, mar sin, ba chóir dó bheith deimhin de nach bhfuil aon leathbhádóir cóngarach dó nuair a dhéanann sé amhlaidh! Ní féidir leis an Scáil fanacht as radharc go deo, mar sin, déan cinnte de go dtéann tú as radharc in am trátha.
+	
+HostYouLabel	(Tusa!)
+HostNounLabel	Óstach:
+RoleSettingsAll	UILE
+	
+QCCoreSettings	Cuir an réamhshocrú “Bunsocruithe” i bhfeidhm
+QCRolesGalore	Cuir an réamhshocrú “Róil go Leor” i bhfeidhm
+QCPitchDark	Cuir an réamhshocrú “Dubh Dorcha” i bhfeidhm
+QCFlashlight	Cuir an réamhshocrú “Tóirsí” i bhfeidhm
+QCPleaseWait	Fan le tosú
+QCWaitMinute	Fan nóiméad amháin le tosú
+QCLobbyClosing	Ní fada go ndúnfar an seomra
+QCChangeCosmetics	Tá uaim mo chuid cosmaidí a athrú
+QCWaitingPlayers	Ag feitheamh le tuilleadh imreoirí…
+QCLetsWaitPlayers	An bhfanfaimid le tuilleadh imreoirí?
+	
+Cosmetic.hat_nott	Cochall Nott
+Cosmetic.hat_chetney	Banda Cinn Chetney
+Cosmetic.hat_jester	Adharca Jester
+Cosmetic.hat_laudna	Gruaig Laudna
+Cosmetic.hat_molly	Adharca Mollymauk
+Cosmetic.hat_artagan	Gruaig Artagan
+Cosmetic.hat_fearne	Gruaig Fearne
+Cosmetic.hat_vax	Gruaig Vax
+Cosmetic.hat_fcg	Ceann FCG
+Cosmetic.hat_sprinkle	Tá Sprinkle "Ceart go Leor"
+Cosmetic.hat_orthax	Taispeánadh Orthax
+Cosmetic.hat_scanlan	Lámh Scanlan
+Cosmetic.nameplate_eyes	Naoi Súil Lucien
+Cosmetic.nameplate_cupcake	Púdar an Bhlais
+Cosmetic.nameplate_moons	Gealacha thar Exandria
+Cosmetic.nameplate_tea	Am Tae le Caduceus
+Cosmetic.pet_Pate	Pâté
+Cosmetic.pet_Mister	Mister
+Cosmetic.skin_Nott	Clóca Nott
+Cosmetic.skin_Chetney	Culaith Reatha Chetney
+Cosmetic.skin_Jester	Gúna Jester
+Cosmetic.skin_Laudna	Gúna Laudna
+Cosmetic.skin_Molly	Fallaing Mollymauk
+Cosmetic.skin_artagan	Clóca Artagan
+Cosmetic.skin_Fearne	Gúna Fearne
+Cosmetic.skin_Vax	Cathéide Vax
+Cosmetic.visor_nott	Masc Nott
+Cosmetic.visor_chetney	Malaí Chetney
+Cosmetic.visor_artagan	Malaí Iontacha Artagan
+	
+GuardianNewPermissionUpdate	Tá athrú tagtha le leagan {0} den chluiche: mar gheall ar dhlíthe nua a bhaineann le sábháilteacht leanaí, beidh cead ó thuismitheoir nó ó chaomhnóir de dhíth as seo amach i gcás gach Cuntais Linbh chun Among Us a imirt ina iomláine. Níor athraíodh do chuid sonraí imeartha ná do chuid earraí cluiche, ach is gá athbhreithniú a dhéanamh ar do chuntas sula mbeidh tú ábalta ar a úsáid ina iomláine.\n\nIs féidir leanúint ar aghaidh ag imirt le cuntas teoranta sealadach go dtí go bhfaighfear cead ó thuismitheoir nó ó chaomhnóir. Má tá ríomhphost a bhaineann le tuismitheoir nó le caomhnóir ceangailte le do chuntas cheana féin, beidh an méid sin le feiceáil laistíos.
+	
+Cosmetic.skin_Edgeworth	Culaith Miles Edgeworth
+Cosmetic.hat_Edgeworth	Gruaig Miles Edgeworth
+	
+Cosmetic.hat_paws_panda	Bambú-daithe
+Cosmetic.hat_paws_spaceDog	An Madra is Fearr
+Cosmetic.hat_paws_fish	I bhFostú sa Dorú
+Cosmetic.hat_paws_raccoon	I nGan Fhios
+Cosmetic.hat_paws_turtle	Hata Turtair
+Cosmetic.hat_paws_foxGrey	An Foxtrot - Liath
+Cosmetic.hat_paws_antlers	Stumpaí Beaga
+Cosmetic.hat_paws_opossum	Apasam
+Cosmetic.nameplate_paws_fur	Meabhrúchán Clúmhach
+Cosmetic.nameplate_paws_jaguar	Breactha le Spotaí
+Cosmetic.nameplate_paws_feathers	Spré Cleití
+Cosmetic.nameplate_paws_scales	An t-earc Luachra
+Cosmetic.skin_paws_opossum	Caite i dTraipisí
+Cosmetic.skin_paws_parrot	Ar Nós na Pearóide
+Cosmetic.skin_paws_raccoon	Rógaire
+Cosmetic.skin_paws_foxGrey	Sionnach - Liath
+Cosmetic.visor_paws_sacabambaspis	Gan Ghiall ar Bith
+Cosmetic.visor_paws_parrotBeak	Gob Éin
+Cosmetic.visor_paws_bone	Go dtí an Chnámh
+Cosmetic.visor_paws_carrot	Radharc na Súl
+Cosmetic.visor_paws_raccoon	Rógaire Geanúil
+Cosmetic.hat_claws_spaceDog	Madra Spáis
+Cosmetic.hat_claws_frog	Go Piachánach
+Cosmetic.hat_claws_moose	Beanna an Mhúis
+Cosmetic.hat_claws_dragonRed	Hata an Dragain - Dearg
+Cosmetic.hat_claws_bullHorns	Stumpa Breá de Tharbh!
+Cosmetic.hat_claws_foxOrange	An Foxtrot - Oráiste
+Cosmetic.hat_claws_squid	Máthair Shúigh Mhór
+Cosmetic.hat_claws_kuduHorns	Adharca Kudu
+Cosmetic.hat_claws_buffaloHorns	Buabhall Buabhall Buabhall
+Cosmetic.hat_claws_hippo	Hiopó-criticiúil
+Cosmetic.nameplate_claws_spaceCat	Criú an Chait Spáis
+Cosmetic.nameplate_claws_spaceDog	Criú an Mhadra Spáis
+Cosmetic.nameplate_claws_tigerPrint	Stríoca Tíogair
+Cosmetic.nameplate_claws_lilypad	Duille na Duilleoige Báite
+Cosmetic.pet_claws_spaceCat	Cat Spáis
+Cosmetic.skin_claws_stripes	Straidhpeanna
+Cosmetic.skin_claws_squid	Ceifealapódach
+Cosmetic.skin_claws_dragonRed	Feisteas an Dragain - Dearg
+Cosmetic.skin_claws_frogSuit	Ó Chos go Cos
+Cosmetic.skin_claws_hoofed	Trostal na gCrúb
+Cosmetic.skin_claws_foxOrange	Sionnach - Oráiste
+Cosmetic.visor_claws_knife	Céard Atá Agat?
+Cosmetic.visor_claws_smallMuzzle	Is Measa a Bagairt ná a Buille
+Cosmetic.visor_claws_whiskers	Míáú!
+Cosmetic.visor_claws_bullRing	Fáinne Sróine
+	
+Cosmetic.hat_NewYear2025	Athbhliain 2025

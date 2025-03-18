@@ -1,0 +1,2706 @@
+KEY ID	SpanishLA
+LocalButton	Local
+OnlineButton	En línea
+HowToPlayButton	Cómo jugar
+FreePlayButton	Modo práctica
+PublicHeader	Pública
+PrivateHeader	Privada
+HostHeader	Organizar
+ExitButton	Salir
+BackButton	Atrás
+AvailableGamesLabel	Abiertas
+CreateGameButton	Crear partida
+FindGameButton	Buscar partida
+EnterCode	Código
+GhostIgnoreTasks	Moriste. Disfruta el caos.
+GhostDoTasks	Moriste. Termina las tareas para ganar.
+TotalTasksCompleted	Total tareas completadas
+GhostImpostor	Moriste. Todavía puedes sabotear.
+ImpostorTask	Sabotea y mátalos a todos.
+FakeTasks	Tareas falsas:
+TaskComplete	¡Tarea completada!
+ExileTextSP	{0} era el impostor.
+ExileTextSN	{0} no era el impostor.
+ExileTextPP	{0} era un impostor.
+ExileTextPN	{0} no era un impostor.
+NoExileSkip	No se eyectó a nadie. (Omisión)
+NoExileTie	No se eyectó a nadie. (Empate)
+ExileTextNonConfirm	Se eyectó a {0}.
+ImpostorsRemainS	Queda {0} impostor.
+ImpostorsRemainP	Quedan {0} impostores.
+Hallway	Corredor
+Engines	Motores
+UpperEngine	Motor superior
+Cafeteria	Cafetería
+Weapons	Armas
+Reactor	Reactor
+Security	Seguridad
+MedBay	Área médica
+LifeSupp	O2
+Nav	Navegación
+LowerEngine	Motor inferior
+Electrical	Electricidad
+Admin	Gestión
+Storage	Almacén
+Shields	Escudos
+Comms	Comunicaciones
+Decontamination	Descontaminación
+Launchpad	Lanzadera
+LockerRoom	Vestuarios
+Laboratory	Laboratorio
+Balcony	Balcón
+Office	Oficina
+Greenhouse	Invernadero
+DivertPowerTo	Desviar energía a {0}
+DivertPower	Desviar energía
+AcceptDivertedPower	Aceptar energía desviada
+SubmitScan	Enviar escaneo
+PrimeShields	Preparar escudos
+FuelEngines	Abastecer motores
+ChartCourse	Trazar curso
+StartReactor	Iniciar reactor
+SwipeCard	Pasar tarj.
+ClearAsteroids	Elim. asteroides
+DownloadData	Descargar datos
+UploadData	Cargar datos
+InspectSample	Examinar muestra
+EmptyChute	Vaciar vertedero
+EmptyGarbage	Vaciar basura
+AlignEngineOutput	Alinear salida motor
+FixWiring	Reparar cables
+FixWiringName	Cableado
+DoorsName	Puertas
+CalibrateDistributor	Calibrar distribuidor
+UnlockManifolds	Desbloq. colectores
+ResetReactor	Fusión del reactor en
+ResetReactorName	Colapso del reactor
+FixLights	Reparar luces
+FixLightsName	Luces
+CleanO2Filter	Limpiar filtro
+FixComms	Comunicaciones saboteadas
+RestoreOxy	Oxígeno agotado en
+RestoreOxyName	Oxígeno agotado
+StabilizeSteering	Estabilizar dirección
+AssembleArtifact	Ensamblar artefacto
+SortSamples	Ordenar muestras
+MeasureWeather	Medir clima
+EnterIdCode	Introducir código ID
+BuyBeverage	Comprar bebida
+ProcessData	Procesar datos
+NumImpostorsS	Hay <color=#FF1919FF>1 impostor</color> entre nosotros.
+NumImpostorsP	Hay <color=#FF1919FF>{0} impostores</color> entre nosotros.
+Crewmate	Tripulante
+Impostor	Impostor
+Victory	Victoria
+Defeat	Derrota
+CrewmatesDisconnected	Muchos tripulantes\ndesconectados
+ImpostorDisconnected	Impostor desconectado
+PickAnomaly	Elegir anomalía
+WaterPlantsGetCan	¡Regadera obtenida!
+AuthOfficeOkay	Oficina OK
+AuthCommsOkay	Com. OK
+AuthOfficeActive	Oficina ACTIVA
+AuthCommsActive	Com. ACTIVAS
+AuthOfficeNotActive	Oficina INACTIVA
+AuthCommsNotActive	Com. INACTIVAS
+SecLogEntry	{0} pasó por el sensor {1}
+SecLogEntryColorblind	{0} ({1}) pasó el sensor {2}
+LogNorth	Norte
+LogSouthEast	Sudeste
+LogSouthWest	Sudoeste
+EnterName	Nombre
+SwipeCardPleaseInsert	Introduce la tarjeta
+SwipeCardPleaseSwipe	Pasa la tarjeta
+SwipeCardBadRead	Error. Otra vez.
+SwipeCardTooFast	Muy veloz. Otra vez.
+SwipeCardTooSlow	Muy lento. Otra vez.
+SwipeCardAccepted	Aceptada. Gracias.
+ReactorHoldToStop	Presiona para detenerlo
+ReactorWaiting	Esperando segundo usuario
+ReactorNominal	Reactor estable
+MeetingWhoIsTitle	¿Quién es el impostor?
+MeetingVotingBegins	Votación en: {0} s
+MeetingVotingEnds	Fin de votación en: {0} s
+MeetingVotingResults	Resultados
+MeetingProceeds	Sigue en: {0} s
+MeetingHasVoted	Votó {0}. Queda(n) {1}.
+HowToPlayText1	Among Us es un juego de trabajo en equipo y traición.\n\nLos jugadores son tripulantes o impostores.
+HowToPlayText2	Juega partidas de 4-15 jugadores en línea o por wifi local.
+HowToPlayText41	Cuando organizas una partida, controlas el modo de juego.
+HowToPlayText42	Primero, decides con quién quieres jugar.\n\nSi prefieres hacerlo con amigos en línea, elige Privada y comparte el código de la sala.\n\nSi quieres jugar con gente de todo el mundo, elige Pública.
+HowToPlayText43	¿Quieres jugar con más tareas? ¿Caminar más rápido? ¿Más impostores? Puedes cambiar la configuración si organizas la partida, pero confirma los cambios con los otros jugadores.
+HowToPlayText44	Si alguien es grosero o envía mensajes no deseados, los anfitriones pueden vetarlo durante un tiempo como advertencia o expulsarlo de la sala para siempre.
+HowToPlayTextMap	Los jugadores tienen acceso a un mapa personal que les ayuda a recorrer la nave.
+HowToPlayTextCrew1	Objetivo: llena la barra de tareas grupales y descubre al impostor.
+HowToPlayTextCrew2	Completa tareas y llena la barra.
+HowToPlayTextCrew3	Reacciona al sabotaje del impostor.
+HowToPlayTextCrew4	Reúne a todos si aparece el impostor.
+HowToPlayTextCrew5	Reporta las muertes.
+HowToPlayTextCrew6	Busca actividad sospechosa en el mapa de gestión y la seguridad.
+HowToPlayTextImp1	Objetivo: mata a la tripulación.
+HowToPlayTextImp2	Mézclate con la tripulación.
+HowToPlayTextImp3	Muévete por los ductos.
+HowToPlayTextImp4	Finge que haces tareas.
+HowToPlayTextImp5	Sabotea la nave y engaña a la tripulación.
+HowToPlayTextImp6	Cierra puertas y atrapa víctimas.
+HowToPlayTextImp7	Mata tripulantes entre recuperaciones.
+HowToPlayText5	Cuando juegas en persona, no se permite hablar. La partida debe ser justa para la tripulación y el impostor.\n\nSi el impostor mata a un jugador, este no puede hablar hasta el final de la partida.\n\nLos fantasmas siguen completando las tareas asignadas para ayudar a la tripulación.
+HowToPlayText6	Cuando alguien reporta una muerte o convoca a una reunión urgente, la tripulación se reúne para hablar de lo que sabe sobre el impostor.\n\nAllí pueden hablar de la supuesta identidad del impostor y de la información que tienen. Cuando juegas en persona, los fantasmas no pueden hablar porque saben quién es el impostor.\n\nLos impostores tratan de demostrar que son inocentes o acusan a otro tripulante.
+HowToPlayText7	Después de la charla, se vota por la identidad del impostor.\n\nSe expulsa de la nave a la persona elegida. Piensa bien antes de votar.\n\nSi la tripulación decide que no hay información suficiente, se puede omitir la votación para evitar la expulsión de alguien inocente y reunir más información.
+HowToPlayText81	¡Entrena en el modo práctica!
+HowToPlayText82	Configura las tareas como tripulante o practica estrategias letales como impostor.
+SettingsGeneral	General
+SettingsControls	Controles
+SettingsSound	Sonido
+SettingsGraphics	Gráficos
+SettingsData	Datos
+SettingsCensorChat	Censurar chat
+SettingsMusic	Música
+SettingsSFX	Efectos
+SettingsOn	Sí
+SettingsOff	No
+SettingsSendTelemetry	Enviar telemetría
+SettingsControlMode	Modo control
+SettingsTouchMode	Táctil
+SettingsJoystickMode	Joystick
+SettingsKeyboardMode	Mouse y teclado
+SettingsFullscreen	Completa
+SettingsVSync	Sinc. Vert.
+SettingsResolution	Resolución
+SettingsApply	Aplicar
+SettingsPersonalizeAds	Personalizar anun.
+SettingsLanguage	Idioma
+SettingsJoystickSize	Tamaño
+SettingsMouseMode	Mouse
+SettingsStreamerMode	Modo Streamer
+MatchMapName	Mapa
+MatchLanguage	Idioma del chat
+MatchImpostors	Impostores
+MatchMaxPlayers	Máx. jug.
+Cancel	Cancelar
+Confirm	Aceptar
+PlayerColor	Color
+PlayerHat	Gorro
+PlayerSkin	Aspecto
+PlayerPet	Mascota
+GameSettings	Partida
+GameRecommendedSettings	Config. recomendada
+GameCustomSettings	Config. especial
+GameMapName	Mapa
+GameNumImpostors	# impostores
+GameNumMeetings	# reuniones urgentes
+GameDiscussTime	Tiempo de discusión
+GameVotingTime	Votación
+GamePlayerSpeed	Velocidad del jugador
+GameCrewLight	Visión tripulante
+GameImpostorLight	Visión impostor
+GameKillCooldown	Tiempo entre eliminaciones
+GameKillDistance	Distancia de eliminaciones
+GameCommonTasks	# tareas comunes
+GameLongTasks	# tareas largas
+GameShortTasks	# tareas cortas
+GameEmergencyCooldown	Recup. reunión
+GameSecondsAbbrev	{0} s
+GameConfirmImpostor	Aceptar eyecc.
+GameVisualTasks	T. visuales
+GameAnonymousVotes	Votos anónimos
+GameTaskBarMode	Actualizar barra de tareas
+SettingNormalTaskMode	Siempre
+SettingMeetingTaskMode	Reunión
+SettingInvisibleTaskMode	Nunca
+Limit	Límite
+RoomCode	Código
+RoomCodeInfo	Haz clic para copiar
+LeaveGame	Abandonar
+ReturnToGame	Regresar
+LocalHelp	¿Mala conexión?\n\n● Verifica que todos se conecten a la misma red wifi.\n● Verifica que todos tengan la misma versión (esquina inferior derecha).\n● Verifica la potencia de la señal wifi.\n● A veces todo mejora si otra persona organiza la partida.\n● Reinicia la aplicación.\n● ... o el teléfono.\n● ¿Aún tienes problemas? ¡Mándanos un correo a support@innersloth.com!
+OnlineHelp	¿Cómo funciona?\n\n● Cuando organizas una partida obtienes un código en el panel de la sala.\n● Compártelo con amigos para crear una sala privada.\n● O toca Privada para cambiar la sala a pública y usar Buscar partida.\n● La persona que organiza puede vetar o expulsar jugadores si el chat está disponible.\n● ¿Aún tienes problemas? ¡Mándanos un correo a support@innersloth.com!
+EmergencyCount	EL TRIPULANTE {0} TIENE\n\n\n\nREUNIÓN(ES) URGENTE(S) RESTANTE(S)
+EmergencyNotReady	LA TRIPULACIÓN DEBE ESPERAR\n\n\n\nPARA LA PRÓXIMA REUNIÓN
+EmergencyDuringCrisis	NO SE PUEDEN HACER\nREUNIONES URGENTES DURANTE UNA CRISIS
+EmergencyRequested	REUNIÓN URGENTE SOLICITADA\nESPERANDO ORGANIZADOR
+AdPolicyTitle	Política de anuncios
+AdPolicyText	¿Podemos usar tus datos personales para proporcionarte anuncios personalizados? Si haces clic en Sí, nuestros socios publicitarios como Google AdMob y Unity Ads recolectarán información de forma automática y usarán identificadores de dispositivos y cookies para personalizar los anuncios. Si haces clic en No, puede que continúes viendo anuncios no personalizados. Para eliminar todos los anuncios, compra la mejora sin publicidad [httpstore]aquí[] para que ni tus amigos ni tú vean publicidad al organizar una partida. Para saber más sobre las prácticas de privacidad de los socios publicitarios, consulta la [https://www.innersloth.com/esmx/privacy-policy-mx/]Política de privacidad[]. Puedes cambiar de opinión en cualquier momento desde el menú de configuración en "Datos".
+Accept	Aceptar
+RemoveAds	Quitar anun.
+PlainYes	Sí
+PlainNo	No
+PrivacyPolicyTitle	Política de privacidad
+PrivacyPolicyText	Innersloth procesa información personal para Among Us. Consulta la <link="https://www.innersloth.com/esmx/privacy-policy-mx/">Política de privacidad</link> para obtener más información sobre nuestras prácticas de privacidad. Puedes administrar tus datos personales desde la configuración de Among Us en "Datos".\n\nConsulta nuestros <link="https://www.innersloth.com/esmx/terms-of-services-games-mx/">Términos de uso</link> antes de jugar Among Us.
+ManageDataButton	Administrar recolección de datos
+UnderstandButton	Entiendo
+WaterPlants	Regar plantas
+WeatherEta	Fin: {0} s
+WeatherComplete	Completada
+RunDiagnostics	Hacer diagnóstico
+SettingShort	Corta
+SettingMedium	Media
+SettingLong	Larga
+SamplesPress	Pulsa e inicia
+SamplesAdding	Agreg. reactivo
+SamplesSelect	Elegir anomalía
+SamplesThanks	¡Gracias!
+SamplesComplete	Prueba realizada
+AstDestroyed	Eliminados: {0}
+TaskTestTitle	Pruebatareas 2000
+BeginDiagnostics	Iniciar diagnóstico
+UserLeftGame	{0} abandonó la partida
+GameStarting	Inicia en {0}
+ChatRateLimit	Muy rápido. Espera {0} segundo(s).
+Tasks	Tareas
+MedscanRequested	Escaneo pedido
+MedscanWaitingFor	Esperando a {0}
+MedscanCompleted	Escaneo listo
+MedscanCompleteIn	Escaneo listo en {0}
+StatsTitle	Estadísticas
+StatsBodiesReported	Cuerpos hallados: \t
+StatsEmergenciesCalled	Emergencias: \t
+StatsTasksCompleted	Tareas hechas: \t
+StatsAllTasksCompleted	Todas las tareas hechas: \t
+StatsSabotagesFixed	Sabotajes reparados:\t
+StatsImpostorKills	Asesinatos como impostor:\t\t
+StatsTimesMurdered	Tus muertes:\t
+StatsTimesEjected	Tus eyecciones:\t\t
+StatsCrewmateStreak	Racha como tripulante:\t
+StatsGamesImpostor	Fuiste impostor:\t
+StatsGamesCrewmate	Fuiste tripulante:\t
+StatsGamesStarted	Partidas iniciadas:\t
+StatsGamesFinished	Partidas terminadas:\t
+StatsImpostorVoteWins	Victorias voto impostor:\t
+StatsImpostorKillsWins	Victorias elim. impostor:\t
+StatsImpostorSabotageWins	Victorias por sabotaje:\t
+StatsCrewmateVoteWins	Vic. voto tripulante:\t
+StatsCrewmateTaskWins	Vic. tarea tripulante:\t
+MonitorOxygen	Cuidar árbol
+StoreArtifacts	Guardar artefactos
+FillCanisters	Llenar envases
+InsertKeys	Insertar llaves
+ResetSeismic	Restablecer estabilizadores
+SeismicHoldToStop	Presiona para activar el estabilizador
+SeismicNominal	Actividad estable
+ScanBoardingPass	Escanear tarj. embarque
+FixWeatherNode	Reparar nodo clima
+OpenWaterways	Abrir acueductos
+ReplaceWaterJug	Cambiar tanque agua
+RepairDrill	Reparar taladro
+AlignTelescope	Alinear telescopio
+RecordTemperature	Registrar temperatura
+RebootWifi	Reinic. wifi
+WifiRebootRequired	Reinicio requerido
+WifiPleaseWait	Espera
+WifiPleaseReturnIn	Vuelve en {0}
+WifiPleasePowerOn	Enciende todo
+WifiRebootComplete	Reinicio listo
+Outside	Exterior
+Dropship	Transporte
+Decontamination2	Descontaminación superior
+Specimens	Sala especímenes
+BoilerRoom	Calderas
+GameOverImpostorDead	En este caso, la tripulación habría ganado porque murió el impostor, pero en el modo práctica, todos resucitan.
+GameOverImpostorKills	En este caso, el impostor habría ganado porque la tripulación ya no puede, pero en el modo práctica, todos resucitan.
+GameOverTaskWin	En este caso, la tripulación habría ganado porque se llenó la barra de tareas, pero en el modo práctica, se otorgan tareas nuevas.
+GameOverSabotage	En este caso, el impostor hubiera ganado por sabotaje crítico. En lugar de eso, se desactiva todo.
+HowToPlayText2Switch	¡Juega partidas de 4-15 jugadores en línea con la membresía de Nintendo Switch Online\n\no a través de una red Wi-Fi!
+VentDirection	Dirección ductos
+VentMove	Usa los ductos
+MenuNavigate	Navegar
+NsoError	No fue posible conectarse a la red.
+ErrorServerOverload	Se sobrecargaron los servidores de Among Us.\r\n\r\nInténtalo de nuevo más tarde.
+ErrorIntentionalLeaving	No puedes unirte a otra partida durante {0} minutos porque te desconectaste de forma intencional.
+ErrorFocusLost	Se te desconectó porque otra aplicación suspendió Among Us.
+ErrorBanned	Te vetaron de {0}.\r\n\r\nNo puedes unirte de nuevo a la sala.
+ErrorKicked	Te expulsaron de {0}.\r\n\r\nPuedes unirte de nuevo si no se inició la sala.
+ErrorBannedNoCode	Te vetaron de la sala.\r\n\r\nNo puedes unirte de nuevo.
+ErrorKickedNoCode	Te expulsaron de la sala.\r\n\r\n. Puedes unirte de nuevo si aún no se inició.
+ErrorHacking	Te vetaron por hackear.\r\n\r\n. No lo hagas de nuevo.
+ErrorFullGame	Intentaste unirte a una partida llena.\r\n\r\nPregúntale al anfitrión si puedes unirte en la próxima ronda.
+ErrorStartedGame	Intentaste unirte a una partida iniciada.\r\n\r\nPregúntale al anfitrión si puedes unirte en la próxima ronda.
+ErrorNotFoundGame	No se encontró la partida que buscas.
+ErrorInactivity	El servidor detuvo la partida. Quizá sea por inactividad.
+ErrorGenericOnlineDisconnect	Se te desconectó del servidor.\r\nSi esto se repite, verifica la red.\r\nTambién puede ser un problema del servidor.
+ErrorGenericLocalDisconnect	Se te desconectó del anfitrión.\r\n\r\nSi esto se repite, verifica la red wifi.
+ErrorInvalidName	El servidor rechazó el nombre de usuario: {0}
+ErrorUnknown	Se te desconectó del servidor por un error desconocido.
+ErrorIncorrectVersion	Usas una versión anterior del juego.\r\n\r\nActualízalo para jugar con otros.
+	
+ServerNA	América del Norte
+ServerEU	Europa
+ServerAS	Asia
+ServerSA	América del Sur
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	Jugador
+MyTablet	Mi tableta
+Headquarters	Cuartel
+DownloadTestEstTimeS	Tiempo estimado: {0} s
+DownloadTestEstTimeMS	Tiempo estimado: {0} m {1} s
+DownloadTestEstTimeHMS	Tiempo estimado: {0} h {1} m {2} s
+DownloadTestEstTimeDHMS	Tiempo estimado: {0} d {1} h {2} m {3} s
+DownloadComplete	Listo
+GrabCoffee	VE POR UN CAFÉ
+TakeBreak	DESCANSA
+DontNeedWait	NO HACE FALTA ESPERAR
+DoSomethingElse	HAZ OTRA COSA
+NodeTB	Nodo_TB
+NodeIRO	Nodo_IRO
+NodeGI	Nodo_GI
+NodePD	Nodo_PD
+NodeCA	Nodo_CA
+NodeMLG	Nodo_MLG
+Vending	VENDIDO
+OtherLanguage	Otro
+ImposterAmtAny	1-3
+	
+VitalsORGN	NRJ
+VitalsBLUE	AZUL
+VitalsRED	ROJO
+VitalsBRWN	MARR
+VitalsGRN	VER
+VitalsPINK	ROSA
+VitalsWHTE	BLA
+VitalsYLOW	AMA
+VitalsBLAK	NEG
+VitalsPURP	MORA
+VitalsCYAN	CIAN
+VitalsLIME	LIMA
+ColorOrange	NARANJA
+ColorBlue	AZUL
+ColorRed	ROJO
+ColorBrown	MARRÓN
+ColorGreen	VERDE
+ColorPink	ROSA
+ColorWhite	BLANCO
+ColorYellow	AMARILLO
+ColorBlack	NEGRO
+ColorPurple	MORA
+ColorCyan	CIAN
+ColorLime	LIMA
+ColorMaroon	GUINDA
+ColorRose	ROSÁCEO
+ColorBanana	BANANA
+ColorGray	GRIS
+ColorTan	BRONCEADO
+ColorCoral	CORAL
+MedID	ID:
+MedC	C:
+MedHT	ALT:
+MedBT	GS:
+MedWT	PESO:
+MedETA	LLEGADA {0}
+MedHello	¡HOLA!
+LobbySizeWarning	Among Us se puede disfrutar con 4 jugadores, pero se recomiendan 5 o más.\n\nLas partidas de 4 jugadores terminan muy rápido y a menudo gana el impostor.
+Okay	Aceptar
+OkayDontShow	Aceptar y no mostrar
+Nevermind	No importa
+CamEast	Este
+CamCentral	Centro
+CamNortheast	Noreste
+CamSouth	Sur
+CamSouthwest	Sudoeste
+CamNorthwest	Noroeste
+LoadingFailed	Carga fallida:
+PetFailFetchData	datos de mascota inaccesibles
+BadResult	MAL RESULTADO
+More	{0} MAS
+Processing	Procesando
+ExitGame	Salir
+WaitingForHost	Esperando anfitrión/a
+LeftGameError	{0} abandonó la partida debido a un error.
+PlayerWasBannedBy	{1} vetó a {0}.
+PlayerWasKickedBy	{1} expulsó a {0}.
+Dummy	Auxiliar
+Bad	MAL
+Status	ESTADO:
+Fine	BIEN
+OK	SÍ
+SecondsAbbv	{0} s
+PetTryOn	¡Prueba algo!
+DataPolicyWhat	¿Qué se recaba?
+	
+VaultRoom	Bóveda
+Cockpit	Cabina
+Armory	Armería
+Kitchen	Cocina
+ViewingDeck	Mirador
+HallOfPortraits	Sala de retratos
+Medical	Enfermería
+CargoBay	Bodega
+Ventilation	Ventilación
+Showers	Duchas
+Engine	Sala de máquinas
+Brig	Celdas
+MeetingRoom	Sala de reuniones
+Records	Archivo
+Lounge	Salón
+GapRoom	Plataforma
+MainHall	Sala principal
+	
+PolishRuby	Pulir rubí
+ResetBreakers	Restablecer disyuntores
+Decontaminate	Descontaminar
+MakeBurger	Hacer hamburguesa
+UnlockSafe	Abrir caja fuerte
+SortRecords	Ordenar archivos
+PutAwayPistols	Guardar pistolas
+PutAwayRifles	Guardar fusiles
+FixShower	Reparar ducha
+CleanToilet	Limpiar sanitario
+DressMannequin	Vestir maniquí
+PickUpTowels	Recoger toallas
+RewindTapes	Rebobinar cintas
+StartFans	Encender ventiladores
+DevelopPhotos	Revelar fotos
+GetBiggolSword	Conseguir espada Biggol
+StopCharles	Evitar curso de colisión
+	
+RevealCode	Revelar código
+DirtyHeader	SUCIEDAD
+AuthLeftOkay	Lado izq. OK
+AuthRightOkay	Lado der. OK
+AuthLeftActive	Lado izq. ACTIVO
+AuthRightActive	Lado der. ACTIVO
+AuthLeftNotActive	Lado izq. INACTIVO
+AuthRightNotActive	Lado der. INACTIVO
+PSXBEngagementScreen	Pulsa un botón para comenzar.
+DeleteButton	Eliminar
+QuickChat	Chat rápido
+QCBuilderHeader	Creador de chat rápido
+QCLocationLaptop	Laptop
+MapNameSkeld	Skeld
+MapNameMira	Mira
+MapNamePolus	Polus
+MapNameAirship	Airship
+MapNameFungle	Fungle
+QCSystemsStart	Iniciar
+QCSystemsKick	Expulsar
+QCCrewI	Yo
+QCCrewMe	Mí
+QCBuildingPlaceholder	Armando frase...
+QCCrewDead	Muerte
+QCTagSelf	Yo
+QCInputSelf	Yo
+QCTagFavorites	Favoritos
+QCInputFavorite	Favorito
+QCTagRoles	Roles
+QCInputRole	Rol
+QCTagTasks	Tareas
+QCInputTask	Tarea
+QCTagSabotages	Sistemas
+QCInputSabotages	Sabotaje
+QCTagQuickRemarks	Comentarios rápidos
+QCTagRemarks	Comentarios
+QCInputRemark	Comentario
+QCTagAccuse	¡Acusa!
+QCInputAccusation	Acusaciones
+QCTagDefend	¡Defiéndete!
+QCInputDefense	Defensa
+QCTagQuestionSingular	Pregunta
+QCTagQuestion	¿Pregunta?
+QCTagLobby	Sala
+QCTagImpostor	Impostor
+QCTagMeeting	Reunión
+QCTagHiding	En escondite
+QCTagFlashlight	Linterna
+QCSelfVoted	Voté por {0}
+QCSelfReportedBody	Reporté el cuerpo
+QCSelfCams	Estaba en las cámaras
+QCCrewCams	{0} estaba en las cámaras
+QCSelfWasProtected	Me protegía
+QCCrewWasProtected	{0} tenía protección
+QCSelfWasntMe	Yo no fui
+QCWhoWasAt	¿Quién estaba en {0}?
+QCSelfDoingTask	Estaba haciendo {0}
+QCWhoIsRole	¿Quién es {0}?
+QCSelfFixedSystem	Arreglé {0}
+QCCrewFixedSystem	{0} arregló {1}
+QCSelfAccAtLocation	Vi a {0} matar a {1} en {2}
+QCSelfDidTaskAtLocation	Hice {0} en {1}
+QCCrewDidTaskAtLocation	{0} hizo {1} en {2}
+QCSelfSawCrewVentAtLocation	Vi a {0} usar el ducto en {1}
+QCSelfDidntVent	No usé el ducto
+QCFollowMe	Sígueme
+QCItsNotMe	Yo no soy
+QCSelfDoneWithTasks	Terminé las tareas
+QCGhostsDoYourTasks	Fantasmas, hagan sus tareas
+QCSelfNotTheImpostor	No soy el Impostor
+QCHello	Hola
+QCThanks	Gracias
+QCSorry	Perdón
+QCGG	GG
+QCBye	Adiós
+QCWhereWasTheBody	¿Dónde estaba el cuerpo?
+QCSelfReady	Todo listo
+QCSelfWasRole	Yo era {0}
+QCWhoWasRole	¿Quién era {0}?
+QCCoolOutfitCrew	¡Buen atuendo, {0}!
+QCCrewReportedBody	{0} reportó el cuerpo
+QCCrewNoOne	Nadie
+QCResYes	Sí
+QCResNo	No
+QCResDontKnow	No sé
+QCResDontKnowNeg	Quizá
+QCResVote	Votar
+QCResVoteNeg	Omitir voto
+QCResRip	QEPD
+QCResRipNeg	Yeet
+QCResLies	Mentiras
+QCResLiesNeg	Bien
+QCQstWhere	¿dónde?
+QCQstWho	¿quién?
+QCQstWhoDidTask	¿Quién se encargó de {0}?
+QCQstBodyOrMeeting	¿Fue una muerte o una reunión urgente?
+QCStaDoubleKill	Fue una muerte doble
+QCStaWasSelfReport	Reportó de su propio crimen
+QCStaPleaseDoTasks	Cumple tus tareas
+QCStaBodyWasInA	El cuerpo estaba en {0}
+QCLocation	Ubicación
+QCSystems	Sistemas
+QCCrew	Tripulación
+QCAccusation	Acusación
+QCResponse	Respuesta
+QCQuestion	Pregunta
+QCStatements	Declaraciones
+QCSelfWasUsingBinoculars	Usaba los binoculares
+QCSelfSawThroughBinoculars	Lo vi por los binoculares
+QCInTheSporeCloud	En la Nube de esporas
+QCHiddenBySporeCloud	Se oculta en la Nube de esporas
+CQCrewKilledDeadInSporeCloud	{0} asesinó a {1} en la Nube de esporas
+QCSelfUsingZipline	Usaba la tirolesa
+QCSelfSawWhileUsingZipline	Lo vi al usar la tirolesa
+QCCrewWasUsingZipline	{0} estaba usando la tirolesa
+QCDuringMushroomMixup	Durante la Mezcla de hongos
+	
+ChatType	Tipo de chat
+QuickChatOnly	Solo chat rápido
+FreeChatOnly	Solo chat libre
+FreeOrQuickChat	Chat libre
+DateOfBirth	Fecha de nacimiento
+DateOfBirthEnter	Introduce tu fecha de nacimiento:
+Month	Mes
+Day	Día
+Year	Año
+January	Enero
+February	Febrero
+March	Marzo
+April	Abril
+May	Mayo
+June	Junio
+July	Julio
+August	Agosto
+September	Septiembre
+October	Octubre
+November	Noviembre
+December	Diciembre
+Submit	Enviar
+	
+QCAccAKilledB_QCCrewMe_ANY	Maté a {1}
+QCAccAKilledB_QCCrewMe_QCCrewNoOne	No maté a nadie
+QCAccAKilledB_QCCrewMe_QCCrewMe	
+QCAccAKilledB_ANY_QCCrewMe	{0} me mató
+QCAccAKilledB	{0} mató a {1}
+QCAccAKilledB_ANY_QCCrewNoOne	{0} no mató a nadie
+QCAccAKilledB_QCCrewNoOne_QCCrewMe	Nadie me mató
+QCAccAKilledB_QCCrewNoOne_ANY	Nadie mató a {1}
+QCAccAKilledB_QCCrewNoOne_QCCrewNoOne	Nadie mató a nadie
+QCAccAKilledBNeg_QCCrewMe_ANY	No maté a {0}
+QCAccAKilledBNeg_QCCrewMe_QCCrewNoOne	No maté a nadie
+QCAccAKilledBNeg_QCCrewMe_QCCrewMe	No me maté
+QCAccAKilledBNeg_ANY_QCCrewMe	{0} no me mató
+QCAccAKilledBNeg	{0} no mató a {1}
+QCAccAKilledBNeg_ANY_QCCrewNoOne	{0} no mató a nadie
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAKilledBNeg_QCCrewNoOne_ANY	
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsSuspicious_QCCrewMe	Es sospechoso
+QCAccAIsSuspicious	{0} es sospechoso/a
+QCAccAIsSuspicious_QCCrewNoOne	Nadie es sospechoso/a
+QCAccAIsSuspiciousNeg_QCCrewMe	Soy bueno/a
+QCAccAIsSuspiciousNeg	{0} es bueno/a
+QCAccAIsSuspiciousNeg_QCCrewNoOne	Nadie es bueno/a
+QCAccASawBVent_QCCrewMe_ANY	Vi a {0} en un ducto
+QCAccASawBVent_QCCrewMe_QCCrewNoOne	No vi a nadie en un ducto
+QCAccASawBVent_QCCrewMe_QCCrewMe	
+QCAccASawBVent_ANY_QCCrewMe	{0} me vio en un ducto
+QCAccASawBVent	{0} vio a {1} en un ducto
+QCAccASawBVent_ANY_QCCrewNoOne	{0} no vio a nadie en un ducto
+QCAccASawBVent_QCCrewNoOne_QCCrewMe	Nadie me vio en un ducto
+QCAccASawBVent_QCCrewNoOne_ANY	Nadie vio a {1} en un ducto
+QCAccASawBVent_QCCrewNoOne_QCCrewNoOne	Nadie vio a nadie en un ducto
+QCAccASawBVentNeg_QCCrewMe_ANY	No vi a {0} en un ducto
+QCAccASawBVentNeg_QCCrewMe_QCCrewNoOne	No vi a nadie en un ducto
+QCAccASawBVentNeg_QCCrewMe_QCCrewMe	
+QCAccASawBVentNeg_ANY_QCCrewMe	{0} no me vio en un ducto
+QCAccASawBVentNeg	{0} no vio a {1} en un ducto
+QCAccASawBVentNeg_ANY_QCCrewNoOne	{0} no vio a nadie en un ducto
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewMe	Nadie me vio en un ducto
+QCAccASawBVentNeg_QCCrewNoOne_ANY	Nadie vio a {1} en un ducto
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewNoOne	Nadie vio a nadie en un ducto
+QCAccAWasChasingB_QCCrewMe_ANY	Perseguía a {0}
+QCAccAWasChasingB_QCCrewMe_QCCrewNoOne	No perseguía a nadie
+QCAccAWasChasingB_QCCrewMe_QCCrewMe	
+QCAccAWasChasingB_ANY_QCCrewMe	{0} me perseguía
+QCAccAWasChasingB	{0} perseguía a {1}
+QCAccAWasChasingB_ANY_QCCrewNoOne	{0} no perseguía a nadie
+QCAccAWasChasingB_QCCrewNoOne_QCCrewMe	Nadie me perseguía
+QCAccAWasChasingB_QCCrewNoOne_ANY	Nadie perseguía a {1}
+QCAccAWasChasingB_QCCrewNoOne_QCCrewNoOne	Nadie perseguía a nadie
+QCAccAWasChasingBNeg_QCCrewMe_ANY	No perseguía a {0}
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewNoOne	No perseguía a nadie
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewMe	
+QCAccAWasChasingBNeg_ANY_QCCrewMe	{0} no me perseguía
+QCAccAWasChasingBNeg	{0} no perseguía a {1}
+QCAccAWasChasingBNeg_ANY_QCCrewNoOne	{0} no perseguía a nadie
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAWasChasingBNeg_QCCrewNoOne_ANY	
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsLying_QCCrewMe	Miento
+QCAccAIsLying	{0} miente
+QCAccAIsLying_QCCrewNoOne	Nadie miente
+QCAccAIsLyingNeg_QCCrewMe	Digo la verdad
+QCAccAIsLyingNeg	{0} dice la verdad
+QCAccAIsLyingNeg_QCCrewNoOne	Nadie dice la verdad
+QCAccVoteA_QCCrewMe	Votar contra mí
+QCAccVoteA	Votar por {0}
+QCAccVoteA_QCCrewNoOne	No votar contra nadie
+QCAccVoteANeg_QCCrewMe	No votar contra mí
+QCAccVoteANeg	No votar por {0}
+QCAccVoteANeg_QCCrewNoOne	
+QCAccADidntReport_QCCrewMe	No comuniqué la muerte
+QCAccADidntReport	{0} no reportó la muerte
+QCAccADidntReport_QCCrewNoOne	
+QCResAWas_QCCrewMe	Yo estaba
+QCResAWas	{0} estaba
+QCResAWas_QCCrewNoOne	Nadie estaba
+QCResAWasNeg_QCCrewMe	Yo no estaba
+QCResAWasNeg	{0} no estaba
+QCResAWasNeg_QCCrewNoOne	
+QCResADid_QCCrewMe	Lo hice
+QCResADid	{0} lo hizo
+QCResADid_QCCrewNoOne	Nadie lo hizo
+QCResADidNeg_QCCrewMe	No lo hice
+QCResADidNeg	{0} no lo hizo
+QCResADidNeg_QCCrewNoOne	
+QCResAWasAtB_QCCrewMe_ANY	Yo estaba en {0}
+QCResAWasAtB	{0} estaba en {1}
+QCResAWasAtB_QCCrewNoOne_ANY	Nadie estaba en {0}
+QCResAWasAtBNeg_QCCrewMe_ANY	Yo no estaba en {0}
+QCResAWasAtBNeg	{0} no estaba en {1}
+QCResAWasAtBNeg_QCCrewNoOne_ANY	
+QCQstWhoWasWith_QCCrewMe	¿Quién estaba conmigo?
+QCQstWhoWasWith	¿Quién estaba con {0}?
+QCQstWhoWasWith_QCCrewNoOne	¿Quién estaba a solas?
+QCQstWhatWasADoing_QCCrewMe	
+QCQstWhatWasADoing	¿Qué hacía {0}?
+QCQstWhatWasADoing_QCCrewNoOne	
+QCQstWhereWasA_QCCrewMe	
+QCQstWhereWasA	¿Dónde estaba {0}?
+QCQstWhereWasA_QCCrewNoOne	
+QCStaASawB_QCCrewMe_ANY	Vi a {0}
+QCStaASawB_QCCrewMe_QCCrewNoOne	No vi a nadie
+QCStaASawB_QCCrewMe_QCCrewMe	
+QCStaASawB_ANY_QCCrewMe	{0} me vio
+QCStaASawB	{0} vio a {1}
+QCStaASawB_ANY_QCCrewNoOne	{0} no vio a nadie
+QCStaASawB_QCCrewNoOne_QCCrewMe	Nadie me vio
+QCStaASawB_QCCrewNoOne_ANY	Nadie vio a {0}
+QCStaASawB_QCCrewNoOne_QCCrewNoOne	Nadie vio a nadie
+QCStaAWasWithB_QCCrewMe_ANY	Yo estaba con {0}
+QCStaAWasWithB_QCCrewMe_QCCrewNoOne	Yo no estaba con nadie
+QCStaAWasWithB_QCCrewMe_QCCrewMe	
+QCStaAWasWithB_ANY_QCCrewMe	{0} estaba conmigo
+QCStaAWasWithB	{0} estaba con {1}
+QCStaAWasWithB_ANY_QCCrewNoOne	{0} no estaba con nadie
+QCStaAWasWithB_QCCrewNoOne_QCCrewMe	Nadie estaba conmigo
+QCStaAWasWithB_QCCrewNoOne_ANY	Nadie estaba con {1}
+QCStaAWasWithB_QCCrewNoOne_QCCrewNoOne	Nadie estaba con nadie
+QCStaADidB_QCCrewMe_ANY	Hice {0}
+QCStaADidB	{0} hizo {1}
+QCStaADidB_QCCrewNoOne_ANY	Nadie hizo {1}
+QCStaASelfReported_QCCrewMe	Comuniqué mi muerte
+QCStaASelfReported	{0} reportó su muerte
+QCStaASelfReported_QCCrewNoOne	Nadie reportó su propio crimen
+QCStaACalledMeeting_QCCrewMe	Convoqué una reunión
+QCStaACalledMeeting	{0} convocó una reunión
+QCStaACalledMeeting_QCCrewNoOne	Nadie convocó una reunión
+QCMore	MÁS
+QCQstWhy	¿por qué?
+QCCrewSomeone	Alguien
+QCResUrWelcome	De nada
+QCResNp	nhp
+QCResYikes	puaj
+QCResRipCrew	qepd {0}
+QCResYeetCrew	expulsar a {0}
+QCSelfWasOnVitals	Estaba en los Monitores vitales
+QCSawDeadCrewOnVitals	Vi que {0} murió en los Monitores vitales
+QCSelfSawTwoCrew	Vi a dos {0}
+QCCrewShapeshifted	{0} cambió
+QCSelfSawCrewDoVisualTask	Vi a {0} hacer una tarea visual
+QCSelfWasOnDoorlogs	Estaba en los registros
+QCSelfWasOnAdmin	Estaba en Gestión
+QCSelfAmVotingCrew	Voto por {0}
+QCCrewWasPretendingTasks	{0} fingía que realizaba tareas
+QCCrewWasPretendingSabotage	{0} fingía arreglar {1}
+QCLobbyMoreImpostors	¿Más impostores?
+QCLobbyLessImpostors	¿Menos impostores?
+QCLobbyConfirmEjects	¿Confirmar expulsiones?
+QCLobbyMoreEmergencyMeetings	¿Más reuniones urgentes?
+QCLobbyLessEmergencyMeetings	¿Menos reuniones urgentes?
+QCLobbyAnonymousVotes	¿Votos anónimos?
+QCLobbyMoreEmergencyCooldownTime	¿Más tiempo de recup. de reunión?
+QCLobbyLessEmergencyCooldownTime	¿Menos tiempo de recup. de reunión?
+QCLobbyMoreDiscussionTime	¿Más tiempo de discusión?
+QCLobbyLessDiscussionTime	¿Menos tiempo de discusión?
+QCLobbyMoreVotingTime	¿Más tiempo de votación?
+QCLobbyLessVotingTime	¿Menos tiempo de votación?
+QCLobbyFasterPlayerSpeed	¿Acelerar velocidad de jugador?
+QCLobbySlowerPlayerSpeed	¿Reducir velocidad de jugador?
+QCLobbyTaskBarUpdates	¿Actualizaciones de la barra de tareas?
+QCLobbyVisualTasks	¿Tareas visuales?
+QCLobbyMoreCrewmateVision	¿Más visión de tripulantes?
+QCLobbyLessCrewmateVision	¿Menos visión de tripulantes?
+QCLobbyMoreImpostorVision	¿Más visión de impostores?
+QCLobbyLessImpostorVision	¿Menos visión de Impostores?
+QCLobbyMoreKillCooldownTime	¿Más tiempo de recup. entre asesinatos?
+QCLobbyLessKillCooldownTime	¿Menos tiempo de recup. entre asesinatos?
+QCLobbyLongerKillDistance	¿Mayor distancia de asesinatos?
+QCLobbyShorderKillDistance	¿Menor distancia de asesinatos?
+QCLobbyMoreCommonTasks	¿Más tareas comunes?
+QCLobbyLessCommonTasks	¿Menos tareas comunes?
+QCLobbyMoreLongTasks	¿Más tareas largas?
+QCLobbyLessLongTasks	¿Menos tareas largas?
+QCLobbyMoreShortTasks	¿Más tareas cortas?
+QCLobbyLessShortTasks	¿Menos tareas cortas?
+QCLobbyRoleScientists	¿Científicos?
+QCLobbyRoleGuardianAngels	¿Ángeles guardianes?
+QCLobbyRoleEngineers	¿Ingenieros?
+QCLobbyRoleShapeshifters	¿Cambiaformas?
+QCLobbyRoleNone	Sin roles
+QCResLess	Menos
+QCResMore	Más
+QCResNone	Ninguno
+QCLobbyHNSMoreHideTime	¿Más tiempo para esconderse?
+QCLobbyHNSLessHideTime	¿Menos tiempo para esconderse?
+QCLobbyHNSMoreFinalHideTime	¿Más tiempo de escondite final?
+QCLobbyHNSLessFinalHideTime	¿Menos tiempo de escondite final?
+QCLobbyHNSFlashlightMode	¿Modo linterna?
+QCLobbyHNSMoreCrewmateFlashlightSize	¿Mayor tamaño de linterna de tripulantes?
+QCLobbyHNSLessCrewmateFlashlightSize	¿Menor tamaño de linterna de Tripulantes?
+QCLobbyHNSMoreImpostorFlashlightSize	¿Mayor tamaño de linterna del impostor?
+QCLobbyHNSLessImpostorFlashlightSize	¿Menor tamaño de linterna del impostor?
+QCLobbyHNSShowNames	¿Mostrar nombres?
+QCLobbyHNSMoreVents	¿Más ductos?
+QCLobbyHNSLessVents	¿Menos ductos?
+QCLobbyHNSMoreTimeInVent	¿Más tiempo en los ductos?
+QCLobbyHNSLessTimeInVent	¿Menos tiempo en los ductos?
+QCLobbyHNSMoreFinalHideImpostorSpeed	¿Mayor velocidad del impostor en Escondite final?
+QCLobbyHNSLessFinalHideImpostorSpeed	¿Menor velocidad del impostor en Escondite final?
+QCLobbyHNSFinalHideSeekMap	¿Mapa de Escondite final?
+QCLobbyHNSFinalHidePings	¿Alertas de Escondite final?
+QCLobbyHNSMorePingInterval	¿Mayor intervalo de alertas?
+QCLobbyHNSLessPingInterval	¿Menor intervalo de alertas?
+QCResAgree	De acuerdo
+QCResDisagree	En desacuerdo
+QCResNice	Bien
+QCResUhOh	Ay, no
+QCResOops	Ups
+QCResExclamationMarks	¡¡¡!!!
+QCResQuestionMarks	¿¿¿???
+SecurityLogsSystem	Registros de seguridad
+SecurityCamsSystem	Cámaras de seguridad
+AdminMapSystem	Mapa de gestión
+VitalsSystem	Monitor vital
+EngagementScreenSignIn	Iniciando sesión...
+EngagementScreen	Pulsa un botón para comenzar.
+SaveGameOutOfSpaceMessage	¿Quieres seguir sin guardar?
+SaveGameOutOfSpaceConfirm	Continuar
+SaveGameOutOfSpaceCancel	Reintentar
+Success	Listo
+Failed	Fallo
+ErrorCreate	Hubo un problema durante la creación de la cuenta. Reinténtalo más tarde.
+SuccessCreate	Creaste una cuenta.
+Close	Cerrar
+ErrorLogIn	No fue posible conectarse a tu cuenta de Among Us.
+SuccessLogIn	Iniciaste sesión en la cuenta.
+AccountInfo	DATOS DE CUENTA
+Account	CUENTA
+UserName	USUARIO
+Height	Altura
+Weight	Peso
+SignIn	Iniciar sesión
+CreateAccount	Crear cuenta
+RequestPermission	Pedir permiso
+RandomizeName	Nombre aleatorio
+AccountLinking	Vínculo de cuenta
+ChangeName	Cambiar nombre
+LogOut	Cerrar sesión
+GuardianWait	Debes esperar el permiso del adulto a cargo para usar el chat libre y cambiar el nombre de usuario.
+EmailEdit	Editar correo
+EmailResend	Reenviar correo
+GuestContinue	Continuar como invitado
+GuardianEmailSent	Correo enviado
+GuardianCheckEmail	Pídele al adulto a cargo que revise su correo electrónico para desbloquear las funciones del juego.
+EditName	Editar nombre
+Name	Nombre
+CreateAccountQuestion	¿Crear cuenta?
+DoYouWantCreate	¿Quieres crear una cuenta?
+PermissionRequired	Permiso requerido
+NeedPermissionText	Necesitamos pedir permiso por correo electrónico al adulto responsable. Si acepta, podrás usar el chat libre y cambiar el nombre de usuario. Dile que te ayude con esto.
+GuardianEmailTitle	Correo del adulto
+Send	Enviar
+Undo	Deshacer
+Clear	Despejar
+NewEmail	Correo nuevo
+ConfirmEmail	Confirmar correo electrónico
+EditEmail	Editar correo electrónico
+Loading	Cargando
+Welcome	HOLA
+GuardianEmail	[el correo electrónico de tu tutor]
+	
+BanButton	VETAR
+KickButton	EXPULSAR
+ReportButton	REPORTE
+ReportConfirmation	Reportaste al siguiente usuario correctamente.
+ReportBadName	Nombre inapropiado
+ReportBadChat	Contenido inapropiado en el chat
+ReportHacking	Hackeo/Trampas
+ReportHarassment	Acoso/Mal comportamiento
+ReportWhy	¿Por qué reportas a este usuario?
+DLLNotFoundAccountError	Algo salió mal cuando intentamos conectarte a los servicios en línea. Hasta que lo arreglemos, solo puedes jugar en modo local o modo práctica. Intenta de nuevo más tarde.
+ContinueOffline	Jugar sin conexión
+WantToLogIn	No iniciaste sesión en ninguna cuenta.
+GoOffline	Seguir sin conexión
+PlayAsGuest	Jugar como invitado
+LogInTitle	Iniciar sesión en una cuenta
+LogInInfoText	Inicia sesión o crea una cuenta de Among Us para acceder a las características de juego como:\n\n- Guardar tu progreso en distintas plataformas\n- Entrar al Chat libre\n- Vincular elementos estéticos\n- ¡Y más!\n\nAlgunas funciones pueden requerir consentimiento del padre o tutor, dependiendo del tipo de cuenta.
+LogInInfoTextSwitch	Si inicias sesión en una cuenta convencional, puedes repetir el proceso después. Si no tienes cuenta, se creará una de forma automática.
+ControllerDisconnectedMessage	Control desconectado
+FollowUs	¡Síguenos!
+	
+QuickChatInstructionsStart	Tu configuración de chat en el juego está establecida en solo chat rápido.
+QuickChatInstructionsChild	Tienes que pedir permiso a tus padres o tutores para acceder al chat completo.
+QuickChatInstructionsGuest	Debes tener sesión iniciada para cambiar esto.
+QuickChatInstructionsFull	Solo podrás utilizar el Chat rápido mientras juegas y solo funcionará con otros usuarios de Chat rápido.
+	
+SwitchEShopBrowseAll	Navega por todos los artículos de la eShop de Nintendo
+	
+Download	Descarga
+Upload	Carga
+pk05_davehat	Sombrero de Dave
+pk05_Ellie	Ellie
+pk05_Svenhat	Sombrero de Sven
+pk05_Burthat	Sombrero de Burt
+pk05_Ellryhat	Mohawk de Ellry
+pk05_monocles	Monóculos dobles
+pk05_cheesetoppat	Sombrero de copa de queso
+pk05_Macbethhat	Sombrero de copa del Sr. Macbeth
+pk05_HenryToppat	Sombrero de copa de Henry
+pk05_EllieToppat	Sombrero de copa de Ellie
+pk05_GeoffreyToppat	Sombrero de copa de Geoffrey
+	
+InsufficientStorageError	No hay suficiente espacio de almacenamiento para descargar el paquete de objetos. Haz espacio en tu dispositivo e inténtalo de nuevo.
+NetworkError	Ocurrió un error de red. Revisa los ajustes de red e inténtalo de nuevo.
+OtherDownloadError	Ocurrió un error: {0}
+DownloadingLabel	Descargando {0}
+DownloadSizeLabel	Tamaño de descarga: {0} MB
+	
+TimeRemaining	Tiempo restante: {0}
+DeadLabel	MURIÓ
+	
+InviteFriends	Invitar amigos
+	
+NutriLabel	NUTRI
+CO2Label	CO2
+RADLabel	RAD
+WaterLabel	AGUA
+	
+DoorlogLabel	REGISTRO
+VitalsLabel	ESTADO
+OptionsLabel	PERSONALIZAR
+ProceedLabel	CONTINUAR
+StartLabel	INICIAR
+UseLabel	USAR
+PlayAgain	JUGAR DE NUEVO
+QuitLabel	SALIR
+ReportLabel	INFORMAR
+SabotageLabel	SABOTAJE
+VentLabel	DUCTO
+KillLabel	MATAR
+DiscussLabel	¡HABLEN!
+SkippedVoting	VOTACIÓN OMITIDA
+SkipVoteLabel	OMITIR VOTO
+EmergencyMeeting	REUNIÓN URGENTE
+BodyReported	CADÁVER ENCONTRADO
+SkinLabel	ASPECTOS
+HatLabel	GORROS
+PetLabel	MASCOTAS
+AnnouncementLabel	ANUNCIOS
+	
+UploadingLabel	CARGANDO
+ConnectionLabel	Conexión:
+NoneLabel	NO HAY
+PoorLabel	MALA
+GoodLabel	BUENA
+LogLabel	REGISTRO
+ReadingLabel	MEDICIÓN
+WeatherDataDownload	DESCARGA DE DATOS CLIMÁTICOS
+MiraBundle	Paquete del cuartel de MIRA
+MiraSkinBundle	Paquete de disfraces del cuartel de MIRA
+PolusBundle	Paquete de Polus
+PolusSkinBundle	Paquete de disfraces del mapa Polus
+AirshipBundle	Paquete de Airship
+PetAlien1	Paquete de mascotas Babosa cerebral
+PetCrewmate	Paquete Minitripulante
+PetAnimal	Paquete de mascotas Hámster
+PetAlien2	Paquete de mascotas Cangrujo
+PetStickmin	Paquete de mascotas Stickmin
+PrisonerSkin	Prisionero
+Cyborg_RHM	Mano Derecha Renacido
+CCC_Officer	Director del Centro de Contención del Caos
+BeginLabel	INICIAR
+QuietLabel	¡SILENCIO!
+VentCleaning	Ducto limpio
+CleanUp	Limpiar
+ProgressLabel	Progreso:
+TermsOfUseTitle	Términos de uso
+PPAndToUTitle	Política de privacidad y Términos de uso
+	
+ErrorNotAuthenticated	No pudimos autentificarte en los servidores de Among Us.\r\n\nDebes tener una cuenta de Among Us para jugar en línea.
+ComePlayDiscord	¡Ven a jugar Among Us conmigo!
+
+ShowAccountSupportID5	Mostrar ID de soporte de cuenta
+ShowAccountSupportID4	Presiona 4 veces más para mostrar
+ShowAccountSupportID3	No compartas este ID
+ShowAccountSupportID2	No mostrar durante una transmisión (2)
+ShowAccountSupportID1	Quiero ver este ID
+SupportIDLabel	ID de soporte: {0}
+YouAreNotOnline	No estás conectado.
+NoDeadBodiesFound	No se encontraron cadáveres
+SupportEmail	Contacta a support@innersloth.com para cualquier consulta de soporte.
+PerfectLabel	PERFECTA
+PSNErrorSessionFailed	Ocurrió un error con la sesión de juego actual
+PSNErrorSessionJoinFailed	Error al unirse a una sesión de juego
+PSNErrorSessionGetInfoFailed	No se pudo obtener la información de la sesión de juego
+PSNErrorPSNConnectionLost	Se perdió la conexión a PlayStation™Network
+PSNErrorUserSignedOut	El usuario cerró la sesión
+	
+CrossPlayTitle	Crossplay
+CrossPlayAllPlatforms	Todas las plataformas
+CrossPlaySamePlatform	Misma plataforma
+CrossPlayEnabledWarning	Función crossplay habilitada: te encontrarás con jugadores de múltiples plataformas.
+	
+TimeOutText	El inicio de sesión está tardando un poco. ¿No quieres continuar en modo sin conexión?
+RetryText	Esperar un poco más
+Continue	Continuar
+GameComplete	Partida finalizada
+LevelShorthand	Nv. {0}
+MaxLevel	Nv. máx.
+Cosmetic.hat_AbominalHat	Cabeza abominable
+Cosmetic.hat_Antenna_Black	Mala recepción - Negro
+Cosmetic.hat_Astronaut-Blue	Caminata espacial - Azul
+Cosmetic.hat_Astronaut-Cyan	Caminata espacial - Azul claro
+Cosmetic.hat_Astronaut-Orange	Caminata espacial - Naranja
+Cosmetic.hat_Bandana_Blue	Bandana - Azul
+Cosmetic.hat_Bandana_Green	Bandana - Verde
+Cosmetic.hat_Bandana_Pink	Bandana - Rosa
+Cosmetic.hat_Bandana_Red	Bandana - Rojo
+Cosmetic.hat_Bandana_White	Bandana - Blanco
+Cosmetic.hat_Bandana_Yellow	Bandana - Amarillo
+Cosmetic.hat_baseball_Black	Beisbolero - Negro
+Cosmetic.hat_baseball_Green	Beisbolero - Verde
+Cosmetic.hat_baseball_Lightblue	Beisbolero - Azul claro
+Cosmetic.hat_baseball_LightGreen	Beisbolero - Verde claro
+Cosmetic.hat_baseball_Lilac	Beisbolero - Lila
+Cosmetic.hat_baseball_Orange	Beisbolero - Naranja
+Cosmetic.hat_baseball_Pink	Beisbolero - Rosa
+Cosmetic.hat_baseball_Purple	Beisbolero - Mora
+Cosmetic.hat_baseball_Red	Beisbolero - Rojo
+Cosmetic.hat_baseball_White	Beisbolero - Blanco
+Cosmetic.hat_baseball_Yellow	Beisbolero - Amarillo
+Cosmetic.hat_Basketball	Hoyo en uno
+Cosmetic.hat_Beanie_Black	Gorrito - Negro
+Cosmetic.hat_Beanie_Blue	Gorrito - Azul
+Cosmetic.hat_Beanie_Green	Gorrito - Verde
+Cosmetic.hat_Beanie_Lightblue	Gorrito - Azul bebé
+Cosmetic.hat_Beanie_LightGreen	Gorrito - Verde bebé
+Cosmetic.hat_Beanie_LightPurple	Gorrito - Rosa bebé
+Cosmetic.hat_Beanie_Pink	Gorrito - Rosa
+Cosmetic.hat_Beanie_Purple	Gorrito - Mora
+Cosmetic.hat_Beanie_White	Gorrito - Blanco
+Cosmetic.hat_Beanie_Yellow	Gorrito - Amarillo
+Cosmetic.hat_Bowlingball	Strike
+Cosmetic.hat_Chocolate	Helado de chocolate
+Cosmetic.hat_CuppaJoe	Joe el guardia
+Cosmetic.hat_Deitied	Altar a las deidades
+Cosmetic.hat_Doc_black	¿Qué tengo, doc? - Negro
+Cosmetic.hat_Doc_Orange	¿Qué tengo, doc? - Naranja
+Cosmetic.hat_Doc_Purple	¿Qué tengo, doc? - Mora
+Cosmetic.hat_Doc_Red	¿Qué tengo, doc? - Rojo
+Cosmetic.hat_Doc_White	¿Qué tengo, doc? - Blanco
+Cosmetic.hat_Dodgeball	¡Fuera!
+Cosmetic.hat_Dorag_Black	Pirata - Carbón
+Cosmetic.hat_Dorag_Desert	Pirata - Desierto
+Cosmetic.hat_Dorag_Jungle	Pirata - Verde bosque
+Cosmetic.hat_Dorag_Purple	Pirata - Morado
+Cosmetic.hat_Dorag_Sky	Pirata - Cielo
+Cosmetic.hat_Dorag_Snow	Pirata - Nieve
+Cosmetic.hat_Dorag_Yellow	Pirata - Citrus
+Cosmetic.hat_DrillMetal	Taladro
+Cosmetic.hat_DrillStone	Taladro - Piedra
+Cosmetic.hat_DrillWood	Taladro - Madera
+Cosmetic.hat_EarmuffGreen	Calientaorejas - Verde
+Cosmetic.hat_EarmuffsPink	Calientaorejas - Rosa
+Cosmetic.hat_EarmuffsYellow	Calientaorejas - Amarillo
+Cosmetic.hat_EarnmuffBlue	Calientaorejas
+Cosmetic.hat_Goggles_Black	Steampunk - Negro
+Cosmetic.hat_Goggles_Chrome	Steampunk - Cromado
+Cosmetic.hat_GovtDesert	Militante - Desierto
+Cosmetic.hat_GovtHeadset	Auriculares ganadores
+Cosmetic.hat_Hardhat_black	Obrero obediente - Negro
+Cosmetic.hat_Hardhat_Blue	Obrero obediente - Azul
+Cosmetic.hat_Hardhat_Green	Obrero obediente - Verde
+Cosmetic.hat_Hardhat_Orange	Obrero obediente - Naranja
+Cosmetic.hat_Hardhat_Pink	Obrero obediente - Rosa
+Cosmetic.hat_Hardhat_Purple	Obrero obediente - Mora
+Cosmetic.hat_Hardhat_Red	Obrero obediente - Rojo
+Cosmetic.hat_Hardhat_White	Obrero obediente - Blanco
+Cosmetic.hat_HardtopHat	Operador de grúa
+Cosmetic.hat_headslug_Purple	Alienadamente - Mora
+Cosmetic.hat_headslug_Red	Alienadamente - Rojo
+Cosmetic.hat_headslug_White	Alienadamente - Blanco
+Cosmetic.hat_headslug_Yellow	Alienadamente - Amarillo
+Cosmetic.hat_Heart	Te enkokoro
+Cosmetic.hat_Helmet	Caballero
+Cosmetic.hat_Herohood_Black	Gorrito de bosque - Negro
+Cosmetic.hat_Herohood_Blue	Gorrito de bosque - Azul
+Cosmetic.hat_Herohood_Pink	Gorrito de bosque - Rosa
+Cosmetic.hat_Herohood_Purple	Gorrito de bosque - Morado
+Cosmetic.hat_Herohood_Red	Gorrito de bosque - Rojo
+Cosmetic.hat_Herohood_White	Gorrito de bosque - Blanco
+Cosmetic.hat_Herohood_Yellow	Gorrito de bosque - Amarillo
+Cosmetic.hat_Janitor	Haunted Hotel
+Cosmetic.hat_MilitaryWinter	Militante - Invierno
+Cosmetic.hat_MinerBlack	Minero ocupado - Negro
+Cosmetic.hat_MinerYellow	Minero ocupado - Amarillo
+Cosmetic.hat_mira_bush	En la mano
+Cosmetic.hat_mira_case	Documentos importantes
+Cosmetic.hat_mira_cloud	Cabeza en las nubes
+Cosmetic.hat_mira_flower	Flor exótica
+Cosmetic.hat_mira_flower_red	Flor aromática
+Cosmetic.hat_mira_gem	Especimin único
+Cosmetic.hat_mira_headset_blue	Auriculares ganadores - Azul
+Cosmetic.hat_mira_headset_pink	Auriculares ganadores - Rosa
+Cosmetic.hat_mira_headset_yellow	Auriculares ganadores - Amarillo
+Cosmetic.hat_mira_leaf	Con hojita
+Cosmetic.hat_mira_milk	Juguito de durazno
+Cosmetic.hat_mira_sign_blue	¡No te resbales! - Azul
+Cosmetic.hat_NewYears2018	Año Nuevo 2019
+Cosmetic.hat_NoHat	No hay
+Cosmetic.hat_Paperhat_Black	Barquito - Negro
+Cosmetic.hat_Paperhat_Blue	Barquito - Azul
+Cosmetic.hat_Paperhat_Cyan	Barquito - Espuma de mar
+Cosmetic.hat_Paperhat_Lightblue	Barquito - Cielo
+Cosmetic.hat_Paperhat_Pink	Barquito - Rosa
+Cosmetic.hat_Paperhat_Yellow	Barquito - Amarillo
+Cosmetic.hat_astronaut	Caminata espacial
+Cosmetic.hat_pk01_BaseballCap	Beisbolero
+Cosmetic.hat_brainslug	Alienadamente
+Cosmetic.hat_bushhat	Dun Di
+Cosmetic.hat_captain	Capitán
+Cosmetic.hat_doubletophat	Jefe Toppat
+Cosmetic.hat_flowerpot	Plantado
+Cosmetic.hat_goggles	Steampunk
+Cosmetic.hat_hardhat	Obrero obediente
+Cosmetic.hat_military	Militante
+Cosmetic.hat_paperhat	Barquito
+Cosmetic.hat_partyhat	Gorro de fiesta
+Cosmetic.hat_police	Policía
+Cosmetic.hat_stethescope	¿Qué tengo, doc?
+Cosmetic.hat_tophat	Toppat de Henry
+Cosmetic.hat_towelwizard	Dicha en la ducha
+Cosmetic.hat_russian	Wallshanka
+Cosmetic.hat_viking	Vikingo
+Cosmetic.hat_wallcap	Gorro de The Wall
+Cosmetic.hat_whitetophat	Toppat blanco
+Cosmetic.hat_pk02_Crown	Coronita
+Cosmetic.hat_pk02_Eyebrows	Cejas de Stickmin
+Cosmetic.hat_pk02_HaloHat	Inocente
+Cosmetic.hat_pk02_HeroCap	Gorrito de bosque
+Cosmetic.hat_pk02_PipCap	Pequeño Jim
+Cosmetic.hat_pk02_PlungerHat	Atascado
+Cosmetic.hat_pk02_ScubaHat	Esnórquel
+Cosmetic.hat_pk02_StickminHat	Jinete Stickmin
+Cosmetic.hat_pk02_StrawHat	¡Saharahí nos vemos!
+Cosmetic.hat_pk02_TenGallonHat	Gran vaquero
+Cosmetic.hat_pk02_ThirdEyeHat	Tercer ojo
+Cosmetic.hat_pk02_ToiletPaperHat	Se acabó el papel
+Cosmetic.hat_pk02_Toppat	El jefe nuevo
+Cosmetic.hat_pk03_Fedora	Fedorable
+Cosmetic.hat_pk03_Goggles	La seguridad va después
+Cosmetic.hat_pk03_Headphones	Auriculares ganadores
+Cosmetic.hat_pk03_Security1	Operativo de seguridad
+Cosmetic.hat_pk03_StrapHat	Jardinero
+Cosmetic.hat_pk03_Traffic	Conito de tránsito
+Cosmetic.hat_traffic_purple	Conito de tránsito - Mora
+Cosmetic.hat_pk04_Antenna	Mala recepción
+Cosmetic.hat_pk04_Archae	James Siberia
+Cosmetic.hat_pk04_Balloon	Todos flotan
+Cosmetic.hat_pk04_Banana	Bananazo
+Cosmetic.hat_pk04_Bandana	Bandana
+Cosmetic.hat_pk04_Beanie	Gorrito
+Cosmetic.hat_pk04_Bear	Perez-oso
+Cosmetic.hat_pk04_BirdNest	Huevos en su nido
+Cosmetic.hat_pk04_CCC	Caos contenido
+Cosmetic.hat_pk04_Chef	Soy el chef
+Cosmetic.hat_pk04_DoRag	Pirata
+Cosmetic.hat_pk04_Fez	Fez-tivo
+Cosmetic.hat_pk04_GeneralHat	General-mente hablando
+Cosmetic.hat_pk04_HunterCap	Cazador
+Cosmetic.hat_pk04_JungleHat	¡A cubierta!
+Cosmetic.hat_pk04_MinerCap	Minero ocupado
+Cosmetic.hat_pk04_MiniCrewmate	Minitripulante
+Cosmetic.hat_pk04_Pompadour	Pompadour pomposo
+Cosmetic.hat_pk04_RamHorns	Cuernos
+Cosmetic.hat_pk04_Slippery	¡No te resbales!
+Cosmetic.hat_pk04_Snowman	Amiguito de nieve
+Cosmetic.hat_pk04_Vagabond	Vagabundo misterioso
+Cosmetic.hat_pk04_WinterHat	Para el frío
+Cosmetic.hat_pk05_Burthat	Soy Burt
+Cosmetic.hat_pk05_Cheese	Sabor a queso
+Cosmetic.hat_pk05_cheesetoppat	Muenster
+Cosmetic.hat_pk05_Cherry	Cereza del pastel
+Cosmetic.hat_pk05_davehat	Seguridad del museo
+Cosmetic.hat_pk05_Egg	Estrellado
+Cosmetic.hat_pk05_Ellie	Forajido pelirrojo
+Cosmetic.hat_pk05_EllieToppat	Recluta Ellie
+Cosmetic.hat_pk05_Ellryhat	Fusión fabulosa
+Cosmetic.hat_pk05_Fedora	Tarde Noire
+Cosmetic.hat_pk05_Flamingo	Flamingo inflable
+Cosmetic.hat_pk05_FlowerPin	Marga-linda
+Cosmetic.hat_pk05_GeoffreyToppat	Testagrande
+Cosmetic.hat_pk05_Helmet	Caballero
+Cosmetic.hat_pk05_HenryToppat	Recluta Henry
+Cosmetic.hat_pk05_Macbethhat	Sr. Macbeth
+Cosmetic.hat_pk05_Plant	Brotecito
+Cosmetic.hat_pk05_Svenhat	Sven Svensson
+Cosmetic.hat_pk05_Wizardhat	Mago mágico
+Cosmetic.hat_pk06_Candycanes	Vas-tón
+Cosmetic.hat_pk06_ElfHat	El tipo de los juguetes
+Cosmetic.hat_pk06_Lights	¡Préndanlas!
+Cosmetic.hats_newyears2018	Año Nuevo 2019
+Cosmetic.hat_pk06_Present	Bien envuelto
+Cosmetic.hat_pk06_Reindeer	Reno-vado
+Cosmetic.hat_pk06_Santa	El tipo de los regalos
+Cosmetic.hat_pk06_Snowman	Hombre de nieve
+Cosmetic.hat_pk06_tree	Pinito navideño
+Cosmetic.hat_pkHW01_BatWings	Murci
+Cosmetic.hat_pkHW01_CatEyes	Batigorrito
+Cosmetic.hat_pkHW01_Horns	Di-hablo
+Cosmetic.hat_pkHW01_Machete	Corto aquí, corto allá
+Cosmetic.hat_pkHW01_Mohawk	Rockana
+Cosmetic.hat_pkHW01_Pirate	A la plancha
+Cosmetic.hat_pkHW01_Pumpkin	Calabeza
+Cosmetic.hat_pkHW01_ScaryBag	Máscara, el monstruo máscara
+Cosmetic.hat_pkHW01_Witch	Bruja escaldufa
+Cosmetic.hat_pkHW01_Wolf	Lobo
+Cosmetic.hat_Plunger_Blue	Atascado - Azul
+Cosmetic.hat_Plunger_Yellow	Atascado - Negro y amarillo
+Cosmetic.hat_Ponytail	Rubia
+Cosmetic.hat_Pot	Olla en la choya
+Cosmetic.hat_Prototype	Prototipo de casco
+Cosmetic.hat_Ramhorn_Black	Cuernos - Negro
+Cosmetic.hat_Ramhorn_Red	Cuernos - Rojo
+Cosmetic.hat_Ramhorn_White	Cuernos - Blanco
+Cosmetic.hat_Records	Bibliotecario
+Cosmetic.hat_RockIce	Rocoso: Cabeza fría
+Cosmetic.hat_RockLava	Rocoso: Eruptivo
+Cosmetic.hat_Rubberglove	Guantegallo
+Cosmetic.hat_Rupert	Rupert
+Cosmetic.hat_SnowbeanieGreen	Llegó el invierno - Verde
+Cosmetic.hat_SnowbeanieOrange	Llegó el invierno - Naranja
+Cosmetic.hat_SnowBeaniePurple	Llegó el invierno - Mora
+Cosmetic.hat_SnowbeanieRed	Llegó el invierno
+Cosmetic.hat_Soccer	Defensa
+Cosmetic.hat_TenGallon_Black	Gran vaquero - Negro
+Cosmetic.hat_TenGallon_White	Gran vaquero - Blanco
+Cosmetic.hat_ThomasC	Sombrero de Thomas
+Cosmetic.hat_ToppatHair	Katie a la moda
+Cosmetic.hat_Traffic_Blue	Conito de tránsito - Azul
+Cosmetic.hat_Traffic_Red	Conito de tránsito - Rojo
+Cosmetic.hat_Traffic_Yellow	Conito de tránsito - Amarillo
+Cosmetic.hat_Unicorn	Unicornio mágico
+Cosmetic.hat_Visor	Visera
+Cosmetic.hat_Voleyball	En picada
+Cosmetic.hat_WilfordIV	Sir Wilford IV
+Cosmetic.hat_Winston	Policía corrupto
+Cosmetic.hat_WinterGreen	Para el frío - Verde
+Cosmetic.hat_WinterHelmet	¡A cubierta! - Invierno
+Cosmetic.hat_WinterRed	Para el frío - Rojo
+Cosmetic.hat_WinterYellow	Para el frío - Amarillo
+Cosmetic.hat_Zipper	Traje con cierre para tripulante
+Cosmetic.nameplate_airship_CCC	Centro de Contención del Caos
+Cosmetic.nameplate_airship_Diamond	¡Diamantes!
+Cosmetic.nameplate_airship_Emerald	¡Esmeraldas!
+Cosmetic.nameplate_airship_Gems	La bóveda de arriba
+Cosmetic.nameplate_airship_government	La más grandiosa placa de nombre
+Cosmetic.nameplate_Airship_Hull	Casco de Airship
+Cosmetic.nameplate_airship_Ruby	¡Rubíes!
+Cosmetic.nameplate_airship_Sky	Más allá de las nubes
+Cosmetic.nameplate_airship_Toppat	Aeronave Toppat
+Cosmetic.nameplate_is_dig	Cava hasta China
+Cosmetic.nameplate_is_game	DEPORTES
+Cosmetic.nameplate_is_ghost	Torre fantasmal
+Cosmetic.nameplate_is_green	Césped divino
+Cosmetic.nameplate_is_sand	Bendición divina
+Cosmetic.nameplate_is_trees	Árboles
+Cosmetic.nameplate_is_yard	Punto de excavación
+Cosmetic.nameplate_Mira_Cafeteria	Menú de hoy: jugo de pizza
+Cosmetic.nameplate_Mira_Glass	El cielo de abajo
+Cosmetic.nameplate_Mira_Tiles	Colmenarmas por doquier
+Cosmetic.nameplate_Mira_Vines	¿Y esa enredadera?
+Cosmetic.nameplate_Mira_Wood	¡Madera mía!
+	
+Cosmetic.nameplate_NoPlate	No hay
+Cosmetic.nameplate_Polus_Colors	Paleta de Polus
+Cosmetic.nameplate_Polus_DVD	Mi disco favorito
+Cosmetic.nameplate_Polus_Ground	Planeta morado
+Cosmetic.nameplate_Polus_Lava	Lavoso
+Cosmetic.nameplate_Polus_Planet	Planeta Polus
+Cosmetic.nameplate_Polus_Snow	Terrenos nevados
+Cosmetic.nameplate_Polus_SpecimenBlue	Espécimen - Azul
+Cosmetic.nameplate_Polus_SpecimenGreen	Espécimen - Verde
+Cosmetic.nameplate_Polus_SpecimenPurple	Espécimen - Mora
+Cosmetic.nameplate_Polus-Skyline	Horizonte de Polus
+Cosmetic.nameplate_Polus-Snowmates	Amiguitos de nieve de Polus
+Cosmetic.pet_Alien	Alienadamente
+Cosmetic.pet_Bedcrab	Cangrujo
+Cosmetic.pet_Bush	Compa de arbustos
+Cosmetic.pet_Charles	Charles, piloto de helicóptero
+Cosmetic.pet_Charles_Red	Toppat, piloto de helicóptero
+Cosmetic.pet_Crewmate	Minitripulante
+Cosmetic.pet_Cube	Tipo deidad
+Cosmetic.pet_Doggy	Perrito
+Cosmetic.pet_Ellie	E. Rose
+Cosmetic.pet_EmptyPet	No hay
+Cosmetic.pet_test	Glitch
+Cosmetic.pet_Hamster	Hampton
+Cosmetic.pet_Lava	Magmamigo
+Cosmetic.pet_Robot	Ro-Bot
+Cosmetic.pet_Snow	Bolita de nieve
+Cosmetic.pet_Squig	Squig
+Cosmetic.pet_Stickmin	H. Stickmin
+Cosmetic.pet_UFO	OVNI
+Cosmetic.skin_Abominalskin	Compa abominable de las nieves
+Cosmetic.skin_Archae	Maravillas ocultas
+Cosmetic.skin_Astro	Astronauta
+Cosmetic.skin_Astro_blue	Astronauta azul
+Cosmetic.skin_Astro_cyan	Astronauta cian
+Cosmetic.skin_Astro_orange	Astronauta naranja
+Cosmetic.skin_Bling	Bling Bling
+Cosmetic.skin_Bushskin	Escurridizo
+Cosmetic.skin_BusinessFem-Aquaskin	Falda de negocios - Azul verdoso
+Cosmetic.skin_BusinessFemskin	Falda de negocios
+Cosmetic.skin_BusinessFem-Tanskin	Falda de negocios - Bronceada
+Cosmetic.skin_Capt	¿Y su licencia, piloto?
+Cosmetic.skin_CCC	Tripulante de Contención del Caos
+Cosmetic.skin_D2Cskin	Chico excavador
+Cosmetic.skin_General	General Galeforce
+Cosmetic.skin_Hazmat	Haz... te para allá
+Cosmetic.skin_Hazmat-Blackskin	Haz... te para allá - Negro
+Cosmetic.skin_Hazmat-Blueskin	Haz... te para allá - Azul
+Cosmetic.skin_Hazmat-Greenskin	Haz... te para allá - Verde
+Cosmetic.skin_Hazmat-Pinkskin	Haz... te para allá - Rosa
+Cosmetic.skin_Hazmat-Redskin	Haz... te para allá - Rojo
+Cosmetic.skin_Hazmat-Whiteskin	Haz... te para allá - Blanco
+Cosmetic.skin_JacketGreenskin	Chaqueta puesta - Verde
+Cosmetic.skin_JacketPurpleskin	Chaqueta puesta - Mora
+Cosmetic.skin_JacketYellowskin	Chaqueta puesta - Amarillo
+Cosmetic.skin_Janitorskin	Deberes de conserje
+Cosmetic.skin_Mech	Yo lo reparo
+Cosmetic.skin_MechanicRed	Mecánico de la nave
+Cosmetic.skin_Military	Traje de oficial
+Cosmetic.skin_MilitaryDesert	Oficial - Desierto
+Cosmetic.skin_MilitarySnowskin	Oficial - Nieve
+Cosmetic.skin_Miner	El del sarcasmo
+Cosmetic.skin_MinerBlackskin	El del sarcasmo - Negro
+Cosmetic.skin_None	No hay
+Cosmetic.skin_Police	Policía
+Cosmetic.skin_prisoner	Prisionero 2112
+Cosmetic.skin_PrisonerBlue	Prisionero 2112 - Azul
+Cosmetic.skin_PrisonerTanskin	Prisionero 2112 - Bronceado
+Cosmetic.skin_rhm	Hombre Mano Derecha: renacido
+Cosmetic.skin_RockIceskin	Congelado de conocerte
+Cosmetic.skin_RockLavaskin	Duro como roca
+Cosmetic.skin_Science	Teoría científica
+Cosmetic.skin_Scientist-Blueskin	Doctor
+Cosmetic.skin_Scientist-Darkskin	Ciencias oscuras
+Cosmetic.skin_Security	Es secreto
+Cosmetic.skin_Skin_SuitRedskin	Uniforme Toppat
+Cosmetic.skin_SportsBlueskin	Equipo deportivo AZUL
+Cosmetic.skin_SportsRedskin	Equipo deportivo ROJO
+Cosmetic.skin_SuitB	Trajeado
+Cosmetic.skin_SuitW	Llamativo
+Cosmetic.skin_SweaterBlueskin	Suetercito - Azul
+Cosmetic.skin_SweaterPinkskin	Suetercito - Rosa
+Cosmetic.skin_Sweaterskin	Suetercito
+Cosmetic.skin_SweaterYellowskin	Suetercito - Amarillo
+Cosmetic.skin_Tarmac	La pista es por acá
+Cosmetic.skin_ToppatSuitFem	Falda Toppat
+Cosmetic.skin_ToppatVest	Chaleco
+Cosmetic.skin_Wall	Custodiando
+Cosmetic.skin_Winter	Chaqueta puesta
+Cosmetic.visor_BillyG	Sr. G
+Cosmetic.visor_Blush	Ay, me halagas
+Cosmetic.visor_Bomba	Bombástico
+Cosmetic.visor_Carrot	Bien feliz
+Cosmetic.visor_Crack	Among Us rompió el 2021
+Cosmetic.visor_D2CGoggles	Topo cavador
+Cosmetic.visor_Dirty	Lávame
+Cosmetic.visor_Dotdot	punto, punto, punto
+Cosmetic.visor_EmptyVisor	No hay
+Cosmetic.visor_EyepatchL	Ojo cubierto
+Cosmetic.visor_EyepatchR	Ojo cubierto
+Cosmetic.visor_Galeforce	Bigote de Galeforce
+Cosmetic.visor_is_beard	Una barba
+Cosmetic.visor_JanitorStache	Bigote fantasmal
+Cosmetic.visor_Krieghaus	Krieghaus
+Cosmetic.visor_Lava	Magmado
+Cosmetic.visor_LolliBlue	Paletita - Azul
+Cosmetic.visor_LolliBrown	Paletita - Marrón
+Cosmetic.visor_LolliOrange	Paletita - Naranja
+Cosmetic.visor_LolliRed	Paletita
+Cosmetic.visor_mira_card_blue	Tarjeta de acceso - Azul
+Cosmetic.visor_mira_card_red	Tarjeta de acceso - Rojo
+Cosmetic.visor_mira_glasses	Anteojos
+Cosmetic.visor_mira_mask_black	Máscara antigás - Negro
+Cosmetic.visor_mira_mask_blue	Máscara antigás - Azul
+Cosmetic.visor_mira_mask_green	Máscara antigás - Verde
+Cosmetic.visor_mira_mask_purple	Máscara antigás - Mora
+Cosmetic.visor_mira_mask_red	Máscara antigás - Rojo
+Cosmetic.visor_mira_mask_white	Máscara antigás - Blanco
+Cosmetic.visor_Mouth	Gusanote
+Cosmetic.visor_PiercingL	Con arete
+Cosmetic.visor_PiercingR	Con arete
+Cosmetic.visor_pk01_AngeryVisor	m o l e s t o
+Cosmetic.visor_pk01_DumStickerVisor	Recordatorio
+Cosmetic.visor_pk01_FredVisor	Portero peligroso
+Cosmetic.hat_geoff	My Name Geoff
+Cosmetic.visor_pk01_HazmatVisor	Máscara antigás
+Cosmetic.visor_pk01_MonoclesVisor	Monóculos dobles
+Cosmetic.visor_pk01_PaperMaskVisor	Mejor me protejo
+Cosmetic.visor_pk01_PlagueVisor	Plagado
+Cosmetic.visor_pk01_RHMVisor	Bigote de Mano Derecha
+Cosmetic.visor_pk01_Security1Visor	Gafas de sol
+Cosmetic.visor_polus_ice	Lágrimas congeladas
+Cosmetic.visor_Reginald	Bigotazo de Reginald
+Cosmetic.visor_Scar	Cicatriz
+Cosmetic.visor_SciGoggles	Seguridad ante todo
+Cosmetic.visor_shopglasses	¿Qué te llevas?
+Cosmetic.visor_SkiGoggleBlack	Vamos a esquiar - Negro
+Cosmetic.visor_SKiGogglesOrange	Vamos a esquiar - Naranja
+Cosmetic.visor_SkiGogglesWhite	Vamos a esquiar
+Cosmetic.visor_SmallGlasses	Minigafas
+Cosmetic.visor_SmallGlassesBlue	Minigafas - Azul
+Cosmetic.visor_SmallGlassesRed	Minigafas - Rojo
+Cosmetic.visor_Stickynote_Cyan	Recordatorio - Cian
+Cosmetic.visor_Stickynote_Green	Recordatorio - Verde
+Cosmetic.visor_Stickynote_Orange	Recordatorio - Naranja
+Cosmetic.visor_Stickynote_Pink	Recordatorio - Rosa
+Cosmetic.visor_Stickynote_Purple	Recordatorio - Mora
+Cosmetic.visor_Straw	Paja de trigo
+Cosmetic.visor_WinstonStache	Bigote de cazador
+Visor	Visor
+EquipLabel	Equipar
+NamePlate	Placa de nombre
+Visors	Visores
+NamePlates	Placas de nombre
+Cosmicube	Cosmicube
+Cosmicubes	Cosmicubes
+Activate	Activar
+Deactivate	Desactivar
+Owned	Obtenido
+Purchase	Comprar
+CosmicubeProgression	{0}% completado
+ViewCube	Ver cubo
+ConfirmPurchaseHeader	Confirmar comprar
+ConfirmPurchaseText	¿Deseas comprar la siguiente rama del {0}?
+DeactivateCube	Desactivar
+ActivateCube	Activar
+Bundles	Paquetes
+Stars	Estrellas
+Wardrobe	Guardarropa
+PlayerLevel	Nivel
+PlayerXp	EXP
+PlayerLevelExtremeShorthand	Nvl.
+Max	Máx.
+Colors	Colores
+CopiedText	¡Texto copiado!
+LinkAccount	Vincular cuenta
+CreateNewAccount	Crear una cuenta nueva
+LinkExistingAccount	Vincular una cuenta existente
+LinkAccountExplanation	Si ya tienes una cuenta de Among Us en otra plataforma, ¡tal vez puedas vincularte a esa cuenta!\nSi no es posible, puedes crear una nueva.
+LinkAccountCode	Ingresa el siguiente código en <link="{0}">{1}</link> \n<size=+2>{2}</size>
+ErrorLink	Se produjo un error al vincular tu cuenta. Inténtalo de nuevo más tarde.
+UnlinkAccount	Desvincular cuenta
+ConfirmUnlinkAccount	Confirma la desvinculación de cuenta
+UnlinkAccountExplain	Al desvincular tu cuenta de {0} se borrarán tus datos y se creará una cuenta nueva de {0}.\n- Perderás todos los objetos que hayas recibido o desbloqueado en tu cuenta de {0}.\n- Iniciarás de nuevo en el nivel 1 con 0 EXP.
+UnlinkAccountExplainConfirm	Guarda este número de ID para referencia:\n\n{0}\n\nSi desvinculas tu cuenta y no tienes este ID. no podremos recuperar tu progreso y no podremos ayudarte si se produjo un error.
+UnlinkError	Se produjo un error al desvincular tu cuenta. Inténtalo de nuevo más tarde.
+UnlinkSuccess	¡Se desvinculó {0} de tu cuenta principal de Among Us!
+ConfirmLinkExistingAccount	Confirma la vinculación a una cuenta existente
+LinkExistingAccountExplain	Al vincular a una cuenta distinta se sobrescribirá toda la información en esta plataforma. Esto significa que tu cuenta de Among Us de {0} se reemplazará por la otra cuenta.\n- Se sobrescribirán todos los objetos que hayas desbloqueado en tu cuenta {0}.\n- Se sobrescribirá toda la EXP de tu cuenta {0}.\n- Se sobrescribirán todos los frijolitos, cápsulas y estrellas que tengas.
+LinkExistingAccountExplainConfirm	Al momento que confirmes, restableceremos tu cuenta de Among Us {0} y la prepararemos para importar la información de una cuenta distinta.\n\n<color=#{1}>ANTES DE CONTINUAR, ASEGÚRATE DE TENER OTRA CUENTA EXISTENTE A LA CUAL VINCULAR ESTA CUENTA.</color>\n\nAl restablecer tu cuenta {0} se borrarán los frijolitos, cápsulas, objetos y EXP por completo. Esta acción NO se podrá revertir.
+ResetAccount	Restablecer cuenta
+	
+PurchasingLabel	Comprando objeto
+	
+ErrorInternalServer	Error interno del servidor (Código {0})
+ErrorPlatformLock	El creador de esta sala la limitó a su plataforma
+ErrorLobbyInactivity	El servidor cerró la sala por inactividad
+ErrorMatchmakerInactivity	El servidor te desconectó por inactividad
+ErrorInvalidGameOptions	Las opciones de juego recibidas no eran válidas. Es probable que tengas que borrar todos los datos guardados y reiniciar el juego.
+ErrorNoServersAvailable	No hay servidores disponibles. ¡Lo sentimos! Inténtalo de nuevo.
+ErrorQuickmatchDisabled	QuickMatch no está disponible por el momento. Intenta unirte a una partida.
+ErrorTooManyGames	Hay demasiadas partidas. Intenta unirte a una partida.
+Bundle.hat_holiday2018	Paquete de gorros festivos 2018
+Bundle.hats_bundle2	Paquete de gorros de 1M de descargas
+Bundle.hats_halloween2019	Paquete de gorros de Halloween 2019
+Bundle.hats_newyears2018	Paquete de gorros de Año Nuevo 2018
+Bundle.map_airship	Paquete de Airship
+Bundle.map_mira	Paquete de MIRA
+Bundle.map_polus	Paquete de Polus
+Bundle.pet_alien1	Paquete de mascotas Babosa cerebral
+Bundle.pet_alien2	Paquete de mascotas Cangrujo
+Bundle.pet_animal	Paquete de mascotas animales
+Bundle.pet_crewmate	Paquete de mascotas de tripulante
+Bundle.pet_stickmin	Paquete de mascotas Stickmin
+StoreComingSoon	Próximamente...
+	
+StartCosmicubeLabel	INICIAR
+Bundle.star_bundle	Paquete de estrella
+ErrorPlatformParentalControlsBlock	Tu control parental o el control parental de los jugadores con los que quieres jugar no permite que jueguen juntos.
+ErrorPlatformParentalControlsBlockPS	Tu control parental o el control parental de los jugadores con los que quieres jugar no permite que jueguen juntos.
+FailPurchase	Se produjo un problema con esta transacción. Inténtalo de nuevo más tarde.
+FailPurchaseUnknown	Código de error: {0}
+FailPurchaseAlreadyOwn	Ya posees este objeto.
+FailPurchaseCurrency	No tienes suficiente divisa necesaria para comprar este objeto.
+FailPurchaseCubeOwn	No posees este Cosmicube.
+Locked	NO DISPONIBLE
+	
+Active	ACTIVO
+Crewmates	Tripulantes
+XpGainedValue	{0} EXP
+	
+XboxShopBrowseAll	Navega por todos los artículos de la Microsoft Store
+PSShopBrowseAll	Navega por todos los artículos de la PlayStation™Store
+Equipped	Equipado
+	
+MouseMovement	Movimiento del mouse
+KeyboardOptions	Opciones de teclado
+RemapBindings	Cambiar combinaciones de teclas...
+KeyboardBindingsHeader	Combinaciones de teclas
+HowToPlayText_Consoles	¡Juega partidas de 4 a 15 jugadores en línea!
+	
+StarDisclaimer	¡Adquiere estrellas de Among Us para desbloquear una galaxia completamente nueva de personalización! ¡Gasta tus estrellas en la tienda del juego para obtener objetos estéticos exclusivos y Cosmicubos únicos! No puedes usar o canjear las estrellas que compres aquí en PlayStation® o Nintendo Switch™.
+	
+Commsdisabled	[COMUNIC. DESHABILITADAS]
+ErrorQuickChatMode	Modo de chat incorrecto: esta sala se creó para {0}. Tu configuración es {1}.
+
+	
+ErrorLobbyUsersBlocked	No puedes unirte. La sala cuenta con un usuario que te bloqueó o que está en tu lista de usuarios bloqueados. Intenta con otra sala.
+SteamNotInitialized	Steam no se inició correctamente. Reinicia el juego desde Steam e intenta de nuevo.
+LoggedInErrorStarPurchase	Debes iniciar sesión con tu cuenta para comprar estrellas
+ErrorDisconnectPacket	Te desconectaste del servidor.
+AndroidAssetBundleWarning	Debes descargar el contenido adicional para completar la instalación de Among Us. Presiona "Aceptar" para continuar.
+ItchNoStars	Por desgracia, la compra de estrellas no está disponible en itch.io. Sin embargo, si vinculas tu cuenta de itch.io con otra plataforma (como otras versiones del juego en PC), ¡podrás comprar y acceder a las estrellas desde esa plataforma! Nota: Las estrellas que compres en Nintendo Switch™ no son multiplataforma, por lo que no podrás canjearlas en otra plataforma.
+Roles	Roles
+RolesSettings	Ajustes de roles
+ScientistRole	Científico
+EngineerRole	Ingeniero
+GuardianAngelRole	Ángel guardián
+ShapeshifterRole	Cambiaformas
+ScientistBlurb	Accede a los monitores vitales en cualquier momento
+EngineerBlurb	Puede usar los ductos
+GuardianAngelBlurb	Protege a la tripulación restante
+ShapeshifterBlurb	Disfrázate
+CrewmateBlurb	Cumple con tus tareas
+ImpostorBlurb	Asesina y sabotea
+RolesHelp_CrewmateRole	Rol del tripulante: {0}
+RolesHelp_ImpostorRole	Rol del impostor: {0}
+RolesHelpIntro_01	¡Los roles le agregan un nuevo nivel de estrategia y engaño al juego clásico!
+RolesHelpIntro_02	Tanto tripulantes como impostores pueden tener roles que se asignan de forma aleatoria según la configuración seleccionada por el anfitrión.
+RolesHelp_Scientist_01	El científico tiene acceso al panel portátil en cualquier lugar para verificar el estado de la tripulación.
+RolesHelp_Scientist_02	Sin embargo, el panel necesita recargarse, por lo que el científico deberá completar tareas para llenar la batería.
+RolesHelp_Engineer_01	El ingeniero es un tripulante que puede usar los ductos para desplazarse más rápido y atrapar a los impostores con las manos en la masa.
+RolesHelp_Engineer_02	No puedes quedarte ahí para siempre, sería muy sospechoso. Así que cuidado con quien te vea usar el ducto.
+RolesHelp_GuardianAngel_01	El ángel guardián es el fantasma de un tripulante. Puedes proteger temporalmente a otros tripulantes vivos.
+RolesHelp_GuardianAngel_02	Usa bien este poder para evitar que los impostores asesinen a su víctima. ¡Qué suerte!
+RolesHelp_Shapeshifter_01	El cambiaformas puede cambiar su apariencia y disfrazarse de otros tripulantes. ¡Hazlo bien para engañar a otros tripulantes y crear confusión sobre la verdadera identidad del impostor!
+RolesHelp_Shapeshifter_02	Pero cuidado, el disfraz no dura por siempre y deja evidencias.
+RolesHelpOutro_01	Los roles se pueden personalizar. Los anfitriones del juego pueden elegir cuántas veces un ingeniero puede usar los ductos y el tiempo de recuperación del cambiaformas, etc. También pueden elegir el porcentaje de probabilidad de que estos roles se asignen en el juego. Puedes consultar en los ajustes de la sala de juego si un rol está activo.
+RolesHelpOutro_02	Prueba los ajustes que más te gusten para crear tu sala ideal o únete a otra y mira el caos que puedes causar. Puede que continuemos añadiendo roles en el futuro, así que puedes volver a consultar por aquí cuando quieras. ¡Que te diviertas!
+YourRoleIs	Tu rol es
+ShapeshiftAbility	Mutar
+VitalsAbility	Revisar
+ProtectAbility	Proteger
+VentAbility	Ducto
+ShapeshiftAbilityUndo	Anular
+RoleChanceAndQuantity	{1} % de probabilidad de {0}
+CheckingPurchasesLabel	Revisando compras...
+ProtectedRecently	El ángel guardián protegió a alguien hace poco...
+ScientistBlurbMed	Accede a los estados en cualquier momento.\nCompleta las tareas para recargar tu batería.
+ScientistBlurbLong	El científico puede acceder al panel portátil de los estados en cualquier lugar para ver el estado de la tripulación. Pero el panel portátil de los estados necesita recargarse, así que el científico debe completar tareas para recargar la batería.
+EngineerBlurbMed	Puede usar los ductos.
+EngineerBlurbLong	El ingeniero es un tripulante que puede usar los ductos para moverse más rápido, así como atrapar a los impostores espías en el acto. Pero no te puedes quedar ahí mucho tiempo, así que ten cuidado cuando espíes...
+GuardianAngelBlurbMed	Lanza un escudo que protege a los tripulantes\nque quedan.
+GuardianAngelBlurbLong	El ángel guardián es el fantasma del primer tripulante muerto. Puede proteger temporalmente a los tripulantes vivos. Protégelos a tiempo para que evites que los impostores asesinen a su víctima. ¡Suerte!
+ShapeshifterBlurbMed	Disfrázate y transfórmate en otro tripulante.
+ShapeshifterBlurbLong	El cambiaformas puede cambiar su apariencia y disfrazarse como otros tripulantes. Hazlo bien para incriminar a otros tripulantes y crear confusión sobre quién es el impostor real. Pero ten cuidado, el disfraz no durará para siempre, y además deja evidencias.
+RoleHint	Pista
+ScientistBatteryCharge	Duración de la batería
+ScientistCooldown	Tiempo de recuperación de la vista de los estados
+ShapeshifterCooldown	Tiempo de recuperación del cambio
+ShapeshifterDuration	Duración del cambio
+ShapeshifterLeaveSkin	Dejar evidencia del cambio
+EngineerCooldown	Tiempo de recuperación del uso del ducto
+EngineerInVentCooldown	Tiempo máximo dentro de los ductos
+GuardianAngelCooldown	Tiempo de recuperación de la protección
+GuardianAngelDuration	Duración de la protección
+OracleRole	Oráculo
+OracleBlurb	Sabe de un tripulante que no es impostor
+OracleBlurbMed	Sabe de un tripulante que no es impostor.
+OracleBlurbLong	El oráculo es un tripulante que sabe a ciencia cierta que cierto tripulante no es un impostor
+Cosmetic.hat_heim	Cabello de Heimerdinger
+Cosmetic.hat_enforcer	Casco de Vigilante
+Cosmetic.hat_caitlin	Gorro de Caitlyn
+Cosmetic.hat_clagger	Gafas de Claggor
+Cosmetic.hat_vi	Cabello de Vi
+Cosmetic.hat_jinx	Cabello de Jinx
+Cosmetic.hat_jayce	Cabello de Jayce
+Cosmetic.hat_comper	Mascafuegos
+Cosmetic.visor_heim	Bigote de Heimerdinger
+Cosmetic.visor_jinx	Gafas de Jinx
+Cosmetic.skin_heim	Traje con cierre de Heimerdinger
+Cosmetic.skin_jayce	Traje del consejo con cierre de Jayce
+Cosmetic.skin_enforcer	Armadura de Vigilante
+Cosmetic.skin_caitlin	Uniforme de Caitlyn
+Cosmetic.skin_jinx	Ropa de Jinx
+Cosmetic.skin_vi	Ropa de Vi
+Cosmetic.pet_poro	Poro de Heimerdinger
+RedeemPurchasedItemsTitle	Canjear objetos comprados
+RedeemPurcahsedItemsExplain	¡Tenemos un nuevo sistema de inventario para que puedas acceder a tus objetos en todas las plataformas! Cualquier objeto que compraste con anterioridad en esta plataforma se puede trasferir a nuestro nuevo sistema de inventario UNA SOLA VEZ.\nSi esta es tu cuenta principal de Among Us (la plataforma en la que juegas Among Us con más frecuencia), puedes hacer clic en "continuar" y canjear tu compra del DLC en el nuevo sistema de inventario sin problemas. ¡Si esta es una cuenta que intentaste vincular a tu cuenta principal, solo debes canjear tu compra después de vincularla!\n\nID de cuenta: {0}
+RedeemProceed	Continuar
+RedeemNotYet	Ahora no
+RedeemNever	No volver a preguntar
+AccountIDDisplay	ID de cuenta: {0}
+Cosmetic.hat_witch_white	Bruja escaldufa - Blanco
+Cosmetic.hat_witch_pink	Bruja escaldufa - Rosa
+Cosmetic.hat_witch_murky	Bruja escaldufa - Oscuro
+Cosmetic.hat_witch_green	Bruja escaldufa - Verde
+Cosmetic.hat_papermask	Máscara, el monstruo máscara - Claro
+Cosmetic.hat_mohawk_rainbow	Rockana - Arcoíris
+Cosmetic.hat_mohawk_purple_green	Rockana - Verde mora
+Cosmetic.hat_mohawk_bumblebee	Rockana - Abejorro
+Cosmetic.hat_devilhorns_yellow	Di-hablo - Dorado
+Cosmetic.hat_devilhorns_white	Di-hablo - Blanco
+Cosmetic.hat_devilhorns_murky	Di-hablo - Oscuro
+Cosmetic.hat_devilhorns_green	Di-hablo - Verde
+Cosmetic.hat_devilhorns_crewcolor	Di-hablo - Color de tripulante
+Cosmetic.hat_devilhorns_black	Di-hablo - Negro
+Cosmetic.hat_cat_grey	Batigorrito - Gris
+Cosmetic.hat_cat_snow	Batigorrito - Nieve
+Cosmetic.hat_cat_pink	Batigorrito - Rosa
+Cosmetic.hat_cat_orange	Batigorrito - Naranja
+Cosmetic.hat_wolf_grey	Lobo - Gris
+Cosmetic.hat_wolf_murky	Lobo - Oscuro
+Cosmetic.hat_bat_ice	Murci - Hielo
+Cosmetic.hat_bat_green	Murci - Verde
+Cosmetic.hat_bat_crewcolor	Murci - Color de tripulante
+Cosmetic.skin_mummy	Momificado
+Cosmetic.visor_mummy	Amárrate eso
+Cosmetic.hat_mummy	Modo momia
+Cosmetic.hat_candycorn	Cuernicioso
+Cosmetic.hat_clown_purple	Payaso de pueblo
+Cosmetic.hat_fairywings	Aleteo de hada
+Cosmetic.hat_fishhed	Cabeza de pescado
+Cosmetic.hat_frankenbolts	Tornillos de Frankenstein
+Cosmetic.hat_frankenbride	Esposa de Frankenstein
+Cosmetic.visor_clownnose	Payasadas
+Cosmetic.visor_masque_blue	Mascarada - Azul
+Cosmetic.visor_masque_green	Mascarada - Verde
+Cosmetic.visor_masque_red	Mascarada - Rojo
+Cosmetic.visor_masque_white	Mascarada - Blanco
+Cosmetic.nameplate_hw_pumpkin	Calabaza
+Cosmetic.nameplate_hw_candy	Dulces por doquier
+Cosmetic.nameplate_hw_woods	Bosque espeluznante
+Cosmetic.hat_axe	Dolor penetrante
+Cosmetic.visor_eyeball	Te tengo en la mira
+Cosmetic.hat_tombstone	QEPD
+Cosmetic.hat_bone	Huesitos
+Cosmetic.hat_arrowhead	Flechado
+Cosmetic.hat_glowstick	Que no pare la fiesta
+Cosmetic.skin_clown	Tripulantín el payaso
+Cosmetic.skin_fairy	Tripulhada madrina
+Cosmetic.skin_fishmonger	Pescadero
+Cosmetic.skin_pumpkin	Pantalones de calabaza
+Cosmetic.skin_vampire	Dame tu sangre
+Cosmetic.skin_witch	Bruja extravagante
+Cosmetic.pet_frankendog	Frankenperro
+Cosmetic.hat_mohawk_bubblegum	Rockana - Chicle
+AvailableFor	Disponible durante\n{0} d {1} h {2} m {3} s
+GuardianAngelImpostorSeeProtect	Protección visible para los impostores
+Cosmetic.hat_pkHW01_PlagueHat	Plagado
+	
+QCAccIsRole	{0} es {1}
+QCAccIsRole_QCCrewMe_ANY	Soy {0}
+QCAccIsRoleNeg	{0} no es {1}
+QCAccIsRoleNeg_QCCrewMe_ANY	No soy {0}
+QCAccIsRoleNeg_QCCrewNoOne_ANY	Nadie es {1}
+QCAccShapeshited	{0} cambió a {1}
+QCAccShapeshited_QCCrewMe_ANY	Cambié a {1}
+QCStaShapeshifterSkin	Aspecto de cambiaformas encontrado en {0}
+QCResIsBeingFramed	{0} está siendo incriminado
+QCResIsBeingFramed_QCCrewMe	Estoy siendo incriminado
+QCResCloseTo	{0} estaba cerca de {1}
+QCResCloseTo_QCCrewMe_ANY	Yo estaba cerca de {0}
+QCResCloseTo_ANY_QCCrewMe	{0} estaba cerca de mí
+QCResIsRoleMaybe	{0} puede ser {1}
+QCResIsRoleMaybe_QCCrewMe_ANY	Puedo ser {1}
+QCResProtected	{0} protegió a {1}
+QCResProtected_QCCrewMe_ANY	Yo protegí a {1}
+QCResProtected_ANY_QCCrewMe	{0} me protegió
+QCRoles	Roles
+GuestProgressionWarning	¡Iniciaste sesión con una cuenta de invitado! \n\nToda la EXP, cápsulas y frijolitos que obtengas se quedarán en esta cuenta de invitado. Las cuentas de invitado están vinculadas a tu dispositivo físico y se perderán si cambias de dispositivo. \n\nPara garantizar el acceso a todas tus monedas ganadas, así como a tus compras, abre la pestaña de cuenta en el menú principal e inicia sesión con tu cuenta de Among Us.
+	
+ErrorFailedToCreateGame	Error al crear una sesión de juego. Inténtalo de nuevo.
+ErrorFailedToJoinCreatedGame	Error al unirse a una sesión de juego tras crearla. Inténtalo de nuevo.
+ErrorDisconnectBeforeJoining	Te retiraste antes de unirte a una sesión de juego.
+	
+PSEULA_SIEA	La compra y uso de artículos están sujetos a los Términos de Servicio y Acuerdo de Usuario de la Network. Una sublicencia de este servicio online le ha sido otorgada por Sony Interactive Entertainment America.
+PSEULA_SIEE	
+ErrorCrossPlatformCommunication	Tus ajustes de comunicación te impiden unirte a la partida. Habilita la comunicación crossplay para poder unirte.
+ErrorCrossPlat	La sala a la que te uniste es multiplataforma, pero desactivaste la opción crossplay en tus ajustes.
+ErrorDuplicateConnection	Se detectó un inicio de sesión duplicado.
+ErrorLobbyFailedGettingBlockedUsers	No es posible unirse: se produjo un error en el servidor al obtener la lista de bloqueo
+	
+MaxVentUses	Usos máx. del ducto
+MaxTimeInVent	Tiempo máx. dentro del ducto
+MinCrewmatesForVitals	Min. que los tripulantes deben estar con vida para desbloquear los estados
+ShowAccountID	Mostrar ID de cuenta
+HideAccountID	Ocultar ID de cuenta
+HiddenAccountID	[ID de cuenta oculta]
+AllTasksComplete	¡Las tareas están completas!
+EscapePrompt	Los tripulantes escapan en:
+FlashlightFov	Campo de visión de la linterna
+SteamOverlayDisabled	Tu interfaz de juego de Steam debe tener habilitada la compra de Paquetes de estrellas. Habilita tu interfaz en el juego de Stean y reinicia el juego.
+Cosmetic.hat_pk05_RHM	Sombrero de Mano Derecha
+	
+Cosmetic.skin_w21_deer	Reno
+Cosmetic.skin_w21_elf	Ayudante de Santa
+Cosmetic.skin_w21_msclaus	Claus, Señora Claus
+Cosmetic.skin_w21_nutcracker	Cascanueces
+Cosmetic.skin_w21_santa	¡Santa llegó a la ciudad!
+Cosmetic.skin_w21_snowmate	Amiguito de nieve
+Cosmetic.hat_w21_snowman	Viejo sombrero de copa
+Cosmetic.hat_w21_gingerbread	Galleta de tripulante
+Cosmetic.hat_w21_holly	Decorativo
+Cosmetic.hat_w21_krampus	Krampus
+Cosmetic.hat_w21_log	Tronco de Navidad
+Cosmetic.hat_w21_mistletoe	Bésame
+Cosmetic.hat_w21_mittens	Guantes calientitos
+Cosmetic.hat_w21_nutcracker	¿Qué tal?
+Cosmetic.hat_w21_pinecone	Pinito
+Cosmetic.hat_w21_winterpuff	Pachoncito
+Cosmetic.hat_w21_snowflake	Copo de nieve
+Cosmetic.visor_w21_carrot	Nariz de zanahoria
+Cosmetic.visor_w21_nutstache	Bigotazo
+Cosmetic.visor_w21_santabeard	Barba de Santa
+Cosmetic.nameplate_w21_snow	La nieve está reluciente
+Cosmetic.nameplate_w21_tree	Las estrellas brillan claramente
+Cosmetic.nameplate_w21_fireplace	Bajo la chimenea
+Cosmetic.visor_w21_nye	FELIZ AÑO NUEVO - 2021
+Cosmetic.hat_w21_elf_pink	Gorro de ayudante - Rosa
+Cosmetic.hat_w21_elf_swe	Gorro de ayudante - Azul
+Cosmetic.hat_w21_lights_white	Brillo festivo - Blanco
+Cosmetic.hat_w21_lights_yellow	Brillo festivo - Amarillo
+Cosmetic.hat_w21_present_evil	Regalito: Rojo/negro
+Cosmetic.hat_w21_present_redwhite	Regalito: Eojo/blanco
+Cosmetic.hat_w21_present_whiteblue	Regalito: Blanco/azul
+Cosmetic.hat_w21_santa_evil	El tipo de los regalos: Travieso
+Cosmetic.hat_w21_santa_yellow	El tipo de los regalos: Dorado
+Cosmetic.hat_w21_santa_green	El tipo de los regalos: Forestal
+Cosmetic.hat_w21_santa_mint	El tipo de los regalos: Menta
+Cosmetic.hat_w21_santa_pink	El tipo de los regalos: Rosa
+Cosmetic.hat_w21_santa_white	El tipo de los regalos: Helado
+Cosmetic.hat_w21_snowman_swe	Muñeco de nieve: Azul/amarillo
+Cosmetic.hat_w21_snowman_evil	Muñeco de nieve: Travieso
+Cosmetic.hat_w21_snowman_greenred	Muñeco de nieve: Verde
+Cosmetic.hat_w21_snowman_redgreen	Muñeco de nieve: Rojo/verde
+Cosmetic.hat_w21_present_greenyellow	Regalito: Verde/amarillo
+Cosmetic.hat_w21_candycane_blue	Caramelo: Arándano
+Cosmetic.hat_w21_candycane_bubble	Caramelo: Goma de mascar
+Cosmetic.hat_w21_candycane_chocolate	Caramelo: Chocomenta
+Cosmetic.hat_w21_candycane_mint	Caramelo: Menta
+Cosmetic.skin_w21_tree	Qué ramas tan verdes
+StatsRoleWins	Victorias con el rol de {0}:\t
+StatsEngineerVents	Ductos de ingeniero:\t
+StatsScientistChargesGained	Cargas de científico ganadas:\t
+StatsGuardianAngelCrewmatesProtected	Tripulación protegida con éxito como ángel guardián:\t
+StatsShapeshifterShiftedKills	Asesinatos como cambiaformas al cambiar de aspecto:\t
+QCOnlyInfo	Solo podrás utilizar el Chat rápido mientras juegas y solo funcionará con otros usuarios de Chat rápido.
+FreeChatInfo	Podrás utilizar el Chat libre y el Chat rápido mientras juegas y solo funcionará con otros usuarios de Chat libre.
+FreeChatWarning	Debes iniciar sesión para usar el Chat libre. Si inicias sesión con una cuenta de menor, accede a la pestaña de Cuenta y recibe el permiso de un adulto a cargo para activar el Chat libre.
+FreeChatLinkWarning	¡No se permite enviar enlaces! Tu mensaje no se envió.
+ScreenShakeOption	Sacudida de pantalla
+StreamingTwitch	Comenzar a transmitir por Twitch
+AnnouncementFailFetchData	No se pudo cargar el anuncio
+AnnouncementFailFetchData_LastKnown	No se pudo obtener el anuncio. Último recibido:
+	
+Cosmetic.pet_clank	Clank
+Cosmetic.pet_GuiltySpark	Guilty Spark
+Cosmetic.hat_halospartan	Casco de Spartan
+Cosmetic.hat_ratchet	Gorro de Ratchet
+Cosmetic.skin_halospartan	Armadura de Spartan
+Cosmetic.skin_ratchet	Mono de Ratchet
+Cosmetic.skin_screamghostface	Bata de Scream
+Cosmetic.hat_screamghostface	Máscara de Scream
+	
+AmongUsFriends	Amigos de Among Us
+FriendsGuestWarning	Debes tener una conexión para usar esta función.
+PlatformFriends	Amigos de la plataforma
+BlockedPlayers	Jugadores bloqueados
+RecentPlayers	Recientemente jugaste con
+LobbyLabel	Sala
+FriendCodeExplanation	¡Ahora Among Us tiene una lista de amigos! Para enviar y recibir solicitudes de amistad o de juego, elige un código único de Amigos de aquí abajo.\n\nDespués de elegirlo no podrás cambiarlo.
+FriendCodeSuccess	Tu código de amigo es: {0}
+FriendRequestReceived	Solicitud de amistad recibida
+FriendRequestSent	Solicitud de amistad enviada
+GameLobbyInviteSent	Invitación para jugar enviada
+GameLobbyInviteReceived	Invitación para jugar recibida
+BlockPlayerConfirm	¿Bloquear a este jugador?
+RemoveFriendConfirm	¿Eliminar a este amigo?
+InviteToLobbyConfirm	¿Enviar la invitación para jugar?
+FriendCodeLabel	Código de amigo
+FriendCodeCreationTitle	Elige un código de amigo
+FriendRequestSentFailed	Se produjo un error al enviar la solicitud de amistad
+ErrorBadUsername	Formato no válido de código de amistad. Ingresa un código de amistad completo para intentarlo de nuevo (p. ej. SmallBeans#0001)
+ErrorUserNotFound	El código de amigo no existe
+ErrorPlatformFriends	Se produjo un error al obtener tu lista de amigos de la plataforma
+ErrorThisIsYou	Es imposible agregarte como amigo. Lo sentimos.
+ErrorFriendRequestExists	Ya le enviaste una solicitud a este usuario
+ErrorAlreadyFriends	Este usuario ya es tu amigo. ¡Viva!
+GameLobbyInviteSentFailed	Se produjo un error al enviar la invitación para jugar
+BlockedPlayerFailed	Se produjo un error al bloquear a este jugador
+BlockedPlayer	Jugador bloqueado
+AlreadyBlocked	Este jugador ya está bloqueado
+FriendList	Lista de amigos
+NoNewRequests	No hay solicitudes
+AddFriendPrompt	Agregar con código de amigo
+NewRequests	Solicitudes nuevas: {0}
+Requests	Solicitudes
+AddFriend	Agregar amigo
+StreamWarning	¡No muestres esto de forma pública a menos que quieras que todos conozcan tu código de amigo!
+FriendsListPermissionsWarning	Necesitas permiso del adulto a cargo para utilizar esta función.
+AddFriendConfirm	¿Enviar solicitud de amistad a {0}?
+UnfriendConfirm	¿Quieres eliminar a {0} como amigo?
+UnblockConfirm	¿Quieres desbloquear a {0}?
+SettingsEnableFriendInvites	Invitaciones de amistad y de sala
+ErrorTooManyRequests	Demasiadas solicitudes de sala. Espera algunos minutos antes de intentarlo de nuevo.
+TempDisabled	Desactivado de forma temporal
+TempDisabledLinkExplain	Estamos realizando cambios a las cuentas. Restringimos la posibilidad de vincular cuentas existentes de forma temporal. ¡Muy pronto arreglaremos esto en una actualización futura!
+RedeemPopup	¡Aquí tienes un regalo de parte de la Tripulación!\n{0}.
+RedeemButton	Aceptar
+ErrorMaxFriends	Tu lista de amigos está llena.
+ErrorPlayerBlockedYou	Error: este usuario se encuentra en tu lista de bloqueados o te tiene a ti en su lista.
+ErrorRecipientMaxFriendRequests	Error: Este usuario llegó al máximo de solicitudes de amistad y no puede recibir más.
+ErrorSenderMaxFriendRequests	Error: Llegaste al máximo de solicitudes de amistad enviadas.
+ErrorRecipientMaxFriends	Error: La lista de amigos de este usuario está llena.
+ViewRequests	Ver solicitudes
+ParentPortalButton	Pedir permiso
+FriendsListEmailSent	Acabamos de enviar un correo electrónico a tu padre, madre o tutor para solicitar los permisos adicionales de la Lista de amigos. Pídeles que revisen su correo electrónico.
+Decontamination3	Descontaminación inferior
+ErrorCommunications	Tus ajustes de comunicación te impiden unirte a la partida. Habilita la comunicación con otros para poder unirte.
+SettingsColorblind	Texto para daltonismo
+MergeGuestAccountText	¡Parece que hay una <link="https://www.innersloth.com/merging-guest-accounts/">cuenta de invitado</link> en este dispositivo! Pronto dejaremos de gestionar cuentas de invitado, se combinarán todos los objetos, monedas y la experiencia de tu cuenta de invitado con esta de {0}.\n\nSi compartes este dispositivo (computadora, teléfono, etc.) con otras personas, toma en cuenta que quienes lo usan COMPARTEN esta cuenta. Si continuas, ningún otro usuario de este dispositivo podrá combinar esta cuenta de invitado y solo puedes combinarla UNA vez. No podrás redistribuir los objetos, monedas y experiencia vinculados a esta cuenta de invitado.\n\nConfirma que deseas combinar tu cuenta de invitado con esta cuenta de {0}.
+MergeGuestAccountTitle	Combinar cuenta de invitado
+ManageAccountTitle	Gestionar cuenta
+ManageAccountText	Visita <link="https://accounts.innersloth.com/">https://accounts.innersloth.com</link> para gestionar o combinar tu cuenta o si tienes algún problema.
+CurrencyBeans	Frijoles
+CurrencyPods	Pods de {MapName}
+	
+Cosmetic.visor_BaconVisor	Qué gusto verte
+Cosmetic.hat_Baguette	Panelista crujiente
+Cosmetic.skin_Bananaskin	Bananitástico
+Cosmetic.visor_BananaVisor	Casi resbalo
+Cosmetic.nameplate_BlimeyPlate	Azulmones
+Cosmetic.skin_BlueApronskin	Aquí tienes tu orden - Azul
+Cosmetic.skin_BlueSuspskin	Frutas azules
+Cosmetic.hat_BreadLoaf	Pan de cada día
+Cosmetic.nameplate_BreadPlate	El pan es lo máximo
+Cosmetic.pet_BredPet	Panecillo fiel
+Cosmetic.visor_BubbleBumVisor	Bombazo delicioso
+Cosmetic.hat_Butter	Mantequilloso
+Cosmetic.skin_ChefBlackskin	¿Qué cocinamos? - Negro
+Cosmetic.pet_ChewiePet	Gomitripulante
+Cosmetic.visor_CucumberVisor	Hora del spa
+Cosmetic.nameplate_EggPlate	¡Desayuno divertido!
+Cosmetic.pet_HamPet	Jamón fiel
+Cosmetic.skin_Hotdogskin	Salchichoso
+Cosmetic.visor_IceCreamChocolateVisor	Heladazo - Chocolate
+Cosmetic.visor_IceCreamMintVisor	Heladazo - Menta
+Cosmetic.visor_IceCreamStrawberryVisor	Heladazo - Fresa
+Cosmetic.visor_IceCreamUbeVisor	Heladazo - Púrpura
+Cosmetic.hat_OrangeHat	Clementina se va a acordar
+Cosmetic.skin_OrangeSuspskin	Sueño de mandarina
+Cosmetic.hat_PancakeStack	Plato delicioso
+Cosmetic.hat_Pineapple	Piña divertida
+Cosmetic.skin_PinkApronskin	Aquí tienes tu orden - Pastelillo
+Cosmetic.nameplate_PinkPlate	Toronja rosa
+Cosmetic.nameplate_PizzaPlate	Toma tu rebanada
+Cosmetic.hat_PizzaSliceHat	Pizza Hat
+Cosmetic.visor_PizzaVisor	¿Quieres una rebanada?
+Cosmetic.nameplate_PlatePlate	Nombre servido
+Cosmetic.hat_StrawberryLeavesHat	Bayas tímidas
+Cosmetic.hat_ToastButterHat	Tostada con mantequilla
+Cosmetic.visor_ToastVisor	Tostada mañanera
+Cosmetic.skin_YellowApronskin	Aquí tienes tu orden - Cítrico
+Cosmetic.skin_YellowSuspskin	Chica limonada
+Cosmetic.skin_PinkSuspskin	Traje de toronja
+	
+Cosmetic.hat_BananaGreen	Bananazo - Verde
+Cosmetic.hat_BananaPurple	Bananazo - Rojirosa
+Cosmetic.hat_cheeseBleu	Sabor a queso - Azul
+Cosmetic.hat_cheeseMoldy	Sabor a queso - Apestoso
+Cosmetic.hat_cheeseSwiss	Sabor a queso - Suizo
+Cosmetic.hat_ChefWhiteBlue	Soy el chef - Claro, el chef
+Cosmetic.hat_cherryOrange	Cereza del pastel - Lluviosa
+Cosmetic.hat_cherryPink	Cereza del pastel - Rosa
+Cosmetic.hat_chocolateCandy	Helado - Chicle
+Cosmetic.hat_chocolateMatcha	Helado - Matcha
+Cosmetic.hat_chocolateVanillaStrawb	Heladazo - Fresa vainilla
+Cosmetic.hat_croissant	Croissant crujiente
+Cosmetic.hat_eggGreen	Estrellado - Verde
+Cosmetic.hat_eggYellow	Estrellado - Frito
+Cosmetic.skin_ApronGreen	Aquí tienes tu orden - Latte
+Cosmetic.skin_ChefBlue	¿Qué cocinamos? - Azul
+Cosmetic.skin_ChefRed	¿Qué cocinamos?
+Cosmetic.hat_IceCreamMatcha	Heladazo doble - Matcha
+Cosmetic.hat_IceCreamMint	Heladazo doble - Menta
+Cosmetic.hat_IceCreamNeo	Heladazo doble - Napolitano
+Cosmetic.hat_IceCreamStrawberry	Heladazo doble - Fresa
+Cosmetic.hat_IceCreamUbe	Heladazo doble - Púrpura
+Cosmetic.hat_IceCreamVanilla	Heladazo doble - Vainilla
+Cosmetic.visor_lollipopCrew	Paletita - Tripulante
+Cosmetic.visor_lollipopLemon	Paletita - Piña
+Cosmetic.visor_lollipopLime	Paletita - Manzana
+Cosmetic.nameplate_Croissant	Croissant en fuga
+Cosmetic.nameplate_Lemon	Si los limones te dan vida
+Cosmetic.nameplate_Orange	Naranja y media
+Cosmetic.hat_sausage	Salchicho
+SignInIssueTitle	Error de cuenta de {0}
+SignInIssueText	Lamentablemente, no se puede usar tu {0} para crear una cuenta debido a las restricciones de cuenta. Inténtalo de nuevo con un {1} distinto.\n\nPuedes seguir jugando Among Us en este dispositivo, pero se limitarán las funciones, incluidas las siguientes: vinculación de cuentas, compras de estrellas y la transferencia de artículos a un dispositivo nuevo. Si tienes preguntas, contacta a support@innersloth.com
+FriendListUnavailable	Lista de amigos no disponible
+	
+ErrorSanction	Debido a {0}, tu cuenta ha sido suspendida por {1}.
+SanctionDuration	hasta {0}
+SanctionPermanent	de forma permanente
+SanctionConduct	\r\n¡Usa este tiempo para considerar y recordar nuestro <link="https://www.innersloth.com/esmx/code-of-conduct-spanish-mx/">Código de conducta</link>!
+SanctionSexualMisconduct	faltas de índole sexual
+SanctionDoxing	compartir o amenazar con compartir información personal
+SanctionIllegalActivity	participar o promover actividades ilegales
+SanctionHarassment	enviar mensajes de odio, despectivos o de discriminación en el chat
+SanctionSelfHarmPromotion	promover autolesiones o suicidio
+SanctionCheatingHacking	hacer trampa/usar hacks
+SanctionSpamming	saturar el chat
+SanctionUnsportsmanlikeConduct	conducta antideportiva
+SanctionInappropriateChatDating	conversaciones inadecuadas
+SanctionBullying	abuso
+SanctionInappropriateChatPersonalInfo	conversaciones inadecuadas
+SanctionImpersonationDevelopers	suplantación de desarrolladores
+SanctionImpersonationCeleb	suplantación de personas famosas
+SanctionWeaponizingRules	uso inadecuado de las reglas
+SanctionInappropriateNameDerogatory	tener un nombre inadecuado
+SanctionInappropriateNameNsfw	tener un nombre inadecuado
+SanctionInappropriateNameUnsportsmanlike	tener un nombre inadecuado
+SanctionRepeatOffender3	infracciones repetidas
+SanctionRepeatOffender10	infracciones repetidas
+SanctionUnknown	una infracción del Código de conducta
+	
+FeaturedItems	Objetos destacados
+FeaturedBundles	Paquetes destacados
+FeaturedCubes	Cosmicubos destacados
+	
+AbbreviatedDay	{0} d
+AbbreviatedHour	{0} h
+AbbreviatedMinute	{0} m
+AbbreviatedSecond	{0} s
+	
+BugReportCategoryGeneral	Pregunta general
+BugReportCategoryAccountManagement	Gestión de la cuenta
+BugReportCategoryGameplayIssue	Problema/error de juego
+BugReportCategoryServerIssues	Problemas del servidor
+BugReportCategoryBilling	Ayuda con pagos y facturación
+BugReportPopUpSubmittedText	¡Gracias! Tus comentarios se enviaron correctamente.
+BugReportPopUpSubmissionFailedText	Enviaste comentarios hace muy poco tiempo. Inténtalo más tarde.
+BugReportPopUpCategoryLabel	Categoría
+BugReportPopUpDescriptionLabel	Describe detalladamente qué estabas haciendo cuando ocurrió el problema. Si necesitas ayuda adicional, envía un correo a support@innersloth.com.
+BugReportPopUpTitle	¡Ay, no! ¡Algo salió mal!
+BugReportIssueButton	Enviar un problema
+BugReportPopUpAttachScreenshotLabel	¿Tomar captura de pantalla?
+BugReportPopUpAttachScreenshotDesc	Se tomará una captura de pantalla de tu juego (excepto de la ventana de Ayuda) y se adjuntará a tu comentario.
+Email	Correo electrónico
+SettingsHelp	Ayuda
+UserIdTokenError	La autenticación expiró. Si el problema persiste, reinicia el juego.
+	
+Cosmetic.hat_hl_korone	Sombrero de Inugami Korone
+Cosmetic.hat_hl_okayu	Sombrero de Nekomata Okayu
+Cosmetic.hat_hl_gura	Sombrero de Gawr Gura
+Cosmetic.hat_hl_mio	Sombrero de Ookami Mio
+Cosmetic.hat_hl_fubuki	Sombrero de Shirakami Fubuki
+Cosmetic.hat_hl_risu	Sombrero de Ayunda Risu
+Cosmetic.hat_hl_moona	Sombrero de Moona Hoshinova
+Cosmetic.hat_hl_pekora	Sombrero de Usada Pekora
+Cosmetic.hat_hl_marine	Sombrero de Houshou Marine
+Cosmetic.hat_hl_watson	Sombrero de Watson Amelia
+Cosmetic.skin_hl_korone	Atuendo de Inugami Korone
+Cosmetic.skin_hl_okayu	Atuendo de Nekomata Okayu
+Cosmetic.skin_hl_gura	Atuendo de Gawr Gura
+Cosmetic.skin_hl_mio	Atuendo de Ookami Mio
+Cosmetic.skin_hl_fubuki	Atuendo de Shirakami Fubuki
+Cosmetic.skin_hl_risu	Atuendo de Ayunda Risu
+Cosmetic.skin_hl_moona	Atuendo de Moona Hoshinova
+Cosmetic.skin_hl_pekora	Atuendo de Usada Pekora
+Cosmetic.skin_hl_marine	Atuendo de Houshou Marine
+Cosmetic.skin_hl_watson	Atuendo de Watson Amelia
+Cosmetic.visor_hl_nothoughts	Sin pensamientos
+Cosmetic.visor_hl_sweepy	Dormilinda
+Cosmetic.visor_hl_smug	Aura engreída
+Cosmetic.visor_hl_ah	Ah.
+Cosmetic.visor_hl_hmph	¡Jmph!
+Cosmetic.visor_hl_teehee	¡Je, je, je!
+Cosmetic.visor_hl_bored	Aburrimiento
+Cosmetic.visor_hl_nudge	Un empujoncito
+Cosmetic.visor_hl_marine	Parche de Marine
+Cosmetic.visor_hl_wrong	Ja, ja, ¿qué podría salir mal?
+	
+AccountDeleteHelp	Al presionar ACEPTAR, solicitas la eliminación de todos tus datos de Among Us. Esta solicitud tomará de 7 a 14 días y eliminará todas tus estrellas, EXP, frijoles, pods y compras de elementos cosméticos. Una vez que tu cuenta sea eliminada, esta acción no podrá revertirse. Tu cuenta funcionará de forma normal hasta que el proceso de eliminación finalice.\n\nSi encuentras algún error, contáctanos a support@innersloth.com.
+DeleteAccount	Eliminar cuenta
+DoNotDeleteAccount	Cancelar eliminación de cuenta
+AccountUnDeleteHelp	Al presionar ACEPTAR, detendrás el proceso de eliminación de cuenta. Si deseas eliminar tu cuenta, deberás solicitarlo de nuevo.\n\nSi encuentras algún error, contáctanos a support@innersloth.com.
+ConfirmDelete	Escribe DELETE para confirmar
+ConfirmDeleteAccounts	Marca esta casilla para aceptar que comprendes que esta acción eliminará tu cuenta y las cuentas vinculadas ({0}).
+ConfirmDeleteAccountsEmpty	Marca esta casilla para aceptar que comprendes que esta acción eliminará tu cuenta y las cuentas vinculadas.
+AccountRequestDelete	Eliminación de cuenta pendiente
+	
+UserVersionError	Versión incorrecta: Esta sala se creó con Among Us {0}
+Cosmetic.visor_vr_Vr-Black	Realidad virtual - Negro
+Cosmetic.visor_vr_Vr-White	Realidad virtual - Blanco
+	
+GameType	Tipo de partida
+GameTypeError	¡Error!
+GameTypeClassic	Clásica
+GameTypeHideAndSeek	Escondite
+	
+ShowCrewmateNames	Mostrar nombres
+	
+HideActionButton	Esconderse
+HasBeenKilled	Murió
+Random	Al azar
+Ghost	Fantasma
+CurrentlyHaunting	Atormentando a:
+RoundRobin	Selección
+RuleOneCrewmates	Sobrevive hasta que el tiempo se agote.\nTerminar tareas reduce el temporizador.
+RuleTwoCrewmates	¡Usa los ductos y el peligrómetro para esconderte!
+RuleThreeCrewmates	¡Cuando el tiempo se agota, el impostor puede rastrearte!
+RuleOneImpostor	¡Asesina a todos los tripulantes dentro del límite de tiempo!
+RuleTwoImpostor	Actúa rápido. Tienes visión limitada y no tienes acceso a los ductos.
+RuleThreeImpostor	¡En los últimos momentos, obtienes una mejora de velocidad y pistas de rastreo!
+RuleOneCrewmatesTitle	Realiza tareas
+RuleTwoCrewmatesTitle	Escóndete bien
+RuleThreeCrewmatesTitle	Escondite final
+RuleOneImpostorTitle	Asesina rápido
+RuleTwoImpostorTitle	Busca
+PetAction	Acariciar
+EscapeTime	Tiempo para esconderse
+FinalEscapeTime	Tiempo de escondite final
+UseFlashlight	Modo linterna
+CrewmateFlashlightSize	Tamaño de linterna del tripulante
+ImpostorFlashlightSize	Tamaño de linterna del impostor
+SeekerFinalSpeed	Velocidad del impostor de Escondite final
+SeekerFinalMap	Mapa de Escondite final
+SeekerPings	Alertas de Escondite final
+MaxPingTime	Intervalo de alertas
+TagsTitle	Etiquetas
+FiltersTitle	Filtros
+TagFiltersTitle	Filtros
+FiltersAppliedSingular	{0} Filtro aplicado
+FiltersAppliedPlural	{0} Filtros aplicados
+TagsFilteredSingular	Se requiere etiqueta {0}
+TagsFilteredPlural	Se requieren etiquetas {0}
+TagsAppliedSingular	Etiqueta {0} aplicada
+TagsAppliedPlural	Etiquetas {0} aplicadas
+DefaultFilterTag_FirstTime	Principiante
+DefaultFilterTag_Casual	Casual
+DefaultFilterTag_Serious	Serio
+DefaultFilterTag_Expert	Experto
+TagFiltersHelpFindGame	Puedes filtrar búsquedas al seleccionar etiquetas de la lista desplegable. Los filtros que selecciones coincidirán con los resultados de la búsqueda <i>con exactitud</i>.\n\nPor ejemplo, si seleccionas <b>casual</b> y <b>experto</b>, solo encontrarás partidas etiquetadas con los filtros <b>casual</b> y <b>experto</b>.
+TagFiltersHelpCreate	Puedes etiquetar tu partida con filtros para ayudar a otros jugadores a encontrarla. Los filtros que selecciones coincidirán con los resultados de la búsqueda <i>con exactitud</i>.\n\nPor ejemplo, si seleccionas <b>casual</b> y <b>experto</b>, solo aquellos que busquen las etiquetas <b>casual</b> y <b>experto</b> podrán ver tu partida.
+MapFiltersSelected	{0} mapas seleccionados
+FindGameNeedsRefresh	Los ajustes de filtro cambiaron\n\nActualiza la página.
+CreateLabel	Crear
+NewGameMode	¡Nuevo modo de juego!
+NewModeInfo	¡Todo es de alto riesgo en este nuevo modo de juego lleno de adrenalina! \n<i>Pero espera, no es El escondite de siempre...</i>
+HideSeekHowToPlayCaptionOne	¡Es fácil!
+HideSeekHowToPlayCaptionTwo	¡Tripulantes!
+HideSeekHowToPlayCaptionThree	¡Impostores!
+HideSeekHowToPlayPageOne	<color=#38F25D><b>Tripulantes:</b></color> completen las tareas para acelerar el reloj, eviten al impostor y manténganse con vida hasta que el tiempo se agote.\n\n<color=#FF3131><b>Impostor:</b></color> encuentra a los tripulantes y acaba con ellos.
+HideSeekHowToPlaySubtextOne	Sin tanta discusión, solo gritos de terror.
+HideSeekHowToPlayCrewmateInfoOne	Domina el arte del escondite y el sigilo para sobrevivir.
+HideSeekHowToPlayCrewmateInfoTwo	En este modo, puedes usar los ductos y obtener un peligrómetro de alta tecnología que te alerta cuando un impostor anda cerca. El impostor tiene un alcance de visión limitado, ¡así que usa tu ingenio, los ductos y las viseras para que no te vea!
+HideSeekHowToPlayImpostorInfoOne	Los impostores no pueden usar los ductos en este modo de juego. Deberás actuar rápido para atrapar a la presa. ¡Está oscuro! ¡Por suerte, tienes una linterna que te ayudará a encontrar a tu próxima víctima!
+HideSeekHowToPlayFinalHide	Es el conteo finaaaaaaaal. En los últimos momentos del juego, el impostor obtiene una mejora de energía: se vuelve más rápido, obtiene un mapa de búsqueda especial y una alerta direccional hacia donde se encuentran los tripulantes.\n\n¡Piensa rápido y huye estratégicamente para ganar!
+HideSeekHowToPlayFlashlightMobile	¡Usa el ícono linterna a la derecha de tu pantalla para dirigir la luz y asesinar a todos los tripulantes que encuentres!
+HideSeekHowToPlayFlashlightDefault	¡Usa el mouse para dirigir la luz y asesinar a todos los tripulantes que encuentres!
+HideSeekHowToPlayFlashlightConsoles	¡Usa el stick derecho para dirigir la luz y asesinar a todos los tripulantes que encuentres!
+HideSeekHowToPlayFlashlightPlayStation	¡Usa el joystick derecho para dirigir la luz y asesinar a todos los tripulantes que encuentres!
+HideSeekHowToPlayFlashlightSwitch	¡Usa la palanca derecha para dirigir la luz y asesinar a todos los tripulantes que encuentres!
+OptionUnavailablePublicLobby	No disponible en salas públicas
+Cosmetic.nameplate_ballPit	Una hora más
+Cosmetic.nameplate_cafeteria	¿Me puedo sentar aquí?
+Cosmetic.nameplate_deadbodyfound	¡Reportado!
+Cosmetic.nameplate_ejected	Nadie puede oír tus gritos
+Cosmetic.nameplate_flagAce	Bandera orgullo asexual
+Cosmetic.nameplate_flagAgend	Bandera orgullo agénero
+Cosmetic.nameplate_flagBi	Bandera orgullo bisexual
+Cosmetic.nameplate_flagGendF	Bandera orgullo género fluido
+Cosmetic.nameplate_flagGendQ	Bandera orgullo cuirgénero
+Cosmetic.nameplate_flagNonbinary	Bandera orgullo no binario
+Cosmetic.nameplate_flagPan	Bandera orgullo pansexual
+Cosmetic.nameplate_flagPride	Bandera orgullo inclusivo
+Cosmetic.nameplate_flagLesbian	Bandera orgullo lésbico
+Cosmetic.nameplate_flagRainbow	Bandera orgullo gay
+Cosmetic.nameplate_flagTrans	Bandera orgullo trans
+Cosmetic.nameplate_flashlight	¿Quién está ahí?
+Cosmetic.nameplate_impostor	Sabotaje inminente
+Cosmetic.nameplate_ninjas	Oculto en las sombras
+Cosmetic.nameplate_polus	Relajación en Polus
+Cosmetic.nameplate_reactor	Los tripulantes reaccionan
+Cosmetic.nameplate_ripple	Reacción en cadena
+Cosmetic.nameplate_seeker	Lengua asesina
+Cosmetic.nameplate_shhh	Chisssst
+Cosmetic.pet_nuggetPet	El nugget
+	
+Cosmetic.visor_Candycane	Bastón dulzón mortalón
+Cosmetic.nameplate_candyCanePlate	Dulzura navideña
+Cosmetic.pet_coaltonpet	Carbonlais
+Cosmetic.skin_greedygrampaskin	Abuelo Avaro
+Cosmetic.visor_IceBeard	Barba fría
+Cosmetic.hat_Igloo	Cabeza fría
+Cosmetic.hat_Present	Regalo arriba
+Cosmetic.skin_presentskin	Regalo abajo
+Cosmetic.visor_Rudolph	La roja nariz
+Cosmetic.skin_scarfskin	Bufanda calientita
+Cosmetic.hat_Scrudge	Sombrero cano
+Cosmetic.hat_Snowman	Cabeza de nieve
+Cosmetic.nameplate_SnowmiesPlate	Tripulación helada
+Cosmetic.hat_StarTopper	Soy la estrella
+Cosmetic.skin_uglysweaterskin	Suéter perezoso
+Cosmetic.nameplate_winterForestPlate	Huele a pino
+Cosmetic.nameplate_WrappingPaperPlate	Amárrate eso
+Cosmetic.hat_crownBean	Barón frijol
+Cosmetic.hat_crownDouble	Corona doble
+Cosmetic.hat_crownTall	Coronísima
+Cosmetic.hat_wigJudge	Persona pomposa
+Cosmetic.hat_wigTall	Persona polvorienta
+Cosmetic.hat_cashHat	100 grandes
+Cosmetic.hat_tinFoil	Es una conspiración
+Cosmetic.hat_mareLwyd	Caballo tenebroso
+Cosmetic.hat_schnapp	Pelos de punta
+Cosmetic.hat_Sorry	Perdón
+Cosmetic.visor_wash	Lávame
+Cosmetic.visor_anime	Ojo de anime
+Cosmetic.visor_teary	Yo no fui
+Cosmetic.visor_tvColorTest	Fin de la transmisión
+Cosmetic.visor_beautyMark	Lunar feliz
+Cosmetic.visor_Stealthgoggles	Visera de sigilo
+Cosmetic.visor_Plsno	ayño
+	
+Cosmetic.hat_NewYear2023	Feliz 2023
+Cosmetic.pet_HolidayHamPet	Jamón festivo
+Cosmetic.pet_YuleGoatPet	Cabra festiva
+	
+Cosmetic.skin_Box1skin	Empacado
+Cosmetic.skin_BubbleWrapskin	Frágil
+Cosmetic.skin_Burlapskin	Yute estiloso
+Cosmetic.skin_BushSign1skin	Arbusto realista
+Cosmetic.skin_Horse1skin	Túnica de caballo tenebroso
+Cosmetic.skin_Sack1skin	Costal de papas
+Cosmetic.skin_benoit	Benoit Blanc
+Cosmetic.hat_babybean	Frijolito
+Cosmetic.skin_Astronaut-Blueskin	Astronauta: azul
+Cosmetic.skin_Astronaut-Cyanskin	Astronauta: azul cielo
+Cosmetic.skin_Astronaut-Orangeskin	Astronauta: naranja
+HauntAbilityName	Atormentar
+	
+RestorePurchases	Reestablecer compras
+StatsHidenSeekGamesCrewmateSurvived	Partidas de Escondite sobrevividas:\t
+StatsHidenSeekTimesVented	Ductos usados en Escondite:\t
+StatsTimesPettedPet	Cantidad de caricias:\t
+StatsImpostorKills_HideAndSeek	Asesinatos como impostor en Escondite:\t
+StatsFastestCrewmateWin_HideAndSeek	Victoria como tripulante más rápida en Escondite:\t
+StatsFastestImpostorWin_HideAndSeek	Victoria como impostor más rápida en Escondite:\t
+StatsHideAndSeekImpostorVictory	Victorias como impostor en Escondite:\t
+StatsHideAndSeekCrewmateVictory	Victorias como tripulante en Escondite:\t
+SeekButton	Busca
+ScrollList	Desplazar lista
+ScrollNews	Desplazar noticias
+AmongUsAnnouncements	Anuncios de Among Us
+Cosmetic.hat_osiris	Yelmo de Osiris
+Cosmetic.hat_maraSov	Mara Sov
+Cosmetic.skin_D2Osiris	Armadura de Osiris
+Cosmetic.hat_saint14	Yelmo de Saint-14
+Cosmetic.skin_D2Saint14	Armadura de Saint-14
+Cosmetic.hat_shaxx	Casco de Shaxx
+Cosmetic.skin_D2Shaxx	Armadura de Shaxx
+Cosmetic.hat_titan	Casco de titán
+Cosmetic.hat_warlock	Casco de hechicero
+Cosmetic.hat_hunter	Capucha de cazador
+Cosmetic.skin_D2Titan	Armadura de titán
+Cosmetic.skin_D2Warlock	Armadura de hechicero
+Cosmetic.skin_D2Hunter	Armadura de cazador
+Cosmetic.hat_starhorse	Caballo estelar
+Cosmetic.hat_savathun	Corona de Savathûn
+Cosmetic.visor_savathun	Ojos de Savathûn
+Cosmetic.hat_caiatl	Yelmo de Caiatl
+Cosmetic.visor_eliksni	Place frontal eliksni
+Cosmetic.hat_pyramid	Pirámides
+Cosmetic.visor_erisBandage	Venda de Eris Morn
+Cosmetic.hat_erisMorn	Eris Morn
+Cosmetic.hat_chalice	Cáliz de Calus
+Cosmetic.pet_D2PoukaPet	Pouka
+Cosmetic.pet_D2WormPet	Gusano
+Cosmetic.pet_D2GhostPet	Espectro
+Cosmetic.nameplate_titan	Orgullo de titán
+Cosmetic.nameplate_warlock	Orgullo de hechicero
+Cosmetic.nameplate_hunter	Orgullo de cazador
+Cosmetic.nameplate_lightfall	Eclipse
+AnnouncementErrorSubtitle	¡Ay, no! ¡Sabotaje en los anuncios!
+AnnouncementErrorText	Parece que algo salió mal. Asegúrate de que estés jugando en línea y que el juego esté en la versión más reciente para poder recibir toda la información y las correcciones de Among Us.\n\nSi aún tienes problemas, envía una solicitud de soporte a support@innersloth.com.
+ReadMoreLabel	¡para ver todo el anuncio!
+ReturnToList	Volver a lista
+NavigateLinks	Navegar enlaces
+HttpErrorContextNone	Ocurrió un problema al conectar con el servidor
+HttpErrorContextAuthenticate	Ocurrió un problema de autenticación
+HttpErrorContextRequestGameCode	Ocurrió un problema al encontrar un código de juego
+HttpErrorContextFindHostServer	Ocurrió un problema al encontrar servidor anfitrión
+HttpErrorContextRequestGamesList	Ocurrió un problema al solicitar la lista de juegos
+HttpErrorUnknown	Error desconocido
+HttpErrorBadRequest	Solicitud inválida. Código: 400
+HttpErrorUnauthorized	No autorizado. Código: 401
+HttpErrorForbidden	Prohibido. Código: 403
+HttpErrorNotFound	No se encontró. Código: 404
+HttpErrorMethodNotAllowed	Método no permitido. Código: 405
+HttpErrorRequestTimeout	Se agotó el tiempo de solicitud. Código: 408
+HttpErrorTooManyRequests	Demasiadas solicitudes. Código: 429
+HttpErrorInternalServerError	Error interno del servidor. Código: 500
+HttpErrorBadGateway	Entrada inválida. Código: 502
+HttpErrorServiceUnavailable	Servicio no disponible. Código: 503
+HttpErrorGatewayTimeout	Se agotó el tiempo de entrada. Código: 504
+AgeVerificationTitle	Verificación de edad
+AgeVerificationInfoTitle	¿Qué es la verificación de edad?
+AgeVerificationInfo	La verificación de edad es necesaria para poder acceder a Among Us. No guardaremos tu fecha de nacimiento.
+AgeVerificationMoreInfo	Para saber más acerca de nuestras prácticas de privacidad, visita\n <link="https://www.innersloth.com/esmx/privacy-policy-mx/">https://www.innersloth.com/esmx/privacy-policy-mx/</link>
+EditLabel	Editar
+VerifyAgeText	¿Tu fecha de nacimiento es correcta?
+Cosmetic.nameplate_flagMlm	Bandera orgullo MLM
+Cosmetic.nameplate_flagAro	Bandera orgullo arro
+Cosmetic.visor_chimkin	Poio
+Cosmetic.hat_rabbitEars	Temporada de conejos
+Cosmetic.hat_fishCap	Terror de los peces
+Cosmetic.hat_bandanaWBY	Bandana la banda
+PlayLabel	Jugar
+SettingsLabel	Ajustes
+NewsLabel	Noticias
+AccountLabel	Mi cuenta
+CreditsLabel	Créditos
+ShopLabel	Tienda
+InventoryLabel	Inventario
+StatsLabel	Estadísticas
+FriendsLabel	Amigos
+Cosmetic.hat_starBalloon	Cinco de cinco
+Cosmetic.visor_shuttershadesWhite	Gafas de fiesta: blanco
+Cosmetic.visor_shuttershadesPink	Gafas de fiesta: rosado
+Cosmetic.visor_shuttershadesPurple	Gafas de fiesta: mora
+Cosmetic.visor_shuttershadesBlue	Gafas de fiesta: azul
+Cosmetic.visor_shuttershadesLime	Gafas de fiesta: verde
+Cosmetic.visor_shuttershadesYellow	Gafas de fiesta: amarillo
+Cosmetic.hat_glowstickPink	Que no pare la fiesta: rosa
+Cosmetic.hat_glowstickYellow	Que no pare la fiesta: amarillo
+Cosmetic.hat_glowstickCyan	Que no pare la fiesta: cian
+Cosmetic.hat_glowstickOrange	Que no pare la fiesta: naranja
+Cosmetic.hat_glowstickPurple	Que no pare la fiesta: mora
+Cosmetic.pet_Pip	Pip
+Cosmetic.pet_Pusheen	Pusheen
+Cosmetic.pet_Stormy	Stormy
+Cosmetic.nameplate_pusheen_01	¿Qué significa un solo arcoíris?
+Cosmetic.nameplate_pusheen_02	Campos de fresas
+Cosmetic.nameplate_pusheen_03	Dona-ciones de rosquillas
+Cosmetic.nameplate_pusheen_04	¿Qué tienes ahí?
+Cosmetic.hat_pusheenGreyHat	Sombrero de Pusheen
+Cosmetic.hat_PusheenicornHat	Super Pusheenicorn
+Cosmetic.hat_pusheenMintHat	Pusheen verde pastel
+Cosmetic.hat_pusheenPurpleHat	Pusheen lila pastel
+Cosmetic.hat_pusheenPinkHat	Pusheen rosa pastel
+Cosmetic.hat_pusheenSitHat	Si entro, me siento
+Cosmetic.hat_pusheenSleepHat	Siesta gatuna
+Cosmetic.hat_SlothHat	Sloth
+Cosmetic.visor_pusheenGorgeousVisor	¡Qué belleza!
+Cosmetic.visor_pusheenKissyVisor	Gatito besucón
+Cosmetic.visor_pusheenKoolKatVisor	Gato en onda
+Cosmetic.visor_pusheenOmNomNomVisor	Ñam ñam
+Cosmetic.visor_pusheenSmileVisor	Sonrisa de Pusheen
+Cosmetic.visor_pusheenYaaaaaayVisor	Yujuuuu
+Cosmetic.skin_PusheenGreyskin	Pusheen
+Cosmetic.skin_Pusheenicornskin	Super Pusheenicorn
+Cosmetic.skin_PusheenMintskin	Pusheen verde pastel
+Cosmetic.skin_PusheenPinkskin	Pusheen rosa pastel
+Cosmetic.skin_PusheenPurpleskin	Pusheen lila pastel
+Cosmetic.skin_Slothskin	Sloth
+Cosmetic.hat_bearyCold	Gorrosito
+	
+EosAccountSilentMergeFail	Algo salió mal al terminar de crear tu cuenta de Among Us. Inténtalo de nuevo o continúa con una cuenta de invitado. Todo el progreso se guardará, pero te recomendamos que configures tu cuenta para poder disfrutar de todas las funciones en Among Us.\n\n¿Reintentar configurar la cuenta?
+AskForEosAccount	¿Ya tienes una cuenta de Among Us? (También se le conoce como cuenta de Epic Online Services).\n\nSi ya has jugado Among Us en este dispositivo, selecciona "Sí".
+KwsCreateFail	¡Ay, no! Algo salió mal al enviar el correo de permisos al adulto responsable. Inténtalo de nuevo o continúa en el modo sin conexión.\n\n¿Intentar de nuevo?
+	
+MissingGuardianEmailText	Tu cuenta necesita el correo electrónico de un adulto a cargo. Debemos solicitar su permiso para continuar. Si acepta, podrás usar el chat libre en línea y cambiar tu nombre de usuario. ¡Pide ayuda a un adulto para hacer esto!
+MiningPit	Mina
+Jungle	Jungla
+BuildSandcastle	Construir castillo de arena
+FishingDock	Muelle
+CatchFish	Atrapar peces
+CollectShells	Recolectar caracolas
+LiftWeights	Levantar pesas
+RoastMarshmallow	Asar malvaviscos
+TestFrisbee	Lanzar frisbi
+CollectSamples	Recolectar muestras
+CollectVegetables	Recolectar vegetales
+HoistSupplies	Elevar suministros
+MineOres	Extraer mena
+ReplaceParts	Reemplazar partes
+HelpCritter	Ayudar criatura
+RecRoom	Zona de salpicaduras
+Lookout	Vigilancia
+Beach	Playa
+Highlands	Los acantilados
+SleepingQuarters	El dormitorio
+CrankGenerator	Activar generador
+FixAntenna	Reparar antena
+TuneRadio	Encontrar señal
+MushroomMixupSabotage	Mezcla de hongos activada por {0}
+MushroomMixupName	Mezcla de hongos
+CollectStick	Recolectar palo
+MineOresMine	Usar piqueta
+PolishGem	Pulir gema
+ExtractFuel	Extraer combustible
+MonitorMushroom	Monitorear hongo
+WipeSand	Limpiar arena
+PlayVideogame	Jugar videojuego
+CookFish	Cocinar pescado
+PrepVegetables	Preparar vegetales
+	
+LobbyTimerExpiringTitle	Sala a punto de expirar
+LobbyTimerExpiringMsg	¿Prolongar sala por {0}?
+LobbyTimerExpiringOk	Prolongar
+LobbyTimerExpiringNo	Descartar
+LobbyTimerExpiringUnit	s
+LobbyTimerExpiringMsg2	La sala se cerrará en {0}.
+LobbyTimerExpiringHud	La sala expira en {0}
+	
+Cosmetic.hat_pickaxe	Fallaste
+Cosmetic.hat_anchor	Ancla
+Cosmetic.hat_antenna	Platillo volador
+Cosmetic.hat_sharkfin	Aleta de tiburón
+Cosmetic.hat_lilShroom	Honguito bonito
+Cosmetic.hat_mushbuns	Lindo champiñón
+Cosmetic.hat_bucket	Rey del castillo
+Cosmetic.hat_mushroomBeret	Boina de champiñones
+Cosmetic.hat_fungleFlower	Sombrero apestosín
+Cosmetic.hat_fishingHat	Cubo de pesca
+Cosmetic.hat_killerplant	Planta mordelona
+Cosmetic.hat_shovel	Pala elegante
+Cosmetic.hat_beachball	Pelota de playa
+Cosmetic.hat_bucketHat	Cubo estiloso
+Cosmetic.hat_mysteryBones	Te romperé los huesos
+Cosmetic.visor_doubleeyepatch	Parche doble
+Cosmetic.visor_marshmallow	Tostaviscos
+Cosmetic.visor_starfish	Estrellado
+Cosmetic.visor_fishhook	Enganchado
+Cosmetic.visor_sunscreenv	Desbloqueador solar
+Cosmetic.skin_FishSkinskin	Sospezchoso
+Cosmetic.skin_FishingSkinskin	Pecioso traje
+Cosmetic.skin_InnerTubeSkinskin	No sé nadar
+Cosmetic.skin_LifeVestSkinskin	Chaleco salvavidas
+Cosmetic.pet_Creb	Gangrejo
+Cosmetic.nameplate_zipline	Destino salado
+Cosmetic.nameplate_grill	Maestro asador
+Cosmetic.nameplate_plant	Planta carnívora
+Cosmetic.nameplate_sandcastle	Arenosa
+Cosmetic.nameplate_cliffs	Sedimental
+	
+ReportNotificationHeader	¡Gracias por ayudarnos a que Among Us siga siendo un lugar seguro y amigable!
+ReportNotificationBody	Nuestro equipo de moderación evaluará la información que reportaste y tomará las acciones correspondientes de acuerdo con nuestro Código de conducta.
+ErrorClientTimeout	Te desconectaste del servidor. Esto puede deberse a problemas con el servidor o con el dispositivo. Verifica la intensidad de tu red.\n\nSi esto ocurre a menudo, es posible que tu dispositivo no sea tan reciente o que no cumpla con las especificaciones necesarias. Intenta jugar desde otro dispositivo.
+ErrorClientTimeoutConsole	Te desconectaste del servidor. Esto puede deberse a problemas del mismo o a problemas de red. Verifica la potencia de tu red.
+	
+Cosmetic.hat_NewYear2024	Feliz 2024
+	
+Cosmetic.nameplate_Celeste	Arriba y al frente
+Cosmetic.nameplate_flyingStrawberry	Atrápame si puedes
+Cosmetic.hat_madeline	Cabello de Madeline
+Cosmetic.hat_badeline	Cabello de Badeline
+Cosmetic.visor_theobeard	Barba de Theo
+Cosmetic.hat_theohair	Cabello de Teo
+Cosmetic.hat_bird	Pajarín
+Cosmetic.skin_Theoskin	Traje de Theo
+Cosmetic.skin_MadelineSkinskin	Traje de Madeline
+Cosmetic.skin_BadelineSkinskin	Chaqueta de Badeline
+Cosmetic.pet_Strawb	Fresa voladora
+Cosmetic.pet_napstamate	Napstripulante
+Cosmetic.hat_undyne	Coleta de la justicia
+Cosmetic.hat_floweyGood	Mejores amiguis
+Cosmetic.hat_floweyBad	Tu peor pesadilla
+Cosmetic.hat_spear	Lanza de la justicia
+Cosmetic.hat_boneUndertale	Bonetrousle
+Cosmetic.hat_duck	Ave que conduce tripulantes
+Cosmetic.nameplate_flowers	Había una vez
+Cosmetic.nameplate_fight	Pasarás un (mal) momento
+Cosmetic.skin_Undyneskin	Traje justiciero casual
+Cosmetic.skin_Sanskin	Sudadera de alguien más
+Cosmetic.skin_Papyrusskin	CoolSkeleton95
+Cosmetic.nameplate_battlefield	¡A luchar!
+Cosmetic.nameplate_hominid	¡ZAP!
+Cosmetic.hat_castleCrasher	Casco de Crashers
+Cosmetic.hat_hattyHattington	Sombrero de Hatty Hattington
+Cosmetic.hat_alienHominid	Antena alienígena
+Cosmetic.hat_king	Corona real
+Cosmetic.visor_hattyHattington	Sabrosas lágrimas de Hatty
+Cosmetic.visor_king	Dignidad real
+Cosmetic.visor_alienHominid	Prognatismo alienígena
+Cosmetic.pet_Rammy	Rammy
+Cosmetic.skin_KingSkinskin	Atuendo real
+Cosmetic.skin_HattySkinskin	Encantador traje de Hatty
+Cosmetic.skin_CrusaderSkinskin	Armadura de Crasher
+Cosmetic.nameplate_hourglass	No hay tiempo que perder
+Cosmetic.nameplate_shadows	Fin del contrato
+Cosmetic.hat_hatkid	Sombrero de niña
+Cosmetic.hat_conductor	Gorro del conductor
+Cosmetic.hat_mustachegirl	Caperucita bigotona
+Cosmetic.hat_bowkid	Moño de niña
+Cosmetic.skin_HatKidSkinskin	Capa de niña
+Cosmetic.skin_MoustacheKidSkinskin	Traje de niña bigotona
+Cosmetic.skin_Conductorskin	Uniforme del conductor
+Cosmetic.skin_BowKidskin	Vestido de niña moño
+Cosmetic.pet_Crow	Cuervo malito
+Cosmetic.visor_mustachegirl	Bigote de bigotona
+Cosmetic.nameplate_torch	Una luz en la noche
+Cosmetic.nameplate_dungeonFloor	Tango de la muerte
+Cosmetic.hat_shopkeeper	Sombrero de Frederik
+Cosmetic.hat_cadence	Bandana de Cadence
+Cosmetic.hat_nocturna	Coleta de Nocturna
+Cosmetic.hat_skull	Cara conocida
+Cosmetic.skin_FrederickSkinskin	Traje de Frederik
+Cosmetic.skin_CadenceSkinskin	Tabardo de Cadence
+Cosmetic.skin_Nocturnaskin	Alas de Nocturna
+Cosmetic.visor_shopkeeper	Chivera de Frederik
+Cosmetic.pet_DancingSkeletonPet	A mover el esqueleto
+Cosmetic.nameplate_honk	GRAZNIDO
+Cosmetic.nameplate_knife	La paz nunca fue una opción
+Cosmetic.pet_GoosePet	Un ganso
+Cosmetic.hat_bell	Campanita dorada
+Cosmetic.hat_goosefloaty	Flotador de ganso sin nombre
+Cosmetic.hat_gardener	Boina de jardinero
+Cosmetic.visor_goose	Pico de un ganso
+Cosmetic.visor_gardenernose	Nariz de jardinero
+Cosmetic.visor_wimpglasses	Gafas de mequetrefe
+Cosmetic.skin_GardenerSkin1skin	Traje de jardinero
+Cosmetic.skin_Wimpskin	Traje de mequetrefe
+Cosmetic.hat_shiitakeHat	La X marca el tesoro
+Cosmetic.hat_mushmuffsHat	Música lo-fi de Fungle
+Cosmetic.hat_shrapnelHat	Del suelo a la cabeza
+Cosmetic.visor_mushroomeyesVisor	Fungivisión
+Cosmetic.visor_animesunglassesVisor	Apariencia afilada
+Cosmetic.visor_starsunglassesmintVisor	Visión estelar: Menta
+Cosmetic.visor_heartsunglassesgoldVisor	Un gusto verte: Amarillo
+Cosmetic.nameplate_binocularsNameplate	Patrulla fungi
+Cosmetic.nameplate_DeadSunsetNameplate	El final (del día)
+Cosmetic.skin_Skins14_5skin	Listos para el fungle
+	
+Cosmetic.hat_lny_soupSpoon	Buena sopa
+Cosmetic.hat_lny_lantern	Alumbra el camino
+Cosmetic.hat_lny_dancerHead	Al frente de la línea
+Cosmetic.hat_lny_dancerBody	Nos quedamos en medio
+Cosmetic.hat_lny_dancerTail	Lo mejor para el final
+Cosmetic.nameplate_lny_monkey	Año del mono
+Cosmetic.nameplate_lny_tiger	Año del tigre
+Cosmetic.nameplate_lny_horse	Año del caballo
+Cosmetic.nameplate_lny_goat	Año de la cabra
+Cosmetic.nameplate_lny_rooster	Año del gallo
+Cosmetic.nameplate_lny_snake	Año de la serpiente
+Cosmetic.nameplate_lny_dragon	Año del dragón
+Cosmetic.nameplate_lny_boar	Año del cerdo
+Cosmetic.nameplate_lny_dog	Año del perro
+Cosmetic.nameplate_lny_rabbit	Año del conejo
+Cosmetic.nameplate_lny_ox	Año del buey
+Cosmetic.nameplate_lny_cat	Año del gato
+Cosmetic.nameplate_lny_rat	Año de la rata
+Cosmetic.nameplate_lny_lanterns	Todas las luces
+Cosmetic.nameplate_lny_incense	Incienso intenso
+Cosmetic.skin_lny_dragonDancer	Baila, dragón, baila
+Cosmetic.nameplate_lny_beanDragon	Leyenda del dragón frijolito
+Cosmetic.nameplate_lny_clouds	Onda próspera
+Cosmetic.nameplate_lny_redPackets	Que llueva
+	
+Cosmetic.pet_lny_dragon	Desolación de Skeld
+Cosmetic.hat_lny_ox	Cabeza dura
+Cosmetic.hat_lny_dog	Ladrido desubicado
+Cosmetic.hat_lny_horse	Sensación equina
+Cosmetic.hat_lny_pig	Puercorejas
+Cosmetic.hat_lny_rat	Percepción de ratón
+Cosmetic.hat_lny_cat	¿Miau?
+Cosmetic.hat_lny_monkey	Soy todo oídos
+Cosmetic.hat_lny_rooster	Alitas calientes
+Cosmetic.hat_lny_goat	Grandes cuernos
+Cosmetic.hat_lny_dragon	Estilo dragón
+Cosmetic.hat_lny_tiger	Banda del tigre
+Cosmetic.hat_lny_rabbit	Orejitas veloces
+Cosmetic.visor_lny_rat	Detector de queso
+Cosmetic.visor_lny_snake	Vissssera
+Cosmetic.visor_lny_pig	Comunicador porcino
+Cosmetic.visor_lny_tiger	Atrápalos, tigre
+Cosmetic.visor_lny_dragon	Imaginación dracónica
+Cosmetic.nameplate_lny_goldCrewmate	Buena fortuna
+Cosmetic.nameplate_lny_goldImpostor	Infortunio dorado
+	
+AprilFoolsModeToggle	Modo Día de los Inocentes (elementos limitados)
+ErrorAuthNonceFailure	¡Sabotaje! Los servidores de Among Us tuvieron un problema para autenticarte. Inténtalo de nuevo.\n\nSi el problema continúa, envía una <link="https://innersloth.zendesk.com/hc/en-us/requests/new">solicitud de soporte</link>.
+	
+Cosmetic.nameplate_crewmatesBlue	Tripulación distorsionada: azul
+Cosmetic.nameplate_crewmatesRed	Tripulación distorsionada: rojo
+Cosmetic.nameplate_horseHeaven	Esto ya se puso equino
+Cosmetic.nameplate_horsemateField	Puesto de pastar
+Cosmetic.hat_fluffyHat	Sombrero cómico
+Cosmetic.hat_topHatMinimate	Minitripulante elegante
+Cosmetic.hat_triplePartyHat	Tres son multitud
+Cosmetic.visor_happyMouthNote	Qué diversión
+Cosmetic.visor_henry	Henry confiado
+Cosmetic.visor_thatFace	H O L A
+	
+Cosmetic.hat_bb1_bucketHatBee	Se llama estilo: abeja
+Cosmetic.hat_bb1_bucketHatBlack	Se llama estilo: negro
+Cosmetic.hat_bb1_bucketHatCamo	Se llama estilo: camuflaje
+Cosmetic.hat_bb1_bucketHatFlowers	Se llama estilo: flores
+Cosmetic.hat_bb1_bucketHatWhite	Se llama estilo: caqui
+Cosmetic.hat_bb1_bunnyBlack	Temporada de conejos: negro
+Cosmetic.hat_bb1_sunHatGreen	Llegó el sol: menta
+Cosmetic.hat_bb1_sunHatYellow	Llegó el sol: amarillo
+Cosmetic.hat_bb1_lilShroomRed	Honguito bonito: rojo
+Cosmetic.hat_bb1_lilShroomBlue	Honguito bonito: azul
+Cosmetic.hat_bb1_lilShroomGlowing	Honguito bonito: brillante
+Cosmetic.skin_bb1_rainbowTube	No sé nadar: arcoíris
+Cosmetic.skin_bb1_fungleDress	Floreciendo
+Cosmetic.nameplate_bb1_disco	Por fin viernes
+Cosmetic.nameplate_bb1_hackerman	Entrando al sistema
+Cosmetic.nameplate_bb1_ram	Grandes RAMificaciones
+Cosmetic.nameplate_bb1_rave	Luces positivas
+Cosmetic.nameplate_bb1_zen	¡Modo zen!
+	
+ViewLabel	Ver
+ViewingLabel	Viendo ajustes de juego...
+RoomCodeLabel	Código de sala
+RoomCodeCopied	¡Código de sala copiado!
+RoomSettingsLabel	Ajustes de sala
+ModeLabel	Preajuste
+PrivacyLabel	Privacidad
+CapacityLabel	Capacidad
+GameSettingsLabel	Ajustes de juego
+RoleSettingsLabel	Ajustes de rol
+GamePresetsLabel	Preajustes de juego
+GamePresetsDescription	Aplica los ajustes recomendados para tu sala de juego.
+GamePresetsPopupTitle	¡Advertencia!
+GamePresetsPopupText	Los cambios que hayas hecho en los ajustes de tu partida se sobrescribirán con el preajuste seleccionado.
+GamePresetsPopupContinue	Continuar de todas formas
+GamePresetsPopupBack	Atrás
+StandardRulesPresetDescription	Este es el preajuste equilibrado sin roles.
+RolesRulesPresetDescription	Los ajustes recomendados para una sala con roles.
+StandardRulesPresetDescriptionHideAndSeek	Este es el preajuste ideal para el modo Escondite con visión de linterna apagada.
+FlashlightRulesPresetDescription	Este es el preajuste para tripulantes con visión de linterna y ajustes equilibrados.
+GameSettingsDescription	Edita los ajustes individuales para tu sala de juego.
+RoleSettingsDescription	Edita los ajustes de rol para tu sala de juego.
+GameModeStandard	Ajustes regulares
+GameModeStandardRoles	Ajustes con roles
+GameModeFlashlight	Linternas
+GameModeCustom	Personalizado
+GameModeStandardSeek	Oscuridad
+ImpostorsCategory	Impostores
+RolesCategory	Roles
+MeetingsCategory	Reunión
+PlayersCategory	Tripulantes
+TasksCategory	Tareas
+InfoLabel	Info
+RoleQuotaLabel	Cantidad de roles
+OverviewCategory	General
+LobbyChangeSettingNotification	Valor de {0}: {1}.
+LobbyChangeSettingNotificationRole	Valor de {0}: {1}. Probabilidad: {2}.
+CrewmateRolesHeader	Roles de tripulantes
+ImpostorRolesHeader	Roles de impostores
+LocalLobbyLabel	Sala local
+NumberRoleHeader	# de rol
+ChanceRoleHeader	Probabilidad (%)
+WaitingForPlayers	Esperando jugadores
+FinalHideCategory	Escondite final
+	
+QCLobbyRoleNoisemakers	¿Alertadores?
+QCLobbyRoleTrackers	¿Localizadores?
+QCLobbyRolePhantoms	¿Fantasmas?
+QCSelfWasTracking	Estaba rastreando a {0}
+QCSelfGoingToNoisemaker	Iba hacia el alertador
+QCSelfSawRoleInLocation	Vi un {0} en {1}
+	
+NoisemakerRole	Alertador
+NoisemakerBlurb	Envía una alerta cuando mueres
+NoisemakerBlurbMed	Envía una alerta con tu ubicación a todos\nlos tripulantes cuando mueres.
+NoisemakerBlurbLong	El alertador no es un rol de tripulante común, ya que no tiene una habilidad activa como los demás. En su lugar, envía una alerta automática cuando muere a manos de un impostor con el fin de atemorizarlo. ¡Mira cómo los demás tripulantes corren a toda velocidad a la escena del crimen para atraparlo y vengar tu muerte!
+NoisemakerImpostorAlert	Alerta de los impostores
+NoisemakerAlertDuration	Duración de la alerta
+PhantomAbility	Desaparecer
+PhantomAbilityUndo	Aparecer
+PhantomRole	Fantasma
+PhantomBlurb	Invisibilidad
+PhantomBlurbMed	Te vuelves invisible para escabullirte o escapar\ntras un asesinato.
+PhantomBlurbLong	El fantasma puede volverse invisible para acechar a un tripulante o para salir de la escena del crimen sin que nadie lo vea. No puede ejecutar asesinatos mientras está invisible, pero puede usar escaleras y tirolesas. Usar la invisibilidad o cancelarla genera una gran nube de humo, ¡así que asegúrate de que no haya ningún otro tripulante en la zona! La duración de la invisibilidad es limitada, por lo que debes usarla en el momento adecuado.
+PhantomCooldown	Tiempo de recup. de invisibilidad
+PhantomDuration	Duración de invisibilidad
+TrackerRole	Localizador
+TrackerAbility	Rastrear
+TrackerAbilityUndo	No rastrear
+TrackerBlurb	Localiza a un tripulante con tu mapa
+TrackerBlurbMed	Coloca un rastreador en un tripulante para seguir\nsus movimientos en el mapa.
+TrackerBlurbLong	El localizador puede ver la ubicación de un tripulante en el minimapa. Para hacerlo, necesita estar junto al tripulante y colocarle un dispositivo rastreador. Cuidado, no debes levantar sospechas al acercarte al tripulante al que le colocarás el dispositivo. El efecto rastreador solo dura unos segundos, así que elige bien a tu objetivo. ¡Y no te quedes mirando el mapa sin moverte o un impostor podría convertirte en su víctima!
+TrackerCooldown	Tiempo de recup. de rastreo
+TrackerDuration	Duración de rastreo
+TrackerDelay	Espera de rastreo
+RolesHelp_Noisemaker_01	El alertador no es un rol de tripulante común, ya que no tiene una habilidad activa como los demás. En su lugar, envía una alerta automática cuando muere a manos de un impostor.
+RolesHelp_Noisemaker_02	Esto conseguirá atemorizar al impostor. ¡Mira cómo los demás tripulantes corren a toda velocidad a la escena del crimen para atraparlo y vengar tu muerte!
+RolesHelp_Tracker_01	El localizador puede ver la ubicación de un tripulante en el minimapa. Para hacerlo, necesita estar junto al tripulante y colocarle un dispositivo rastreador. Cuidado, no debes levantar sospechas al acercarte al tripulante al que le colocarás el dispositivo.
+RolesHelp_Tracker_02	El efecto rastreador solo dura unos segundos, así que elige bien a tu objetivo. ¡Y no te quedes mirando el mapa sin moverte o un impostor podría convertirte en su víctima!
+RolesHelp_Phantom_01	El fantasma puede volverse invisible para acechar a un tripulante o para salir de la escena del crimen sin que nadie lo vea. No puede ejecutar asesinatos mientras está invisible, pero puede usar escaleras y tirolesas.
+RolesHelp_Phantom_02	Usar la invisibilidad o cancelarla genera una gran nube de humo, ¡así que asegúrate de que no haya ningún otro tripulante en la zona! La duración de la invisibilidad es limitada, por lo que debes usarla en el momento adecuado.
+	
+HostYouLabel	(¡Tú!)
+HostNounLabel	Organiza:
+RoleSettingsAll	TODOS
+	
+QCCoreSettings	¿Usar configuración Ajustes regulares?
+QCRolesGalore	¿Usar configuración Ajustes con roles?
+QCPitchDark	¿Usar configuración Oscuridad?
+QCFlashlight	¿Usar configuración Linternas?
+QCPleaseWait	Espera para comenzar
+QCWaitMinute	Espera un minuto para comenzar
+QCLobbyClosing	La sala se cerrará pronto
+QCChangeCosmetics	Necesito cambiar cosméticos
+QCWaitingPlayers	Esperando más jugadores…
+QCLetsWaitPlayers	¿Y si esperamos más jugadores?
+	
+Cosmetic.hat_nott	Capucha de Nott
+Cosmetic.hat_chetney	Cinta de Chetney
+Cosmetic.hat_jester	Cuernos de Jester
+Cosmetic.hat_laudna	Cabello de Laudna
+Cosmetic.hat_molly	Cuernos de Mollymauk
+Cosmetic.hat_artagan	Cabello de Artagan
+Cosmetic.hat_fearne	Cabello de Fearne
+Cosmetic.hat_vax	Cabello de Vax
+Cosmetic.hat_fcg	Cabeza de FCG
+Cosmetic.hat_sprinkle	Sprinkle está "bien"
+Cosmetic.hat_orthax	Manifestación de Orthax
+Cosmetic.hat_scanlan	Mano de Scanlan
+Cosmetic.nameplate_eyes	Los nueve ojos de Lucien
+Cosmetic.nameplate_cupcake	Polvo de la delicia
+Cosmetic.nameplate_moons	Lunas de Exandria
+Cosmetic.nameplate_tea	Hora del té con Caduceus
+Cosmetic.pet_Pate	Pâté
+Cosmetic.pet_Mister	Mister
+Cosmetic.skin_Nott	Capa de Nott
+Cosmetic.skin_Chetney	Ropa deportiva de Chetney
+Cosmetic.skin_Jester	Vestido de Jester
+Cosmetic.skin_Laudna	Vestido de Laudna
+Cosmetic.skin_Molly	Traje de Mollymauk
+Cosmetic.skin_artagan	Capa de Artagan
+Cosmetic.skin_Fearne	Vestido de Fearne
+Cosmetic.skin_Vax	Armadura de Vax
+Cosmetic.visor_nott	Máscara de Nott
+Cosmetic.visor_chetney	Cejas de Chetney
+Cosmetic.visor_artagan	Cejas increíbles de Artagan
+	
+GuardianNewPermissionUpdate	A partir de la versión {0} del juego, debido a los requisitos establecidos por la nueva legislación de seguridad infantil, todas las cuentas que pertenezcan a menores de edad deben obtener permiso de un padre o tutor para tener acceso completo a Among Us. Ni tus datos del juego ni tus objetos se vieron afectados, pero se debe hacer una revisión de tu cuenta antes de que puedas volver a tener el acceso completo.\n\nPuedes continuar jugando en una cuenta restringida temporalmente, hasta que tu padre o tutor autorice el permiso. Si ya hay un correo electrónico de padre o tutor asignado a tu cuenta, aparecerá a continuación.
+	
+Cosmetic.skin_Edgeworth	Traje de Miles Edgeworth
+Cosmetic.hat_Edgeworth	Peinado de Miles Edgeworth
+	
+Cosmetic.hat_paws_panda	Embambuzado
+Cosmetic.hat_paws_spaceDog	Perrito valiente
+Cosmetic.hat_paws_fish	Picó el anzuelo
+Cosmetic.hat_paws_raccoon	En secreto
+Cosmetic.hat_paws_turtle	Descarapazonado
+Cosmetic.hat_paws_foxGrey	El paso del zorrito: gris
+Cosmetic.hat_paws_antlers	Cornamenta total
+Cosmetic.hat_paws_opossum	Gato de pantano
+Cosmetic.nameplate_paws_fur	Peludatorio
+Cosmetic.nameplate_paws_jaguar	Las manchas te delatan
+Cosmetic.nameplate_paws_feathers	El viento los amontona
+Cosmetic.nameplate_paws_scales	Escamando muros
+Cosmetic.skin_paws_opossum	Gato de basural
+Cosmetic.skin_paws_parrot	Loro piloto
+Cosmetic.skin_paws_raccoon	Mapache travieso
+Cosmetic.skin_paws_foxGrey	Zorrito completo: gris
+Cosmetic.visor_paws_sacabambaspis	Por la boca muere
+Cosmetic.visor_paws_parrotBeak	Volar alto
+Cosmetic.visor_paws_bone	Hasta los huesos
+Cosmetic.visor_paws_carrot	Para verte mejor
+Cosmetic.visor_paws_raccoon	Bandido del basural
+Cosmetic.hat_claws_spaceDog	Día de perros
+Cosmetic.hat_claws_frog	Croac
+Cosmetic.hat_claws_moose	Alce a todo gas
+Cosmetic.hat_claws_dragonRed	Dragonazo: rojo
+Cosmetic.hat_claws_bullHorns	Torombroso
+Cosmetic.hat_claws_foxOrange	El paso del zorrito: naranja
+Cosmetic.hat_claws_squid	Calamar en su tinta
+Cosmetic.hat_claws_kuduHorns	Kudúcirte
+Cosmetic.hat_claws_buffaloHorns	Búfalos bufando
+Cosmetic.hat_claws_hippo	Hipó-crita
+Cosmetic.nameplate_claws_spaceCat	Equipo del gato espacial
+Cosmetic.nameplate_claws_spaceDog	Equipo del perro espacial
+Cosmetic.nameplate_claws_tigerPrint	El tigre que hay en ti
+Cosmetic.nameplate_claws_lilypad	Entre lotos
+Cosmetic.pet_claws_spaceCat	Gato espacial
+Cosmetic.skin_claws_stripes	Simetría aterradora
+Cosmetic.skin_claws_squid	Céfalomorfo
+Cosmetic.skin_claws_dragonRed	Dracónido: rojo
+Cosmetic.skin_claws_frogSuit	Salta y salta
+Cosmetic.skin_claws_hoofed	A pata limpia
+Cosmetic.skin_claws_foxOrange	Zorrito completo: naranja
+Cosmetic.visor_claws_knife	Entre dientes
+Cosmetic.visor_claws_smallMuzzle	Perro que ladra no muerde
+Cosmetic.visor_claws_whiskers	El último miau de la moda
+Cosmetic.visor_claws_bullRing	Septum de toro
+	
+Cosmetic.hat_NewYear2025	Feliz 2025

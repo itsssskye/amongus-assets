@@ -1,0 +1,2706 @@
+KEY ID	Russian
+LocalButton	Локально
+OnlineButton	Онлайн
+HowToPlayButton	Как играть
+FreePlayButton	Тренировка
+PublicHeader	Публичные комнаты
+PrivateHeader	Частная комната
+HostHeader	Создать комнату
+ExitButton	Выйти
+BackButton	Назад
+AvailableGamesLabel	Доступные игры
+CreateGameButton	Создать
+FindGameButton	Найти игру
+EnterCode	Ввести код
+GhostIgnoreTasks	Вы мертвы. Наслаждайтесь хаосом.
+GhostDoTasks	Вы мертвы. Для победы выполните все задания.
+TotalTasksCompleted	Всего заданий выполнено
+GhostImpostor	Вы мертвы. Все еще можно устроить саботаж.
+ImpostorTask	Устройте саботаж и убейте всех.
+FakeTasks	Фальшивые задания:
+TaskComplete	Задание выполнено!
+ExileTextSP	Член экипажа {0} был(-а) предателем.
+ExileTextSN	Член экипажа {0} не был(-а) предателем.
+ExileTextPP	Член экипажа {0} был(-а) одним из предателей.
+ExileTextPN	Член экипажа {0} не был(-а) предателем.
+NoExileSkip	Никого не выбросили (пропуск).
+NoExileTie	Никого не выбросили (ничья).
+ExileTextNonConfirm	{0} выбрасывают.
+ImpostorsRemainS	Берегитесь еще {0} предателя.
+ImpostorsRemainP	Берегитесь еще {0} предателей.
+Hallway	Коридор
+Engines	Моторы
+UpperEngine	Верхний мотор
+Cafeteria	Столовая
+Weapons	Оружие
+Reactor	Реактор
+Security	Охрана
+MedBay	Медотсек
+LifeSupp	O2
+Nav	Навигация
+LowerEngine	Ниж. Мотор
+Electrical	Электрощит
+Admin	Админ
+Storage	Склад
+Shields	Щиты
+Comms	Связь
+Decontamination	Дезинфекция
+Launchpad	Стартовая площадка
+LockerRoom	Гардероб
+Laboratory	Лаб.
+Balcony	Балкон
+Office	Офис
+Greenhouse	Теплица
+DivertPowerTo	Подать энергию: «{0}»
+DivertPower	Подать энергию
+AcceptDivertedPower	Принять подачу энергии
+SubmitScan	Пройти скан
+PrimeShields	Запустить щиты
+FuelEngines	Заправить моторы
+ChartCourse	Проложить маршрут
+StartReactor	Запустить реактор
+SwipeCard	Провести картой
+ClearAsteroids	Разрушить астероиды
+DownloadData	Скачать данные
+UploadData	Загрузить данные
+InspectSample	Исследовать образец
+EmptyChute	Очистить мусоросбор.
+EmptyGarbage	Выбросить мусор
+AlignEngineOutput	Выровнять отдачу моторов
+FixWiring	Починить проводку
+FixWiringName	Проводка
+DoorsName	Двери
+CalibrateDistributor	Откалибр. распред.
+UnlockManifolds	Открыть коллекторы
+ResetReactor	Расплавление в реакторе
+ResetReactorName	Расплавление реактора
+FixLights	Освещение нарушено
+FixLightsName	Освещение
+CleanO2Filter	Очистить фильтр O2
+FixComms	Саботаж связи
+RestoreOxy	Прекращение подачи O2
+RestoreOxyName	Прекращение подачи O2
+StabilizeSteering	Выровнять курс
+AssembleArtifact	Собрать артефакт
+SortSamples	Разобрать образцы
+MeasureWeather	Изучить погодные условия
+EnterIdCode	Ввести код доступа
+BuyBeverage	Купить напиток
+ProcessData	Обработать данные
+NumImpostorsS	Берегитесь <color=#FF1919FF>1 предателя</color> среди нас
+NumImpostorsP	Берегитесь <color=#FF1919FF>{0} предателей</color> среди нас
+Crewmate	Член экипажа
+Impostor	Предатель
+Victory	Победа
+Defeat	Поражение
+CrewmatesDisconnected	Большая часть экипажа\nотключилась
+ImpostorDisconnected	Предатель отключился
+PickAnomaly	Выберите аномалию
+WaterPlantsGetCan	Лейка найдена!
+AuthOfficeOkay	Офис: ОК
+AuthCommsOkay	Связь: ОК
+AuthOfficeActive	Офис: АКТИВНО
+AuthCommsActive	Связь: АКТИВНО
+AuthOfficeNotActive	Офис: НЕАКТИВНО
+AuthCommsNotActive	Связь: НЕАКТИВНО
+SecLogEntry	{0} проходит {1} сенсор
+SecLogEntryColorblind	{0} ({1}) проходит {2} сенсор
+LogNorth	северный
+LogSouthEast	юго-восточный
+LogSouthWest	юго-западный
+EnterName	Ваш ник
+SwipeCardPleaseInsert	Вставьте карту
+SwipeCardPleaseSwipe	Проведите картой
+SwipeCardBadRead	Не прочитано. Повторите.
+SwipeCardTooFast	Повторите медленнее.
+SwipeCardTooSlow	Повторите быстрее.
+SwipeCardAccepted	Принято. Спасибо.
+ReactorHoldToStop	Удерживайте для остановки расплавления
+ReactorWaiting	Ожидание второго пользователя
+ReactorNominal	Реактор в норме
+MeetingWhoIsTitle	Кто предатель?
+MeetingVotingBegins	До начала голосования: {0} с
+MeetingVotingEnds	До конца голосования: {0} с
+MeetingVotingResults	Итоги голосования
+MeetingProceeds	Продолжение через: {0} с
+MeetingHasVoted	{0}: голос отдан. Не голосовало: {1}.
+HowToPlayText1	Among Us — игра о командной работе и предательстве,\nгде игроки получают роль члена экипажа или предателя.
+HowToPlayText2	Можно играть онлайн или по локальной беспроводной сети в команде от 4 до 15 человек!
+HowToPlayText41	При создании игры можно установить собственные правила.
+HowToPlayText42	Сначала выберите, с кем хотите сыграть!\n\nЕсли хотите играть с друзьями, создайте частную комнату и поделитесь с ними кодом.\n\nЧтобы сыграть со случайными игроками, сделайте комнату общей.
+HowToPlayText43	Вам не хватает заданий? Или хочется бегать побыстрее? А может быть, нужно больше предателей? Создавая комнату, владелец может настроить игру по своему вкусу. Только не забудьте обсудить это с остальными!
+HowToPlayText44	Владелец может выгнать игроков за грубое поведение или спам в чате либо полностью их заблокировать для своей онлайн-комнаты.
+HowToPlayTextMap	У каждого игрока есть личная карта, которая поможет ориентироваться на корабле.
+HowToPlayTextCrew1	Цель: заполнить шкалу заданий или вычислить предателя.
+HowToPlayTextCrew2	Заполняйте шкалу, выполняя задания.
+HowToPlayTextCrew3	Устраняйте последствия саботажа.
+HowToPlayTextCrew4	Вычиcлили предателя? Созывайте собрание!
+HowToPlayTextCrew5	Сообщайте о найденных трупах.
+HowToPlayTextCrew6	Комнаты админа и охраны помогут засечь подозрительные действия.
+HowToPlayTextImp1	Ваша цель: убить всех членов экипажа.
+HowToPlayTextImp2	Смешивайтесь с толпой.
+HowToPlayTextImp3	Пробирайтесь по вентиляции.
+HowToPlayTextImp4	Притворяйтесь, что выполняете задания.
+HowToPlayTextImp5	Занимайтесь саботажем и запутывайте других.
+HowToPlayTextImp6	Блокируйте двери и готовьте засады.
+HowToPlayTextImp7	Убивайте по окончании перезарядки.
+HowToPlayText5	Играете вместе? Никаких разговоров! Игра должна быть честной.\n\nИгроки, убитые предателем, молчат до конца игры.\n\nПризраки по-прежнему могут выполнять задания, чтобы помочь команде победить.
+HowToPlayText6	Если кто-то сообщил о трупе или созвал срочное собрание, команда пытается вычислить предателя.\n\nТеперь игроки могут открыто предполагать, кто предатель, и делиться наблюдениями. Если вы играете вместе, призраки должны молчать, поскольку им точно известно, кто предатель.\n\nПредатели попытаются доказать свою невиновность или перевести подозрения на другого игрока.
+HowToPlayText7	После обсуждения проголосуйте за игрока, которого вы считаете предателем.\n\nИгрок, набравший большинство голосов, будет выброшен, так что хорошо обдумайте свое решение!\n\nЕсли имеющихся у вас сведений недостаточно, можно пропустить голосование, чтобы не выбросить невиновного и собрать больше информации.
+HowToPlayText81	Практикуйтесь в режиме тренировки!
+HowToPlayText82	Подберите себе задания, сыграв за члена экипажа, или отточите навыки убийства в роли предателя.
+SettingsGeneral	Общее
+SettingsControls	Управление
+SettingsSound	Звук
+SettingsGraphics	Графика
+SettingsData	Данные
+SettingsCensorChat	Фильтр чата
+SettingsMusic	Музыка
+SettingsSFX	Эффекты
+SettingsOn	Вкл.
+SettingsOff	Выкл.
+SettingsSendTelemetry	Отправка телеметрии
+SettingsControlMode	Режим управления
+SettingsTouchMode	Касание
+SettingsJoystickMode	Джойстик
+SettingsKeyboardMode	Клавиатура/мышь
+SettingsFullscreen	Полный экран
+SettingsVSync	Верт. синхронизация
+SettingsResolution	Разрешение
+SettingsApply	Применить
+SettingsPersonalizeAds	Подбор рекламы
+SettingsLanguage	Язык
+SettingsJoystickSize	Размер
+SettingsMouseMode	Мышь
+SettingsStreamerMode	Режим стримера
+MatchMapName	Карта
+MatchLanguage	Язык чата
+MatchImpostors	Предателей
+MatchMaxPlayers	Игроков (макс.)
+Cancel	Назад
+Confirm	Подтверд.
+PlayerColor	ЦВЕТ
+PlayerHat	Шапка
+PlayerSkin	Костюм
+PlayerPet	Питомец
+GameSettings	Игра
+GameRecommendedSettings	Рекомендованные настройки
+GameCustomSettings	Пользовательские настройки
+GameMapName	Карта
+GameNumImpostors	Предателей
+GameNumMeetings	Срочных собраний
+GameDiscussTime	Время на обсуждение
+GameVotingTime	Время на голосование
+GamePlayerSpeed	Скорость игроков
+GameCrewLight	Дальность обзора членов экипажа
+GameImpostorLight	Дальность обзора предателя
+GameKillCooldown	Перезарядка для убийства
+GameKillDistance	Дистанция убийств
+GameCommonTasks	Обычных заданий
+GameLongTasks	Долгих заданий
+GameShortTasks	Быстрых заданий
+GameEmergencyCooldown	Перерыв между собраниями
+GameSecondsAbbrev	{0} с
+GameConfirmImpostor	Показывать роль выброшенного
+GameVisualTasks	Видимые задания
+GameAnonymousVotes	Тайное голосование
+GameTaskBarMode	Обновление шкалы заданий
+SettingNormalTaskMode	Постоянно
+SettingMeetingTaskMode	На собрании
+SettingInvisibleTaskMode	Никогда
+Limit	максимум; сейчас
+RoomCode	Код
+RoomCodeInfo	Нажмите, чтобы скопировать
+LeaveGame	Покинуть игру
+ReturnToGame	Вернуться в игру
+LocalHelp	Проблемы с соединением?\n\n● Убедитесь, что все игроки подключены к одной точке доступа Wi-Fi.\n● Убедитесь, что у всех игроков установлена одна и та же версия игры (указана в правом нижнем углу).\n● Убедитесь, что сигнал Wi-Fi стабилен.\n● Попробуйте сменить владельца создаваемой игры.\n● Попробуйте перезапустить приложение.\n● Попробуйте перезапустить устройство.\n● Не получилось решить проблему? Напишите нам по адресу support@innersloth.com!
+OnlineHelp	Как все устроено?\n\n● После создания игры вы увидите код на панели лобби.\n● Поделитесь кодом с друзьями для создания частной комнаты.\n● Нажмите «Частная», если хотите сделать комнату открытой для поиска другими игроками.\n● Владелец может выгнать или заблокировать любого игрока, если доступен чат.\n● Остались вопросы? Напишите нам по адресу support@innersloth.com!
+EmergencyCount	ЕЩЁ СРОЧНЫХ СОБРАНИЙ:\n\n\n\nСТОЛЬКО МОЖЕТ СОЗВАТЬ {0}
+EmergencyNotReady	ТРЕБУЕТСЯ ПОДОЖДАТЬ\n\n\n\nДО СЛЕДУЮЩЕГО СОБРАНИЯ:
+EmergencyDuringCrisis	СРОЧНОЕ СОБРАНИЕ НЕЛЬЗЯ\nСОЗВАТЬ В КРИЗИС
+EmergencyRequested	ЗАПРОС НА СРОЧНОЕ СОБРАНИЕ\n\n\n\nОЖИДАНИЕ ВЛАДЕЛЬЦА
+AdPolicyTitle	Рекламная политика
+AdPolicyText	Разрешите нам использовать ваши данные для подбора персонализированной рекламы. Если вы выберете «Да», наши партнеры Google AdMob и Unity Ads начнут автоматически собирать данные и использовать идентификаторы устройств и файлы cookie для подбора рекламы, соответствующей вашим интересам. Если нажать «Нет», вы все равно будете видеть стандартную рекламу. Можно также приобрести специальное обновление [httpstore]по этой ссылке[], и тогда в играх, владельцем которых вы являетесь, ни вы, ни ваши друзья рекламы видеть не будут! Чтобы узнать больше о практиках конфиденциальности наших партнеров по рекламе, см. нашу [https://www.innersloth.com/ru/privacy-policy-russian/]Политику конфиденциальности[]. Решение можно изменить в любой момент в разделе «Данные» меню настроек.
+Accept	Принять
+RemoveAds	Убрать рекламу
+PlainYes	Да
+PlainNo	Нет
+PrivacyPolicyTitle	Политика конфиденциальности
+PrivacyPolicyText	Обработкой персональных данных для Among Us занимается компания Innersloth. Ознакомьтесь с <link="https://www.innersloth.com/ru/privacy-policy-russian/">Политикой конфиденциальности</link>, чтобы узнать больше о том, как мы обеспечиваем конфиденциальность информации. Настройки персональных данных в Among Us находятся в разделе «Данные».\n\nПеред началом игры в Among Us прочитайте наши <link="https://www.innersloth.com/ru/terms-of-use-website-rus/">Условия использования</link>.
+ManageDataButton	Настройка сбора данных
+UnderstandButton	Я понимаю
+WaterPlants	Полить растения
+WeatherEta	Время:\n{0} с
+WeatherComplete	Завершено
+RunDiagnostics	Провести диагностику
+SettingShort	Короткая
+SettingMedium	Средняя
+SettingLong	Большая
+SamplesPress	Нажмите
+SamplesAdding	Добавление реагента
+SamplesSelect	Выберите аномалию
+SamplesThanks	Спасибо!
+SamplesComplete	Опыт завершен
+AstDestroyed	Уничтожено: {0}
+TaskTestTitle	Мегатестировщик заданий
+BeginDiagnostics	Начать диагностику
+UserLeftGame	{0} покидает игру.
+GameStarting	Начало через {0}
+ChatRateLimit	Слишком быстро. Подождите {0} с.
+Tasks	Задания
+MedscanRequested	Сканирование запрошено
+MedscanWaitingFor	Ожидание: {0}
+MedscanCompleted	Завершено!
+MedscanCompleteIn	Завершение через {0}
+StatsTitle	Статистика
+StatsBodiesReported	Сообщений о трупах:\t
+StatsEmergenciesCalled	Созвано срочных собраний:\t
+StatsTasksCompleted	Выполнено заданий:\t
+StatsAllTasksCompleted	Все задания выполнены:\t
+StatsSabotagesFixed	Устранено саботажей:\t
+StatsImpostorKills	Убийств при игре за предателя:\t\t
+StatsTimesMurdered	Смертей:\t
+StatsTimesEjected	Выбрасываний:\t\t
+StatsCrewmateStreak	Игр за экипаж подряд:\t
+StatsGamesImpostor	Игр за предателя:\t
+StatsGamesCrewmate	Игр за экипаж:\t
+StatsGamesStarted	Игр начато:\t
+StatsGamesFinished	Игр завершено:\t
+StatsImpostorVoteWins	Побед голосованием (предатель):\t
+StatsImpostorKillsWins	Побед убийством (предатель):\t
+StatsImpostorSabotageWins	Побед саботажем (предатель):\t
+StatsCrewmateVoteWins	Побед голосованием (экипаж):\t
+StatsCrewmateTaskWins	Побед заданиями (экипаж):\t
+MonitorOxygen	Проверить дерево
+StoreArtifacts	Сложить артефакты
+FillCanisters	Наполнить баллоны
+InsertKeys	Вставить ключи
+ResetSeismic	Перезапустить сейсмостабилизаторы
+SeismicHoldToStop	Удерживайте для активации сейсмостабилизаторов
+SeismicNominal	Сейсмическая активность в норме
+ScanBoardingPass	Проверить посадочный талон
+FixWeatherNode	Починить
+OpenWaterways	Открыть водопровод
+ReplaceWaterJug	Заменить кулер
+RepairDrill	Починить бур
+AlignTelescope	Навести телескоп
+RecordTemperature	Записать температуру
+RebootWifi	Перезагруз. Wi-Fi
+WifiRebootRequired	Выключить
+WifiPleaseWait	Подождите
+WifiPleaseReturnIn	Вернитесь через {0}
+WifiPleasePowerOn	Включить
+WifiRebootComplete	Готово
+Outside	Снаружи
+Dropship	Челнок
+Decontamination2	Верхняя зона дезинфекции
+Specimens	Пробы
+BoilerRoom	Котельная
+GameOverImpostorDead	В обычной игре экипаж бы победил, так как предатель мертв. Во время тренировки всех просто оживляют.
+GameOverImpostorKills	В обычной игре предатель бы победил, так как экипаж уже не может выиграть. Во время тренировки всех просто оживляют.
+GameOverTaskWin	В обычной игре экипаж бы победил, так как шкала заданий заполнена. Во время тренировки просто назначают новые задания.
+GameOverSabotage	В обычной игре предатель\nбы победил, так как саботаж\nдостиг критического уровня.\nВ песочнице саботаж просто\nустраняется.
+HowToPlayText2Switch	Можно играть онлайн в команде от 4 до 15 человек\n\nс членством Nintendo Switch Online или через локальный Wi-Fi!
+VentDirection	Направление в вентиляции
+VentMove	Движение по вентиляции
+MenuNavigate	Навигация
+NsoError	Не удаётся подключиться к сети.
+ErrorServerOverload	Серверы Among Us перегружены.\r\n\r\nПовторите попытку позже.
+ErrorIntentionalLeaving	Вы намеренно отключились от предыдущей игры и не можете присоединиться к новой еще {0} мин.
+ErrorFocusLost	Вы были отключены, так как открыли другое приложение после запуска Among Us.
+ErrorBanned	Вас заблокировали в комнате {0}.\r\n\r\nВ нее нельзя вернуться.
+ErrorKicked	Вас исключили из комнаты {0}.\r\n\r\nЕсли игра еще не началась, вы можете вернуться.
+ErrorBannedNoCode	Вас заблокировали в этой комнате.\r\n\r\nВ нее нельзя вернуться.
+ErrorKickedNoCode	Вас исключили из этой комнаты.\r\n\r\nЕсли игра еще не началась, вы можете вернуться.
+ErrorHacking	Вас заблокировали за взлом игры.\r\n\r\nБольше так не делайте.
+ErrorFullGame	В этой игре уже достаточно участников.\r\n\r\nСпросите владельца, можете ли вы присоединиться к следующему раунду.
+ErrorStartedGame	Эта игра уже началась.\r\n\r\nСпросите владельца, можете ли вы присоединиться к следующему раунду.
+ErrorNotFoundGame	Не удалось найти подходящую игру.
+ErrorInactivity	Игра остановлена со стороны сервера. Скорее всего, игроки были неактивны.
+ErrorGenericOnlineDisconnect	Соединение с сервером разорвано.\r\nЕсли это происходит регулярно, проверьте работу сети.\r\nПроблема также может быть на стороне сервера.
+ErrorGenericLocalDisconnect	Соединение с владельцем комнаты разорвано.\r\n\r\nЕсли это происходит регулярно, проверьте работу сети Wi-Fi.
+ErrorInvalidName	Сервер отклонил ник {0}
+ErrorUnknown	Соединение с сервером разорвано из-за неизвестной ошибки.
+ErrorIncorrectVersion	У вас установлена устаревшая версия игры.\r\n\r\nОбновите приложение, чтобы подключиться к другим игрокам.
+	
+ServerNA	Северная Америка
+ServerEU	Европа
+ServerAS	Азия
+ServerSA	Южная Америка
+LangEnglish	English
+LangFrench	Français
+LangItalian	Italiano
+LangGerman	Deutsch
+LangSpanish	Español
+LangSpanishLATAM	Español (Latinoamérica)
+LangBrazPort	Português (Brasil)
+LangPort	Português
+LangRussian	Русский
+LangJapanese	日本語
+LangKorean	한국어
+LangDutch	Nederlands
+LangFilipino	Bisaya
+PlayerName	Игрок
+MyTablet	Мой планшет
+Headquarters	Штаб
+DownloadTestEstTimeS	Расчетное время: {0} с
+DownloadTestEstTimeMS	Расчетное время: {0} м {1} с
+DownloadTestEstTimeHMS	Расчетное время: {0} ч {1} м {2} с
+DownloadTestEstTimeDHMS	Расчетное время: {0} д {1} ч {2} м {3} с
+DownloadComplete	Завершено
+GrabCoffee	СХОДИТЕ ЗА КОФЕ
+TakeBreak	ОТДОХНИТЕ
+DontNeedWait	ЖДАТЬ НЕ НАДО
+DoSomethingElse	ПРИМИТЕСЬ ПОКА ЗА ДРУГИЕ ДЕЛА
+NodeTB	Узел_TB
+NodeIRO	Узел_IRO
+NodeGI	Узел_GI
+NodePD	Узел_PD
+NodeCA	Узел_CA
+NodeMLG	Узел_MLG
+Vending	ОК
+OtherLanguage	Другой
+ImposterAmtAny	1-3
+	
+VitalsORGN	ОРАНЖ.
+VitalsBLUE	СИНИЙ
+VitalsRED	КРАСНЫЙ
+VitalsBRWN	КОРИЧН.
+VitalsGRN	ЗЕЛЕНЫЙ
+VitalsPINK	РОЗОВЫЙ
+VitalsWHTE	БЕЛЫЙ
+VitalsYLOW	ЖЕЛТЫЙ
+VitalsBLAK	ЧЕРНЫЙ
+VitalsPURP	ФИОЛЕТ.
+VitalsCYAN	ГОЛУБОЙ
+VitalsLIME	ЛАЙМ
+ColorOrange	ОРАНЖ.
+ColorBlue	СИНИЙ
+ColorRed	КРАСНЫЙ
+ColorBrown	КОРИЧН.
+ColorGreen	ЗЕЛЕНЫЙ
+ColorPink	РОЗОВЫЙ
+ColorWhite	БЕЛЫЙ
+ColorYellow	ЖЕЛТЫЙ
+ColorBlack	ЧЕРНЫЙ
+ColorPurple	ФИОЛЕТ.
+ColorCyan	ГОЛУБОЙ
+ColorLime	ЛАЙМ
+ColorMaroon	БОРДО
+ColorRose	СИРЕНЕВЫЙ
+ColorBanana	БАНАН
+ColorGray	СЕРЫЙ
+ColorTan	БЕЖЕВЫЙ
+ColorCoral	КОРАЛЛ
+MedID	ID:
+MedC	ЦВЕТ:
+MedHT	РОСТ:
+MedBT	ГК:
+MedWT	ВЕС:
+MedETA	ВРЕМЯ: {0}
+MedHello	ПРИВЕТ!
+LobbySizeWarning	В Among Us можно играть вчетвером, но рекомендуется собрать команду из пяти и больше игроков.\n\nИгры вчетвером быстро заканчиваются, а побеждает в них часто предатель.
+Okay	Ясно
+OkayDontShow	Больше не показывать
+Nevermind	Закрыть
+CamEast	Восток
+CamCentral	Центр
+CamNortheast	Северо-восток
+CamSouth	Юг
+CamSouthwest	Юго-запад
+CamNorthwest	Северо-запад
+LoadingFailed	Ошибка загрузки:
+PetFailFetchData	Не удалось получить данные о питомце
+BadResult	ОШИБКА
+More	ПОВТОРИТЬ {0} 
+Processing	Обработка
+ExitGame	Выйти из игры
+WaitingForHost	Ожидание владельца
+LeftGameError	{0} покидает игру из-за ошибки.
+PlayerWasBannedBy	{1} блокирует игрока {0}
+PlayerWasKickedBy	{1} исключает игрока {0}
+Dummy	Манекен
+Bad	ОШИБКА
+Status	Статус:
+Fine	В ПОРЯДКЕ
+OK	OK
+SecondsAbbv	{0} с
+PetTryOn	Подберите себе образ!
+DataPolicyWhat	Что мы собираем?
+	
+VaultRoom	Хранилище
+Cockpit	Кабина
+Armory	Арсенал
+Kitchen	Кухня
+ViewingDeck	Смотр. палуба
+HallOfPortraits	Портретная галерея
+Medical	Лазарет
+CargoBay	Грузовой отсек
+Ventilation	Вентиляция
+Showers	Душевые
+Engine	Моторы
+Brig	Карцер
+MeetingRoom	Конференц-зал
+Records	Архив
+Lounge	Комната отдыха
+GapRoom	Пролет
+MainHall	Главный зал
+	
+PolishRuby	Полировка рубина
+ResetBreakers	Перезапуск пробок
+Decontaminate	Пройти обработку
+MakeBurger	Сделать бургер
+UnlockSafe	Открыть сейф
+SortRecords	Разобрать записи
+PutAwayPistols	Убрать пистолеты
+PutAwayRifles	Убрать ружья
+FixShower	Починить душ
+CleanToilet	Помыть туалет
+DressMannequin	Одеть манекен
+PickUpTowels	Поднять полотенца
+RewindTapes	Перемотать кассеты
+StartFans	Запустить вентилятор
+DevelopPhotos	Проявить фото
+GetBiggolSword	Добыть Biggol-меч
+StopCharles	Избежать столкновения
+	
+RevealCode	Узнать код
+DirtyHeader	ОСТАЛОСЬ
+AuthLeftOkay	Слева: OK
+AuthRightOkay	Справа: OK
+AuthLeftActive	Слева: АКТИВНО
+AuthRightActive	Справа: АКТИВНО
+AuthLeftNotActive	Слева: НЕАКТИВНО
+AuthRightNotActive	Справа: НЕАКТИВНО
+PSXBEngagementScreen	Нажмите любую кнопку, чтобы начать.
+DeleteButton	Удалить
+QuickChat	Быстрый чат
+QCBuilderHeader	Создание быстрого чата
+QCLocationLaptop	Ноутбук
+MapNameSkeld	Skeld
+MapNameMira	Mira
+MapNamePolus	Polus
+MapNameAirship	Airship
+MapNameFungle	Fungle
+QCSystemsStart	Старт
+QCSystemsKick	Выгнать
+QCCrewI	Я
+QCCrewMe	Меня
+QCBuildingPlaceholder	Составляем фразу...
+QCCrewDead	УБИТЫ
+QCTagSelf	МОИ РЕПЛИКИ
+QCInputSelf	МОЕ
+QCTagFavorites	ИЗБРАННОЕ
+QCInputFavorite	ИЗБРАННОЕ
+QCTagRoles	Роли
+QCInputRole	Роль
+QCTagTasks	Задания
+QCInputTask	Задание
+QCTagSabotages	Системы
+QCInputSabotages	Саботаж
+QCTagQuickRemarks	Быстрые комментарии
+QCTagRemarks	Комментарии
+QCInputRemark	Комментарий
+QCTagAccuse	Обвинить!
+QCInputAccusation	Обвинения
+QCTagDefend	Защитить!
+QCInputDefense	Защита
+QCTagQuestionSingular	Вопрос
+QCTagQuestion	Вопросы?
+QCTagLobby	Лобби
+QCTagImpostor	Предатель
+QCTagMeeting	Собрание
+QCTagHiding	Побег
+QCTagFlashlight	Фонарик
+QCSelfVoted	МОЙ ГОЛОС: {0}
+QCSelfReportedBody	Я заявил(-а) о трупе
+QCSelfCams	Я был(-а) в камерах
+QCCrewCams	{0} был(-а) в камерах
+QCSelfWasProtected	Меня защитили
+QCCrewWasProtected	Игрока {0} защитили
+QCSelfWasntMe	Это не я
+QCWhoWasAt	{0} — кто был там?
+QCSelfDoingTask	{0} — вот, что я делал(-а)
+QCWhoIsRole	Кто {0}?
+QCSelfFixedSystem	Я чинил(-а): {0}
+QCCrewFixedSystem	{0} чинил(-а): {1}
+QCSelfAccAtLocation	{0} убил(-а) игрока {1} в локации {2}. Я видел(-а) это.
+QCSelfDidTaskAtLocation	Я был(-а) в локации {1}. {0} — вот, что я делал(-а).
+QCCrewDidTaskAtLocation	Игрок {0} был(-а) в локации {2}. {1} — вот, что он(-а) делал(-а).
+QCSelfSawCrewVentAtLocation	Я видел(-а) игрока {0} в люке в локации {1}
+QCSelfDidntVent	Меня не было в люке
+QCFollowMe	Иди за мной
+QCItsNotMe	Это не я
+QCSelfDoneWithTasks	Задания выполнены
+QCGhostsDoYourTasks	Призраки, выполняйте задания
+QCSelfNotTheImpostor	Я не предатель
+QCHello	Привет!
+QCThanks	Спасибо!
+QCSorry	Извини.
+QCGG	Хорошая игра!
+QCBye	Пока!
+QCWhereWasTheBody	Где был труп?
+QCSelfReady	Я готов(-а).
+QCSelfWasRole	Я был(-а) {0}.
+QCWhoWasRole	Кем был игрок {0}?
+QCCoolOutfitCrew	Классный прикид, {0}!
+QCCrewReportedBody	{0} — вот, кто заявил о трупе.
+QCCrewNoOne	Никого (никто)
+QCResYes	Да
+QCResNo	Нет
+QCResDontKnow	Не знаю
+QCResDontKnowNeg	Возможно
+QCResVote	Голосуйте
+QCResVoteNeg	Воздержитесь
+QCResRip	Покойся с миром
+QCResRipNeg	Вышвыриваем
+QCResLies	Ложь
+QCResLiesNeg	Ясно
+QCQstWhere	Где?
+QCQstWho	Кто?
+QCQstWhoDidTask	{0} — кто это делал?
+QCQstBodyOrMeeting	У нас труп или это срочное собрание?
+QCStaDoubleKill	Это двойное убийство
+QCStaWasSelfReport	Сознался сам
+QCStaPleaseDoTasks	Возвращайтесь к работе
+QCStaBodyWasInA	Найден труп: {0}
+QCLocation	Места
+QCSystems	Системы
+QCCrew	Экипаж
+QCAccusation	Обвинения
+QCResponse	Ответы
+QCQuestion	Вопросы
+QCStatements	Заявления
+QCSelfWasUsingBinoculars	Я использовал(-а) бинокль
+QCSelfSawThroughBinoculars	Я увидел(-а) через бинокль
+QCInTheSporeCloud	В облаке спор
+QCHiddenBySporeCloud	Скрыто облаком спор
+CQCrewKilledDeadInSporeCloud	{0} убил(-а) {1} в облаке спор
+QCSelfUsingZipline	Я использовал(-а) зиплайн
+QCSelfSawWhileUsingZipline	Используя зиплайн, я увидел(-а)
+QCCrewWasUsingZipline	{0} использовал(-а) зиплайн
+QCDuringMushroomMixup	Во время грибного переполоха
+	
+ChatType	Тип чата
+QuickChatOnly	Только быстрый чат
+FreeChatOnly	Только обычный чат
+FreeOrQuickChat	Обычный чат
+DateOfBirth	Дата рождения
+DateOfBirthEnter	Введите свою дату рождения:
+Month	Месяц
+Day	День
+Year	Год
+January	Январь
+February	Февраль
+March	Март
+April	Апрель
+May	Май
+June	Июнь
+July	Июль
+August	Август
+September	Сентябрь
+October	Октябрь
+November	Ноябрь
+December	Декабрь
+Submit	Отправить
+	
+QCAccAKilledB_QCCrewMe_ANY	Я убил(-a): {1}
+QCAccAKilledB_QCCrewMe_QCCrewNoOne	Я никого не убивал(-a)
+QCAccAKilledB_QCCrewMe_QCCrewMe	
+QCAccAKilledB_ANY_QCCrewMe	Меня убил(-a) {0}
+QCAccAKilledB	{0} убил(-a): {1}
+QCAccAKilledB_ANY_QCCrewNoOne	{0} никого не убивал(-a)
+QCAccAKilledB_QCCrewNoOne_QCCrewMe	Меня никто не убивал
+QCAccAKilledB_QCCrewNoOne_ANY	{1} никто не убивал
+QCAccAKilledB_QCCrewNoOne_QCCrewNoOne	Никто никого не убивал
+QCAccAKilledBNeg_QCCrewMe_ANY	Я не убивал(-a) {0}
+QCAccAKilledBNeg_QCCrewMe_QCCrewNoOne	Я никого не убивал(-a)
+QCAccAKilledBNeg_QCCrewMe_QCCrewMe	Я себя не убивал(-a)
+QCAccAKilledBNeg_ANY_QCCrewMe	{0} меня не убивал(-a)
+QCAccAKilledBNeg	{0} не убивал(-a): {1}
+QCAccAKilledBNeg_ANY_QCCrewNoOne	{0} никого не убивал(-a)
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAKilledBNeg_QCCrewNoOne_ANY	
+QCAccAKilledBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsSuspicious_QCCrewMe	Я вызываю подозрения
+QCAccAIsSuspicious	{0} вызывает подозрение
+QCAccAIsSuspicious_QCCrewNoOne	Никто не вызывает подозрений
+QCAccAIsSuspiciousNeg_QCCrewMe	Я хороший(-ая)
+QCAccAIsSuspiciousNeg	{0} хороший(-ая)
+QCAccAIsSuspiciousNeg_QCCrewNoOne	Все плохие
+QCAccASawBVent_QCCrewMe_ANY	Я видел в люке: {0}
+QCAccASawBVent_QCCrewMe_QCCrewNoOne	Я никого не видел в люке
+QCAccASawBVent_QCCrewMe_QCCrewMe	
+QCAccASawBVent_ANY_QCCrewMe	{0} видел меня в люке
+QCAccASawBVent	{0} видел в люке: {1}
+QCAccASawBVent_ANY_QCCrewNoOne	{0} никого не видел в люке
+QCAccASawBVent_QCCrewNoOne_QCCrewMe	Никто не видел меня в люке
+QCAccASawBVent_QCCrewNoOne_ANY	Никто не видел в люке: {1}
+QCAccASawBVent_QCCrewNoOne_QCCrewNoOne	Никто никого не видел в люке
+QCAccASawBVentNeg_QCCrewMe_ANY	Я ни разу не видел в люке: {0}
+QCAccASawBVentNeg_QCCrewMe_QCCrewNoOne	Я ни разу никого не видел в люке
+QCAccASawBVentNeg_QCCrewMe_QCCrewMe	
+QCAccASawBVentNeg_ANY_QCCrewMe	{0} ни разу не видел меня в люке
+QCAccASawBVentNeg	{0} ни разу не видел в люке: {1}
+QCAccASawBVentNeg_ANY_QCCrewNoOne	{0} ни разу никого не видел в люке
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewMe	Никто ни разу не видел меня в люке
+QCAccASawBVentNeg_QCCrewNoOne_ANY	Никто ни разу не видел в люке: {1}
+QCAccASawBVentNeg_QCCrewNoOne_QCCrewNoOne	Никто ни разу никого не видел в люке
+QCAccAWasChasingB_QCCrewMe_ANY	Я гнался(-ась) за: {0}
+QCAccAWasChasingB_QCCrewMe_QCCrewNoOne	Я ни за кем не гнался(-ась)
+QCAccAWasChasingB_QCCrewMe_QCCrewMe	
+QCAccAWasChasingB_ANY_QCCrewMe	{0} гнался(-ась) за мной
+QCAccAWasChasingB	{0} гнался(-ась) за: {1}
+QCAccAWasChasingB_ANY_QCCrewNoOne	{0} ни за кем не гнался(--ась)
+QCAccAWasChasingB_QCCrewNoOne_QCCrewMe	Никто за мной не гнался
+QCAccAWasChasingB_QCCrewNoOne_ANY	Никто не гнался за: {1}
+QCAccAWasChasingB_QCCrewNoOne_QCCrewNoOne	Никто ни за кем не гнался
+QCAccAWasChasingBNeg_QCCrewMe_ANY	Я не гнался(-ась) за: {0}
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewNoOne	Я ни за кем не гнался(-ась)
+QCAccAWasChasingBNeg_QCCrewMe_QCCrewMe	
+QCAccAWasChasingBNeg_ANY_QCCrewMe	{0} за мной не гнался(-ась)
+QCAccAWasChasingBNeg	{0} не гнался(-ась) за: {1}
+QCAccAWasChasingBNeg_ANY_QCCrewNoOne	{0} ни за кем не гнался(-ась)
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewMe	
+QCAccAWasChasingBNeg_QCCrewNoOne_ANY	
+QCAccAWasChasingBNeg_QCCrewNoOne_QCCrewNoOne	
+QCAccAIsLying_QCCrewMe	Я лгу
+QCAccAIsLying	{0} лжет
+QCAccAIsLying_QCCrewNoOne	Никто не лжет
+QCAccAIsLyingNeg_QCCrewMe	Я говорю правду
+QCAccAIsLyingNeg	{0} говорит правду
+QCAccAIsLyingNeg_QCCrewNoOne	Никто не говорит правды
+QCAccVoteA_QCCrewMe	Голосуем против меня
+QCAccVoteA	Голосуем против: {0}
+QCAccVoteA_QCCrewNoOne	Ни за кого не голосуем
+QCAccVoteANeg_QCCrewMe	Не голосуем против меня
+QCAccVoteANeg	Не голосуем против: {0}
+QCAccVoteANeg_QCCrewNoOne	
+QCAccADidntReport_QCCrewMe	Я не сообщил(-а) о трупе
+QCAccADidntReport	{0} не сообщил(-а) о трупе
+QCAccADidntReport_QCCrewNoOne	
+QCResAWas_QCCrewMe	Я был(-а)
+QCResAWas	{0} был(-а)
+QCResAWas_QCCrewNoOne	Никто не был
+QCResAWasNeg_QCCrewMe	Я не был(-а)
+QCResAWasNeg	{0} не был(-а)
+QCResAWasNeg_QCCrewNoOne	
+QCResADid_QCCrewMe	Я это сделал
+QCResADid	{0} это сделал
+QCResADid_QCCrewNoOne	Никто этого не делал
+QCResADidNeg_QCCrewMe	Я этого не делал
+QCResADidNeg	{0} этого не делал
+QCResADidNeg_QCCrewNoOne	
+QCResAWasAtB_QCCrewMe_ANY	Я был(-а) в(на): {0}
+QCResAWasAtB	{0} был(-а) в(на): {1}
+QCResAWasAtB_QCCrewNoOne_ANY	Никто не был в: {0}
+QCResAWasAtBNeg_QCCrewMe_ANY	Я не был(-а) в(на): {0}
+QCResAWasAtBNeg	{0} не был(-а) в: {1}
+QCResAWasAtBNeg_QCCrewNoOne_ANY	
+QCQstWhoWasWith_QCCrewMe	Кто был со мной?
+QCQstWhoWasWith	Кто был с: {0}?
+QCQstWhoWasWith_QCCrewNoOne	Кто был один?
+QCQstWhatWasADoing_QCCrewMe	
+QCQstWhatWasADoing	Что делал {0}?
+QCQstWhatWasADoing_QCCrewNoOne	
+QCQstWhereWasA_QCCrewMe	
+QCQstWhereWasA	где был(-а) {0}?
+QCQstWhereWasA_QCCrewNoOne	
+QCStaASawB_QCCrewMe_ANY	Я видел(-а): {0}
+QCStaASawB_QCCrewMe_QCCrewNoOne	Я никого не видел(-а)
+QCStaASawB_QCCrewMe_QCCrewMe	
+QCStaASawB_ANY_QCCrewMe	{0} меня видел(-а)
+QCStaASawB	{0} видел(-а): {1}
+QCStaASawB_ANY_QCCrewNoOne	{0} никого не видел(-а)
+QCStaASawB_QCCrewNoOne_QCCrewMe	Никто меня не видел
+QCStaASawB_QCCrewNoOne_ANY	Никто не видел: {0}
+QCStaASawB_QCCrewNoOne_QCCrewNoOne	Никто никого не видел
+QCStaAWasWithB_QCCrewMe_ANY	Я был(-а) с: {0}
+QCStaAWasWithB_QCCrewMe_QCCrewNoOne	Я был(-а) один (одна)
+QCStaAWasWithB_QCCrewMe_QCCrewMe	
+QCStaAWasWithB_ANY_QCCrewMe	{0} был(-а) со мной
+QCStaAWasWithB	{0} был(-а)с: {1}
+QCStaAWasWithB_ANY_QCCrewNoOne	{0} был(-а) один (одна)
+QCStaAWasWithB_QCCrewNoOne_QCCrewMe	Со мной никого не было
+QCStaAWasWithB_QCCrewNoOne_ANY	С {1} никого не было
+QCStaAWasWithB_QCCrewNoOne_QCCrewNoOne	Никого ни с кем не было
+QCStaADidB_QCCrewMe_ANY	Я занимался: {0}
+QCStaADidB	{0} занимался: {1}
+QCStaADidB_QCCrewNoOne_ANY	Никто не занимался: {1}
+QCStaASelfReported_QCCrewMe	Я сдался сам
+QCStaASelfReported	{0} сдался сам
+QCStaASelfReported_QCCrewNoOne	Никто не сдался сам
+QCStaACalledMeeting_QCCrewMe	Я созвал собрание
+QCStaACalledMeeting	{0} созвал собрание
+QCStaACalledMeeting_QCCrewNoOne	Никто не созвал собрание
+QCMore	БОЛЬШЕ
+QCQstWhy	Почему?
+QCCrewSomeone	Кто-то
+QCResUrWelcome	Пожалуйста!
+QCResNp	Нет проблем!
+QCResYikes	Ничего себе!
+QCResRipCrew	Покойся с миром, {0}
+QCResYeetCrew	Вышвыриваем игрока {0}
+QCSelfWasOnVitals	Я был(-а) на мониторе пульса
+QCSawDeadCrewOnVitals	На мониторе пульса я видел(-а), что игрок {0} мертв
+QCSelfSawTwoCrew	Я видел(-а) двух {0}
+QCCrewShapeshifted	Игрок {0} превратился
+QCSelfSawCrewDoVisualTask	Я видел(-а), что {0} выполнял(-а) задание
+QCSelfWasOnDoorlogs	Я был(-а) в журнале
+QCSelfWasOnAdmin	Я был(-а) в управлении
+QCSelfAmVotingCrew	Я голосую за игрока {0}
+QCCrewWasPretendingTasks	Игрок {0} притворялся, что выполняет задания
+QCCrewWasPretendingSabotage	Игрок {0} притворялся, что чинит: {1}
+QCLobbyMoreImpostors	Еще предатели?
+QCLobbyLessImpostors	Меньше предателей?
+QCLobbyConfirmEjects	Показать роль выброшенного?
+QCLobbyMoreEmergencyMeetings	Нужно больше срочных собраний?
+QCLobbyLessEmergencyMeetings	Нужно меньше срочных собраний?
+QCLobbyAnonymousVotes	Тайное голосование?
+QCLobbyMoreEmergencyCooldownTime	Больше времени на перерыв между собраниями?
+QCLobbyLessEmergencyCooldownTime	Меньше времени на перерыв между собраниями?
+QCLobbyMoreDiscussionTime	Больше времени на обсуждение?
+QCLobbyLessDiscussionTime	Меньше времени на обсуждение?
+QCLobbyMoreVotingTime	Больше времени на голосование?
+QCLobbyLessVotingTime	Меньше времени на голосование?
+QCLobbyFasterPlayerSpeed	Скорость игроков выше?
+QCLobbySlowerPlayerSpeed	Скорость игроков ниже?
+QCLobbyTaskBarUpdates	Обновление шкалы заданий?
+QCLobbyVisualTasks	Видимые задания?
+QCLobbyMoreCrewmateVision	Дальность обзора членов экипажа больше?
+QCLobbyLessCrewmateVision	Дальность обзора членов экипажа меньше?
+QCLobbyMoreImpostorVision	Дальность обзора предателя больше?
+QCLobbyLessImpostorVision	Дальность обзора предателя меньше?
+QCLobbyMoreKillCooldownTime	Больше времени на перезарядку для убийства?
+QCLobbyLessKillCooldownTime	Меньше времени на перезарядку для убийства?
+QCLobbyLongerKillDistance	Дистанция убийств больше?
+QCLobbyShorderKillDistance	Дистанция убийств короче?
+QCLobbyMoreCommonTasks	Больше обычных заданий?
+QCLobbyLessCommonTasks	Меньше обычных заданий?
+QCLobbyMoreLongTasks	Больше долгих заданий?
+QCLobbyLessLongTasks	Меньше долгих заданий?
+QCLobbyMoreShortTasks	Больше быстрых заданий?
+QCLobbyLessShortTasks	Меньше быстрых заданий?
+QCLobbyRoleScientists	Ученые?
+QCLobbyRoleGuardianAngels	Ангелы-хранители?
+QCLobbyRoleEngineers	Инженеры?
+QCLobbyRoleShapeshifters	Оборотни?
+QCLobbyRoleNone	Никаких ролей
+QCResLess	Меньше
+QCResMore	Больше
+QCResNone	Нет
+QCLobbyHNSMoreHideTime	Больше времени на побег?
+QCLobbyHNSLessHideTime	Меньше времени на побег?
+QCLobbyHNSMoreFinalHideTime	Больше времени на финальные прятки?
+QCLobbyHNSLessFinalHideTime	Меньше времени на финальные прятки?
+QCLobbyHNSFlashlightMode	Режим с фонариком?
+QCLobbyHNSMoreCrewmateFlashlightSize	Размер фонарика члена экипажа больше?
+QCLobbyHNSLessCrewmateFlashlightSize	Размер фонарика члена экипажа меньше?
+QCLobbyHNSMoreImpostorFlashlightSize	Размер фонарика предателя больше?
+QCLobbyHNSLessImpostorFlashlightSize	Размер фонарика предателя меньше?
+QCLobbyHNSShowNames	Показать имена?
+QCLobbyHNSMoreVents	Больше люков?
+QCLobbyHNSLessVents	Меньше люков?
+QCLobbyHNSMoreTimeInVent	Больше времени в люке?
+QCLobbyHNSLessTimeInVent	Меньше времени в люке?
+QCLobbyHNSMoreFinalHideImpostorSpeed	Скорость предателя в финальных прятках выше?
+QCLobbyHNSLessFinalHideImpostorSpeed	Скорость предателя в финальных прятках ниже?
+QCLobbyHNSFinalHideSeekMap	Карта поиска в финальных прятках?
+QCLobbyHNSFinalHidePings	Сигналы в финальных прятках?
+QCLobbyHNSMorePingInterval	Больше времени между сигналами?
+QCLobbyHNSLessPingInterval	Меньше времени между сигналами?
+QCResAgree	Соглашусь.
+QCResDisagree	Не соглашусь.
+QCResNice	Славно!
+QCResUhOh	Ой-ой
+QCResOops	Упс!
+QCResExclamationMarks	!!!
+QCResQuestionMarks	???
+SecurityLogsSystem	Журнал охраны
+SecurityCamsSystem	Камеры охраны
+AdminMapSystem	Карта админа
+VitalsSystem	Монитор сердечного ритма
+EngagementScreenSignIn	Выполняется вход...
+EngagementScreen	Нажмите любую кнопку, чтобы начать.
+SaveGameOutOfSpaceMessage	Продолжить без сохранения?
+SaveGameOutOfSpaceConfirm	Продолжить
+SaveGameOutOfSpaceCancel	Повторить попытку
+Success	Успешно!
+Failed	Ошибка!
+ErrorCreate	При создании аккаунта произошла ошибка. Повторите попытку позже.
+SuccessCreate	Аккаунт успешно создан!
+Close	Закрыть
+ErrorLogIn	Не удается подключиться к вашему аккаунту Among Us.
+SuccessLogIn	Вы успешно вошли в аккаунт!
+AccountInfo	ДАННЫЕ АККАУНТА
+Account	АККАУНТ
+UserName	ИМЯ ПОЛЬЗОВАТЕЛЯ
+Height	Рост
+Weight	Вес
+SignIn	Войти
+CreateAccount	Создать аккаунт
+RequestPermission	Запросить разрешение
+RandomizeName	Случайное имя
+AccountLinking	Связать аккаунты
+ChangeName	Изменить имя
+LogOut	Выйти
+GuardianWait	Дождитесь, когда родитель или опекун даст вам разрешение на вход в свободный чат и смену имени.
+EmailEdit	Изменить адрес электронной почты
+EmailResend	Отправить письмо повторно
+GuestContinue	Продолжить как гость
+GuardianEmailSent	Письмо родителю/опекуну отправлено
+GuardianCheckEmail	Напомните своему родителю или опекуну проверить почту, чтобы получить доступ ко всем функциям игры.
+EditName	Изменить имя
+Name	Имя
+CreateAccountQuestion	Создать аккаунт?
+DoYouWantCreate	Вы хотите создать аккаунт?
+PermissionRequired	Требуется разрешение
+NeedPermissionText	Для совершения этих действий нужно разрешение родителя или опекуна. Мы отправим письмо на электронную почту родителя/опекуна, и, при условии его согласия, вы сможете пользоваться свободным чатом в сетевой игре и изменить имя пользователя. Попросите взрослых помочь!
+GuardianEmailTitle	Адрес электронной почты родителя/опекуна
+Send	Отправить
+Undo	Отменить
+Clear	Очистить
+NewEmail	Новый адрес электронной почты
+ConfirmEmail	Подтвердить адрес электронной почты
+EditEmail	Изменить адрес электронной почты
+Loading	Загрузка
+Welcome	ДОБРО ПОЖАЛОВАТЬ
+GuardianEmail	[адрес электронной почты опекуна]
+	
+BanButton	БЛОК
+KickButton	ВЫГНАТЬ
+ReportButton	ЖАЛОБА
+ReportConfirmation	Вы отправили жалобу на этого пользователя.
+ReportBadName	Неприемлемое имя
+ReportBadChat	Неприемлемые сообщения
+ReportHacking	Использование читов / взлом игры
+ReportHarassment	Оскорбления / неподобающее поведение
+ReportWhy	Почему вы хотите пожаловаться на этого пользователя?
+DLLNotFoundAccountError	При подключении к онлайн-сервисам возникла проблема. Пока она не будет исправлена, вы можете играть только по локальной сети или в режиме тренировки. Попробуйте еще раз позже.
+ContinueOffline	Игра вне сети
+WantToLogIn	Вы не вошли в аккаунт.
+GoOffline	Выйти из сети
+PlayAsGuest	Играть как гость
+LogInTitle	Войти в аккаунт
+LogInInfoText	Создайте аккаунт Among Us или войдите в него, чтобы получить доступ к таким функциям игры, как:\n\n— Синхронизация прогресса между устройствами\n— Обычный чат\n— Привязка косметических предметов\n— И многому другому!\n\nВ зависимости от типа аккаунта для доступа к некоторым функциям может потребоваться разрешение родителя или опекуна.
+LogInInfoTextSwitch	Если у вас нет аккаунта, он будет создан автоматически.
+ControllerDisconnectedMessage	Геймпад отключен
+FollowUs	Подпишитесь на нас!
+	
+QuickChatInstructionsStart	В настройках игры выбрано «Только быстрый чат».
+QuickChatInstructionsChild	Попросите родителя или опекуна дать вам доступ к полному чату.
+QuickChatInstructionsGuest	Для внесения изменений необходимо выполнить вход.
+QuickChatInstructionsFull	Во время игры вам будет доступен только быстрый чат. Вы сможете играть только с пользователями, которые также используют быстрый чат.
+	
+SwitchEShopBrowseAll	Смотреть все товары в Nintendo eShop
+	
+Download	Скачать
+Upload	Загрузить
+pk05_davehat	Шапка Дейва
+pk05_Ellie	Элли
+pk05_Svenhat	Шапка Свена
+pk05_Burthat	Шапка Берта Кертиса
+pk05_Ellryhat	Ирокез Эллри
+pk05_monocles	Двойной монокль
+pk05_cheesetoppat	Сырный цилиндр
+pk05_Macbethhat	Цилиндр мистера Макбета
+pk05_HenryToppat	Цилиндр Генри
+pk05_EllieToppat	Цилиндр Элли
+pk05_GeoffreyToppat	Цилиндр Джеффри
+	
+InsufficientStorageError	Недостаточно места для скачивания набора файлов. Освободите память на устройстве и попробуйте еще раз.
+NetworkError	Ошибка сети. Проверьте настройки подключения и попробуйте еще раз.
+OtherDownloadError	Произошла ошибка: {0}
+DownloadingLabel	Скачивание {0}
+DownloadSizeLabel	Размер загружаемого файла: {0} МБ
+	
+TimeRemaining	Осталось времени: {0}
+DeadLabel	УБИТЫ
+	
+InviteFriends	Пригласить друзей
+	
+NutriLabel	УДОБР.
+CO2Label	CO2
+RADLabel	РАД.
+WaterLabel	ВОДА
+	
+DoorlogLabel	ЖУРНАЛ
+VitalsLabel	ПУЛЬС
+OptionsLabel	НАСТРОЙКИ
+ProceedLabel	ДАЛЕЕ
+StartLabel	СТАРТ
+UseLabel	ИСП.
+PlayAgain	ЗАНОВО
+QuitLabel	ВЫЙТИ
+ReportLabel	ЗАЯВИТЬ
+SabotageLabel	САБОТАЖ
+VentLabel	ЛЮК
+KillLabel	УБИТ
+DiscussLabel	ОБСУЖДАЕМ!
+SkippedVoting	ВОЗДЕРЖ.
+SkipVoteLabel	ВОЗДЕРЖАТЬСЯ
+EmergencyMeeting	СРОЧНОЕ СОБРАНИЕ
+BodyReported	ОБНАРУЖЕН ТРУП
+SkinLabel	КОСТЮМЫ
+HatLabel	ШАПКИ
+PetLabel	ПИТОМЦЫ
+AnnouncementLabel	ОБЪЯВЛЕНИЯ
+	
+UploadingLabel	ЗАГРУЗКА
+ConnectionLabel	Сигнал:
+NoneLabel	НЕТ
+PoorLabel	СЛАБЫЙ
+GoodLabel	ХОРОШИЙ
+LogLabel	ЖУРНАЛ
+ReadingLabel	ОТЧЕТ
+WeatherDataDownload	ЗАГРУЗКА ОТЧЕТА О ПОГОДЕ
+MiraBundle	Набор MIRA HQ
+MiraSkinBundle	Набор костюмов MIRA HQ
+PolusBundle	Набор Polus
+PolusSkinBundle	Набор костюмов карты Polus
+AirshipBundle	Набор Airship
+PetAlien1	Набор питомцев «Мозгослизень»
+PetCrewmate	Набор «Мини-астронавт»
+PetAnimal	Набор питомцев «Хомяк»
+PetAlien2	Набор питомцев «Хедкраб»
+PetStickmin	Набор питомцев «Stickmin»
+PrisonerSkin	Узник
+Cyborg_RHM	Киборг «Правая рука 2.0»
+CCC_Officer	Глава Центра контроля хаоса
+BeginLabel	ПУСК
+QuietLabel	ТС-С-С!
+VentCleaning	Прочистить люк
+CleanUp	Прочистить
+ProgressLabel	Загружено:
+TermsOfUseTitle	Условия использования
+PPAndToUTitle	Политика конфиденциальности и условия использования
+	
+ErrorNotAuthenticated	Серверы Among Us не смогли аутентифицировать вас.\r\n\nДля игры по сети необходим аккаунт Among Us.
+ComePlayDiscord	Давай сыграем в Among Us!
+
+ShowAccountSupportID5	Показать ID поддержки аккаунта
+ShowAccountSupportID4	Нажмите еще 4 раза, чтобы увидеть ID
+ShowAccountSupportID3	Не сообщайте никому этот ID
+ShowAccountSupportID2	Не показывать во время трансляции (2)
+ShowAccountSupportID1	Я точно хочу увидеть этот ID
+SupportIDLabel	ID: {0}
+YouAreNotOnline	Нет подключения к сети.
+NoDeadBodiesFound	Трупы не найдены
+SupportEmail	Напишите нам по адресу support@innersloth.com, если вы хотите связаться со службой поддержки.
+PerfectLabel	ИДЕАЛЬНО
+PSNErrorSessionFailed	Возникла проблема с текущим сеансом игры
+PSNErrorSessionJoinFailed	Не удалось присоединиться к сеансу игры
+PSNErrorSessionGetInfoFailed	Не удалось получить информацию о сеансе игры
+PSNErrorPSNConnectionLost	Потеряно соединение с PlayStation™Network
+PSNErrorUserSignedOut	Пользователь вышел из сети
+	
+CrossPlayTitle	Кросс-игра
+CrossPlayAllPlatforms	Все платформы
+CrossPlaySamePlatform	Ваша платформа
+CrossPlayEnabledWarning	Кросс-игра включена — вам могут встретиться игроки с других платформ.
+	
+TimeOutText	Попытка входа как-то затянулась. Хотите продолжить в режиме офлайн?
+RetryText	Подождать еще немного
+Continue	Продолжить
+GameComplete	Конец игры
+LevelShorthand	Ур. {0}
+MaxLevel	Макс. ур.
+Cosmetic.hat_AbominalHat	Cненежная голова
+Cosmetic.hat_Antenna_Black	Плохой прием (черный)
+Cosmetic.hat_Astronaut-Blue	Космическая прогулка (синий)
+Cosmetic.hat_Astronaut-Cyan	Космическая прогулка (голубой)
+Cosmetic.hat_Astronaut-Orange	Космическая прогулка (оранжевый)
+Cosmetic.hat_Bandana_Blue	Кхе (синий)
+Cosmetic.hat_Bandana_Green	Кхе (зеленый)
+Cosmetic.hat_Bandana_Pink	Кхе (розовый)
+Cosmetic.hat_Bandana_Red	Кхе (красный)
+Cosmetic.hat_Bandana_White	Кхе (белый)
+Cosmetic.hat_Bandana_Yellow	Кхе (желтый)
+Cosmetic.hat_baseball_Black	Бейсболка (черный)
+Cosmetic.hat_baseball_Green	Бейсболка (зеленый)
+Cosmetic.hat_baseball_Lightblue	Бейсболка (голубой)
+Cosmetic.hat_baseball_LightGreen	Бейсболка (светло-зеленый)
+Cosmetic.hat_baseball_Lilac	Бейсболка (сиреневый)
+Cosmetic.hat_baseball_Orange	Бейсболка (оранжевый)
+Cosmetic.hat_baseball_Pink	Бейсболка (розовый)
+Cosmetic.hat_baseball_Purple	Бейсболка (фиолетовый)
+Cosmetic.hat_baseball_Red	Бейсболка (красный)
+Cosmetic.hat_baseball_White	Бейсболка (белый)
+Cosmetic.hat_baseball_Yellow	Бейсболка (желтый)
+Cosmetic.hat_Basketball	Трехочковый
+Cosmetic.hat_Beanie_Black	Лыжная шапка (черный)
+Cosmetic.hat_Beanie_Blue	Лыжная шапка (синий)
+Cosmetic.hat_Beanie_Green	Лыжная шапка (зеленый)
+Cosmetic.hat_Beanie_Lightblue	Лыжная шапка (светло-голубой)
+Cosmetic.hat_Beanie_LightGreen	Лыжная шапка (светло-зеленый)
+Cosmetic.hat_Beanie_LightPurple	Лыжная шапка (сиреневый)
+Cosmetic.hat_Beanie_Pink	Лыжная шапка (розовый)
+Cosmetic.hat_Beanie_Purple	Лыжная шапка (фиолетовый)
+Cosmetic.hat_Beanie_White	Лыжная шапка (белый)
+Cosmetic.hat_Beanie_Yellow	Лыжная шапка (желтый)
+Cosmetic.hat_Bowlingball	Страйк
+Cosmetic.hat_Chocolate	Шоколад. мороженое
+Cosmetic.hat_CuppaJoe	Наблюдатель Джо
+Cosmetic.hat_Deitied	Святилище божеств
+Cosmetic.hat_Doc_black	Ну что там, доктор? (черный)
+Cosmetic.hat_Doc_Orange	Ну что там, доктор? (оранжевый)
+Cosmetic.hat_Doc_Purple	Ну что там, доктор? (фиолетовый)
+Cosmetic.hat_Doc_Red	Ну что там, доктор? (красный)
+Cosmetic.hat_Doc_White	Ну что там, доктор? (белый)
+Cosmetic.hat_Dodgeball	Аут!
+Cosmetic.hat_Dorag_Black	Флибустьер-р-р (угольный)
+Cosmetic.hat_Dorag_Desert	Флибустьер-р-р (песчаный)
+Cosmetic.hat_Dorag_Jungle	Флибустьер-р-р (лес)
+Cosmetic.hat_Dorag_Purple	Флибустьер-р-р (фиолетовый)
+Cosmetic.hat_Dorag_Sky	Флибустьер-р-р (небесный)
+Cosmetic.hat_Dorag_Snow	Флибустьер-р-р (арктический)
+Cosmetic.hat_Dorag_Yellow	Флибустьер-р-р (цитрус)
+Cosmetic.hat_DrillMetal	Сверло
+Cosmetic.hat_DrillStone	Сверло (камень)
+Cosmetic.hat_DrillWood	Сверло (дерево)
+Cosmetic.hat_EarmuffGreen	Варежки для ушей (зеленый)
+Cosmetic.hat_EarmuffsPink	Варежки для ушей (розовый)
+Cosmetic.hat_EarmuffsYellow	Варежки для ушей (желтый)
+Cosmetic.hat_EarnmuffBlue	Варежки для ушей
+Cosmetic.hat_Goggles_Black	Гогглы (черный)
+Cosmetic.hat_Goggles_Chrome	Гогглы (хром)
+Cosmetic.hat_GovtDesert	Ополченец (песчаный)
+Cosmetic.hat_GovtHeadset	Первоклассная гарнитура
+Cosmetic.hat_Hardhat_black	Все по БТ (черный)
+Cosmetic.hat_Hardhat_Blue	Все по БТ (синий)
+Cosmetic.hat_Hardhat_Green	Все по БТ (зеленый)
+Cosmetic.hat_Hardhat_Orange	Все по БТ (оранжевый)
+Cosmetic.hat_Hardhat_Pink	Все по БТ (розовый)
+Cosmetic.hat_Hardhat_Purple	Все по БТ (фиолетовый)
+Cosmetic.hat_Hardhat_Red	Все по БТ (красный)
+Cosmetic.hat_Hardhat_White	Все по БТ (белый)
+Cosmetic.hat_HardtopHat	Крановщик
+Cosmetic.hat_headslug_Purple	Головослизень (фиолетовый)
+Cosmetic.hat_headslug_Red	Головослизень (красный)
+Cosmetic.hat_headslug_White	Головослизень (белый)
+Cosmetic.hat_headslug_Yellow	Головослизень (желтый)
+Cosmetic.hat_Heart	Меньше трех
+Cosmetic.hat_Helmet	Рыцарь
+Cosmetic.hat_Herohood_Black	Лесной воин (черный)
+Cosmetic.hat_Herohood_Blue	Лесной воин (синий)
+Cosmetic.hat_Herohood_Pink	Лесной воин (розовый)
+Cosmetic.hat_Herohood_Purple	Лесной воин (фиолетовый)
+Cosmetic.hat_Herohood_Red	Лесной воин (красный)
+Cosmetic.hat_Herohood_White	Лесной воин (белый)
+Cosmetic.hat_Herohood_Yellow	Лесной воин (желтый)
+Cosmetic.hat_Janitor	Haunted Hotel
+Cosmetic.hat_MilitaryWinter	Ополченец (арктический)
+Cosmetic.hat_MinerBlack	Минерное настроение (черный)
+Cosmetic.hat_MinerYellow	Минерное настроение (желтый)
+Cosmetic.hat_mira_bush	Живая изгородь
+Cosmetic.hat_mira_case	Важные документы
+Cosmetic.hat_mira_cloud	Голова в облаках
+Cosmetic.hat_mira_flower	Тропический цветок
+Cosmetic.hat_mira_flower_red	Душистый цветок
+Cosmetic.hat_mira_gem	Уникальный образец
+Cosmetic.hat_mira_headset_blue	Первоклассная гарнитура (синий)
+Cosmetic.hat_mira_headset_pink	Первоклассная гарнитура (розовый)
+Cosmetic.hat_mira_headset_yellow	Первоклассная гарнитура (желтый)
+Cosmetic.hat_mira_leaf	Лозы лезут
+Cosmetic.hat_mira_milk	Персиковый напиток
+Cosmetic.hat_mira_sign_blue	Осторожно, мокрый пол (синий)
+Cosmetic.hat_NewYears2018	Новый год — 2019
+Cosmetic.hat_NoHat	Нет
+Cosmetic.hat_Paperhat_Black	Оригами (черный)
+Cosmetic.hat_Paperhat_Blue	Оригами (синий)
+Cosmetic.hat_Paperhat_Cyan	Оригами (морская пена)
+Cosmetic.hat_Paperhat_Lightblue	Оригами (небесный)
+Cosmetic.hat_Paperhat_Pink	Оригами (розовый)
+Cosmetic.hat_Paperhat_Yellow	Оригами (желтый)
+Cosmetic.hat_astronaut	Космическая прогулка
+Cosmetic.hat_pk01_BaseballCap	Бейсболка
+Cosmetic.hat_brainslug	Головослизень
+Cosmetic.hat_bushhat	Данди
+Cosmetic.hat_captain	Кепи-тан
+Cosmetic.hat_doubletophat	Командир «Топпат»
+Cosmetic.hat_flowerpot	Подсадная шляпа
+Cosmetic.hat_goggles	Гогглы
+Cosmetic.hat_hardhat	Все по БТ
+Cosmetic.hat_military	Ополченец
+Cosmetic.hat_paperhat	Оригами
+Cosmetic.hat_partyhat	Праздничный колпак
+Cosmetic.hat_police	Полицейский-офицер
+Cosmetic.hat_stethescope	Ну что там, доктор?
+Cosmetic.hat_tophat	Рядовой «Топпат»
+Cosmetic.hat_towelwizard	Заклинатель ванной
+Cosmetic.hat_russian	Ушанка Стены
+Cosmetic.hat_viking	Викинг
+Cosmetic.hat_wallcap	Кепка Стены
+Cosmetic.hat_whitetophat	«Топпат» в белом
+Cosmetic.hat_pk02_Crown	Венценосец
+Cosmetic.hat_pk02_Eyebrows	Брови Stickmin
+Cosmetic.hat_pk02_HaloHat	Невинность
+Cosmetic.hat_pk02_HeroCap	Лесной воин
+Cosmetic.hat_pk02_PipCap	Крошка Джим
+Cosmetic.hat_pk02_PlungerHat	Засор
+Cosmetic.hat_pk02_ScubaHat	Подводное устройство
+Cosmetic.hat_pk02_StickminHat	Наездник Stickmin
+Cosmetic.hat_pk02_StrawHat	Побег из Сахары
+Cosmetic.hat_pk02_TenGallonHat	Десять галлонов
+Cosmetic.hat_pk02_ThirdEyeHat	Третий глаз
+Cosmetic.hat_pk02_ToiletPaperHat	Последний рулон
+Cosmetic.hat_pk02_Toppat	Новый шеф
+Cosmetic.hat_pk03_Fedora	Федорательно
+Cosmetic.hat_pk03_Goggles	Безопасность — потом
+Cosmetic.hat_pk03_Headphones	Первоклассная гарнитура
+Cosmetic.hat_pk03_Security1	Усиленная охрана
+Cosmetic.hat_pk03_StrapHat	Садовник
+Cosmetic.hat_pk03_Traffic	Пробка
+Cosmetic.hat_traffic_purple	Пробка (фиолетовый)
+Cosmetic.hat_pk04_Antenna	Плохой прием
+Cosmetic.hat_pk04_Archae	Сибирь Джеймс
+Cosmetic.hat_pk04_Balloon	А ты хочешь шарик?
+Cosmetic.hat_pk04_Banana	Шкурка
+Cosmetic.hat_pk04_Bandana	Кхе
+Cosmetic.hat_pk04_Beanie	Лыжная шапка
+Cosmetic.hat_pk04_Bear	Мишутка
+Cosmetic.hat_pk04_BirdNest	Два яйца в гнезде
+Cosmetic.hat_pk04_CCC	Контроль хаоса
+Cosmetic.hat_pk04_Chef	Меня зовут Шеф
+Cosmetic.hat_pk04_DoRag	Флибустьер-р-р
+Cosmetic.hat_pk04_Fez	Феска
+Cosmetic.hat_pk04_GeneralHat	Генеральная мысль
+Cosmetic.hat_pk04_HunterCap	Дурилка
+Cosmetic.hat_pk04_JungleHat	В укрытие
+Cosmetic.hat_pk04_MinerCap	Минерное настроение
+Cosmetic.hat_pk04_MiniCrewmate	Мини-астронавт
+Cosmetic.hat_pk04_Pompadour	Помпезный помпадур
+Cosmetic.hat_pk04_RamHorns	Овен
+Cosmetic.hat_pk04_Slippery	Осторожно, мокрый пол
+Cosmetic.hat_pk04_Snowman	Снегоастронавт
+Cosmetic.hat_pk04_Vagabond	Таинственный бродяга
+Cosmetic.hat_pk04_WinterHat	Холоднен.
+Cosmetic.hat_pk05_Burthat	Я Берт
+Cosmetic.hat_pk05_Cheese	Честер любит
+Cosmetic.hat_pk05_cheesetoppat	Мюнстер
+Cosmetic.hat_pk05_Cherry	Вишенка на торте
+Cosmetic.hat_pk05_davehat	Охрана музея
+Cosmetic.hat_pk05_Egg	Потряйцающе
+Cosmetic.hat_pk05_Ellie	Рыжий бандит
+Cosmetic.hat_pk05_EllieToppat	Завербов. Элли
+Cosmetic.hat_pk05_Ellryhat	Ирокез
+Cosmetic.hat_pk05_Fedora	Вечер в стиле нуар
+Cosmetic.hat_pk05_Flamingo	Надувной фламинго
+Cosmetic.hat_pk05_FlowerPin	Флорист
+Cosmetic.hat_pk05_GeoffreyToppat	Головастик
+Cosmetic.hat_pk05_Helmet	Рыцарь
+Cosmetic.hat_pk05_HenryToppat	Завербов. Генри
+Cosmetic.hat_pk05_Macbethhat	Мистер Макбет
+Cosmetic.hat_pk05_Plant	Побег
+Cosmetic.hat_pk05_Svenhat	Sven Svensson
+Cosmetic.hat_pk05_Wizardhat	Настоящий чародей
+Cosmetic.hat_pk06_Candycanes	Карамельная трость
+Cosmetic.hat_pk06_ElfHat	Чувак с игрушками
+Cosmetic.hat_pk06_Lights	Ослепительно
+Cosmetic.hats_newyears2018	Новый год — 2019
+Cosmetic.hat_pk06_Present	Подарочек
+Cosmetic.hat_pk06_Reindeer	О, как лень
+Cosmetic.hat_pk06_Santa	Чувак с подарками
+Cosmetic.hat_pk06_Snowman	Отмороженный
+Cosmetic.hat_pk06_tree	Вечнозеленый
+Cosmetic.hat_pkHW01_BatWings	Сама ночь
+Cosmetic.hat_pkHW01_CatEyes	Шапка с ушками
+Cosmetic.hat_pkHW01_Horns	Бес-подобно
+Cosmetic.hat_pkHW01_Machete	Шапка-резка
+Cosmetic.hat_pkHW01_Mohawk	Хардкор
+Cosmetic.hat_pkHW01_Pirate	На корм рыбам
+Cosmetic.hat_pkHW01_Pumpkin	Тыковка
+Cosmetic.hat_pkHW01_ScaryBag	Маска чудовища
+Cosmetic.hat_pkHW01_Witch	Ведьма
+Cosmetic.hat_pkHW01_Wolf	Оборотень
+Cosmetic.hat_Plunger_Blue	Засор (синий)
+Cosmetic.hat_Plunger_Yellow	Засор (черный с желтым)
+Cosmetic.hat_Ponytail	Блонди
+Cosmetic.hat_Pot	Шлем копальщика
+Cosmetic.hat_Prototype	Шлем-прототип
+Cosmetic.hat_Ramhorn_Black	Овен (черный)
+Cosmetic.hat_Ramhorn_Red	Овен (красный)
+Cosmetic.hat_Ramhorn_White	Овен (белый)
+Cosmetic.hat_Records	Архивариус
+Cosmetic.hat_RockIce	Камнешапка — ледяная
+Cosmetic.hat_RockLava	Камнешапка — вулкан
+Cosmetic.hat_Rubberglove	Вперчатляющая шапка
+Cosmetic.hat_Rupert	Руперт
+Cosmetic.hat_SnowbeanieGreen	Зима уже здесь (зеленый)
+Cosmetic.hat_SnowbeanieOrange	Зима уже здесь (оранжевый)
+Cosmetic.hat_SnowBeaniePurple	Зима уже здесь (фиолетовый)
+Cosmetic.hat_SnowbeanieRed	Зима уже здесь
+Cosmetic.hat_Soccer	Удар головой
+Cosmetic.hat_TenGallon_Black	Десять галлонов (черный)
+Cosmetic.hat_TenGallon_White	Десять галлонов (белый)
+Cosmetic.hat_ThomasC	Цилиндр Томаса
+Cosmetic.hat_ToppatHair	Классная Кейти
+Cosmetic.hat_Traffic_Blue	Пробка (синий)
+Cosmetic.hat_Traffic_Red	Пробка (красный)
+Cosmetic.hat_Traffic_Yellow	Пробка (желтый)
+Cosmetic.hat_Unicorn	Волшебный рог
+Cosmetic.hat_Visor	Козырек
+Cosmetic.hat_Voleyball	Нападающий
+Cosmetic.hat_WilfordIV	Сэр Уилфорд IV
+Cosmetic.hat_Winston	Коррумпированный чиновник
+Cosmetic.hat_WinterGreen	Холодненький (зеленый)
+Cosmetic.hat_WinterHelmet	В укрытие (арктический)
+Cosmetic.hat_WinterRed	Холодненький (красный)
+Cosmetic.hat_WinterYellow	Холодненький (желтый)
+Cosmetic.hat_Zipper	Костюм члена экипажа
+Cosmetic.nameplate_airship_CCC	Центр контроля хаоса
+Cosmetic.nameplate_airship_Diamond	Бриллианты!
+Cosmetic.nameplate_airship_Emerald	Изумруды!
+Cosmetic.nameplate_airship_Gems	Верхнее хранилище
+Cosmetic.nameplate_airship_government	Первоклассная именная табличка
+Cosmetic.nameplate_Airship_Hull	Корпус корабля
+Cosmetic.nameplate_airship_Ruby	Рубины!
+Cosmetic.nameplate_airship_Sky	Над облаками
+Cosmetic.nameplate_airship_Toppat	Корабль «Топпат»
+Cosmetic.nameplate_is_dig	Dig2China
+Cosmetic.nameplate_is_game	СПОРТ
+Cosmetic.nameplate_is_ghost	Башня призраков
+Cosmetic.nameplate_is_green	Зелень бога
+Cosmetic.nameplate_is_sand	Благословение богов
+Cosmetic.nameplate_is_trees	Деревья
+Cosmetic.nameplate_is_yard	Раскопки
+Cosmetic.nameplate_Mira_Cafeteria	Сегодня в меню: сок «Пицца»
+Cosmetic.nameplate_Mira_Glass	Небо под ногами
+Cosmetic.nameplate_Mira_Tiles	Оружейный улей
+Cosmetic.nameplate_Mira_Vines	Так чья эта лоза?
+Cosmetic.nameplate_Mira_Wood	Одревенеть можно
+	
+Cosmetic.nameplate_NoPlate	Нет
+Cosmetic.nameplate_Polus_Colors	Палитра Polus
+Cosmetic.nameplate_Polus_DVD	Фанат SimSong
+Cosmetic.nameplate_Polus_Ground	Фиолетовая планета
+Cosmetic.nameplate_Polus_Lava	Лава
+Cosmetic.nameplate_Polus_Planet	Планета Polus
+Cosmetic.nameplate_Polus_Snow	Снежные земли
+Cosmetic.nameplate_Polus_SpecimenBlue	Проба (синий)
+Cosmetic.nameplate_Polus_SpecimenGreen	Проба (зеленый)
+Cosmetic.nameplate_Polus_SpecimenPurple	Проба (фиолетовый)
+Cosmetic.nameplate_Polus-Skyline	Polus: горизонт
+Cosmetic.nameplate_Polus-Snowmates	Снегоастронавты Polus
+Cosmetic.pet_Alien	Головослизень
+Cosmetic.pet_Bedcrab	Хедкраб
+Cosmetic.pet_Bush	Кустик
+Cosmetic.pet_Charles	Вертолет «Чарльз»
+Cosmetic.pet_Charles_Red	Вертолет «Топпат»
+Cosmetic.pet_Crewmate	Мини-астронавт
+Cosmetic.pet_Cube	Парень-истукан
+Cosmetic.pet_Doggy	Собачка
+Cosmetic.pet_Ellie	E. Rose
+Cosmetic.pet_EmptyPet	Нет
+Cosmetic.pet_test	Глитч
+Cosmetic.pet_Hamster	Хэмптон
+Cosmetic.pet_Lava	Магмастронавт
+Cosmetic.pet_Robot	Ро-Бот
+Cosmetic.pet_Snow	Снежок
+Cosmetic.pet_Squig	Кальмар-р
+Cosmetic.pet_Stickmin	H. Stickmin
+Cosmetic.pet_UFO	НЛО
+Cosmetic.skin_Abominalskin	Сненежный астронавт
+Cosmetic.skin_Archae	Выкопанные чудеса
+Cosmetic.skin_Astro	Астроневт
+Cosmetic.skin_Astro_blue	Астроневт (синий)
+Cosmetic.skin_Astro_cyan	Астроневт (бирюзовый)
+Cosmetic.skin_Astro_orange	Астроневт (оранжевый)
+Cosmetic.skin_Bling	Побрякушки
+Cosmetic.skin_Bushskin	Скрытн.
+Cosmetic.skin_BusinessFem-Aquaskin	Юбка в деловом стиле (бирюзовый)
+Cosmetic.skin_BusinessFemskin	Юбка в деловом стиле
+Cosmetic.skin_BusinessFem-Tanskin	Юбка в деловом стиле (бежевый)
+Cosmetic.skin_Capt	Летное удостоверение
+Cosmetic.skin_CCC	Член экип. Конт. хаоса
+Cosmetic.skin_D2Cskin	Мальчик-копальщик
+Cosmetic.skin_General	Генерал Гейлфорс
+Cosmetic.skin_Hazmat	Химстронавт
+Cosmetic.skin_Hazmat-Blackskin	Химстронавт (черный)
+Cosmetic.skin_Hazmat-Blueskin	Химстронавт (синий)
+Cosmetic.skin_Hazmat-Greenskin	Химстронавт (зеленый)
+Cosmetic.skin_Hazmat-Pinkskin	Химстронавт (розовый)
+Cosmetic.skin_Hazmat-Redskin	Химстронавт (красный)
+Cosmetic.skin_Hazmat-Whiteskin	Химстронавт (белый)
+Cosmetic.skin_JacketGreenskin	Куртка полярника (зеленый)
+Cosmetic.skin_JacketPurpleskin	Куртка полярника (фиолетовый)
+Cosmetic.skin_JacketYellowskin	Куртка полярника (желтый)
+Cosmetic.skin_Janitorskin	Уборка зовет
+Cosmetic.skin_Mech	Сейчас починим
+Cosmetic.skin_MechanicRed	Механик корабля
+Cosmetic.skin_Military	Костюм офицера
+Cosmetic.skin_MilitaryDesert	Офицер (песчаный)
+Cosmetic.skin_MilitarySnowskin	Офицер (арктический)
+Cosmetic.skin_Miner	Подрывник
+Cosmetic.skin_MinerBlackskin	Подрывник (черный)
+Cosmetic.skin_None	Нет
+Cosmetic.skin_Police	Офицер полиции
+Cosmetic.skin_prisoner	Заключенный 2112
+Cosmetic.skin_PrisonerBlue	Заключенный 2112 (синий)
+Cosmetic.skin_PrisonerTanskin	Заключенный 2112 (бежевый)
+Cosmetic.skin_rhm	Правая Рука: перерожд.
+Cosmetic.skin_RockIceskin	По тонкому льду
+Cosmetic.skin_RockLavaskin	Как скала
+Cosmetic.skin_Science	Научная теория
+Cosmetic.skin_Scientist-Blueskin	Доктор
+Cosmetic.skin_Scientist-Darkskin	Темный ученый
+Cosmetic.skin_Security	В безопасн.
+Cosmetic.skin_Skin_SuitRedskin	Униформа «Топпат»
+Cosmetic.skin_SportsBlueskin	Спортивная команда СИНИЕ
+Cosmetic.skin_SportsRedskin	Спортивная команда КРАСНЫЕ
+Cosmetic.skin_SuitB	При параде
+Cosmetic.skin_SuitW	Эффектность
+Cosmetic.skin_SweaterBlueskin	Уютный свитер (синий)
+Cosmetic.skin_SweaterPinkskin	Уютный свитер (розовый)
+Cosmetic.skin_Sweaterskin	Уютный свитер
+Cosmetic.skin_SweaterYellowskin	Уютный свитер (желтый)
+Cosmetic.skin_Tarmac	Приземл. здесь
+Cosmetic.skin_ToppatSuitFem	Юбка «Топпат»
+Cosmetic.skin_ToppatVest	Шкурный интерес
+Cosmetic.skin_Wall	Охраняя Стену
+Cosmetic.skin_Winter	Куртка полярника
+Cosmetic.visor_BillyG	Мистер Джи
+Cosmetic.visor_Blush	uwu
+Cosmetic.visor_Bomba	Бомбастик
+Cosmetic.visor_Carrot	Щастье
+Cosmetic.visor_Crack	Трещина Among Us — 2021
+Cosmetic.visor_D2CGoggles	Подкоп
+Cosmetic.visor_Dirty	Помой меня
+Cosmetic.visor_Dotdot	тчк тчк тчк
+Cosmetic.visor_EmptyVisor	Нет
+Cosmetic.visor_EyepatchL	Повязка на глазу
+Cosmetic.visor_EyepatchR	Повязка на глазу
+Cosmetic.visor_Galeforce	Вибрисы Гейлфорса
+Cosmetic.visor_is_beard	Борода
+Cosmetic.visor_JanitorStache	Призрачные усы
+Cosmetic.visor_Krieghaus	Кригхаус
+Cosmetic.visor_Lava	Растекаска
+Cosmetic.visor_LolliBlue	Леденец (синий)
+Cosmetic.visor_LolliBrown	Леденец (коричневый)
+Cosmetic.visor_LolliOrange	Леденец (оранжевый)
+Cosmetic.visor_LolliRed	Леденец
+Cosmetic.visor_mira_card_blue	Пропуск (синий)
+Cosmetic.visor_mira_card_red	Пропуск (красный)
+Cosmetic.visor_mira_glasses	Очки
+Cosmetic.visor_mira_mask_black	Защита от токсинов (черный)
+Cosmetic.visor_mira_mask_blue	Защита от токсинов (синий)
+Cosmetic.visor_mira_mask_green	Защита от токсинов (зеленый)
+Cosmetic.visor_mira_mask_purple	Защита от токсинов (фиолетовый)
+Cosmetic.visor_mira_mask_red	Защита от токсинов (красный)
+Cosmetic.visor_mira_mask_white	Защита от токсинов (белый)
+Cosmetic.visor_Mouth	Зубастик
+Cosmetic.visor_PiercingL	Пирсинг
+Cosmetic.visor_PiercingR	Пирсинг
+Cosmetic.visor_pk01_AngeryVisor	з л о б а
+Cosmetic.visor_pk01_DumStickerVisor	На заметку
+Cosmetic.visor_pk01_FredVisor	Идеальный вратарь
+Cosmetic.hat_geoff	My Name Geoff
+Cosmetic.visor_pk01_HazmatVisor	Защита от токсинов
+Cosmetic.visor_pk01_MonoclesVisor	Двойной монокль
+Cosmetic.visor_pk01_PaperMaskVisor	Защищен
+Cosmetic.visor_pk01_PlagueVisor	Чума
+Cosmetic.visor_pk01_RHMVisor	Усы Правой Руки
+Cosmetic.visor_pk01_Security1Visor	Авиаторы
+Cosmetic.visor_polus_ice	Слезы-сосульки
+Cosmetic.visor_Reginald	Усы Реджинальда
+Cosmetic.visor_Scar	В шрамах
+Cosmetic.visor_SciGoggles	Безопасность прежде всего
+Cosmetic.visor_shopglasses	Закупайтесь здесь
+Cosmetic.visor_SkiGoggleBlack	Покоритель склонов (черный)
+Cosmetic.visor_SKiGogglesOrange	Покоритель склонов (оранжевый)
+Cosmetic.visor_SkiGogglesWhite	Покоритель склонов
+Cosmetic.visor_SmallGlasses	Очки-крохи
+Cosmetic.visor_SmallGlassesBlue	Очки-крохи (синий)
+Cosmetic.visor_SmallGlassesRed	Очки-крохи (красный)
+Cosmetic.visor_Stickynote_Cyan	На заметку (бирюз.)
+Cosmetic.visor_Stickynote_Green	На заметку (зеленый)
+Cosmetic.visor_Stickynote_Orange	На заметку (оранж.)
+Cosmetic.visor_Stickynote_Pink	На заметку (розовый)
+Cosmetic.visor_Stickynote_Purple	На заметку (фиол.)
+Cosmetic.visor_Straw	Соломинка
+Cosmetic.visor_WinstonStache	Конвоир
+Visor	ВИЗОР
+EquipLabel	Выбрать
+NamePlate	Бейджик
+Visors	Визоры
+NamePlates	Бейджики
+Cosmicube	Cosmicube
+Cosmicubes	Cosmicubes
+Activate	Активировать
+Deactivate	Деактивировать
+Owned	Уже есть
+Purchase	Купить
+CosmicubeProgression	Завершено {0}%
+ViewCube	Просмотреть куб
+ConfirmPurchaseHeader	Подтвердите покупку
+ConfirmPurchaseText	Вы действительно хотите приобрести выбранную ветку куба «{0}»?
+DeactivateCube	Деактивировать
+ActivateCube	Активировать
+Bundles	Наборы
+Stars	Звезды
+Wardrobe	Гардероб
+PlayerLevel	Уровень
+PlayerXp	Опыт
+PlayerLevelExtremeShorthand	Ур.
+Max	Макс.
+Colors	Цвета
+CopiedText	Текст скопирован!
+LinkAccount	Привязать аккаунт
+CreateNewAccount	Создать новый аккаунт
+LinkExistingAccount	Привязать существующий аккаунт
+LinkAccountExplanation	Если у вас уже есть аккаунт Among Us на другой платформе, вы можете создать привязку к нему!\nВы также можете создать новый аккаунт.
+LinkAccountCode	Введите следующий код по ссылке <link="{0}">{1}</link> \n<size=+2>{2}</size>
+ErrorLink	При привязке аккаунта произошла ошибка. Повторите попытку позже.
+UnlinkAccount	Отвязать аккаунт
+ConfirmUnlinkAccount	Подтвердите отвязку аккаунта
+UnlinkAccountExplain	Если вы отвяжете аккаунт {0}, все его данные будут удалены, а для вас будет создан новый аккаунт {0}.\n— Вы потеряете все полученные или разблокированные предметы на аккаунте {0}.\n— Вам придется начать заново с 1 уровня и 0 ед. опыта.
+UnlinkAccountExplainConfirm	Сохраните этот ID на будущее: \n\n{0}\n\nЕсли вы отвяжете аккаунт, не сохранив этот ID, мы не сможем восстановить прогресс в игре и помочь вам, если произойдет какая-то ошибка.
+UnlinkError	При отвязке аккаунта произошла ошибка. Повторите попытку позже.
+UnlinkSuccess	Вы успешно отвязали аккаунт {0} от основного аккаунта Among Us!
+ConfirmLinkExistingAccount	Подтвердите привязку к существующему аккаунту
+LinkExistingAccountExplain	После привязки к другому аккаунту Among Us все данные на этой платформе будут переписаны. Это означает, что ваш аккаунт {0} будет заменен на другой.\n— Все предметы, разблокированные на аккаунте {0}, будут переписаны.\n— Весь опыт, полученный на аккаунте {0}, будет переписан.\n— Все бобы, капсулы и звезды будут переписаны.
+LinkExistingAccountExplainConfirm	После подтверждения этого действия мы сбросим данные вашего аккаунта {0} для подготовки к переносу данных из другого аккаунта Among Us.\n\n<color=#{1}>ПЕРЕД ПОДТВЕРЖДЕНИЕМ УБЕДИТЕСЬ, ЧТО У ВАС ЕСТЬ ДРУГОЙ АККАУНТ, КОТОРЫЙ НУЖНО ПРИВЯЗАТЬ К ЭТОМУ.</color>\n\nПосле сброса данных на аккаунте {0} останется 0 ед. опыта, бобов, капсул и других предметов. Мы НЕ СМОЖЕМ отменить это действие.
+ResetAccount	Сбросить данные аккаунта
+	
+PurchasingLabel	Покупка предмета
+	
+ErrorInternalServer	Внутренняя ошибка сервера (код — {0})
+ErrorPlatformLock	Создатель комнаты ограничил ее использование только для своей платформы
+ErrorLobbyInactivity	Сервер закрыл комнату из-за отсутствия активности
+ErrorMatchmakerInactivity	Вы были отключены от сервера из-за отсутствия активности
+ErrorInvalidGameOptions	Получены неверные игровые параметры. Возможно, вам придется удалить все данные сохранения и перезапустить приложение.
+ErrorNoServersAvailable	Нет доступных серверов. Повторите попытку позже.
+ErrorQuickmatchDisabled	В данный момент доступ к QuickMatch отсутствует. Попробуйте вместо этого присоединиться к игре.
+ErrorTooManyGames	Слишком много игр. Попробуйте вместо этого присоединиться к игре.
+Bundle.hat_holiday2018	Набор «Праздничные шапки — 2018»
+Bundle.hats_bundle2	Набор «Шапки на миллион»
+Bundle.hats_halloween2019	Набор «Хэллоуинские шапки — 2019»
+Bundle.hats_newyears2018	Набор «Новогодние шапки — 2018»
+Bundle.map_airship	Набор Airship
+Bundle.map_mira	Набор MIRA
+Bundle.map_polus	Набор Polus
+Bundle.pet_alien1	Набор питомцев «Мозгослизень»
+Bundle.pet_alien2	Набор питомцев «Хедкраб»
+Bundle.pet_animal	Набор питомцев «Животные»
+Bundle.pet_crewmate	Набор питомцев «Астронавт»
+Bundle.pet_stickmin	Набор питомцев Stickmin
+StoreComingSoon	Скоро...
+	
+StartCosmicubeLabel	НАЧАТЬ
+Bundle.star_bundle	Набор звезд
+ErrorPlatformParentalControlsBlock	Ваши настройки родительского контроля или настройки родительского контроля другого пользователя не позволяют вам играть вместе.
+ErrorPlatformParentalControlsBlockPS	Ваши настройки родительского контроля или настройки родительского контроля другого пользователя не позволяют вам играть вместе.
+FailPurchase	Ошибка при обработке транзакции. Повторите попытку позже.
+FailPurchaseUnknown	Код ошибки — {0}
+FailPurchaseAlreadyOwn	У вас уже есть этот предмет.
+FailPurchaseCurrency	Недостаточно валюты нужного типа для покупки этого предмета.
+FailPurchaseCubeOwn	У вас нет этого Cosmicube.
+Locked	НЕДОСТУПНО
+	
+Active	АКТИВНО
+Crewmates	Члены экипажа
+XpGainedValue	{0} Опыт
+	
+XboxShopBrowseAll	Смотреть все товары в Microsoft Store
+PSShopBrowseAll	Смотреть все товары в PlayStation™Store
+Equipped	Выбрано
+	
+MouseMovement	Перемещение — мышь
+KeyboardOptions	Настройки клавиатуры
+RemapBindings	Изменить привязку клавиш
+KeyboardBindingsHeader	Привязка клавиш
+HowToPlayText_Consoles	Можно играть онлайн от 4 до 15 человек!
+	
+StarDisclaimer	Купите звезды Among Us, чтобы открыть целую новую галактику персонализации! Тратьте звезды во внутриигровом магазине и получайте эксклюзивные косметические предметы и уникальные космокубы. Приобретенные здесь звезды нельзя обменивать или использовать на PlayStation® или Nintendo Switch™.
+	
+Commsdisabled	[СВЯЗЬ ОТКЛЮЧЕНА]
+ErrorQuickChatMode	Неверный тип чата. Эта комната была создана для {0}. Ваша настройка — {1}.
+
+	
+ErrorLobbyUsersBlocked	Невозможно присоединиться: в лобби находится заблокированный вами пользователь либо пользователь, который заблокировал вас. Попробуйте подключиться к другому лобби.
+SteamNotInitialized	Во время инициализации Steam произошла ошибка. Перезапустите игру из Steam и повторите попытку.
+LoggedInErrorStarPurchase	Для покупки звезд необходимо войти в аккаунт
+ErrorDisconnectPacket	Соединение с сервером разорвано.
+AndroidAssetBundleWarning	Для завершения установки Among Us необходимо загрузить дополнительные данные. Нажмите «Принять», чтобы продолжить.
+ItchNoStars	К сожалению, приобрести звезды на itch.io невозможно. Но если вы привяжете свой аккаунт itch.io к другой платформе (например, к другой версии для ПК), то сможете покупать и тратить звезды там! Внимание! Звезды, купленные на Nintendo Switch™, невозможно перенести и использовать на других платформах.
+Roles	Роли
+RolesSettings	Настройки ролей
+ScientistRole	Ученый
+EngineerRole	Инженер
+GuardianAngelRole	Ангел-хранитель
+ShapeshifterRole	Оборотень
+ScientistBlurb	Проверяйте пульс в любой момент
+EngineerBlurb	Можно использовать вентиляцию
+GuardianAngelBlurb	Защищайте оставшихся членов экипажа
+ShapeshifterBlurb	Не дайте себя раскрыть
+CrewmateBlurb	Выполняйте задания
+ImpostorBlurb	Убивайте и саботируйте
+RolesHelp_CrewmateRole	Роль члена экипажа: {0}
+RolesHelp_ImpostorRole	Роль предателя: {0}
+RolesHelpIntro_01	Роли добавляют классической игре совершенно новый уровень обмана и интриг!
+RolesHelpIntro_02	Как члены экипажа, так и предатели могут получить роли, которые назначаются случайным образом, в зависимости от настроек, выбранных владельцем комнаты.
+RolesHelp_Scientist_01	У учёного всегда есть доступ к переносной панели проверки пульса, позволяющей оценить состояние членов экипажа.
+RolesHelp_Scientist_02	Но ей необходима постоянная подзарядка, поэтому учёному нужно будет выполнять задания, чтобы заряжать батарею.
+RolesHelp_Engineer_01	Инженер — это член экипажа, который может использовать вентиляцию, чтобы быстрее передвигаться и ловить предателей прямо на месте преступления.
+RolesHelp_Engineer_02	Однако вечно оставаться в вентиляции нельзя, да и выглядело бы это слишком подозрительно. Так что следите за теми, кто находится рядом с вами…
+RolesHelp_GuardianAngel_01	Ангел-хранитель — это призрак погибшего члена экипажа. Он может временно защищать других живых членов экипажа.
+RolesHelp_GuardianAngel_02	Выберите верный момент для использования щита, и тогда вы сможете помешать предателям убить свою жертву. Счастливчики!
+RolesHelp_Shapeshifter_01	Оборотень может изменять свой внешний вид, маскируясь под других членов экипажа. Используйте эту способность с умом, чтобы подставлять других игроков и вносить сумятицу в поиски предателя!
+RolesHelp_Shapeshifter_02	Но будьте осторожны — маскировка не вечна. Кроме того, она оставляет за собой улики.
+RolesHelpOutro_01	Роли можно настраивать! Владелец комнаты может выбрать, сколько раз инженер может пройти через вентиляцию, как долго будет перезаряжаться способность оборотня и т. д. Также владелец может задать вероятность появления ролей в игре. Вы всегда можете проверить, добавлена ли роль в игру, в настройках лобби!
+RolesHelpOutro_02	Поэкспериментируйте с вашими любимыми настройками, чтобы сделать своё лобби, или присоединитесь к кому-нибудь, чтобы посмотреть, какой хаос вам удастся создать. Мы можем добавлять в игру новые роли. Если нужно, вы можете просматривать их здесь. Развлекайтесь!
+YourRoleIs	Ваша роль:
+ShapeshiftAbility	Превращение
+VitalsAbility	Пульс
+ProtectAbility	Защита
+VentAbility	ЛЮК
+ShapeshiftAbilityUndo	Отмена
+RoleChanceAndQuantity	{0} с шансом {1} %
+CheckingPurchasesLabel	Проверка покупок...
+ProtectedRecently	Кого-то защитил ангел-хранитель...
+ScientistBlurbMed	Проверяйте пульс в любой момент.\nВыполняйте задания, чтобы зарядить батарею.
+ScientistBlurbLong	У ученого всегда есть доступ к переносной панели проверки пульса, позволяющий оценить состояние членов экипажа. Но ей необходима постоянная подзарядка, поэтому ученому нужно будет выполнять задания, чтобы заряжать батарею.
+EngineerBlurbMed	Можно использовать вентиляцию.
+EngineerBlurbLong	Инженер — это член экипажа, который может использовать вентиляцию, чтобы быстрее передвигаться и ловить предателей прямо на месте преступления. Однако оставаться там вечно нельзя, так что следите за теми, кто находится рядом с вами...
+GuardianAngelBlurbMed	Окружите оставшихся членов экипажа щитом.
+GuardianAngelBlurbLong	Ангел-хранитель — это призрак первого умершего члена экипажа. Он может временно защищать других живых членов экипажа. Выберите верный момент для использования щита, и тогда вы сможете помешать предателям убить свою жертву. Счастливчики!
+ShapeshifterBlurbMed	Не дайте себя раскрыть, превращаясь в других\nчленов экипажа.
+ShapeshifterBlurbLong	Оборотень может изменить свой внешний вид, маскируясь под других членов экипажа. Используйте эту способность с умом, чтобы подставлять других игроков и вносить сумятицу в поиски предателя. Но будьте осторожны: через некоторое время маскировка спадет и оставит улики, указывающие на ее использование.
+RoleHint	Совет
+ScientistBatteryCharge	Время работы батареи
+ScientistCooldown	Перезарядка панели проверки пульса
+ShapeshifterCooldown	Перезарядка маскировки
+ShapeshifterDuration	Время действия маскировки
+ShapeshifterLeaveSkin	Оставить следы использования маскировки
+EngineerCooldown	Перезарядка использования вентиляции
+EngineerInVentCooldown	Макс. время пребывания в вентиляции
+GuardianAngelCooldown	Перезарядка щита
+GuardianAngelDuration	Время действия щита
+OracleRole	Прорицатель
+OracleBlurb	Знает, что один из членов экипажа точно не предатель
+OracleBlurbMed	Знает, что один из членов экипажа точно\nне предатель.
+OracleBlurbLong	Прорицатель — это член экипажа, который точно знает, какой из членов экипажа не является предателем
+Cosmetic.hat_heim	Прическа Хеймердингера
+Cosmetic.hat_enforcer	Шлем миротворца
+Cosmetic.hat_caitlin	Шляпа Кейтлин
+Cosmetic.hat_clagger	Гогглы Клаггора
+Cosmetic.hat_vi	Прическа Вай
+Cosmetic.hat_jinx	Прическа Джинкс
+Cosmetic.hat_jayce	Прическа Джейса
+Cosmetic.hat_comper	Кусака
+Cosmetic.visor_heim	Усы Хеймердингера
+Cosmetic.visor_jinx	Гогглы Джинкс
+Cosmetic.skin_heim	Костюм Хеймердингера
+Cosmetic.skin_jayce	Костюм Совета Джейса
+Cosmetic.skin_enforcer	Броня миротворца
+Cosmetic.skin_caitlin	Униформа Кейтлин
+Cosmetic.skin_jinx	Наряд Джинкс
+Cosmetic.skin_vi	Наряд Вай
+Cosmetic.pet_poro	Поро Хеймердингера
+RedeemPurchasedItemsTitle	Получение купленных предметов
+RedeemPurcahsedItemsExplain	У нас появилась новая система инвентаря, которая позволит получить доступ к предметам с разных платформ! Все купленные ранее на этой платформе предметы можно будет перенести в новую систему инвентаря ТОЛЬКО ОДИН РАЗ.\nЕсли это ваш основной аккаунт Among Us (платформа, на которой вы чаще всего играете в Among Us), нажмите «Продолжить», чтобы перенести купленное дополнение в новую систему инвентаря. Если вы только собираетесь связать этот аккаунт с основным аккаунтом, то переносить дополнение следует после успешной привязки!\n\nID аккаунта: {0}
+RedeemProceed	Продолжить
+RedeemNotYet	Не сейчас
+RedeemNever	Больше не спрашивать
+AccountIDDisplay	ID аккаунта: {0}
+Cosmetic.hat_witch_white	Ведьма (белый)
+Cosmetic.hat_witch_pink	Ведьма (розовый)
+Cosmetic.hat_witch_murky	Ведьма (мрачный)
+Cosmetic.hat_witch_green	Ведьма (зеленый)
+Cosmetic.hat_papermask	Маска чудовища (светлый)
+Cosmetic.hat_mohawk_rainbow	Хардкор (радуга)
+Cosmetic.hat_mohawk_purple_green	Хардкор (фиолетово-зеленый)
+Cosmetic.hat_mohawk_bumblebee	Хардкор (шмель)
+Cosmetic.hat_devilhorns_yellow	Бес-подобно (золото)
+Cosmetic.hat_devilhorns_white	Бес-подобно (белый)
+Cosmetic.hat_devilhorns_murky	Бес-подобно (мрачный)
+Cosmetic.hat_devilhorns_green	Бес-подобно (зеленый)
+Cosmetic.hat_devilhorns_crewcolor	Бес-подобно (цвет экипажа)
+Cosmetic.hat_devilhorns_black	Бес-подобно (черный)
+Cosmetic.hat_cat_grey	Шапка с ушками (серый)
+Cosmetic.hat_cat_snow	Шапка с ушками (арктический)
+Cosmetic.hat_cat_pink	Шапка с ушками (розовый)
+Cosmetic.hat_cat_orange	Шапка с ушками (оранжевый)
+Cosmetic.hat_wolf_grey	Оборотень (серый)
+Cosmetic.hat_wolf_murky	Оборотень (мрачный)
+Cosmetic.hat_bat_ice	Сама ночь (ледяной)
+Cosmetic.hat_bat_green	Сама ночь (зеленый)
+Cosmetic.hat_bat_crewcolor	Сама ночь (цвет экипажа)
+Cosmetic.skin_mummy	В поисках мумиротворения
+Cosmetic.visor_mummy	Сворачивайтесь!
+Cosmetic.hat_mummy	Мумиление
+Cosmetic.hat_candycorn	Конфетки
+Cosmetic.hat_clown_purple	Город клоунов
+Cosmetic.hat_fairywings	Крылышки феи
+Cosmetic.hat_fishhed	Рыбоголов
+Cosmetic.hat_frankenbolts	Гвозди Франкенштейна
+Cosmetic.hat_frankenbride	Невеста Франкенштейна
+Cosmetic.visor_clownnose	Клоунада
+Cosmetic.visor_masque_blue	Маскарад (синий)
+Cosmetic.visor_masque_green	Маскарад (зеленый)
+Cosmetic.visor_masque_red	Маскарад (красный)
+Cosmetic.visor_masque_white	Маскарад (белый)
+Cosmetic.nameplate_hw_pumpkin	Тыква Джек
+Cosmetic.nameplate_hw_candy	Время сладостей
+Cosmetic.nameplate_hw_woods	Жуткий лес
+Cosmetic.hat_axe	Голова раскалывается
+Cosmetic.visor_eyeball	Не свожу с тебя глаз
+Cosmetic.hat_tombstone	Вечная память
+Cosmetic.hat_bone	Пакостник
+Cosmetic.hat_arrowhead	Пострел
+Cosmetic.hat_glowstick	Ночные гуляния
+Cosmetic.skin_clown	Корабельный клоун
+Cosmetic.skin_fairy	Фея-астрокрестная
+Cosmetic.skin_fishmonger	Торговец рыбой
+Cosmetic.skin_pumpkin	Тыковка
+Cosmetic.skin_vampire	Вурдалак
+Cosmetic.skin_witch	Эксцентричная ведьма
+Cosmetic.pet_frankendog	Франкенпес
+Cosmetic.hat_mohawk_bubblegum	Хардкор (жвачка)
+AvailableFor	Доступно в течение \n{0} дн. {1} ч {2} мин {3} с
+GuardianAngelImpostorSeeProtect	Предатели видят щит
+Cosmetic.hat_pkHW01_PlagueHat	Чума
+	
+QCAccIsRole	{0} — {1}
+QCAccIsRole_QCCrewMe_ANY	Я {0}
+QCAccIsRoleNeg	{0} не {1}
+QCAccIsRoleNeg_QCCrewMe_ANY	Я не {0}
+QCAccIsRoleNeg_QCCrewNoOne_ANY	Никто не {1}
+QCAccShapeshited	{0} превратился(-ась) в игрока {1}
+QCAccShapeshited_QCCrewMe_ANY	Я превратился(-ась) в игрока {1}
+QCStaShapeshifterSkin	Здесь найдена кожа оборотня: {0}
+QCResIsBeingFramed	Игрока {0} подставляют
+QCResIsBeingFramed_QCCrewMe	Меня подставляют
+QCResCloseTo	{0} был(-а) рядом с игроком {1}
+QCResCloseTo_QCCrewMe_ANY	Я был(-а) рядом с игроком {0}
+QCResCloseTo_ANY_QCCrewMe	Игрок {0} был рядом со мной
+QCResIsRoleMaybe	Возможно, {0} — {1}
+QCResIsRoleMaybe_QCCrewMe_ANY	Возможно, я {1}
+QCResProtected	{0} защитил(-а) игрока {1}
+QCResProtected_QCCrewMe_ANY	Я защитил(-а) игрока {1}
+QCResProtected_ANY_QCCrewMe	Игрок {0} защитил меня
+QCRoles	Роли
+GuestProgressionWarning	Вы вошли в гостевой аккаунт!\n\nВсе заработанные капсулы, бобы и опыт действуют только для этого гостевого аккаунта. Гостевые аккаунты привязаны к конкретному устройству. При смене устройства их данные пропадают.\n\nЧтобы сохранить доступ к валюте и покупкам, откройте вкладку аккаунта в главном меню и войдите в свой аккаунт Among Us.
+	
+ErrorFailedToCreateGame	Не удалось создать сеанс игры. Повторите попытку позже.
+ErrorFailedToJoinCreatedGame	Не удалось присоединиться к созданному сеансу игры. Повторите попытку позже.
+ErrorDisconnectBeforeJoining	Соединение разорвано до подключения к сеансу игры.
+	
+PSEULA_SIEA	
+PSEULA_SIEE	Любой товар, приобретенный во внутриигровом магазине, будет являться покупкой у компании Sony Interactive Entertainment Network Europe Limited (“SIENE”) и подчиняться Условиям предоставления услуг PlayStation™Network, с которыми можно ознакомиться в PlayStation™Store. Пожалуйста, ознакомьтесь с правами использования - они могут быть различными для разных продуктов. Если не указано иное, товар в любом внутриигровом магазине имеет ту же возрастную категорию, что и игра.
+ErrorCrossPlatformCommunication	Не удается присоединиться к игре из-за настроек коммуникации. Для подключения активируйте функцию кросс-платформенной коммуникации.
+ErrorCrossPlat	В настройках этой комнаты включена функция кросс-игры, но в ваших настройках она отключена
+ErrorDuplicateConnection	Зафиксирован повторный вход.
+ErrorLobbyFailedGettingBlockedUsers	Не удалось присоединиться: ошибка при получении списка блокировок с сервера
+	
+MaxVentUses	Макс. уходов в вентиляцию
+MaxTimeInVent	Макс. время в вентиляции
+MinCrewmatesForVitals	Мин. живых членов экипажа для проверки пульса
+ShowAccountID	Показать ID аккаунта
+HideAccountID	Скрыть ID аккаунта
+HiddenAccountID	[ID аккаунта скрыт]
+AllTasksComplete	Задания выполнены!
+EscapePrompt	Члены экипажа сбегут через:
+FlashlightFov	Область видимости фонарика
+SteamOverlayDisabled	Чтобы приобрести набор звезд, необходимо активировать оверлей Steam. Включите эту функцию и перезапустите игру.
+Cosmetic.hat_pk05_RHM	Шляпа Правой Руки
+	
+Cosmetic.skin_w21_deer	О, лень
+Cosmetic.skin_w21_elf	Помощник Санты
+Cosmetic.skin_w21_msclaus	Клаус. Миссис Клаус
+Cosmetic.skin_w21_nutcracker	Щелкунчик
+Cosmetic.skin_w21_santa	Новый год к нам мчится
+Cosmetic.skin_w21_snowmate	Снегоастронавт
+Cosmetic.hat_w21_snowman	Найденный старый цилиндр
+Cosmetic.hat_w21_gingerbread	Астропряник
+Cosmetic.hat_w21_holly	Венки
+Cosmetic.hat_w21_krampus	Крампус
+Cosmetic.hat_w21_log	Полешко в камин
+Cosmetic.hat_w21_mistletoe	Поцелуйчики
+Cosmetic.hat_w21_mittens	Грелка для души
+Cosmetic.hat_w21_nutcracker	Щелк-пощелк
+Cosmetic.hat_w21_pinecone	Хоть шишку на голове теши
+Cosmetic.hat_w21_winterpuff	Теплый помпон
+Cosmetic.hat_w21_snowflake	Снежинка
+Cosmetic.visor_w21_carrot	Нос-морковка
+Cosmetic.visor_w21_nutstache	Гусарские усы
+Cosmetic.visor_w21_santabeard	Борода Санты
+Cosmetic.nameplate_w21_snow	Сверкающий снег
+Cosmetic.nameplate_w21_tree	Сияют звезды ярко
+Cosmetic.nameplate_w21_fireplace	Игры у камина
+Cosmetic.visor_w21_nye	С НОВЫМ ГОДОМ — 2021
+Cosmetic.hat_w21_elf_pink	Шапка эльфа — розовая
+Cosmetic.hat_w21_elf_swe	Шапка эльфа — синяя
+Cosmetic.hat_w21_lights_white	Праздничные огни — белые
+Cosmetic.hat_w21_lights_yellow	Праздничные огни — желтые
+Cosmetic.hat_w21_present_evil	Подарок — красный/черный
+Cosmetic.hat_w21_present_redwhite	Подарок — красный/белый
+Cosmetic.hat_w21_present_whiteblue	Подарок — белый/синий
+Cosmetic.hat_w21_santa_evil	Чувак с подарками — плохой
+Cosmetic.hat_w21_santa_yellow	Чувак с подарками — золотой
+Cosmetic.hat_w21_santa_green	Чувак с подарками — лесной
+Cosmetic.hat_w21_santa_mint	Чувак с подарками — мятный
+Cosmetic.hat_w21_santa_pink	Чувак с подарками — розовый
+Cosmetic.hat_w21_santa_white	Чувак с подарками — ледяной
+Cosmetic.hat_w21_snowman_swe	Морозко — синий/желтый
+Cosmetic.hat_w21_snowman_evil	Злой Морозко
+Cosmetic.hat_w21_snowman_greenred	Морозко — зеленый
+Cosmetic.hat_w21_snowman_redgreen	Морозко — красный/зеленый
+Cosmetic.hat_w21_present_greenyellow	Подарок — зеленый/желтый
+Cosmetic.hat_w21_candycane_blue	Черничная тросточка
+Cosmetic.hat_w21_candycane_bubble	Жевательная тросточка
+Cosmetic.hat_w21_candycane_chocolate	Мятно-шоколадная тросточка
+Cosmetic.hat_w21_candycane_mint	Мятная тросточка
+Cosmetic.skin_w21_tree	Вечнозеленый
+StatsRoleWins	Побед в роли «{0}»:\t
+StatsEngineerVents	Проверено люков инженером:\t
+StatsScientistChargesGained	Получено зарядов ученым:\t
+StatsGuardianAngelCrewmatesProtected	Защищено членов экипажа ангелом-хранителем:\t
+StatsShapeshifterShiftedKills	Убийств превращенным оборотнем:\t
+QCOnlyInfo	Во время игры вам будет доступен только быстрый чат. Вы сможете играть только с пользователями, которые также используют быстрый чат.
+FreeChatInfo	Во время игры вам будут доступны быстрый и обычный чаты. Вы сможете играть только с пользователями, которые также используют обычный чат.
+FreeChatWarning	Для использования обычного чата необходимо войти в игру. Если вы несовершеннолетний, перейдите на вкладку «Аккаунт» и получите от опекуна разрешение включить обычный чат.
+FreeChatLinkWarning	Ссылки запрещены! Ваше сообщение не было отправлено.
+ScreenShakeOption	Тряска камеры
+StreamingTwitch	Начать трансляцию на Twitch
+AnnouncementFailFetchData	Не удалось получить объявление.
+AnnouncementFailFetchData_LastKnown	Ошибка загрузки объявлений. Последнее полученное:
+	
+Cosmetic.pet_clank	Кланк
+Cosmetic.pet_GuiltySpark	Виновная Искра
+Cosmetic.hat_halospartan	Спартанский шлем
+Cosmetic.hat_ratchet	Шляпа Рэтчета
+Cosmetic.skin_halospartan	Броня Спартанца
+Cosmetic.skin_ratchet	Комбинезон Рэтчета
+Cosmetic.skin_screamghostface	Балахон «Крик»
+Cosmetic.hat_screamghostface	Маска «Крик»
+	
+AmongUsFriends	Друзья в Among Us
+FriendsGuestWarning	Эта функция доступна после входа в аккаунт.
+PlatformFriends	Друзья по платформе
+BlockedPlayers	Заблокированные игроки
+RecentPlayers	Недавно играли с вами
+LobbyLabel	Лобби
+FriendCodeExplanation	В Among Us появился список друзей! Чтобы отправлять и получать приглашения в игру или предложения дружбы, выберите уникальный код друга ниже.\n\nКод можно выбрать только один раз.
+FriendCodeSuccess	Ваш код друга: {0}
+FriendRequestReceived	Получено предложение дружбы
+FriendRequestSent	Предложение дружбы отправлено
+GameLobbyInviteSent	Приглашение в игру отправлено
+GameLobbyInviteReceived	Получено приглашение в игру
+BlockPlayerConfirm	Заблокировать игрока?
+RemoveFriendConfirm	Удалить из друзей?
+InviteToLobbyConfirm	Отправить приглашение в игру?
+FriendCodeLabel	Код друга
+FriendCodeCreationTitle	Выберите код друга
+FriendRequestSentFailed	Не удалось отправить предложение дружбы.
+ErrorBadUsername	Некорректный формат кода. Введите код друга целиком и повторите попытку (например, SmallBeans#0001).
+ErrorUserNotFound	Код друга не существует.
+ErrorPlatformFriends	Не удалось загрузить список друзей по платформе.
+ErrorThisIsYou	К сожалению, самого себя в друзья добавить нельзя.
+ErrorFriendRequestExists	Предложение дружбы этому пользователю уже отправлено.
+ErrorAlreadyFriends	Этот пользователь уже есть в вашем списке друзей. Ура!
+GameLobbyInviteSentFailed	Не удалось отправить приглашение в игру.
+BlockedPlayerFailed	Не удалось заблокировать игрока.
+BlockedPlayer	Игрок заблокирован
+AlreadyBlocked	Этот игрок уже заблокирован.
+FriendList	Список друзей
+NoNewRequests	Нет приглашений
+AddFriendPrompt	Добавить друга с помощью кода
+NewRequests	Новые приглашения: {0}!
+Requests	Приглашения
+AddFriend	Добавить друга
+StreamWarning	Не выставляйте свой код в открытый доступ, если не хотите, чтобы все его знали!
+FriendsListPermissionsWarning	Для использования этой функции необходимо разрешение родителя или опекуна.
+AddFriendConfirm	Отправить предложение дружбы игроку {0}?
+UnfriendConfirm	Убрать из друзей игрока {0}?
+UnblockConfirm	Разблокировать игрока {0}?
+SettingsEnableFriendInvites	Запросы на добавление в друзья и в лобби
+ErrorTooManyRequests	Слишком много запросов на присоединение к лобби. Подождите пару минут и попробуйте снова.
+TempDisabled	Временно отключено
+TempDisabledLinkExplain	Мы вносим изменения в аккаунты, поэтому функция привязки аккаунтов временно ограничена. Мы скоро исправим это в будущем обновлении!
+RedeemPopup	Вот подарок от нашего экипажа!\n{0}.
+RedeemButton	Получить
+ErrorMaxFriends	Ваш список друзей переполнен.
+ErrorPlayerBlockedYou	Ошибка: пользователь заблокирован вами или заблокировал вас.
+ErrorRecipientMaxFriendRequests	Ошибка: пользователь получил максимальное количество предложений дружбы.
+ErrorSenderMaxFriendRequests	Ошибка: вы отправили слишком много предложений дружбы.
+ErrorRecipientMaxFriends	Ошибка: список друзей пользователя переполнен.
+ViewRequests	Показать приглашения
+ParentPortalButton	Запросить разрешение
+FriendsListEmailSent	Мы отправили вашим родителям или опекуну письмо с запросом на расширение прав на управление списком друзей. Попросите их проверить свою почту.
+Decontamination3	Нижняя зона дезинфекции
+ErrorCommunications	Не удается присоединиться к игре из-за настроек коммуникации. Для подключения активируйте функцию коммуникации с другими игроками.
+SettingsColorblind	Подписывать цвет
+MergeGuestAccountText	Похоже, на этом устройстве используется <link="https://www.innersloth.com/merging-guest-accounts/">гостевой аккаунт</link> ! Игра больше не поддерживает гостевые аккаунты, поэтому мы привяжем все предметы, валюты и опыт гостевого аккаунта к этому аккаунту {0}.\n\nЕсли вы используете это устройство (компьютер, телефон и т. д.) совместно с другими пользователями, то этот гостевой аккаунт вы тоже используете СОВМЕСТНО. Если вы продолжите, другие пользователи устройства не смогут привязать этот гостевой аккаунт, а выполнить объединение можно только ОДИН раз. Вы НЕ сможете еще раз перераспределить предметы, валюту и опыт этого гостевого аккаунта.\n\nПодтвердите, что вы хотите объединить свой гостевой аккаунт с аккаунтом {0}.
+MergeGuestAccountTitle	Привязать гост. акк.
+ManageAccountTitle	Управл. аккаунтом
+ManageAccountText	Посетите <link="https://accounts.innersloth.com/">https://accounts.innersloth.com</link> , чтобы изменить настройки аккаунта, объединить аккаунты или задать вопрос.
+CurrencyBeans	Бобы
+CurrencyPods	{MapName}: капсулы
+	
+Cosmetic.visor_BaconVisor	Доброе утро
+Cosmetic.hat_Baguette	Хлеб и зрелища
+Cosmetic.skin_Bananaskin	Peanut Butter Jelly Time
+Cosmetic.visor_BananaVisor	Не поскользнись
+Cosmetic.nameplate_BlimeyPlate	Инопланемоны
+Cosmetic.skin_BlueApronskin	Выдача заказа (уборщик)
+Cosmetic.skin_BlueSuspskin	Синий лимон
+Cosmetic.hat_BreadLoaf	Хруст французской булки
+Cosmetic.nameplate_BreadPlate	Лучший хлеб в мире
+Cosmetic.pet_BredPet	Бантон
+Cosmetic.visor_BubbleBumVisor	Сейчас лопнет
+Cosmetic.hat_Butter	Подмазать кого надо
+Cosmetic.skin_ChefBlackskin	Что на обед? (черный)
+Cosmetic.pet_ChewiePet	Мармеладка
+Cosmetic.visor_CucumberVisor	Маска красоты
+Cosmetic.nameplate_EggPlate	Глаз не отвести!
+Cosmetic.pet_HamPet	Хамончик
+Cosmetic.skin_Hotdogskin	$1,50
+Cosmetic.visor_IceCreamChocolateVisor	Трагедия лета (шоколад)
+Cosmetic.visor_IceCreamMintVisor	Трагедия лета (мята)
+Cosmetic.visor_IceCreamStrawberryVisor	Трагедия лета (клубника)
+Cosmetic.visor_IceCreamUbeVisor	Трагедия лета (лиловое)
+Cosmetic.hat_OrangeHat	Клементин это запомнит
+Cosmetic.skin_OrangeSuspskin	Малиновая мечта
+Cosmetic.hat_PancakeStack	Вкусная башня
+Cosmetic.hat_Pineapple	А на нас — ананас
+Cosmetic.skin_PinkApronskin	Выдача заказа (кексик)
+Cosmetic.nameplate_PinkPlate	Розовый мир
+Cosmetic.nameplate_PizzaPlate	И мне кусочек
+Cosmetic.hat_PizzaSliceHat	Pizza Hat
+Cosmetic.visor_PizzaVisor	Попробуй откуси
+Cosmetic.nameplate_PlatePlate	Все на тарелке
+Cosmetic.hat_StrawberryLeavesHat	Ягодное безумие
+Cosmetic.hat_ToastButterHat	Как сыр в масле
+Cosmetic.visor_ToastVisor	Перед школой
+Cosmetic.skin_YellowApronskin	Выдача заказа (бар)
+Cosmetic.skin_YellowSuspskin	Лимонная леди
+Cosmetic.skin_PinkSuspskin	Грейпфрутовый костюм
+	
+Cosmetic.hat_BananaGreen	Кожура (незрелая)
+Cosmetic.hat_BananaPurple	Кожура (грибная)
+Cosmetic.hat_cheeseBleu	Честер любит (дорблю)
+Cosmetic.hat_cheeseMoldy	Честер любит (раклет)
+Cosmetic.hat_cheeseSwiss	Честер любит (швейцарский)
+Cosmetic.hat_ChefWhiteBlue	Меня зовут Шеф (белый халат)
+Cosmetic.hat_cherryOrange	Вишенка на торте (черешня)
+Cosmetic.hat_cherryPink	Вишенка на торте (розовая)
+Cosmetic.hat_chocolateCandy	Рожок (жвачка)
+Cosmetic.hat_chocolateMatcha	Рожок (матча)
+Cosmetic.hat_chocolateVanillaStrawb	Трагедия лета (клубника – ваниль)
+Cosmetic.hat_croissant	Свежий круассан
+Cosmetic.hat_eggGreen	Потряйцающе (зеленый)
+Cosmetic.hat_eggYellow	Потряйцающе (глазунья)
+Cosmetic.skin_ApronGreen	Выдача заказа (латте)
+Cosmetic.skin_ChefBlue	Что на обед? (синий)
+Cosmetic.skin_ChefRed	Что на обед?
+Cosmetic.hat_IceCreamMatcha	Два шарика (матча)
+Cosmetic.hat_IceCreamMint	Два шарика (мята)
+Cosmetic.hat_IceCreamNeo	Два шарика (неаполитанское)
+Cosmetic.hat_IceCreamStrawberry	Два шарика (клубника)
+Cosmetic.hat_IceCreamUbe	Два шарика (лиловое)
+Cosmetic.hat_IceCreamVanilla	Два шарика (ваниль)
+Cosmetic.visor_lollipopCrew	Леденец (цвет экипажа)
+Cosmetic.visor_lollipopLemon	Леденец (ананас)
+Cosmetic.visor_lollipopLime	Леденец (кислое яблоко)
+Cosmetic.nameplate_Croissant	Круассан упал
+Cosmetic.nameplate_Lemon	Не делай кислое лицо
+Cosmetic.nameplate_Orange	Заводной апельсин
+Cosmetic.hat_sausage	Завязочки
+SignInIssueTitle	Ошибка аккаунта {0}
+SignInIssueText	К сожалению, с помощью вашего {0} невозможно создать аккаунт из-за имеющихся ограничений. Попробуйте использовать другой {1}.\n\nВы можете и дальше играть в Among Us на этом устройстве, но следующие функции работать не будут: привязка аккаунта, покупка звёзд и перенос предметов на новое устройство. Если у вас есть вопросы, напишите нам на адрес support@innersloth.com.
+FriendListUnavailable	Список друзей недоступен
+	
+ErrorSanction	Ваш аккаунт был заблокирован {1}. Причина: {0}.
+SanctionDuration	до {0}
+SanctionPermanent	навсегда
+SanctionConduct	\r\nРекомендуем изучить и принять к сведению наши <link="https://www.innersloth.com/ru/code-of-conduct-russian/">правила поведения</link>!
+SanctionSexualMisconduct	противоправные сексуальные действия
+SanctionDoxing	передача или публикация персональной информации или угроза таких действий
+SanctionIllegalActivity	участие в незаконной деятельности или ее пропаганда
+SanctionHarassment	разжигание ненависти, дискриминационные или уничижительные сообщения в чате
+SanctionSelfHarmPromotion	пропаганда самоповреждения или самоубийства
+SanctionCheatingHacking	использование читов/взлом игры
+SanctionSpamming	спам в чате
+SanctionUnsportsmanlikeConduct	неспортивное поведение
+SanctionInappropriateChatDating	неприемлемые сообщения
+SanctionBullying	оскорбления и травля
+SanctionInappropriateChatPersonalInfo	неприемлемые сообщения
+SanctionImpersonationDevelopers	выдача себя за разработчика
+SanctionImpersonationCeleb	выдача себя за известную личность
+SanctionWeaponizingRules	неправомерная трактовка правил
+SanctionInappropriateNameDerogatory	неприемлемое имя
+SanctionInappropriateNameNsfw	неприемлемое имя
+SanctionInappropriateNameUnsportsmanlike	неприемлемое имя
+SanctionRepeatOffender3	многочисленные оскорбления
+SanctionRepeatOffender10	многочисленные оскорбления
+SanctionUnknown	нарушение правил поведения
+	
+FeaturedItems	Избранные предметы
+FeaturedBundles	Избранные наборы
+FeaturedCubes	Избранные космокубы
+	
+AbbreviatedDay	{0} дн
+AbbreviatedHour	{0} ч
+AbbreviatedMinute	{0} мин
+AbbreviatedSecond	{0} с
+	
+BugReportCategoryGeneral	Общие вопросы
+BugReportCategoryAccountManagement	Управление аккаунтом
+BugReportCategoryGameplayIssue	Проблема или ошибка в игре
+BugReportCategoryServerIssues	Проблема с сервером
+BugReportCategoryBilling	Помощь с оплатой
+BugReportPopUpSubmittedText	Спасибо! Мы получили ваш отзыв.
+BugReportPopUpSubmissionFailedText	Вы только что отправили отзыв. Попробуйте еще раз позже.
+BugReportPopUpCategoryLabel	Категория
+BugReportPopUpDescriptionLabel	Подробно опишите, что вы делали в момент возникновения ошибки. Если вам нужна дополнительная помощь, напишите на по адресу support@innersloth.com.
+BugReportPopUpTitle	Ой! Что-то пошло не так!
+BugReportIssueButton	Сообщить о проблеме
+BugReportPopUpAttachScreenshotLabel	Сделать скриншот?
+BugReportPopUpAttachScreenshotDesc	Мы сделаем скриншот экрана игры без окна с формой сообщения для поддержки и прикрепим его к вашему обращению.
+Email	Адрес эл. почты
+SettingsHelp	Помощь
+UserIdTokenError	Срок аутентификации пользователя истек. При повторном появлении этой ошибки перезапустите игру.
+	
+Cosmetic.hat_hl_korone	Шапка Inugami Korone
+Cosmetic.hat_hl_okayu	Шапка Nekomata Okayu
+Cosmetic.hat_hl_gura	Шапка Gawr Gura
+Cosmetic.hat_hl_mio	Шапка Ookami Mio
+Cosmetic.hat_hl_fubuki	Шапка Shirakami Fubuki
+Cosmetic.hat_hl_risu	Шапка Ayunda Risu
+Cosmetic.hat_hl_moona	Шапка Moona Hoshinova
+Cosmetic.hat_hl_pekora	Шапка Usada Pekora
+Cosmetic.hat_hl_marine	Шапка Houshou Marine
+Cosmetic.hat_hl_watson	Шапка Watson Amelia
+Cosmetic.skin_hl_korone	Костюм Inugami Korone
+Cosmetic.skin_hl_okayu	Костюм Nekomata Okayu
+Cosmetic.skin_hl_gura	Костюм Gawr Gura
+Cosmetic.skin_hl_mio	Костюм Ookami Mio
+Cosmetic.skin_hl_fubuki	Костюм Shirakami Fubuki
+Cosmetic.skin_hl_risu	Костюм Ayunda Risu
+Cosmetic.skin_hl_moona	Костюм Moona Hoshinova
+Cosmetic.skin_hl_pekora	Костюм Usada Pekora
+Cosmetic.skin_hl_marine	Костюм Houshou Marine
+Cosmetic.skin_hl_watson	Костюм Watson Amelia
+Cosmetic.visor_hl_nothoughts	Эхо в голове
+Cosmetic.visor_hl_sweepy	Соня
+Cosmetic.visor_hl_smug	Чистая аура
+Cosmetic.visor_hl_ah	М-м-м.
+Cosmetic.visor_hl_hmph	Хмык!
+Cosmetic.visor_hl_teehee	Хи-хи!
+Cosmetic.visor_hl_bored	Скука
+Cosmetic.visor_hl_nudge	Подмигивание
+Cosmetic.visor_hl_marine	Повязка Marine
+Cosmetic.visor_hl_wrong	Ха-ха, что могло пойти не так?
+	
+AccountDeleteHelp	Нажав «Подтвердить», вы отправите запрос на полное удаление всех ваших данных Among Us. Запрос будет обрабатываться от 7 до 14 дней. В результате все ваши звезды, опыт, бобы, капсулы и купленные косметические предметы будут удалены. После полного удаления вашего аккаунта это действие нельзя будет отменить. До завершения этого процесса ваш аккаунт будет работать как обычно.\n\nПри обнаружении ошибок обратитесь по адресу support@innersloth.com.
+DeleteAccount	Удалить аккаунт
+DoNotDeleteAccount	Отменить удаление аккаунта
+AccountUnDeleteHelp	Нажав «Подтвердить», вы остановите процесс удаления вашего аккаунта. Если вы хотите удалить свой аккаунт, вам будет нужно повторно отправить запрос на удаление.\n\nПри обнаружении ошибок обратитесь по адресу support@innersloth.com.
+ConfirmDelete	Для подтверждения напишите слово «DELETE»
+ConfirmDeleteAccounts	Если вы понимаете, что ваш аккаунт и все связанные с ним аккаунты ({0}) будут удалены, нажмите здесь.
+ConfirmDeleteAccountsEmpty	Если вы понимаете, что ваш аккаунт и все связанные с ним аккаунты будут удалены, нажмите здесь.
+AccountRequestDelete	Обработка заявки на удаление аккаунта
+	
+UserVersionError	Неправильная версия: эта комната была сделана с Among Us для {0}
+Cosmetic.visor_vr_Vr-Black	Виртуальная реальность — черный
+Cosmetic.visor_vr_Vr-White	Виртуальная реальность — белый
+	
+GameType	Тип игры
+GameTypeError	Ошибка!
+GameTypeClassic	Классическая
+GameTypeHideAndSeek	Прятки
+	
+ShowCrewmateNames	Показать имена
+	
+HideActionButton	Спрятаться
+HasBeenKilled	Убит
+Random	Случайный
+Ghost	Призрак
+CurrentlyHaunting	Сейчас преследует:
+RoundRobin	Выбор предателя
+RuleOneCrewmates	Продержитесь, пока не истечет время.\nВыполнение заданий уменьшает время.
+RuleTwoCrewmates	Прячьтесь в вентиляции и используйте измеритель уровня опасности!
+RuleThreeCrewmates	Когда время истечет, предатель сможет выследить вас!
+RuleOneImpostor	Ликвидируйте всех членов экипажа за отведенное время!
+RuleTwoImpostor	Действуйте без промедления. У вас ограниченная видимость и нет доступа к вентиляционным отверстиям.
+RuleThreeImpostor	Под конец раунда вы получите ускорение и увидите подсказки!
+RuleOneCrewmatesTitle	Выполняйте задания
+RuleTwoCrewmatesTitle	Хорошо прячьтесь
+RuleThreeCrewmatesTitle	Финальные прятки
+RuleOneImpostorTitle	Ликвидируйте оперативно
+RuleTwoImpostorTitle	Ищите
+PetAction	Приручить
+EscapeTime	Время на побег
+FinalEscapeTime	Время на финальные прятки
+UseFlashlight	Фонарик
+CrewmateFlashlightSize	Размер фонарика члена экипажа
+ImpostorFlashlightSize	Размер фонарика предателя
+SeekerFinalSpeed	Скорость предателя в финальных прятках
+SeekerFinalMap	Карта поиска в финальных прятках
+SeekerPings	Сигналы в финальных прятках
+MaxPingTime	Время между сигналами
+TagsTitle	Теги
+FiltersTitle	Фильтры
+TagFiltersTitle	Фильтры
+FiltersAppliedSingular	Используется фильтр: {0}
+FiltersAppliedPlural	Используются фильтры: {0}
+TagsFilteredSingular	Требуется тегов: {0}
+TagsFilteredPlural	Требуется тегов: {0}
+TagsAppliedSingular	Применено тегов: {0}
+TagsAppliedPlural	Применено тегов: {0}
+DefaultFilterTag_FirstTime	Новичок
+DefaultFilterTag_Casual	Обыватель
+DefaultFilterTag_Serious	Крутой
+DefaultFilterTag_Expert	Эксперт
+TagFiltersHelpFindGame	Вы можете отсортировать критерии поиска, воспользовавшись фильтрами в выпадающем списке. Выбранные фильтры будут <i>непосредственно</i> влиять на результаты поиска.\n\nНапример, если вы выберете фильтры <b>Обыватель</b> и <b>Эксперт</b>, вы будете находить игры только с параметрами <b>Обыватель</b> и <b>Эксперт</b>.
+TagFiltersHelpCreate	Вы можете помечать игру фильтрами, которые помогут игрокам найти ее. Выбранные фильтры будут <i>непосредственно</i> влиять на результаты поиска.\n\nНапример, если вы выберете фильтры <b>Обыватель</b> и <b>Эксперт</b>, игроки, выбравшие фильтры <b>Обыватель</b> и <b>Эксперт</b>, смогут найти вашу игру.
+MapFiltersSelected	Выбраны карты: {0}
+FindGameNeedsRefresh	Параметры фильтрации изменены\n\nОбновите страницу поиска
+CreateLabel	Создать
+NewGameMode	Новый игровой режим!
+NewModeInfo	Ставки высоки, и кровь быстрее бежит по жилам: игра началась! \n<i>Кстати, это не обычные прятки...</i>
+HideSeekHowToPlayCaptionOne	Все как всегда!
+HideSeekHowToPlayCaptionTwo	Члены экипажа!
+HideSeekHowToPlayCaptionThree	Предатели!
+HideSeekHowToPlayPageOne	<color=#38F25D><b>Члены экипажа:</b></color> выполняйте задания, чтобы ускорить время, избегайте предателя и постарайтесь выжить до конца раунда.\n\n<color=#FF3131><b>Предатель:</b></color> найдите членов экипажа и убейте их.
+HideSeekHowToPlaySubtextOne	Кровь стынет в жилах. Дедукция здесь не поможет.
+HideSeekHowToPlayCrewmateInfoOne	Выживут только те, кто отточит умение прятаться до идеала.
+HideSeekHowToPlayCrewmateInfoTwo	В этом режиме вы можете прятаться в вентиляции, а также использовать высокотехнологичный измеритель уровня опасности, который предупредит о приближении предателя. Поле зрения предателя ограничено, так что действуйте хитро. Используйте вентиляцию и визоры, чтобы не попасться ему на глаза!
+HideSeekHowToPlayImpostorInfoOne	В этом режиме предатели не могут попасть в вентиляционные отверстия, поэтому, чтобы поймать жертву, нужно действовать быстро. Кстати, там кромешная тьма! К счастью, у вас будет при себе фонарик.
+HideSeekHowToPlayFinalHide	Обрааатный отсчеееет. Когда время игры истекает, предатель получает усиление: он становится быстрее, получает карту поиска и подсказки в виде сигналов, указывающих, где находятся члены экипажа.\n\nПринимайте решения быстро и убегайте, чтобы победить!
+HideSeekHowToPlayFlashlightMobile	Используйте виртуальный джойстик в правой части экрана, чтобы управлять фонариком и убивать всех членов экипажа, которых сможете найти!
+HideSeekHowToPlayFlashlightDefault	Используйте мышь, чтобы управлять фонариком и убивать всех членов экипажа, которых сможете найти!
+HideSeekHowToPlayFlashlightConsoles	Используйте правый мини-джойстик, чтобы управлять фонариком. Убивайте всех членов экипажа, которых сможете найти!
+HideSeekHowToPlayFlashlightPlayStation	Используйте правый джойстик, чтобы управлять фонариком. Убивайте всех членов экипажа, которых сможете найти!
+HideSeekHowToPlayFlashlightSwitch	Используйте правый мини-джойстик, чтобы управлять фонариком. Убивайте всех членов экипажа, которых сможете найти!
+OptionUnavailablePublicLobby	Не доступно в публичных лобби
+Cosmetic.nameplate_ballPit	Еще времени, пожалуйста
+Cosmetic.nameplate_cafeteria	Можно присесть?
+Cosmetic.nameplate_deadbodyfound	Доложено!
+Cosmetic.nameplate_ejected	Никто не услышит твоего крика
+Cosmetic.nameplate_flagAce	Флаг асексуалов
+Cosmetic.nameplate_flagAgend	Флаг агендеров
+Cosmetic.nameplate_flagBi	Флаг бисексуалов
+Cosmetic.nameplate_flagGendF	Флаг гендерфлюидов
+Cosmetic.nameplate_flagGendQ	Флаг гендерквиров
+Cosmetic.nameplate_flagNonbinary	Флаг небинарных персон
+Cosmetic.nameplate_flagPan	Флаг пансексуалов
+Cosmetic.nameplate_flagPride	Флаг инклюзивности
+Cosmetic.nameplate_flagLesbian	Флаг лесбиянок
+Cosmetic.nameplate_flagRainbow	Флаг гомосексуалов
+Cosmetic.nameplate_flagTrans	Флаг транс-персон
+Cosmetic.nameplate_flashlight	Кто здесь?
+Cosmetic.nameplate_impostor	Близится саботаж
+Cosmetic.nameplate_ninjas	Скрываясь во тьме
+Cosmetic.nameplate_polus	Прохлаждаемся на полюсе
+Cosmetic.nameplate_reactor	Реакция членов экипажа
+Cosmetic.nameplate_ripple	Круги на воде
+Cosmetic.nameplate_seeker	Тень сомнения
+Cosmetic.nameplate_shhh	Тссссс
+Cosmetic.pet_nuggetPet	Курочка
+	
+Cosmetic.visor_Candycane	Убийца с леденцом
+Cosmetic.nameplate_candyCanePlate	Рождественская сладость
+Cosmetic.pet_coaltonpet	Уголек с ленточкой
+Cosmetic.skin_greedygrampaskin	Жадный дедуля
+Cosmetic.visor_IceBeard	Замерзшая борода
+Cosmetic.hat_Igloo	Ледяная кепка
+Cosmetic.hat_Present	Подарочная коробка
+Cosmetic.skin_presentskin	О присутствующих не говорят
+Cosmetic.visor_Rudolph	Красный нос
+Cosmetic.skin_scarfskin	Удобный шарф
+Cosmetic.hat_Scrudge	Эй, парень!
+Cosmetic.hat_Snowman	Снежная маскировка
+Cosmetic.nameplate_SnowmiesPlate	Отвисаем с друзьями-снеговиками
+Cosmetic.hat_StarTopper	Звезда на голове
+Cosmetic.skin_uglysweaterskin	Ужасный свитер
+Cosmetic.nameplate_winterForestPlate	Аромат хвои
+Cosmetic.nameplate_WrappingPaperPlate	Сворачивайтесь!
+Cosmetic.hat_crownBean	Бобовый барон
+Cosmetic.hat_crownDouble	Двойная корона
+Cosmetic.hat_crownTall	Длинная корона
+Cosmetic.hat_wigJudge	Напыщенный парик
+Cosmetic.hat_wigTall	Аристократ
+Cosmetic.hat_cashHat	Деньги-дребеденьги
+Cosmetic.hat_tinFoil	Конспирация на все сто!
+Cosmetic.hat_mareLwyd	Жуткий конь
+Cosmetic.hat_schnapp	Чудовище
+Cosmetic.hat_Sorry	Головная повязка
+Cosmetic.visor_wash	Помой меня!
+Cosmetic.visor_anime	Аниме
+Cosmetic.visor_teary	Что-то в глаз попало
+Cosmetic.visor_tvColorTest	Конец эфира
+Cosmetic.visor_beautyMark	Родинка
+Cosmetic.visor_Stealthgoggles	Прибор ночного видения
+Cosmetic.visor_Plsno	Нет, только не меня!
+	
+Cosmetic.hat_NewYear2023	Новый 2023 год!
+Cosmetic.pet_HolidayHamPet	Праздничный бекончик
+Cosmetic.pet_YuleGoatPet	Рождественский козел
+	
+Cosmetic.skin_Box1skin	Запакован!
+Cosmetic.skin_BubbleWrapskin	Хрупкий груз!
+Cosmetic.skin_Burlapskin	Платье из мешковины
+Cosmetic.skin_BushSign1skin	Камуфляж
+Cosmetic.skin_Horse1skin	Облачение жуткого коня
+Cosmetic.skin_Sack1skin	Мешок картошки
+Cosmetic.skin_benoit	Бенуа Бланк
+Cosmetic.hat_babybean	Малюсенький боб
+Cosmetic.skin_Astronaut-Blueskin	Астроневт (синий)
+Cosmetic.skin_Astronaut-Cyanskin	Астроневт (голубой)
+Cosmetic.skin_Astronaut-Orangeskin	Астроневт (оранжевый)
+HauntAbilityName	Преследовать
+	
+RestorePurchases	Восстановить покупки
+StatsHidenSeekGamesCrewmateSurvived	Пережито игр в режиме «Прятки»:\t
+StatsHidenSeekTimesVented	Использований вентиляции в режиме «Прятки»:\t
+StatsTimesPettedPet	Взаимодействий с питомцами:\t
+StatsImpostorKills_HideAndSeek	Убийств при игре за предателя в режиме «Прятки»:\t
+StatsFastestCrewmateWin_HideAndSeek	Быстрая победа в реж."Прятки" ('экипаж):\t
+StatsFastestImpostorWin_HideAndSeek	Быстрая победа в реж. «Прятки" (предатель):\t
+StatsHideAndSeekImpostorVictory	Побед при игре за предателя в режиме «Прятки»:\t
+StatsHideAndSeekCrewmateVictory	Побед при игре за члена экипажа в режиме «Прятки»:\t
+SeekButton	Ищите
+ScrollList	Пролистать список
+ScrollNews	Пролистать новости
+AmongUsAnnouncements	Объявления Among Us
+Cosmetic.hat_osiris	Шлем Осириса
+Cosmetic.hat_maraSov	Мара Сов
+Cosmetic.skin_D2Osiris	Броня Осириса
+Cosmetic.hat_saint14	Шлем Сэйнта-14
+Cosmetic.skin_D2Saint14	Броня Сэйнта-14
+Cosmetic.hat_shaxx	Шлем Шакса
+Cosmetic.skin_D2Shaxx	Броня Шакса
+Cosmetic.hat_titan	Шлем титана
+Cosmetic.hat_warlock	Шлем варлока
+Cosmetic.hat_hunter	Капюшон охотника
+Cosmetic.skin_D2Titan	Броня титана
+Cosmetic.skin_D2Warlock	Броня варлока
+Cosmetic.skin_D2Hunter	Броня охотника
+Cosmetic.hat_starhorse	Звездный скакун
+Cosmetic.hat_savathun	Корона Саватун
+Cosmetic.visor_savathun	Глаза Саватун
+Cosmetic.hat_caiatl	Шлем Каятль
+Cosmetic.visor_eliksni	Лицевой щиток эликсни
+Cosmetic.hat_pyramid	Пирамиды
+Cosmetic.visor_erisBandage	Повязка Эрис Морн
+Cosmetic.hat_erisMorn	Эрис Морн
+Cosmetic.hat_chalice	Чаша Калуса
+Cosmetic.pet_D2PoukaPet	Поука
+Cosmetic.pet_D2WormPet	Червь
+Cosmetic.pet_D2GhostPet	Призрак
+Cosmetic.nameplate_titan	Гордость титана
+Cosmetic.nameplate_warlock	Гордость варлока
+Cosmetic.nameplate_hunter	Гордость охотника
+Cosmetic.nameplate_lightfall	Конец Света
+AnnouncementErrorSubtitle	Ой-ой! Объявления саботированы!
+AnnouncementErrorText	Похоже, что-то пошло не так. Чтобы получить все новости и исправления для Among Us, проверьте наличие соединения с Интернетом и обновлений.\n\nЕсли проблема не решится, обратитесь за помощью в техподдержку по адресу support@innersloth.com.
+ReadMoreLabel	для просмотра полного списка объявлений!
+ReturnToList	Вернуться к списку
+NavigateLinks	Перейти по ссылкам
+HttpErrorContextNone	Не удалось соединиться с сервером
+HttpErrorContextAuthenticate	Не удалось выполнить аутентификацию
+HttpErrorContextRequestGameCode	Не удалось найти код игры
+HttpErrorContextFindHostServer	Не удалось найти сервер владельца
+HttpErrorContextRequestGamesList	Не удалось запросить список игр
+HttpErrorUnknown	Неизвестная ошибка
+HttpErrorBadRequest	Неудачный запрос. Код: 400
+HttpErrorUnauthorized	Ошибка авторизации. Код: 401
+HttpErrorForbidden	Отказано. Код: 403
+HttpErrorNotFound	Не найдено. Код: 404
+HttpErrorMethodNotAllowed	Метод не разрешен. Код: 405
+HttpErrorRequestTimeout	Время запроса истекло. Код: 408
+HttpErrorTooManyRequests	Слишком много запросов. Код: 429
+HttpErrorInternalServerError	Внутренняя ошибка сервера. Код: 500
+HttpErrorBadGateway	Неверный шлюз. Код: 502
+HttpErrorServiceUnavailable	Сервис недоступен. код: 503
+HttpErrorGatewayTimeout	Истекло время шлюза. Код: 504
+AgeVerificationTitle	Подтверждение возраста
+AgeVerificationInfoTitle	Что такое подтверждение возраста?
+AgeVerificationInfo	Перед тем, как начать играть в Among Us, необходимо подтвердить свой возраст. Мы не храним сведения о вашей дате рождения.
+AgeVerificationMoreInfo	Подробнее о нашей политике использования персональных данных можно узнать по ссылке\n <link="https://www.innersloth.com/ru/privacy-policy-russian/">https://www.innersloth.com/ru/privacy-policy-russian/</link>
+EditLabel	Редактировать
+VerifyAgeText	Это действительно дата вашего рождения?
+Cosmetic.nameplate_flagMlm	Флаг МЛМ
+Cosmetic.nameplate_flagAro	Флаг аромантиков
+Cosmetic.visor_chimkin	Курочка
+Cosmetic.hat_rabbitEars	Кволичий сезон
+Cosmetic.hat_fishCap	Рыбы боятся меня
+Cosmetic.hat_bandanaWBY	Сворачиваемся
+PlayLabel	Играть
+SettingsLabel	Настройки ролей
+NewsLabel	Новости
+AccountLabel	Мой аккаунт
+CreditsLabel	Благодарности
+ShopLabel	Магазин
+InventoryLabel	Снаряжение
+StatsLabel	Параметры
+FriendsLabel	Друзья
+Cosmetic.hat_starBalloon	Пять из пяти
+Cosmetic.visor_shuttershadesWhite	Клевые очки — белый
+Cosmetic.visor_shuttershadesPink	Супер клевые очки
+Cosmetic.visor_shuttershadesPurple	Клевые очки — фиолетовый
+Cosmetic.visor_shuttershadesBlue	Клевые очки — синий
+Cosmetic.visor_shuttershadesLime	Клевые очки — зеленый
+Cosmetic.visor_shuttershadesYellow	Клевые очки — желтый
+Cosmetic.hat_glowstickPink	Ночные гуляния — розовый
+Cosmetic.hat_glowstickYellow	Ночные гуляния — желтый
+Cosmetic.hat_glowstickCyan	Ночные гуляния — голубой
+Cosmetic.hat_glowstickOrange	Ночные гуляния — оранжевый
+Cosmetic.hat_glowstickPurple	Ночные гуляния — фиолетовый
+Cosmetic.pet_Pip	Pip
+Cosmetic.pet_Pusheen	Pusheen
+Cosmetic.pet_Stormy	Stormy
+Cosmetic.nameplate_pusheen_01	Радуги много не бывает
+Cosmetic.nameplate_pusheen_02	Клубничные поля
+Cosmetic.nameplate_pusheen_03	Сладкая пышечка
+Cosmetic.nameplate_pusheen_04	Что это у тебя там такое?
+Cosmetic.hat_pusheenGreyHat	Шапка Pusheen
+Cosmetic.hat_PusheenicornHat	Super Pusheenicorn
+Cosmetic.hat_pusheenMintHat	Pusheen — мятная пастель
+Cosmetic.hat_pusheenPurpleHat	Pusheen — лиловая пастель
+Cosmetic.hat_pusheenPinkHat	Pusheen — розовая пастель
+Cosmetic.hat_pusheenSitHat	Сижу где хочу
+Cosmetic.hat_pusheenSleepHat	Пора спать
+Cosmetic.hat_SlothHat	Sloth
+Cosmetic.visor_pusheenGorgeousVisor	Красотища!
+Cosmetic.visor_pusheenKissyVisor	Коти-чмоки
+Cosmetic.visor_pusheenKoolKatVisor	Классный котан
+Cosmetic.visor_pusheenOmNomNomVisor	Ом-ном-ном
+Cosmetic.visor_pusheenSmileVisor	Улыбка Pusheen
+Cosmetic.visor_pusheenYaaaaaayVisor	Уииииииии
+Cosmetic.skin_PusheenGreyskin	Pusheen
+Cosmetic.skin_Pusheenicornskin	Super Pusheenicorn
+Cosmetic.skin_PusheenMintskin	Pusheen — мятная пастель
+Cosmetic.skin_PusheenPinkskin	Pusheen — розовая пастель
+Cosmetic.skin_PusheenPurpleskin	Pusheen — лиловая пастель
+Cosmetic.skin_Slothskin	Sloth
+Cosmetic.hat_bearyCold	Медвежий холод
+	
+EosAccountSilentMergeFail	Произошла ошибка при настройке аккаунта Among Us. Повторите попытку или продолжите через гостевой аккаунт. Весь прогресс будет сохранён, но мы рекомендуем завершить настройку, чтобы использовать все возможности Among Us.\n\nПовторить попытку?
+AskForEosAccount	У вас уже есть аккаунт Among Us (или учётная запись Epic Online Services)?\n\nЕсли на этом устройстве вы уже играли в Among Us, выберите «Да».
+KwsCreateFail	Ой-ой! Что-то пошло не так, и нам не удалось отправить запрос на разрешение вашему родителю или опекуну. Повторите попытку или продолжите офлайн.\n\nПопробовать ещё раз?
+	
+MissingGuardianEmailText	В вашем аккаунте отсутствует адрес электронной почты родителя или опекуна. Чтобы продолжить, нам нужно его разрешение. Мы отправим письмо на электронную почту родителя/опекуна, и при условии его согласия вы сможете пользоваться свободным чатом в сетевой игре и изменить имя пользователя. Попросите взрослых помочь!
+MiningPit	Карьер
+Jungle	Джунгли
+BuildSandcastle	Построить песчаный замок
+FishingDock	Доки
+CatchFish	Поймать рыбу
+CollectShells	Собрать ракушки
+LiftWeights	Поднять грузы
+RoastMarshmallow	Поджарить зефирки
+TestFrisbee	Играть с фрисби
+CollectSamples	Собрать образцы
+CollectVegetables	Собрать овощи
+HoistSupplies	Поднять припасы
+MineOres	Добыть руду
+ReplaceParts	Заменить детали
+HelpCritter	Помочь животному
+RecRoom	Зона заплеска
+Lookout	Обзорная площадка
+Beach	Пляж
+Highlands	Скалы
+SleepingQuarters	Спальня
+CrankGenerator	Завести генератор
+FixAntenna	Починить антенну
+TuneRadio	Найти сигнал
+MushroomMixupSabotage	Грибной переполох активируется на {0}
+MushroomMixupName	Грибной переполох
+CollectStick	Поднять палку
+MineOresMine	Используйте кирку
+PolishGem	Отполировать драгоценный камень
+ExtractFuel	Извлечь топливо
+MonitorMushroom	Наблюдать за грибом
+WipeSand	Сметайте песок
+PlayVideogame	Играть в видеоигру
+CookFish	Приготовить рыбу
+PrepVegetables	Приготовить овощи
+	
+LobbyTimerExpiringTitle	Срок работы лобби истекает
+LobbyTimerExpiringMsg	Продлить лобби на {0}?
+LobbyTimerExpiringOk	Продлить
+LobbyTimerExpiringNo	Закрыть
+LobbyTimerExpiringUnit	сек.
+LobbyTimerExpiringMsg2	Лобби закроется через {0}.
+LobbyTimerExpiringHud	Срок работы лобби истечёт через {0}
+	
+Cosmetic.hat_pickaxe	Досадный промах
+Cosmetic.hat_anchor	Спустить якоря
+Cosmetic.hat_antenna	Радиолюбитель
+Cosmetic.hat_sharkfin	Сухопутная акула
+Cosmetic.hat_lilShroom	Грибной человечек
+Cosmetic.hat_mushbuns	Шляпки-пуговки
+Cosmetic.hat_bucket	Король песчаного замка
+Cosmetic.hat_mushroomBeret	Берет шампиньона
+Cosmetic.hat_fungleFlower	Убийственный аромат
+Cosmetic.hat_fishingHat	Рыбацкая шляпа
+Cosmetic.hat_killerplant	Любитель цветов
+Cosmetic.hat_shovel	Я докопаюсь до правды
+Cosmetic.hat_beachball	Главное — равновесие
+Cosmetic.hat_bucketHat	Модник
+Cosmetic.hat_mysteryBones	Промоем косточки
+Cosmetic.visor_doubleeyepatch	Двойной пират
+Cosmetic.visor_marshmallow	Вкусняшка
+Cosmetic.visor_starfish	Лови звезду
+Cosmetic.visor_fishhook	На крючке
+Cosmetic.visor_sunscreenv	Любитель солнца
+Cosmetic.skin_FishSkinskin	Крупная рыба
+Cosmetic.skin_FishingSkinskin	Ловец комплиментов
+Cosmetic.skin_InnerTubeSkinskin	Я не пловец
+Cosmetic.skin_LifeVestSkinskin	Человек за бортом
+Cosmetic.pet_Creb	Криб-краб-бум
+Cosmetic.nameplate_zipline	Прерванный полёт
+Cosmetic.nameplate_grill	Мастер гриля
+Cosmetic.nameplate_plant	Растительное происхождение
+Cosmetic.nameplate_sandcastle	Песок на песке
+Cosmetic.nameplate_cliffs	Твёрдые осадки
+	
+ReportNotificationHeader	Спасибо, что помогаете поддерживать безопасность и дружелюбие в Among Us!
+ReportNotificationBody	Команда модераторов рассмотрит ваше сообщение и предпримет соответствующие действия в согласии с Правилами поведения.
+ErrorClientTimeout	Соединение с сервером разорвано. Причиной могут быть проблемы на сервере, в сети или с вашим устройством. Проверьте работу сети.\n\nЕсли подобное случается часто, возможно, ваше устройство слишком старое или не отвечает минимальным системным требованиям. Попробуйте запустить игру на другом устройстве.
+ErrorClientTimeoutConsole	Вы отключились от сервера. Это может быть связано с проблемами сервера или сети. Проверьте ваше сетевое подключение.
+	
+Cosmetic.hat_NewYear2024	Новый 2024 год!
+	
+Cosmetic.nameplate_Celeste	Вверх и вперёд
+Cosmetic.nameplate_flyingStrawberry	Поймайте быстрее
+Cosmetic.hat_madeline	Волосы Мэдлин
+Cosmetic.hat_badeline	Волосы Бэдлин
+Cosmetic.visor_theobeard	Борода Тео
+Cosmetic.hat_theohair	Волосы Тео
+Cosmetic.hat_bird	Бтица
+Cosmetic.skin_Theoskin	Наряд Тео
+Cosmetic.skin_MadelineSkinskin	Наряд Мэдлин
+Cosmetic.skin_BadelineSkinskin	Куртка Бэдлин
+Cosmetic.pet_Strawb	Летающая клубника
+Cosmetic.pet_napstamate	Напстипаж
+Cosmetic.hat_undyne	Хвост правосудия
+Cosmetic.hat_floweyGood	Лучший друг
+Cosmetic.hat_floweyBad	Ночной кошмар
+Cosmetic.hat_spear	Копьё правосудия
+Cosmetic.hat_boneUndertale	Bonetrousle
+Cosmetic.hat_duck	Птичка-переносичка
+Cosmetic.nameplate_flowers	Давным-давно
+Cosmetic.nameplate_fight	Самый лёгкий враг
+Cosmetic.skin_Undyneskin	Наряд правосудия
+Cosmetic.skin_Sanskin	Чья-то толстовка
+Cosmetic.skin_Papyrusskin	CoolSkeleton95
+Cosmetic.nameplate_battlefield	Давайте подерёмся
+Cosmetic.nameplate_hominid	БЗ-З!
+Cosmetic.hat_castleCrasher	Шлем разрушителя
+Cosmetic.hat_hattyHattington	Шляпа Хэтти Хэттингтона
+Cosmetic.hat_alienHominid	Антенны Пришельца
+Cosmetic.hat_king	Корона Короля
+Cosmetic.visor_hattyHattington	Дивные слёзы Хэтти
+Cosmetic.visor_king	Гордость Короля
+Cosmetic.visor_alienHominid	Челюсть Пришельца
+Cosmetic.pet_Rammy	Рэмми
+Cosmetic.skin_KingSkinskin	Мантия Короля
+Cosmetic.skin_HattySkinskin	Чудный костюм Хэтти
+Cosmetic.skin_CrusaderSkinskin	Броня разрушителя
+Cosmetic.nameplate_hourglass	Времени в обрез
+Cosmetic.nameplate_shadows	Ваш контракт истёк
+Cosmetic.hat_hatkid	Шляпа Шляподевочки
+Cosmetic.hat_conductor	Кепка Кондуктора
+Cosmetic.hat_mustachegirl	Капюшон Усатой девочки
+Cosmetic.hat_bowkid	Бант Бантодевочки
+Cosmetic.skin_HatKidSkinskin	Накидка Шляподевочки
+Cosmetic.skin_MoustacheKidSkinskin	Мантия Усатой девочки
+Cosmetic.skin_Conductorskin	Форма Кондуктора
+Cosmetic.skin_BowKidskin	Платье Бантодевочки
+Cosmetic.pet_Crow	Безумный ворон
+Cosmetic.visor_mustachegirl	Усы Усатой девочки
+Cosmetic.nameplate_torch	Свет в ночи
+Cosmetic.nameplate_dungeonFloor	Танцуйте до упаду (замертво)
+Cosmetic.hat_shopkeeper	Шапка Фредерика
+Cosmetic.hat_cadence	Бандана Кэйденс
+Cosmetic.hat_nocturna	Хвост Ноктюрны
+Cosmetic.hat_skull	Мы вроде знакомы
+Cosmetic.skin_FrederickSkinskin	Одежда Фредерика
+Cosmetic.skin_CadenceSkinskin	Табард Кэйденс
+Cosmetic.skin_Nocturnaskin	Крылья Ноктюрны
+Cosmetic.visor_shopkeeper	Бородка Фредерика
+Cosmetic.pet_DancingSkeletonPet	Костетряс
+Cosmetic.nameplate_honk	ГА-ГА-ГА
+Cosmetic.nameplate_knife	На тропе войны
+Cosmetic.pet_GoosePet	Гусь
+Cosmetic.hat_bell	Золотой колокольчик
+Cosmetic.hat_goosefloaty	Надувной гусь
+Cosmetic.hat_gardener	Кепка Садовника
+Cosmetic.visor_goose	Гусиный клюв
+Cosmetic.visor_gardenernose	Нос Садовника
+Cosmetic.visor_wimpglasses	Очки Слюнтяя
+Cosmetic.skin_GardenerSkin1skin	Одежда Садовника
+Cosmetic.skin_Wimpskin	Костюм Слюнтяя
+Cosmetic.hat_shiitakeHat	Клад под крестом
+Cosmetic.hat_mushmuffsHat	Грибной лоуфай
+Cosmetic.hat_shrapnelHat	Засело в голове
+Cosmetic.visor_mushroomeyesVisor	Грибозрение
+Cosmetic.visor_animesunglassesVisor	Острое зрение
+Cosmetic.visor_starsunglassesmintVisor	Звёзды в глазах (мятный)
+Cosmetic.visor_heartsunglassesgoldVisor	Любовный взгляд (жёлтый)
+Cosmetic.nameplate_binocularsNameplate	Грибной патруль
+Cosmetic.nameplate_DeadSunsetNameplate	В конце (дня)
+Cosmetic.skin_Skins14_5skin	Готов к охоте
+	
+Cosmetic.hat_lny_soupSpoon	Шикарный суп
+Cosmetic.hat_lny_lantern	Путеводный фонарик
+Cosmetic.hat_lny_dancerHead	Впереди планеты всей
+Cosmetic.hat_lny_dancerBody	Середина на половину
+Cosmetic.hat_lny_dancerTail	Не пришей дракону хвост
+Cosmetic.nameplate_lny_monkey	Год обезьяны
+Cosmetic.nameplate_lny_tiger	Год тигра
+Cosmetic.nameplate_lny_horse	Год лошади
+Cosmetic.nameplate_lny_goat	Год козы
+Cosmetic.nameplate_lny_rooster	Год петуха
+Cosmetic.nameplate_lny_snake	Год змеи
+Cosmetic.nameplate_lny_dragon	Год дракона
+Cosmetic.nameplate_lny_boar	Год кабана
+Cosmetic.nameplate_lny_dog	Год собаки
+Cosmetic.nameplate_lny_rabbit	Год кролика
+Cosmetic.nameplate_lny_ox	Год быка
+Cosmetic.nameplate_lny_cat	Год кота
+Cosmetic.nameplate_lny_rat	Год крысы
+Cosmetic.nameplate_lny_lanterns	Всё в свету
+Cosmetic.nameplate_lny_incense	Ароматерапия
+Cosmetic.skin_lny_dragonDancer	Танец дракона
+Cosmetic.nameplate_lny_beanDragon	Легенда о бобраконе
+Cosmetic.nameplate_lny_clouds	Благословение небес
+Cosmetic.nameplate_lny_redPackets	Дождь из конвертов
+	
+Cosmetic.pet_lny_dragon	Пустошь космолёта
+Cosmetic.hat_lny_ox	Как бык на тряпку
+Cosmetic.hat_lny_dog	Собака-подозревака
+Cosmetic.hat_lny_horse	Лошадь Бобовальского
+Cosmetic.hat_lny_pig	Хрустящий кабанос
+Cosmetic.hat_lny_rat	Крысиная жизнь
+Cosmetic.hat_lny_cat	Лошачий коток
+Cosmetic.hat_lny_monkey	Мартышка в зеркале
+Cosmetic.hat_lny_rooster	Петух гамбургский
+Cosmetic.hat_lny_goat	Полюбишь и козла
+Cosmetic.hat_lny_dragon	Грозный дракон
+Cosmetic.hat_lny_tiger	Тигровые уши
+Cosmetic.hat_lny_rabbit	Не только ценный мех
+Cosmetic.visor_lny_rat	Любитель сыра
+Cosmetic.visor_lny_snake	Змеиный коллектив
+Cosmetic.visor_lny_pig	Пятачок, неси ружьё
+Cosmetic.visor_lny_tiger	Не дёргай тигра за усы
+Cosmetic.visor_lny_dragon	Мудрый дракон
+Cosmetic.nameplate_lny_goldCrewmate	Операция «Повезло»
+Cosmetic.nameplate_lny_goldImpostor	Операция «Не повезло»
+	
+AprilFoolsModeToggle	Режим Дня дураков (огранич. косметич. предметы)
+ErrorAuthNonceFailure	Саботаж! При входе на серверы Among Us произошла ошибка. Попробуйте ещё раз.\n\nЕсли ошибка повторится, пожалуйста, отправьте запрос <link="https://innersloth.zendesk.com/hc/en-us/requests/new">в службу поддержки</link>.
+	
+Cosmetic.nameplate_crewmatesBlue	Модный экипаж (синий)
+Cosmetic.nameplate_crewmatesRed	Модный экипаж (красный)
+Cosmetic.nameplate_horseHeaven	Конь в вакууме
+Cosmetic.nameplate_horsemateField	Лучший на поле
+Cosmetic.hat_fluffyHat	Пушистый клоун
+Cosmetic.hat_topHatMinimate	Второе я
+Cosmetic.hat_triplePartyHat	Третий не лишний
+Cosmetic.visor_happyMouthNote	Не забудь улыбнуться
+Cosmetic.visor_henry	Генри Стикмен
+Cosmetic.visor_thatFace	П Р И В Е Т
+	
+Cosmetic.hat_bb1_bucketHatBee	Модник (пчела)
+Cosmetic.hat_bb1_bucketHatBlack	Модник (чёрный)
+Cosmetic.hat_bb1_bucketHatCamo	Модник (камуфляж)
+Cosmetic.hat_bb1_bucketHatFlowers	Модник (цветочки)
+Cosmetic.hat_bb1_bucketHatWhite	Модник (хаки)
+Cosmetic.hat_bb1_bunnyBlack	Кволичий сезон (чёрный)
+Cosmetic.hat_bb1_sunHatGreen	Солнечные деньки (мятный)
+Cosmetic.hat_bb1_sunHatYellow	Солнечные деньки (жёлтый)
+Cosmetic.hat_bb1_lilShroomRed	Грибной человечек (красный)
+Cosmetic.hat_bb1_lilShroomBlue	Грибной человечек (синий)
+Cosmetic.hat_bb1_lilShroomGlowing	Грибной человечек (светящийся)
+Cosmetic.skin_bb1_rainbowTube	Я не пловец (радужный)
+Cosmetic.skin_bb1_fungleDress	Во всём цвету
+Cosmetic.nameplate_bb1_disco	Наконец-то... пятница
+Cosmetic.nameplate_bb1_hackerman	Взлом мейнфрейма
+Cosmetic.nameplate_bb1_ram	Проблемы с памятью
+Cosmetic.nameplate_bb1_rave	Профессиональный тусовщик
+Cosmetic.nameplate_bb1_zen	Внутренний покой
+	
+ViewLabel	Просмотр
+ViewingLabel	Просмотр игровых настроек…
+RoomCodeLabel	Код комнаты
+RoomCodeCopied	Код комнаты скопирован!
+RoomSettingsLabel	Настройки комнаты
+ModeLabel	Станд. настройки
+PrivacyLabel	Приватность
+CapacityLabel	Игроки
+GameSettingsLabel	Настройки
+RoleSettingsLabel	Настройки ролей
+GamePresetsLabel	Стандартные настройки
+GamePresetsDescription	Применить рекомендованные настройки для лобби вашей игры
+GamePresetsPopupTitle	Внимание!
+GamePresetsPopupText	Внесённые вами изменения будут перезаписаны выбранными настройками игры!
+GamePresetsPopupContinue	Продолжить
+GamePresetsPopupBack	Вернуться
+StandardRulesPresetDescription	Стандартные настройки сбалансированной игры, без ролей
+RolesRulesPresetDescription	Рекомендованные настройки с ролями для лобби
+StandardRulesPresetDescriptionHideAndSeek	Станд. настройки для игры в прятки с выключенными фонариками
+FlashlightRulesPresetDescription	Станд. настройки для членов экипажа с вкл. фонариками в сбалансиров. Настройках
+GameSettingsDescription	Изменить индивид. настройки игрового лобби
+RoleSettingsDescription	Изменить настройки ролей для игрового лобби
+GameModeStandard	Основные настройки
+GameModeStandardRoles	Много ролей
+GameModeFlashlight	Фонарики
+GameModeCustom	Пользовательские
+GameModeStandardSeek	Тьма-тьмущая
+ImpostorsCategory	Предателей
+RolesCategory	Роли
+MeetingsCategory	На собрании
+PlayersCategory	Члены экипажа
+TasksCategory	Задания
+InfoLabel	Информация
+RoleQuotaLabel	Роли и игроки
+OverviewCategory	Обзор
+LobbyChangeSettingNotification	{0}: {1}.
+LobbyChangeSettingNotificationRole	{0}: {1}, шанс: {2}.
+CrewmateRolesHeader	Роли членов экипажа
+ImpostorRolesHeader	Роли предателей
+LocalLobbyLabel	Локальное лобби
+NumberRoleHeader	Количество
+ChanceRoleHeader	Шанс %
+WaitingForPlayers	Ожидаем игроков
+FinalHideCategory	Финальные прятки
+	
+QCLobbyRoleNoisemakers	Паникёры?
+QCLobbyRoleTrackers	Следопыты?
+QCLobbyRolePhantoms	Призраки?
+QCSelfWasTracking	Я следил(-а) за игроком {0}
+QCSelfGoingToNoisemaker	Я шёл/(шла) к паникёру
+QCSelfSawRoleInLocation	Я видел(-а) игрока {0} в {1}
+	
+NoisemakerRole	Паникёр
+NoisemakerBlurb	Издаёт сигнал, когда убивают
+NoisemakerBlurbMed	Извещает весь экипаж о локации убийства.
+NoisemakerBlurbLong	Паникёр ― необычная роль члена экипажа. В отличие от всех остальных ролей он не может выполнить функцию "Применить". Зато, когда его убивает предатель, паникёр автоматически издаёт звуковой сигнал. От этого звука предатель легко впадает в панику. Наблюдайте, как ваши товарищи спешат на место преступления, чтобы схватить предателя и отомстить за вас!
+NoisemakerImpostorAlert	Предатели в панике
+NoisemakerAlertDuration	Длительность сигнала
+PhantomAbility	Исчезнуть
+PhantomAbilityUndo	Появиться
+PhantomRole	Призрак
+PhantomBlurb	Станьте невидимкой
+PhantomBlurbMed	Станьте невидимкой, чтобы красться и скрываться\nс места преступления.
+PhantomBlurbLong	Призрак может стать невидимкой, чтобы незаметно подобраться к члену экипажа или покинуть место преступления, не будучи пойманным. Убивать призрак-невидимка не может, однако, трапы и зиплайны ― к его услугам. При превращении в невидимку или обратно, образуется большое облако дыма ― поэтому убедитесь, что поблизости нет никого из экипажа! И еще: правильно выбирайте момент для превращения. Ничто не длится вечно, даже невидимость.
+PhantomCooldown	Перезарядка для невидимости
+PhantomDuration	Длительность невидимости
+TrackerRole	Следопыт
+TrackerAbility	Вкл. слежку
+TrackerAbilityUndo	Выкл. слежку
+TrackerBlurb	Отследите члена экипажа на своей карте
+TrackerBlurbMed	Поставить трекер на члена экипажа
+TrackerBlurbLong	Следопыт может увидеть на своей миникарте местоположение любого члена экипажа. Соблюдайте осторожность, чтобы не выглядеть слишком подозрительно, приближаясь к другому члену экипажа. Ведь трекер можно установить только находясь вблизи объекта слежки. Слежка занимает всего несколько секунд, поэтому тщательно выбирайте цель. А еще не слишком долго смотрите на миникарту, иначе станете лёгкой добычей для предателя!
+TrackerCooldown	Перезарядка для слежки
+TrackerDuration	Длительность слежки
+TrackerDelay	Задержка слежки
+RolesHelp_Noisemaker_01	Паникёр ― необычная роль члена экипажа. В отличие от всех остальных ролей он не может выполнить функцию "Применить". Зато, когда его убивает предатель, паникёр автоматически издаёт звуковой сигнал.
+RolesHelp_Noisemaker_02	От этого звука предатель легко впадает в панику. Наблюдайте, как ваши товарищи спешат на место преступления, чтобы схватить предателя и отомстить за вас!
+RolesHelp_Tracker_01	Следопыт может увидеть на своей миникарте местоположение любого члена экипажа. Соблюдайте осторожность, чтобы не выглядеть слишком подозрительно, приближаясь к другому члену экипажа. Ведь трекер можно установить только находясь вблизи объекта слежки.
+RolesHelp_Tracker_02	Слежка занимает всего несколько секунд, поэтому тщательно выбирайте цель. А еще не слишком долго смотрите на миникарту, иначе станете лёгкой добычей для предателя!
+RolesHelp_Phantom_01	Призрак может стать невидимкой, чтобы незаметно подобраться к члену экипажа или покинуть место преступления, не будучи пойманным. Убивать призрак-невидимка не может, однако, трапы и зиплайны ― к его услугам.
+RolesHelp_Phantom_02	При превращении в невидимку или обратно, образуется большое облако дыма ― поэтому убедитесь, что поблизост нет никого из экипажа! И еще: правильно выбирайте момент для превращения. Ничто не длится вечно, даже невидимость.
+	
+HostYouLabel	(Вы!)
+HostNounLabel	Хост:
+RoleSettingsAll	ВСЕ
+	
+QCCoreSettings	Использовать предустановку «Основные настройки»?
+QCRolesGalore	Использовать предустановку «Много ролей»?
+QCPitchDark	Использовать предустановку «Тьма-тьмущая»?
+QCFlashlight	Использовать предустановку «Фонарики»?
+QCPleaseWait	Пожалуйста, подождите
+QCWaitMinute	Подождём одну минутку
+QCLobbyClosing	Лобби скоро закроется
+QCChangeCosmetics	Я хочу изменить внешний вид
+QCWaitingPlayers	Подождём других игроков…
+QCLetsWaitPlayers	Может, подождём других?
+	
+Cosmetic.hat_nott	Капюшон Nott
+Cosmetic.hat_chetney	Повязка Chetney
+Cosmetic.hat_jester	Рога Jester
+Cosmetic.hat_laudna	Причёска Laudna
+Cosmetic.hat_molly	Рога Mollymauk
+Cosmetic.hat_artagan	Патлы Artagan
+Cosmetic.hat_fearne	Причёска Fearne
+Cosmetic.hat_vax	Причёска Vax
+Cosmetic.hat_fcg	Котелок FCG
+Cosmetic.hat_sprinkle	Sprinkle в порядке
+Cosmetic.hat_orthax	Ипостась Orthax
+Cosmetic.hat_scanlan	Длань Scanlan
+Cosmetic.nameplate_eyes	Девять очей Lucien
+Cosmetic.nameplate_cupcake	Пыль Deliciousness
+Cosmetic.nameplate_moons	Луны Exandria
+Cosmetic.nameplate_tea	Чаепитие с Caduceus
+Cosmetic.pet_Pate	Pâté
+Cosmetic.pet_Mister	Mister
+Cosmetic.skin_Nott	Плащ Nott
+Cosmetic.skin_Chetney	Костюм Chetney
+Cosmetic.skin_Jester	Платье Jester
+Cosmetic.skin_Laudna	Платье Laudna
+Cosmetic.skin_Molly	Наряд Mollymauk
+Cosmetic.skin_artagan	Плащ Artagan
+Cosmetic.skin_Fearne	Платье Fearne
+Cosmetic.skin_Vax	Доспехи Vax
+Cosmetic.visor_nott	Маска Nott
+Cosmetic.visor_chetney	Брови Artagan
+Cosmetic.visor_artagan	Длинные брови Artagan
+	
+GuardianNewPermissionUpdate	В связи с новыми законами о защите детей, начиная с версии {0}, всем детским аккаунтам требуется разрешение от родителя или опекуна для доступа ко всем функциям Among Us. Это не повлияло на данные и предметы в игре, но ваш аккаунт должен быть проверен, прежде чем вы получите к нему полный доступ.\n\nВы можете играть через аккаунт с ограниченными возможностями, пока родитель или опекун не предоставит вам разрешение. Если к аккаунту уже привязана электронная почта родителя или опекуна, она покажется ниже.
+	
+Cosmetic.skin_Edgeworth	Костюм Miles Edgeworth
+Cosmetic.hat_Edgeworth	Прическа Miles Edgeworth
+	
+Cosmetic.hat_paws_panda	Панда-мониум
+Cosmetic.hat_paws_spaceDog	Собака-барабака
+Cosmetic.hat_paws_fish	Я-я-я-язь!!!
+Cosmetic.hat_paws_raccoon	Педро-педро-педро
+Cosmetic.hat_paws_turtle	Морская черепашка
+Cosmetic.hat_paws_foxGrey	Серая Алиса
+Cosmetic.hat_paws_antlers	На рогах
+Cosmetic.hat_paws_opossum	Бежит, орёт
+Cosmetic.nameplate_paws_fur	Я ношу мех
+Cosmetic.nameplate_paws_jaguar	Выхожу на охоту
+Cosmetic.nameplate_paws_feathers	Кстати о птичках
+Cosmetic.nameplate_paws_scales	Ящерица-Спок
+Cosmetic.skin_paws_opossum	Орёт, бежит
+Cosmetic.skin_paws_parrot	Йагупоп 78-й
+Cosmetic.skin_paws_raccoon	Педро-пе
+Cosmetic.skin_paws_foxGrey	Серый фыр-фыр
+Cosmetic.visor_paws_sacabambaspis	Пофли в булофную
+Cosmetic.visor_paws_parrotBeak	Клювен клац-клац
+Cosmetic.visor_paws_bone	У меня кость широкая
+Cosmetic.visor_paws_carrot	Чтобы лучше тебя видеть
+Cosmetic.visor_paws_raccoon	Разыскивается
+Cosmetic.hat_claws_spaceDog	Собака-инопланетяка
+Cosmetic.hat_claws_frog	Среда, мои чуваки
+Cosmetic.hat_claws_moose	Лось педальный
+Cosmetic.hat_claws_dragonRed	Голова красного дракона
+Cosmetic.hat_claws_bullHorns	Быка за рога
+Cosmetic.hat_claws_foxOrange	Рыжая Алиса
+Cosmetic.hat_claws_squid	Икра в кальмара
+Cosmetic.hat_claws_kuduHorns	В антилопий рог
+Cosmetic.hat_claws_buffaloHorns	Рога пообломаю!
+Cosmetic.hat_claws_hippo	Нелёгкая это работа
+Cosmetic.nameplate_claws_spaceCat	Команда «Космокот»
+Cosmetic.nameplate_claws_spaceDog	Команда «Космопёс»
+Cosmetic.nameplate_claws_tigerPrint	Полосатый рейс
+Cosmetic.nameplate_claws_lilypad	По кувшинкам
+Cosmetic.pet_claws_spaceCat	Космокот
+Cosmetic.skin_claws_stripes	В мире животных
+Cosmetic.skin_claws_squid	Щупальца кальмара
+Cosmetic.skin_claws_dragonRed	Туловище красного дракона
+Cosmetic.skin_claws_frogSuit	Лягушька
+Cosmetic.skin_claws_hoofed	Копыта отброшу!
+Cosmetic.skin_claws_foxOrange	Рыжий фыр-фыр
+Cosmetic.visor_claws_knife	На ножах
+Cosmetic.visor_claws_smallMuzzle	Не укусит за бочок
+Cosmetic.visor_claws_whiskers	Сами с усами
+Cosmetic.visor_claws_bullRing	Колечко на память
+	
+Cosmetic.hat_NewYear2025	Новый 2025 год!

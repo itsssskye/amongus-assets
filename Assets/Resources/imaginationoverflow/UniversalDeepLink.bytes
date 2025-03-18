@@ -1,0 +1,74 @@
+{
+    "_steamId": "945360",
+    "_displayName": "Among Us",
+    "_globalConfiguration": {
+        "_domainProtocols": [],
+        "_deepLinkingProtocols": [
+            {
+                "_scheme": "amongus",
+                "_host": "callback",
+                "_path": ""
+            },
+            {
+                "_scheme": "amongus",
+                "_host": "init",
+                "_path": ""
+            }
+        ],
+        "_initialized": false
+    },
+    "_customDeepLinkingProtocols": [
+        {
+            "_domainProtocols": [],
+            "_deepLinkingProtocols": [
+                {
+                    "_scheme": "amongus",
+                    "_host": "",
+                    "_path": ""
+                },
+                {
+                    "_scheme": "https",
+                    "_host": "innersloth.com",
+                    "_path": ""
+                }
+            ],
+            "_initialized": true
+        },
+        {
+            "_domainProtocols": [],
+            "_deepLinkingProtocols": [],
+            "_initialized": false
+        },
+        {
+            "_domainProtocols": [],
+            "_deepLinkingProtocols": [],
+            "_initialized": false
+        },
+        {
+            "_domainProtocols": [],
+            "_deepLinkingProtocols": [
+                {
+                    "_scheme": "amongus",
+                    "_host": "itchio/callback",
+                    "_path": ""
+                }
+            ],
+            "_initialized": true
+        },
+        {
+            "_domainProtocols": [],
+            "_deepLinkingProtocols": [],
+            "_initialized": false
+        },
+        {
+            "_domainProtocols": [],
+            "_deepLinkingProtocols": [],
+            "_initialized": false
+        },
+        {
+            "_domainProtocols": [],
+            "_deepLinkingProtocols": [],
+            "_initialized": false
+        }
+    ]
+}
